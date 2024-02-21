@@ -6,6 +6,24 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import json
+import sys
+
+"""
+Tasks based:
+    - Search and load location
+    - Managing Filters
+    - Finding Images and Text data
+    
+"""
+
+"""
+Part based:
+    - Search Component
+    - Filter component
+    - Image Component
+    - Text Component
+"""
+
 
 """
 Tasks based:
@@ -141,7 +159,7 @@ class RedfinSearch():
             element = self.bot.wait(1).search_element(self.search_element.get_reference('By'), self.search_element.get_reference('value')).get_element()
             element.send_keys(self.location_address)
             element.send_keys(Keys.ENTER)
-            self.bot.wait(3)
+            self.bot.wait(4)
             
             #"""
             if(self.filter != None):
@@ -419,6 +437,8 @@ class RedfinBot():
         self.listing_type = type
         return self
     
+    def close(self):
+        self.bot.close()
 
 #bot = RedfinBot()
 #bot.get_images_on_address('512 Valley St, San Marcos, TX', 'for sale')

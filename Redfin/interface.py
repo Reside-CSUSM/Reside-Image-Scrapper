@@ -1,12 +1,13 @@
-from redfin_bot import RedfinBot
+from .redfin_bot import RedfinBot
 
 
 class RedfinInterface():
 
-    BOT = RedfinBot()
-
+    BOT = None
     def search_images(value):
-        response = RedfinInterface.BOT.location('specific').address(value)
+        RedfinInterface.BOT = RedfinBot()
+        response = RedfinInterface.BOT.location('specific').address(value).get_response()
+        RedfinInterface.BOT.close()
         return response
 
 

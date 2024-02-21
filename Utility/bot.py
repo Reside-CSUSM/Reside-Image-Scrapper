@@ -7,7 +7,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.wait import WebDriverWait
 import time
 from collections import deque
-from utility import Flag
+from .utility import Flag
+
 
 
 class Delay():
@@ -42,14 +43,9 @@ class EXP_WAIT():
 
 class Bot():
 
-    def __init__(self, url, driver=None):
+    def __init__(self, url, driver):
         self.url = url
-        self.driver = None
-        if(isinstance(driver, webdriver.Chrome)):
-            self.driver = driver
-        else:
-            self.driver = webdriver.Chrome()
-    
+        self.driver = driver
         self.current_element = None
         self.delayed_search_time = 0.5
         self.delay = Delay(0.5)
@@ -162,6 +158,8 @@ class Bot():
     def get_driver(self):
         return self.driver
     
+    def close(self):
+        self.driver.close()
 """
 
 def click_option(bot):

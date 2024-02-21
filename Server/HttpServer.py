@@ -1,31 +1,12 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
-import time
-import requests
 import copy
-import json
-from Redfin.interface import RedfinInterface
+import sys
+sys.path.insert(0, r'C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper')
+from Redfin.interface import *
 
-"""
-Routes:
-    - /library
-         -/by general area:
-         -/by specific area
-    
-    - /bot
-         -/launch
-            -/by specific address
-            -/by general area
-         
-         -/cache
-            -/by specific area
-            -/by general area    
-
-         -/others   
-"""
 
 EMPTY_URL = 'RoutingTable: set URL is empty'
 ERROR_CODES = [EMPTY_URL]
-
 
 class RoutingTable():
     def __init__(self):
@@ -96,6 +77,7 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.router.create_binding("/", self.root)
         self.router.create_binding("/library", self.library)
         self.router.create_binding("/bot", self.bot)
+        self.router.create_binding("/specific", self.specific)
         self.response_body = "None"
 
         super().__init__(*args, **kwargs)
@@ -107,6 +89,11 @@ class RequestHandler(BaseHTTPRequestHandler):
 
         #Send the data back
         pass
+    
+    def specific(self):
+
+        pass
+
 
     def bot(self):
 
@@ -120,9 +107,10 @@ class RequestHandler(BaseHTTPRequestHandler):
             string += url[i]
 
         string = string.replace("%20", " ")
-        self.response_body = string
-        #Now launch the bot and feed the params
-        self.response_body = RedfinInterface.search_images(string)
+        string = string.replace("address=", "")
+        print("After Filtering:", string)
+        response = RedfinInterface.search_images(string)
+        self.response_body = str(response)
         
     def root(self):
         pass
@@ -168,5 +156,5 @@ class HttpServer():
         self.server.server_close()
 
 
-server = HttpServer('localhost', 9999)
+server = HttpServer('192.168.1.222', 9999)
 server.run()
