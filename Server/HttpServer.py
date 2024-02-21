@@ -3,8 +3,7 @@ import time
 import requests
 import copy
 import json
-from Redfin.launch import *
-
+from Redfin.interface import RedfinInterface
 
 """
 Routes:
@@ -46,6 +45,9 @@ class RoutingTable():
         self.url = url
         return self
 
+    def get_url(self):
+        return self.url
+    
     def execute(self, url_pattern):
         unbound_patterns = "None"
         try:
@@ -107,20 +109,21 @@ class RequestHandler(BaseHTTPRequestHandler):
         pass
 
     def bot(self):
+
+        url = self.router.get_url()
+        index = url.find("/address")
+        string = ""
+
+        for i in range(index+1, len(url)):
+            if(url[i] == "/"):
+                break
+            string += url[i]
+
+        string = string.replace("%20", " ")
+        self.response_body = string
+        #Now launch the bot and feed the params
+        self.response_body = RedfinInterface.search_images(string)
         
-        #Open server.json to import bots
-        server_file = open("server.json", "r")
-        file_dict = json.load(server_file)        
-        
-        #Get the launch file path
-        bot_path = file_dict["available_bots"]["redfin"]["interface_file"]
-
-
-        #Pass in the appropriate params to bot
-
-        #Launch the Bot
-        pass
-    
     def root(self):
         pass
 
@@ -129,7 +132,7 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.send_header("Content-type", "json")
         self.end_headers()
 
-        response = self.router.process_url()
+        response = self.router.set_url(copy.copy(self.path)).process_url()
 
         if(response in ERROR_CODES):
             self.send_response(500)
