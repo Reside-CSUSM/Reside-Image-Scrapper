@@ -1,11 +1,12 @@
 
 
 
-class Launcher():
+class Interface():
 
     def __init__(self):
         pass
 
-    def launch(self):
+    def search(self, value):
         pass
 
+    

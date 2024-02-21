@@ -1,0 +1,13 @@
+{
+    "server_version":"1.19",
+
+    "available_bots":{
+        "redfin":{
+            "launch_file":"",
+            "interface_file":"",
+            "score":"",
+            "status":"active"
+        }
+
+    }
+}
