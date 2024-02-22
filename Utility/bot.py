@@ -159,7 +159,7 @@ class Bot():
         return self.driver
     
     def close(self):
-        self.driver.close()
+        self.driver.quit()
 """
 
 def click_option(bot):

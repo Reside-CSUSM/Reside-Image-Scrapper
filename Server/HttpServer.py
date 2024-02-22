@@ -61,11 +61,46 @@ class RoutingTable():
         return self
 
 
-class BotHandler():
-    pass
+class BotController():
 
+    def __init__(self):
+        self.router = RoutingTable()
+        self.router.create_binding("/search", self.search)
+        self.path = ""
+    
+    def set_path(self, string):
+        self.path = string
+
+
+    def search(self):
+        #Process search params
+            # - check if the search is specific
+                # - then call specific()
+            # - Check if the search is general
+                # - then call general()
+
+        pass
+
+    def specific(self):
+        pass
+    
+    def general(self):
+        pass
+
+    
 
 class LibraryHandler():
+
+    def __init__(self):
+        self.router = RoutingTable()
+        self.router.create_binding("/search", self.search)
+
+    def search(self):
+        pass
+
+    def fetch(self, address):
+        pass
+
     pass
 
 
@@ -76,27 +111,22 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.router = RoutingTable()
         self.router.create_binding("/", self.root)
         self.router.create_binding("/library", self.library)
-        self.router.create_binding("/bot", self.bot)
-        self.router.create_binding("/specific", self.specific)
+        self.router.create_binding("/bot", self.bot_controller1)
         self.response_body = "None"
-
+        self._bot_controller = BotController()
+        self._library_manager = LibraryHandler()
         super().__init__(*args, **kwargs)
-        
+
+    def root(self):
+        pass
+
     def library(self):        
-        #Open up the library
-
-        #Fetch the data
-
-        #Send the data back
         pass
     
-    def specific(self):
-
+    def bot_controller(self):
         pass
-
-
-    def bot(self):
-
+    
+    def bot_controller1(self):
         url = self.router.get_url()
         index = url.find("/address")
         string = ""
@@ -109,12 +139,12 @@ class RequestHandler(BaseHTTPRequestHandler):
         string = string.replace("%20", " ")
         string = string.replace("address=", "")
         print("After Filtering:", string)
+
+        RedfinInterface.type('general')
+        #RedfinInterface.type('specific')
         response = RedfinInterface.search_images(string)
         self.response_body = str(response)
-        
-    def root(self):
-        pass
-
+    
     def do_GET(self):
         self.send_response(200)
         self.send_header("Content-type", "json")

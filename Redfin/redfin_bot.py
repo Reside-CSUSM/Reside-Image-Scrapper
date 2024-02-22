@@ -74,7 +74,12 @@ class ElementReference():
             return self.tag_value
         
         return False
-
+    
+    def by(self):
+        return self.tag
+    
+    def value(self):
+        return self.tag_value
 
 #---------------------------------------- DATA COLLECTION MODULES---------------------------------------------
 class Listing():
@@ -100,6 +105,7 @@ class Listing():
     def export(self):
         pass
 
+
 class FetchListings():
 
     def __init__(self):
@@ -110,9 +116,7 @@ class FetchListings():
 
         pass
 
-
 #-----------------------------------------FILTER MODULES---------------------------------------------------
-
 class HouseType():
 
     def __init__(self):
@@ -255,11 +259,19 @@ class GeneralLocation():
     def __init__(self, bot):
         self.bot = bot
         self.location_address = None
-        
+        self.search_element = ElementReference(By.CLASS_NAME, 'search-input-box')
+
     def address(self, address):
         self.location_address = address
 
     def fetch_listing_data(self):
+        #Putting address in search bar
+        element = self.bot.search_element(self.search_element.by(), self.search_element.value()).get_element()
+        element.send_keys(self.location_address)
+        element.send_keys(Keys.ENTER)
+        self.bot.wait(1)
+
+        
         pass
 
     def apply_filters(self):
