@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(0, r'C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper')
 from Utility.bot import Bot
 from selenium import webdriver
 from Utility.utility import _ID, Flag
@@ -6,7 +8,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import json
-import sys
+import copy
+
 
 """
 Tasks based:
@@ -81,41 +84,141 @@ class ElementReference():
     def value(self):
         return self.tag_value
 
+class ElementPointer():
+    def __init__(self, tag, value, bot):
+        self.bot = bot
+        self.tag = tag
+        self.tag_value = value
+        self._element = None
+
+
+    def create_pointer(self):
+        try:
+            self._element = self.bot.search_element(self.tag, self.tag_value).get_element()
+        except Exception as error:
+            print("ElementPointer Error: ", error)
+    
+
+    def set_reference(self, tag, value):
+        self.tag=tag
+        self.tag_value = value
+
+        try:
+            self._element = self.bot.search_element(self.tag, self.tag_value).get_element()
+        except Exception as error:
+            print("ElementPointer Error:", error)
+            self._element = None
+
+
+    def element(self):
+        return self._element
+    
+    def by(self):
+        return self.tag
+    
+    def value(self):
+        return self.tag_value
+
 #---------------------------------------- DATA COLLECTION MODULES---------------------------------------------
 class Listing():
 
-    def __init__(self):
-        self.address = None
+    def __init__(self, bot, el_ptr):
+        self.bot = bot
+        self.element_ptr = el_ptr
+        self.price = "No price"
+        self.address = "No address"
+        self.stats = "No stats"
         self.image_urls = []
-        self.price = None
-        self.property_stats = None
     
+    def process(self):
+        #IMAGES
+        image_class_name = 'bp-Carousel__cell'
+        images = self.element_ptr.find_elements(By.CLASS_NAME, image_class_name)
+
+        print("\n\n\x1b[32mLISTING INFO:\x1b[0m")
+        print("Getting images....")
+        global image_url
+        for image in images:
+            try:
+                image_url = image.find_element(By.CLASS_NAME, 'bp-Homecard__Photo--image').get_attribute('src')
+                if("https" in image_url):
+                    self.image_urls.append(image_url)
+                    print("\x1b[34mSuccessful IMAGE URL:\x1b[0m", image_url)
+            except Exception as error:
+                print("\x1b[31mUnsuccessful IMAGE URL:\x1b[0m", image_url)
+
+    
+        try: 
+            address_el = self.element_ptr.find_element(By.CLASS_NAME, 'bp-Homecard__Content')
+            string = copy.copy(address_el.text)
+            string = string.split("\n")
+            self.address = string[-1]
+            self.stats = []
+
+            for str in string:
+                str.replace("\n", "")
+                self.stats.append(str)
+
+            self.price = self.stats[0]
+            self.stats.pop()
+            self.stats.pop(0)
+            print("ADDRESS:", self.address)
+            print("STATS:", self.stats)
+            print("PRICE:", self.price)
+            #print("innerHTML:", address_el.text)
+
+        except Exception as error:
+            print("Couldn't find address element", error)
+
+
     def get_images(self):
         return self.image_urls
 
-    def get_price(self):
-        return self.price
-    
-    def get_stats(self):
-        return self.property_stats
-    
-    def get_address(self):
-        return self.address
-    
     def export(self):
-        pass
+        payload = {
+            'image':[],
+            'address':self.address,
+            'price':self.price,
+            'stats':self.stats
+        }
+        payload['image'] = self.image_urls
+        return payload
+    
 
 
-class FetchListings():
+class ListingPageBar():
 
-    def __init__(self):
-        self.house_listings = []
-        pass
-
-    def fetch(self):
-
-        pass
-
+    def __init__(self, bot):
+        self.bot = bot
+        self.total_pages = 4
+        self.current_page = 1
+        self.next_button = ElementPointer(By.XPATH, '//*[@id="results-display"]/div[5]/div/div[3]/button[2]', self.bot)
+        self.previous_button = ElementPointer(By.XPATH, '//*[@id="results-display"]/div[5]/div/div[3]/button[1]', self.bot)
+    
+    def create_pointer(self):
+        self.next_button.create_pointer()
+        self.previous_button.create_pointer()
+    
+    def get_pages(self):
+        return self.total_pages
+    
+    def get_current_page(self):
+        return self.current_page
+    
+    def next(self):
+        try:
+            self.current_page += 1
+            self.next_button.element().click()
+        except Exception as error:
+            pass
+    
+    def previous(self):
+        try:
+            self.current_page -= 1
+            self.previous_button.element().click()
+        except Exception as error:
+            pass
+        
 #-----------------------------------------FILTER MODULES---------------------------------------------------
 class HouseType():
 
@@ -124,7 +227,7 @@ class HouseType():
         self.for_rent = ElementReference(By.ID, 'forRent')
         self.for_sale = ElementReference(By.ID, 'for-sale')
         self.done_button = ElementReference(By.XPATH, '/html/body/div[1]/div[8]/div[2]/div[1]/div[2]/div/div/div/div[1]/form/div[1]/div/div[2]/div/div[2]/button')
-
+    
     def get_main(self):
         return self.main_button
 
@@ -133,15 +236,129 @@ class HouseType():
             return self.for_sale
         elif(choice == 'for rent'):
             return self.for_rent
+
+
+class PaymentType():
+
+    def __init__(self, bot):
+        self.bot = bot
+        self.bot_flag = Flag()
+        self.main_payment_button = ElementPointer(By.XPATH, '/html/body/div[1]/div[8]/div[2]/div[1]/div[2]/div/div/div/div[1]/form/div[1]/div', self.bot)
+        self.for_rent = ElementPointer(By.ID, 'forRent', self.bot)
+        self.for_sale = ElementPointer(By.ID, 'for-sale', self.bot)
+        self.done_button = ElementPointer(By.XPATH, '/html/body/div[1]/div[8]/div[2]/div[1]/div[2]/div/div/div/div[1]/form/div[1]/div/div[2]/div/div[2]/button', self.bot)
+        if(self.bot == None):
+            self.bot_flag.set_false()
         
+        else:
+            self.bot_flag.set_true()
+    
+
+    def click_payment_type_button(self):
+        try:
+            self.main_payment_button.create_pointer()
+            self.main_payment_button.element().click()
+        except Exception as error:
+            print("PaymentType Error:", error)
+            raise error
+        return self
+    
+    def click_for_rent_button(self):
+        try:
+            self.for_rent.create_pointer()
+            self.for_rent.element().click()
+        except Exception as error:
+            print("PaymentType Error:", error)
+            raise error
+        return self
+    
+    def click_for_sale_button(self):
+        try:
+            self.for_sale.create_pointer()
+            self.for_sale.element().click()
+        except Exception as error:
+            print("PaymentType Error:", error)
+            raise error
+        
+        return self
+
+    def click_done(self):
+        try:
+            self.done_button.create_pointer()
+            self.done_button.element().click()
+        except Exception as error:
+            print("PaymentType Error:", error)
+            raise error
+        return self
+
 
 class PriceRange():
-    def __init__(self):
-        pass
+    def __init__(self, bot=None):
+        self.bot_flag = Flag()
+        self.bot = bot
+        self.main_price_button = None
+        self.enter_min_field = None
+        self.minimum_amount = 1
+        self.maximum_amount = 100000
+        self.enter_max_field = None
+        self.done_button = None
+        if(bot == None):self.bot_flag.set_false()
+
+        else:
+            self.main_price_button = ElementPointer(By.XPATH, '/html/body/div[1]/div[8]/div[2]/div[1]/div[2]/div/div/div/div[1]/form/div[2]/div', self.bot)
+            self.enter_min_field = ElementPointer(By.CSS_SELECTOR, "input[placeholder='Enter min']", self.bot)
+            self.enter_max_field = ElementPointer(By.CSS_SELECTOR, "input[placeholder='Enter max']", self.bot)
+            self.done_button = ElementPointer(By.XPATH, '//*[@id="sidepane-header"]/div/div/div[1]/form/div[2]/div/div[2]/div/div[2]/button[2]', self.bot)
+            self.bot_flag.set_true()
+
+    def click_price_button(self):
+        if(self.bot_flag.check() == False):return
+        try:
+            self.main_price_button.create_pointer()
+            self.main_price_button.element().click()
+            return self
+        except Exception as error:
+            print("PriceRange: click_price_button() Error:", error)
+    
+    def send_minimum(self, amount):
+        if(self.bot_flag.check() == False):return
+        try:
+            self.enter_min_field.create_pointer()
+            self.enter_min_field.element().send_keys(amount)
+            return self
+        except Exception as error:
+            print("PriceRange send_minimum() Error:", error)
+
+    def send_maximum(self, amount):
+        if(self.bot_flag.check() == False):return
+        try:
+            self.enter_max_field.create_pointer()
+            self.enter_max_field.element().send_keys(amount)
+            return self
+        except Exception as error:
+            print("PriceRange send_maximum() Error:", error)
+    
+    def click_done(self):
+        if(self.bot_flag.check() == False):return
+        try:
+            self.done_button.create_pointer()
+            self.done_button.element().click()
+            return self
+        except Exception as error:
+            print("PriceRange click_done() Error", error)
+    
 
 
-class HomeTyoe():
-    pass
+class RedfinSearchFilter():
+    def __init__(self, bot):
+        self._house_type = PaymentType(bot)
+        self._price_range = PriceRange(bot)
+    
+    def payment_type(self):
+        return self._house_type
+    
+    def price_range(self):
+        return self._price_range
 
 
 #--------------------------------------------ADDRESS SEARCH MODULES------------------------------------------------
@@ -155,6 +372,7 @@ class RedfinSearch():
         self.search_element = ElementReference(By.CLASS_NAME, 'search-input-box')
         self.property_type = HouseType()
         self.filter = None
+
 
     def __task(self):
         #Search for the address and click okay
@@ -189,6 +407,7 @@ class RedfinSearch():
                 self.bot.wait(3)
                 #"""
         except Exception as error:
+            print(error)
             return SEARCHING_ERROR_CODE
     
 
@@ -251,6 +470,7 @@ class Tasks():
                 self.task_list[tag].perform()
                 return True
             except Exception as error:
+
                 return False
 
 
@@ -259,22 +479,61 @@ class GeneralLocation():
     def __init__(self, bot):
         self.bot = bot
         self.location_address = None
-        self.search_element = ElementReference(By.CLASS_NAME, 'search-input-box')
+        self.search_filter = RedfinSearchFilter(self.bot)
+        self.listing_page_bar = ListingPageBar(self.bot)
+        self.listings = []
+        self.jsonified_listings = []
+        
+        #This is for the listing object
+        #root = ElementPointer(By.CLASS_NAME, 'HomeCardContainer flex justify-center', self.bot)
 
     def address(self, address):
         self.location_address = address
-
+    
     def fetch_listing_data(self):
-        #Putting address in search bar
-        element = self.bot.search_element(self.search_element.by(), self.search_element.value()).get_element()
-        element.send_keys(self.location_address)
-        element.send_keys(Keys.ENTER)
-        self.bot.wait(1)
+        #APPLY FILTERS
+        self.apply_filters()
+        
+        #FETCH THE LISTINGS
+        self.listing_page_bar.create_pointer()
+
+        try:
+            for i in range(0, self.listing_page_bar.get_pages()):
+                self.get_listings_on_page()
+                self.listing_page_bar.next()
+                self.bot.wait(4)
+        except Exception as error:
+            print(error)
+        
+        #EXPORT THE LISTINGS TO A JSON FILE
+        file = open(r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper\ImageLibrary\listings.json", "w")
+        json.dump(self.jsonified_listings, file, indent=4)
+        file.close()
 
         
+    def get_listings_on_page(self):
+        id = 'MapHomeCard_'
+        try:
+            for i in range(0, 15):
+                element = self.bot.search_element(By.ID, id+str(i)).get_element()
+                self.listings.append(Listing(self.bot, element))
+        except Exception as error:
+            print(error)
+        
+
+        print("jsonifying listings...")
+        for listing in self.listings:
+            listing.process()
+            value = listing.export()
+            #print(value)
+            self.jsonified_listings.append(value)
+    
+    def expore_to_file(self, file_path):
         pass
 
     def apply_filters(self):
+        #self.search_filter.payment_type().click_payment_type_button().click_for_rent_button().click_done()
+        #self.search_filter.price_range().click_price_button().send_minimum(10).send_maximum(60000).click_done()
         pass
 
 
@@ -366,7 +625,7 @@ class RedfinBot():
 
     def __init__(self):
         options = webdriver.ChromeOptions()
-        options.page_load_strategy = 'eager'
+        options.page_load_strategy = 'normal'
         self.driver = webdriver.Chrome(options=options)
         self.bot = Bot(INIT_URL, self.driver)
         self.tasks = Tasks()
@@ -376,6 +635,9 @@ class RedfinBot():
         self._address = None
         self.listing_response = None
         self.listing_type = 'specific'
+        #self.bot.activate()
+
+    def activate(self):
         self.bot.activate()
 
     def login_to_website(self, credentials):
@@ -411,14 +673,6 @@ class RedfinBot():
             print("Error= ", error)
             return LOGIN_ERROR_CODE
 
-    def get_images_on_address(self, address, filter=None):
-        #LOGIN
-        value = self.login_to_website(credentials=('yashaswi.kul@gmail.com', 'yashema@E494murlipura2'))
-        #SEARCHING
-        self.redfin_search.set_location_address(address)
-        if(filter != None): self.redfin_search.apply_filter(filter)
-        self.redfin_search.perform()
-
 
     def get_response(self):
         #LOGIN
@@ -452,7 +706,9 @@ class RedfinBot():
     def close(self):
         self.bot.close()
 
-#bot = RedfinBot()
+bot = RedfinBot()
+bot.activate()
+bot.address('san diego').location('general').get_response()
 #bot.get_images_on_address('512 Valley St, San Marcos, TX', 'for sale')
 
 

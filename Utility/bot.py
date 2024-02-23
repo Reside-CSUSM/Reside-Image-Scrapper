@@ -85,6 +85,7 @@ class Bot():
         except Exception as error:
             print(".search element() failed!")
             self.current_element = None
+            raise error
             return self
     
     def search_elements(self, by, identifier):
@@ -99,7 +100,6 @@ class Bot():
             else:
                 elements = self.driver.find_elements(by, identifier)
                 self.current_element = elements
-
             return self
         
         except Exception as error:

@@ -7,6 +7,7 @@ class RedfinInterface():
     TYPE = 'specific'
     def search_images(value):
         RedfinInterface.BOT = RedfinBot()
+        RedfinInterface.BOT.activate()
         response = RedfinInterface.BOT.location(RedfinInterface.TYPE).address(value).get_response()
         RedfinInterface.BOT.close()
         return response

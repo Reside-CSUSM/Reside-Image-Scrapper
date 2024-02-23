@@ -31,13 +31,15 @@ class RoutingTable():
     
     def execute(self, url_pattern):
         unbound_patterns = "None"
+        Error = None
         try:
             for each_handler in self.table[url_pattern]:
                 each_handler()
         except Exception as error:
             unbound_patterns = url_pattern
+            Error = error
 
-        print("\x1b[31mUNBOUND:\x1b[0m", unbound_patterns)
+        print("\x1b[31mUNBOUND:\x1b[0m", unbound_patterns, Error)
         return self
 
     def process_url(self):
@@ -113,8 +115,8 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.router.create_binding("/library", self.library)
         self.router.create_binding("/bot", self.bot_controller1)
         self.response_body = "None"
-        self._bot_controller = BotController()
-        self._library_manager = LibraryHandler()
+        #self._bot_controller = BotController()
+        #self._library_manager = LibraryHandler()
         super().__init__(*args, **kwargs)
 
     def root(self):
@@ -186,5 +188,5 @@ class HttpServer():
         self.server.server_close()
 
 
-server = HttpServer('192.168.1.222', 9999)
+server = HttpServer('localhost', 9999)
 server.run()
