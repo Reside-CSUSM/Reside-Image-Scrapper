@@ -14,7 +14,3 @@ class RedfinInterface():
     
     def type(value):
         RedfinInterface.TYPE = value
-
-        
-
-

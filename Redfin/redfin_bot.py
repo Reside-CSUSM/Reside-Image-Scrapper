@@ -9,6 +9,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import json
 import copy
+import time
 
 
 """
@@ -152,7 +153,7 @@ class Listing():
             address_el = self.element_ptr.find_element(By.CLASS_NAME, 'bp-Homecard__Content')
             string = copy.copy(address_el.text)
             string = string.split("\n")
-            self.address = string[-1]
+            #self.address = string[-1]
             self.stats = []
 
             for str in string:
@@ -160,8 +161,9 @@ class Listing():
                 self.stats.append(str)
 
             self.price = self.stats[0]
-            self.stats.pop()
-            self.stats.pop(0)
+            if(len(self.stats) == 4):self.address = self.stats[-1]
+            if(len(self.stats) > 5):self.address = self.stats[-2]
+
             print("ADDRESS:", self.address)
             print("STATS:", self.stats)
             print("PRICE:", self.price)
@@ -190,9 +192,10 @@ class ListingPageBar():
 
     def __init__(self, bot):
         self.bot = bot
-        self.total_pages = 4
+        self.total_pages = 15
         self.current_page = 1
         self.next_button = ElementPointer(By.XPATH, '//*[@id="results-display"]/div[5]/div/div[3]/button[2]', self.bot)
+        #self.next_button = ElementPointer(By.CLASS_NAME, 'bp-Button PageArrow clickable Pagination__button PageArrow__direction--next bp-Button__type--ghost bp-Button__size--compact bp-Button__icon-only', self.bot)
         self.previous_button = ElementPointer(By.XPATH, '//*[@id="results-display"]/div[5]/div/div[3]/button[1]', self.bot)
     
     def create_pointer(self):
@@ -209,16 +212,23 @@ class ListingPageBar():
         try:
             self.current_page += 1
             self.next_button.element().click()
+            self.bot.wait(1)
+            return True
         except Exception as error:
-            pass
+            return False
+           
     
     def previous(self):
         try:
             self.current_page -= 1
             self.previous_button.element().click()
+            self.bot.wait(1)
+            return True
         except Exception as error:
-            pass
-        
+            return False
+           
+
+
 #-----------------------------------------FILTER MODULES---------------------------------------------------
 class HouseType():
 
@@ -483,7 +493,7 @@ class GeneralLocation():
         self.listing_page_bar = ListingPageBar(self.bot)
         self.listings = []
         self.jsonified_listings = []
-        
+        self.listing_limit = 350
         #This is for the listing object
         #root = ElementPointer(By.CLASS_NAME, 'HomeCardContainer flex justify-center', self.bot)
 
@@ -497,20 +507,44 @@ class GeneralLocation():
         #FETCH THE LISTINGS
         self.listing_page_bar.create_pointer()
 
+        #"""
         try:
             for i in range(0, self.listing_page_bar.get_pages()):
-                self.get_listings_on_page()
-                self.listing_page_bar.next()
-                self.bot.wait(4)
+                self.get_listings_on_page_2()
+                self.bot.wait(2)
+                status = self.listing_page_bar.next()
+                if(status == False):
+                    break
         except Exception as error:
             print(error)
-        
-        #EXPORT THE LISTINGS TO A JSON FILE
-        file = open(r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper\ImageLibrary\listings.json", "w")
-        json.dump(self.jsonified_listings, file, indent=4)
-        file.close()
+            #"""
 
+        #EXPORT THE LISTINGS TO A JSON FILE
+        #self.export_to_file(r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper\ImageLibrary\listings.json")
+
+    def get_listings_on_page_2(self):
+        class_name = '//*[@id="results-display"]/div[5]/div/div[1]/div/div['
+        middle = 0
+        rest = ']'
+        #/html/body/div[1]/div[8]/div[2]/div[1]/div[5]/div/div[1]/div/div[2]
+        #/html/body/div[1]/div[8]/div[2]/div[1]/div[5]/div/div[1]/div/div[1]
+
+        id = 'MapHomeCard_'
         
+        try:
+            for i in range(1, 39):
+                element = self.bot.search_element(By.XPATH, '//*[@id="results-display"]/div[5]/div/div[1]/div/div['+ str(i) + ']').get_element()
+                self.listings.append(Listing(self.bot, element))
+        except Exception as error:
+            print("Element not found", error)
+        
+        print("jsonifying listings...")
+        for listing in self.listings:
+            listing.process()
+            value = listing.export()
+            self.jsonified_listings.append(value)
+
+
     def get_listings_on_page(self):
         id = 'MapHomeCard_'
         try:
@@ -520,16 +554,20 @@ class GeneralLocation():
         except Exception as error:
             print(error)
         
-
+        
         print("jsonifying listings...")
         for listing in self.listings:
             listing.process()
             value = listing.export()
-            #print(value)
             self.jsonified_listings.append(value)
     
-    def expore_to_file(self, file_path):
-        pass
+
+    def export_to_file(self, file_path):
+        global export_file
+        export_file = open(export_file, "w")
+        json.dump(self.jsonified_listings, export_file, indent=4)
+        export_file.close()
+    
 
     def apply_filters(self):
         #self.search_filter.payment_type().click_payment_type_button().click_for_rent_button().click_done()
@@ -653,7 +691,11 @@ class RedfinBot():
                 el.click()
                 self.bot.wait(1)
                 pass
-           
+            
+            close_val = '/html/body/div[2]/div[2]/div/div[2]/button'
+            close_cookies = self.bot.search_element(By.XPATH, close_val).get_element()
+            close_cookies.click()
+            
             val = '/html/body/div[5]/div/div[2]/div/div/div/div[2]/div/div/div/div[1]/div/div/form/div/div[1]/div/span/span/div/input'
             el = self.bot.search_element(By.XPATH, val).get_element()
             el.send_keys(credentials[0])
