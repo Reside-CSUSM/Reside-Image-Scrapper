@@ -115,6 +115,9 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.router.create_binding("/library", self.library)
         self.router.create_binding("/bot", self.bot_controller1)
         self.response_body = "None"
+        self.bot_handler = BotController()
+        self.library_handler = LibraryHandler()
+
         #self._bot_controller = BotController()
         #self._library_manager = LibraryHandler()
         super().__init__(*args, **kwargs)
@@ -141,8 +144,10 @@ class RequestHandler(BaseHTTPRequestHandler):
         string = string.replace("%20", " ")
         string = string.replace("address=", "")
         print("After Filtering:", string)
+        
 
         RedfinInterface.type('general')
+        RedfinInterface.apply_filters(['For rent'])
         #RedfinInterface.type('specific')
         response = RedfinInterface.search_images(string)
         self.response_body = str(response)
@@ -189,4 +194,25 @@ class HttpServer():
 
 
 server = HttpServer('localhost', 9999)
+#server = HttpServer('192.168.1.222', 9999)
 server.run()
+
+
+"""
+NOTE:
+    GET
+    - Routes:
+         - /library:
+            - /fetch specific:
+            - /fetch an array of specific address
+
+         POST/PUT
+         - /bot:
+            - /site_data=cache|return|discard:
+                - /general
+                - /specific
+
+            - /any_site_data=cache|return|discard: (Must choose a prefered website)
+                - /general
+                - /specific
+"""

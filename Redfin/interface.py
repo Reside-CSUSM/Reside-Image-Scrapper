@@ -3,10 +3,9 @@ from .redfin_bot import RedfinBot
 
 class RedfinInterface():
 
-    BOT = None
+    BOT  = RedfinBot()
     TYPE = 'specific'
     def search_images(value):
-        RedfinInterface.BOT = RedfinBot()
         RedfinInterface.BOT.activate()
         response = RedfinInterface.BOT.location(RedfinInterface.TYPE).address(value).get_response()
         RedfinInterface.BOT.close()
@@ -14,3 +13,20 @@ class RedfinInterface():
     
     def type(value):
         RedfinInterface.TYPE = value
+
+    def apply_filters(filters):
+        RedfinInterface.BOT.save_filters(filters)
+
+"""
+    Note:
+        - For rent
+        - For sale
+        - town_house
+        - condo
+        - land
+        - multi_family
+        - mobile
+        - co_op
+        - other
+        - price=(1,3)
+    """

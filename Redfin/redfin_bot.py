@@ -92,15 +92,19 @@ class ElementPointer():
         self.tag = tag
         self.tag_value = value
         self._element = None
-
+        self.flag = Flag()
 
     def create_pointer(self):
         try:
             self._element = self.bot.search_element(self.tag, self.tag_value).get_element()
+            self.flag.set_true()
         except Exception as error:
+            self.flag.set_false()
             print("ElementPointer Error: ", error)
     
-
+    def get_status(self):
+        return self.flag.check()
+    
     def set_reference(self, tag, value):
         self.tag=tag
         self.tag_value = value
@@ -314,6 +318,80 @@ class HouseType():
             return self.for_rent
 
 
+class BedsAndBath():
+    def __init__(self, bot):
+        self.bot = bot
+        self.bed_bath_button = ElementPointer(By.XPATH, '', self.bot)
+        self._click_done_button = ElementPointer(By.CLASS_NAME, "", self.bot)
+
+        self.bed_bar = {
+            'studio':None, 
+            '1':None, 
+            '2':None, 
+            '3':None, 
+            '4':None, 
+            '5':None,
+        }
+        self.bath_bar = {
+            '1':None, 
+            '1.5':None, 
+            '2':None,
+            '2.5':None, 
+            '3':None, 
+            '4':None 
+        }
+
+    def click_bed_bath_button(self):
+        pass
+    def click_done_button(self):
+        try:
+            self._click_done_button.element().click()
+        except Exception as error:pass
+
+class HomeType():
+
+    def __init__(self, bot):
+        self.bot = bot
+        #class_name for main_button = bp-ItemPicker PropertyTypes__items
+        self.main_button = ElementPointer(By.XPATH, '/html/body/div[1]/div[8]/div[2]/div[1]/div[2]/div/div/div/div[1]/form/div[1]/div', self.bot)
+        self.done_button = ElementPointer(By.XPATH, '/html/body/div[1]/div[8]/div[2]/div[1]/div[2]/div/div/div/div[1]/form/div[1]/div/div[2]/div/div[2]/button', self.bot)
+        self.options = {
+            'house':ElementPointer(By.CLASS_NAME, '//*[@id="sidepane-header"]/div/div/div[1]/form/div[3]/div/div[2]/div/div[1]/div[2]/div/div[1]', self.bot),
+            'town_house':ElementPointer(By.CLASS_NAME, '//*[@id="sidepane-header"]/div/div/div[1]/form/div[3]/div/div[2]/div/div[1]/div[2]/div/div[2]', self.bot),
+            'condo':ElementPointer(By.CLASS_NAME, '//*[@id="sidepane-header"]/div/div/div[1]/form/div[3]/div/div[2]/div/div[1]/div[2]/div/div[3]', self.bot),
+            'land':ElementPointer(By.CLASS_NAME, '//*[@id="sidepane-header"]/div/div/div[1]/form/div[3]/div/div[2]/div/div[1]/div[2]/div/div[4]', self.bot),
+            'multi_family':ElementPointer(By.CLASS_NAME, '//*[@id="sidepane-header"]/div/div/div[1]/form/div[3]/div/div[2]/div/div[1]/div[2]/div/div[5]', self.bot),
+            'mobile':ElementPointer(By.CLASS_NAME, '//*[@id="sidepane-header"]/div/div/div[1]/form/div[3]/div/div[2]/div/div[1]/div[2]/div/div[6]', self.bot),
+            'co_op':ElementPointer(By.CLASS_NAME, '//*[@id="sidepane-header"]/div/div/div[1]/form/div[3]/div/div[2]/div/div[1]/div[2]/div/div[7]', self.bot),
+            'other':ElementPointer(By.CLASS_NAME, '//*[@id="sidepane-header"]/div/div/div[1]/form/div[3]/div/div[2]/div/div[1]/div[2]/div/div[8]', self.bot)
+        }
+                                                   
+    def click_home_button(self):
+        try:
+            self.main_button.create_pointer()
+            self.main_button.element().click()
+            pass
+        except Exception as error:
+            print("HomeType Error click_home_button():", error)
+        return self
+    
+    def choose_home_type(self, type):
+        try:
+            self.options[type].create_pointer()
+            self.options[type].element().click()
+        except Exception as error:
+            print("HomeType Choosing Error choose_home_type():", error)
+        return self
+    
+    def click_done(self):
+        try:
+            self.done_button.create_pointer()
+            self.done_button.element().click()
+        except Exception as error:
+            print("HomeType Error click_done():", error)
+        return self
+
+
 class PaymentType():
 
     def __init__(self, bot):
@@ -429,6 +507,8 @@ class RedfinSearchFilter():
     def __init__(self, bot):
         self._house_type = PaymentType(bot)
         self._price_range = PriceRange(bot)
+        self._home_type = HomeType(bot)
+        self._bed_and_bath = BedsAndBath(bot)
     
     def payment_type(self):
         return self._house_type
@@ -436,6 +516,12 @@ class RedfinSearchFilter():
     def price_range(self):
         return self._price_range
 
+    def home_type(self):
+        return self._home_type
+    
+    def bed_bath_type(self):
+        return self._bed_and_bath
+    
 
 #--------------------------------------------ADDRESS SEARCH MODULES------------------------------------------------
 class RedfinSearch():
@@ -555,7 +641,7 @@ class GeneralLocation():
     def __init__(self, bot):
         self.bot = bot
         self.location_address = None
-        self.search_filter = RedfinSearchFilter(self.bot)
+        #self.search_filter = RedfinSearchFilter(self.bot)
         self.listing_page_bar = ListingPageBar(self.bot)
         self.listings = []
         self.jsonified_listings = []
@@ -613,22 +699,10 @@ class GeneralLocation():
         export_file = open(file_path, "w")
         json.dump(self.jsonified_listings, export_file, indent=4)
         export_file.close()
-    
-    
-    """
-    Note:
-        - For rent
-        - For sale
-        - Condo
-        - Apartment
-        - House
-        - Shared
-        - rental
-        - Price Range 
-    """
+
 
     def apply_filters(self):
-        self.search_filter.payment_type().click_payment_type_button().click_for_rent_button().click_done()
+        #self.search_filter.payment_type().click_payment_type_button().click_for_rent_button().click_done()
         #self.search_filter.price_range().click_price_button().send_minimum(10).send_maximum(60000).click_done()
         pass
 
@@ -726,11 +800,13 @@ class RedfinBot():
         self.bot = Bot(INIT_URL, self.driver)
         self.tasks = Tasks()
         self.redfin_search = RedfinSearch(self.bot)
+        self.redfin_filter = RedfinSearchFilter(self.bot)
         self.specific_fetcher = SpecificLocation(self.bot)
         self.general_fetcher = GeneralLocation(self.bot)
         self._address = None
         self.listing_response = None
         self.listing_type = 'specific'
+        self._filter = None
         #self.bot.activate()
 
     def activate(self):
@@ -784,6 +860,13 @@ class RedfinBot():
         value = self.redfin_search.perform()
         if(value == SEARCHING_ERROR_CODE): return SEARCHING_ERROR_CODE
 
+
+        #APPLYING FILTERS
+        try:
+            self.__apply_filters()
+        except Exception as error:
+            print("\x1b[FILTERS!!\x1b[0m", error)
+
         #FETCHING
         if(self.listing_type == 'general'):
             self.listing_response = self.general_fetcher.fetch_listing_data()
@@ -794,7 +877,41 @@ class RedfinBot():
             if(self.listing_response == DATA_FETCHING_ERROR_CODE): return DATA_FETCHING_ERROR_CODE
 
         return self.listing_response
+    
+    def save_filters(self, filters):
+        self._filter = filters
 
+    def __apply_filters(self):
+        if(self._filter == None):
+            print("FILTER NONE!!!")
+            return
+        for filter in self._filter:
+            print("____Processing filters in list______")
+            self.__apply_filter(filter)
+
+    def __apply_filter(self, value):
+        print("*****Entered single filter*****")
+        home_types = ['town_house', 'condo', 'land', 'multi_family', 'mobile', 'co_op', 'other']
+        if(value == 'For rent'):
+            print("Entered to apply rent filter")
+            self.filters().payment_type().click_payment_type_button().click_for_rent_button().click_done()
+        
+        elif(value == 'For sale'):
+            self.filters().payment_type().click_payment_type_button().click_for_sale_button().click_done()
+        
+        elif(value in home_types):
+            self.filters().home_type().choose_home_type(value).click_done()
+        
+        elif('price=' in value):
+            index = value.find("(")+1
+            min = int(value[index])
+            max = int(value[value.find(",")+1])
+            self.filters().price_range().click_price_button().send_minimum(min).send_maximum(max).click_done()
+
+
+    def filters(self):
+        return self.redfin_filter
+    
     def address(self, address):
         self._address = address
         return self
@@ -806,31 +923,38 @@ class RedfinBot():
     def close(self):
         self.bot.close()
 
-bot = RedfinBot()
-bot.activate()
-bot.address('san diego').location('general').get_response()
-#bot.get_images_on_address('512 Valley St, San Marcos, TX', 'for sale')
 
+#bot = RedfinBot()
+#bot.activate()
+#bot.address('san diego').location('general').get_response()
 
-#NOTE:
 """
 TODO:
-    - Set user agent etc
-    - Identify lang specific endpoints Java/python
-Apply Filters:
-    - Manipulate settings buttons
+    - Finish everything about the bot
+       - Filters
+       - Finish all the tests
 
-Specific Address
-    - Parse the single page
-        - Get the images
-        - Get other text data
+     - Next Step:
+        - Setup library routes
+            - Library:
+                - How do we wanna fetch one listing out of hundreds efficiently?
+                    - Maybe some sorta direct mapping instead of just one single large file
     
+        - Setup bots routes
 
-General Address
-    - Search x amount of listing and get
-        - Get all the text/image data
+     - Next Step:
+        - Make Java endpoint
 
-    - Search all amount of listing and get
-        - Get all the text/image data
+     - Future Step:
+        - Server:
+            - Ability to server very fast from anywhere
+            - Supports auto routes for new bots
 
+     - Automation Step:
+            - Bot organization:
+                 - Ability to create just one folder
+                   And the rest of the code auto integrates
+                   this new bot with a config.json file
+
+        
 """
