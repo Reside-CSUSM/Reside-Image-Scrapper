@@ -10,6 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import json
 import copy
 import time
+import re
 
 
 """
@@ -121,6 +122,8 @@ class ElementPointer():
         return self.tag_value
 
 #---------------------------------------- DATA COLLECTION MODULES---------------------------------------------
+
+
 class Listing():
 
     def __init__(self, bot, el_ptr):
@@ -130,24 +133,60 @@ class Listing():
         self.address = "No address"
         self.stats = "No stats"
         self.image_urls = []
+        self.processed_flag = Flag()
+        self.processed_flag.set_true()
+        self.print_flag = Flag()
+        self.print_flag.set_true()
+        self.detail_flag = Flag()
+        self.detail_flag.set_true()
+
+    def print_meta_data(self, value):
+        if(value == 'off'):
+            self.print_flag.set_false()
+        elif(value == 'on'):
+            self.print_flag.set_true()
     
+    def print_details(self, value):
+        if(value == 'off'):
+            self.print_flag.set_false()
+        elif(value == 'on'):
+            self.print_flag.set_true()
+            
     def process(self):
         #IMAGES
-        image_class_name = 'bp-Carousel__cell'
-        images = self.element_ptr.find_elements(By.CLASS_NAME, image_class_name)
+        has_images = Flag()
+        has_images.set_true()
 
-        print("\n\n\x1b[32mLISTING INFO:\x1b[0m")
-        print("Getting images....")
+        has_address = Flag()
+        has_address.set_true()
+
+        has_stats = Flag()
+        has_stats.set_true()
+        images = ""
+        try:
+            image_class_name = 'bp-Carousel__cell'
+            images = self.element_ptr.find_elements(By.CLASS_NAME, image_class_name)
+        except Exception as error:
+            print("Processing() Error: ")
+            if((len(images) > 5) == False):
+                self.processed_flag.set_false()
+            return False
+
+        if(self.print_flag.check()):
+            print("\n\n\x1b[32mLISTING INFO:\x1b[0m")
+            print("Getting images....")
+
         global image_url
         for image in images:
             try:
                 image_url = image.find_element(By.CLASS_NAME, 'bp-Homecard__Photo--image').get_attribute('src')
                 if("https" in image_url):
                     self.image_urls.append(image_url)
-                    print("\x1b[34mSuccessful IMAGE URL:\x1b[0m", image_url)
+                    if(self.print_flag.check()):
+                        print("\x1b[34mSuccessful IMAGE URL:\x1b[0m", image_url)
             except Exception as error:
-                print("\x1b[31mUnsuccessful IMAGE URL:\x1b[0m", image_url)
-
+                if(self.print_flag.check()):print("\x1b[31mUnsuccessful IMAGE URL:\x1b[0m", image_url)
+                #print(error)
     
         try: 
             address_el = self.element_ptr.find_element(By.CLASS_NAME, 'bp-Homecard__Content')
@@ -161,30 +200,57 @@ class Listing():
                 self.stats.append(str)
 
             self.price = self.stats[0]
-            if(len(self.stats) == 4):self.address = self.stats[-1]
-            if(len(self.stats) > 5):self.address = self.stats[-2]
-
-            print("ADDRESS:", self.address)
-            print("STATS:", self.stats)
-            print("PRICE:", self.price)
+            regex = r"^(.*?),\s*(.*?),\s*(.*?)\s+(\d{5})$"
+            for item in self.stats:
+                matches = re.match(regex, item)
+                if(matches != None):
+                    self.address = ""
+                    for i in range(1, matches.re.groups+1):
+                        if(i == matches.re.groups):
+                            self.address += matches.group(i)
+                        else:
+                            self.address += matches.group(i)+", "
+                    break
+            
+            if(self.detail_flag.check()):
+                print("ADDRESS:", self.address)
+                print("STATS:", self.stats)
+                print("PRICE:", self.price)
             #print("innerHTML:", address_el.text)
 
         except Exception as error:
-            print("Couldn't find address element", error)
+            has_address.set_false()
+            if(self.detail_flag.check()):
+                print("Couldn't find address element")
 
 
+        #return false when either the li element that contains all the images is not found
+        #or return false when the addres is not found. Rn nothing is setup to detech image
+        if(has_address.check() == False):
+            self.processed_flag.set_false()
+        
+        return self.processed_flag.check()
+
+    def get_status(self):
+        return self.processed_flag.check()
+    
     def get_images(self):
         return self.image_urls
 
-    def export(self):
-        payload = {
-            'image':[],
-            'address':self.address,
-            'price':self.price,
-            'stats':self.stats
-        }
-        payload['image'] = self.image_urls
-        return payload
+    def export(self, type='json'):
+        payload = None
+        if(type == 'json'):
+            payload = {
+                'address':self.address,
+                'price':self.price,
+                'stats':self.stats,
+                'images':[]
+            }
+            payload['images'] = self.image_urls
+            return payload
+
+        else:
+            return payload
     
 
 
@@ -506,71 +572,51 @@ class GeneralLocation():
         
         #FETCH THE LISTINGS
         self.listing_page_bar.create_pointer()
-
-        #"""
         try:
             for i in range(0, self.listing_page_bar.get_pages()):
-                self.get_listings_on_page_2()
+                self.get_listings_on_page()
                 self.bot.wait(2)
                 status = self.listing_page_bar.next()
                 if(status == False):
                     break
         except Exception as error:
             print(error)
-            #"""
+
 
         #EXPORT THE LISTINGS TO A JSON FILE
-        #self.export_to_file(r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper\ImageLibrary\listings.json")
+        #self.export_to_file(r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper\ImageLibrary\san_diego.json")
 
-    def get_listings_on_page_2(self):
-        class_name = '//*[@id="results-display"]/div[5]/div/div[1]/div/div['
-        middle = 0
-        rest = ']'
-        #/html/body/div[1]/div[8]/div[2]/div[1]/div[5]/div/div[1]/div/div[2]
-        #/html/body/div[1]/div[8]/div[2]/div[1]/div[5]/div/div[1]/div/div[1]
+    def get_listings_on_page(self):
+         #NOTE:
+            # - Need to make sure everything is error proof
+            # - Need to figure out the file data saving problem
+            # - Setup launch routes
+            # - Setup the storage library
 
-        id = 'MapHomeCard_'
-        
         try:
             for i in range(1, 39):
                 element = self.bot.search_element(By.XPATH, '//*[@id="results-display"]/div[5]/div/div[1]/div/div['+ str(i) + ']').get_element()
-                self.listings.append(Listing(self.bot, element))
+                listing = Listing(self.bot, element)
+                listing.print_meta_data('off')
+                status = listing.process()
+                if(status == True):
+                    #self.listings.append(listing)
+                    self.jsonified_listings.append((listing.export('json')))
+                    print("Collected element: ", element.get_attribute('id'))
+                else:print("\x1b[31mCouldn't collect element\x1b[0m", element.get_attribute('id'))
         except Exception as error:
             print("Element not found", error)
-        
-        print("jsonifying listings...")
-        for listing in self.listings:
-            listing.process()
-            value = listing.export()
-            self.jsonified_listings.append(value)
 
-
-    def get_listings_on_page(self):
-        id = 'MapHomeCard_'
-        try:
-            for i in range(0, 15):
-                element = self.bot.search_element(By.ID, id+str(i)).get_element()
-                self.listings.append(Listing(self.bot, element))
-        except Exception as error:
-            print(error)
-        
-        
-        print("jsonifying listings...")
-        for listing in self.listings:
-            listing.process()
-            value = listing.export()
-            self.jsonified_listings.append(value)
-    
 
     def export_to_file(self, file_path):
         global export_file
-        export_file = open(export_file, "w")
+        export_file = open(file_path, "w")
         json.dump(self.jsonified_listings, export_file, indent=4)
         export_file.close()
     
 
     def apply_filters(self):
-        #self.search_filter.payment_type().click_payment_type_button().click_for_rent_button().click_done()
+        self.search_filter.payment_type().click_payment_type_button().click_for_rent_button().click_done()
         #self.search_filter.price_range().click_price_button().send_minimum(10).send_maximum(60000).click_done()
         pass
 
