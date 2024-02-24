@@ -614,6 +614,18 @@ class GeneralLocation():
         json.dump(self.jsonified_listings, export_file, indent=4)
         export_file.close()
     
+    
+    """
+    Note:
+        - For rent
+        - For sale
+        - Condo
+        - Apartment
+        - House
+        - Shared
+        - rental
+        - Price Range 
+    """
 
     def apply_filters(self):
         self.search_filter.payment_type().click_payment_type_button().click_for_rent_button().click_done()
