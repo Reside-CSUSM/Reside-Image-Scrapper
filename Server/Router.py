@@ -55,7 +55,7 @@ class RoutingTable():
     def execute(self, url_pattern):
         unbound_patterns = "None"
         Error = None
-        flag = False
+        flag = True
 
         if(flag == True):
             try:

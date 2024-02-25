@@ -59,6 +59,7 @@ else:
     print("Request failed with status code:", req.status_code)
 
 
+
 """
 NOTE:
     GET

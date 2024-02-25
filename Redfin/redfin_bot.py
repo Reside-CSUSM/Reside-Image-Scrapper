@@ -929,10 +929,10 @@ class RedfinBot():
         self.bot.close()
 
 
-bot = RedfinBot()
-bot.activate()
-bot.save_filters(['For rent'])
-bot.address('san diego').location('general').get_response()
+#bot = RedfinBot()
+#bot.activate()
+#bot.save_filters(['For rent'])
+#bot.address('san diego').location('general').get_response()
 
 """
 TODO:

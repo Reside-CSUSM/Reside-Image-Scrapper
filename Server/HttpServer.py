@@ -92,9 +92,9 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.end_headers()
 
         print("PATH do_POST():", self.path)
-        #response = self.router.set_url(copy.copy(self.path)).process_url()
-        self.router.set_url(copy.copy(self.path))
-        self.automation_controller()
+        response = self.router.set_url(copy.copy(self.path)).process_url()
+        #self.router.set_url(copy.copy(self.path))
+        #self.automation_controller()
 
         
     def do_PUT(self):
