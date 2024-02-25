@@ -765,16 +765,17 @@ class SpecificLocation():
             self.price = self.price.text
 
             #GET AMENITIES
-            var = '/html/body/div[1]/div[11]/div[2]/div[6]/section/div/div[2]/div/div[1]/div[2]/div[1]/div/ul/li[1]'
-            end = ']'
+            #var = '/html/body/div[1]/div[11]/div[2]/div[6]/section/div/div[2]/div/div[1]/div[2]/div[1]/div/ul/li[1]'
+            #end = ']'
             
-            self.amenities.append(self.bot.wait(0.5).search_element(By.XPATH, var).get_element().text)
+            #self.amenities.append(self.bot.wait(0.5).search_element(By.XPATH, var).get_element().text)
 
         except Exception as error:
+            print("EITHER PRICE OR AMENTIES NOT FOUND", error)
             self.response = {
             'image_urls':self.image_urls, 
             'price':self.price, 
-            'amenities':self.amenities
+            'amenities':'None'
             }
             return self.response
 
@@ -863,16 +864,15 @@ class RedfinBot():
         if(value == SEARCHING_ERROR_CODE): return SEARCHING_ERROR_CODE
 
 
-        #APPLYING FILTERS
-        try:
-            self.__apply_filters()
-            self.bot.wait(2)
-        except Exception as error:
-            print("\x1b[FILTERS!! ERROR\x1b[0m", error)
-
-
         #FETCHING
         if(self.listing_type == 'general'):
+            #APPLYING FILTERS
+            try:
+                self.__apply_filters()
+                self.bot.wait(2)
+            except Exception as error:
+                print("\x1b[FILTERS!! ERROR\x1b[0m", error)
+
             self.listing_response = self.general_fetcher.fetch_listing_data()
             if(self.listing_response == DATA_FETCHING_ERROR_CODE): return DATA_FETCHING_ERROR_CODE
         
@@ -932,7 +932,7 @@ class RedfinBot():
 #bot = RedfinBot()
 #bot.activate()
 #bot.save_filters(['For rent'])
-#bot.address('san diego').location('general').get_response()
+#print(bot.address('5210 Rain Creek Pkwy, Austin, TX').location('specific').get_response())
 
 """
 TODO:
@@ -946,8 +946,10 @@ TODO:
                 - How do we wanna fetch one listing out of hundreds efficiently?
                     - Maybe some sorta direct mapping instead of just one single large file
     
-        - Setup bots routes
+        - Setup bots routes:
+            - somewhat done but things yet have to be done for just uploading folders
 
+            
      - Next Step:
         - Make Java endpoint
 

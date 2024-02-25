@@ -32,23 +32,36 @@ data_M = {
       "filters":["For rent"],
       "listing_requested":{
          "type":"city&state",
-         "area":"san diego, CA",
+         "area":["san diego, CA", "Austin, TX", "Sacramento, CA"],
          "storage":"cache"
       }
    }
 }
-    
+
+data_R = {
+   "service_type":"image_collection",
+   "service_name":"redfin",
+   "client_request_data":{
+      "filters":["For rent"],
+      "listing_requested":{
+         "type":"housings",
+         "addresses":["5210 Rain Creek Pkwy, Austin, TX", "7122 Wood Hollow Dr 13, Austin, TX", "2914 Sorin St, Austin, TX", "6303 Dorchester Dr, Austin, TX 78723"],
+         "storage":"cache"
+      }
+   }
+}
+    #7122 Wood Hollow Dr #13, Austin, TX
 
 string = '"{service_type":"image_collection","service_name":"redfin","client_request_data":"{"filters":["For rent"],"listing_requested":{"type":"city&state","area":"san diego, CA", "storage":"cache"}"}"}"'
 s = str(data_M)
-
+j = str(data_R)
 # Convert data to JSON string
 #string_json = json.dumps()
 
 # Send POST request with JSON data
 #url += '{"area":"AustinTX"}'
 #req = requests.post(url, headers=headers)
-url += s
+url += j
 req = requests.post(url, headers=headers)
 
 # Check if the request was successful
@@ -120,4 +133,16 @@ FOR DATA FETCHING GET REQUEST ONLY
 
 
 http://localhost:9999/automations/query={"search_config":1,"data":28777}
+"""
+
+
+
+"""
+TODO:
+ 1) TEST Specific Search funcatinality
+ 2) Test Multiple specific search funcationality
+ 3) Implement ERROR codes as well.
+ 4) Start preparing a quick API in java/python
+
+
 """

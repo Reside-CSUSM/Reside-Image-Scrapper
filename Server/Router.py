@@ -67,7 +67,8 @@ class RoutingTable():
         else:
             for each_handler in self.table[url_pattern]:
                     each_handler()
-        print("\x1b[31mUNBOUND:\x1b[0m", unbound_patterns, Error)
+        #print("\x1b[31mUNBOUND:\x1b[0m", unbound_patterns, Error)
+        print("\x1b[31mUNBOUND:\x1b[0m")
         return self
 
     def process_url(self):

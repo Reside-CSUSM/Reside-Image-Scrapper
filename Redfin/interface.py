@@ -3,12 +3,22 @@ from .redfin_bot import RedfinBot
 
 class RedfinInterface():
 
-    BOT  = RedfinBot()
+    BOT  = None
     TYPE = 'specific'
-    def search_images(value):
-        RedfinInterface.BOT.activate()
-        response = RedfinInterface.BOT.location(RedfinInterface.TYPE).address(value).get_response()
+
+    def create_bot():
+        RedfinInterface.BOT = RedfinBot()
+
+    def close_bot():
         RedfinInterface.BOT.close()
+
+    def activate():
+        RedfinInterface.BOT.activate()
+
+    def search_images(value):
+        #RedfinInterface.BOT.activate()
+        response = RedfinInterface.BOT.location(RedfinInterface.TYPE).address(value).get_response()
+        #RedfinInterface.BOT.close()
         return response
     
     def type(value):

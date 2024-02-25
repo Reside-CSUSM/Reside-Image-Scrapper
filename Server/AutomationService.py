@@ -4,6 +4,7 @@ from Router import RoutingTable
 import copy
 import json
 import urllib.parse
+import time
 
 #AUTOMATION MODULES
 from Redfin.interface import *
@@ -35,26 +36,20 @@ class AutomationService():
 
     def __decode(self, path):
         self.path = path
-
-        h = {"service_type": "image_collection", "service_name": "redfin", "client_request_data": {"filters": ["For-rent"], "listing_requested": {"type": "city&state", "area": "san diego, CA", "storage": "cache"}}}   
-        print("\x1b[31mPATH\x1b[0m: ", self.path)
         if(("/query=" in self.path) == False):
             print("\x1b[34m/QUERY=NOT FOUND\x1b[0m")
             return
         
         print("\x1b[34m/QUERY=FOUND!!\x1b[0m")
         string = copy.copy(self.path).replace("/query=","")
-        print("STRING: ", string)
+        #print("STRING: ", string)
         decoded_data = urllib.parse.unquote(string)
         decoded_data = decoded_data.replace("'", '"')
-        #b = str(h)
-        #b = b.replace("'", '"')
-        print("Decoded DATA:", decoded_data)
-        #print("DECODED: ", decoded_data)
+        #print("Decoded DATA:", decoded_data)
 
         try:
             parsed_data = json.loads(decoded_data)
-            print("After parsing:", parsed_data)
+            #print("After parsing:", parsed_data)
             return parsed_data
         except Exception as error:
             print("Error coverting from json to python dict", error)
@@ -68,40 +63,76 @@ class AutomationService():
         response = self.__decode(path)
         print(response)
 
-    def handle(self, path):
-        #DECODE THE JSON DATA RECIEVED
-        response = self.__decode(path)
+
+    def __POST(self):
+        response = self.__decode(self.path)
         #Check Service Type
         if(response["service_type"] == "image_collection"):
 
             if(response["service_name"] == "redfin"):
-                filters = response["client_request_data"]["filters"]
                 listing_requested = response["client_request_data"]["listing_requested"]
                 type = listing_requested["type"]
 
                 if(type == "housings"):
                     addresses = listing_requested["addresses"]
                     storage = listing_requested["storage"]
-                    RedfinInterface.type("specific")
-                    RedfinInterface.apply_filters(filters)
-
+                
                     for address in addresses:
+                        RedfinInterface.create_bot()
+                        RedfinInterface.activate()
+                        RedfinInterface.type("specific")
                         self.responses.append(RedfinInterface.search_images(address))
+                        RedfinInterface.close_bot()
                     return self.responses
 
                 elif(type == "city&state"):
-                    area = listing_requested["area"]
-                    RedfinInterface.type("general")
-                    RedfinInterface.apply_filters(filters)
-                    self.responses = RedfinInterface.search_images(area)
+                    filters = response["client_request_data"]["filters"]
+                    areas = listing_requested["area"]
+                    for area in areas:
+                        RedfinInterface.create_bot()
+                        RedfinInterface.activate()
+                        RedfinInterface.type("general")
+                        RedfinInterface.apply_filters(filters)
+                        self.responses = RedfinInterface.search_images(area)
+                        RedfinInterface.close_bot()
                     return self.responses
             
             elif(response["service_name"] == "zillow"):
                 self.responses = "No Automation Service Available For Zillow"
                 return self.responses
 
-
             elif(response["service_name"] == "compass"):
                 self.responses = "No Automation Service Available For Compass"
                 return self.responses
-            pass
+        pass
+    
+
+    def __PUT(self):
+        pass
+
+    def __GET(self):
+        pass
+
+    def __DELETE(self):
+        pass
+
+    def handle(self, path, TYPE):
+        #DECODE THE JSON DATA RECIEVED
+        self.path = path
+        if(TYPE == 'POST'):
+            try:
+                self.__POST()
+            except Exception as error:
+                print("POST ERROR:", error)
+        
+        elif(TYPE == 'GET'):
+            self.__GET()
+        
+        elif(TYPE == 'PUT'):
+            self.__PUT()
+        
+        elif(TYPE == 'DELETE'):
+            self.__DELETE()
+
+        
+            

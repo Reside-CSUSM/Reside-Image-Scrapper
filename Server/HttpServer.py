@@ -17,6 +17,7 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.router.create_binding("/library", self.library)
         self.router.create_binding("/automations", self.automation_controller)
         self.response_body = "None"
+        self.current_request_type = 'None'
 
         self.automation_handler = AutomationService()
         self.library_handler = ListingService()
@@ -43,10 +44,11 @@ class RequestHandler(BaseHTTPRequestHandler):
     
     def automation_controller(self):
         url = copy.copy(self.router.get_url()).replace("/automations", "")
-        self.automation_handler.handle(url)
+        self.automation_handler.handle(url, copy.copy(self.current_request_type))
         response = self.automation_handler.get_response()
         self.wfile.write(bytes("The POST request for automation service has been fullfilled", "utf-8"))
 
+        print("\x1b[35mFINAL RESPONSE:\x1b[0m", response)
 
     def bot_controller1(self):
         url = self.router.get_url()
@@ -91,16 +93,16 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.send_header("Content-type", "application/json")
         self.end_headers()
 
+        self.current_request_type = 'POST'
         print("PATH do_POST():", self.path)
         response = self.router.set_url(copy.copy(self.path)).process_url()
-        #self.router.set_url(copy.copy(self.path))
-        #self.automation_controller()
-
-        
+    
     def do_PUT(self):
+        #UPDAT
         pass
 
     def do_DELETE(self):
+        #DELETING SPECIFIC LISTINGS OR DELETING ENTIRE CITIES
         pass
 
 class HttpServer():
