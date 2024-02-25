@@ -348,6 +348,8 @@ class BedsAndBath():
             self._click_done_button.element().click()
         except Exception as error:pass
 
+
+
 class HomeType():
 
     def __init__(self, bot):
@@ -864,8 +866,10 @@ class RedfinBot():
         #APPLYING FILTERS
         try:
             self.__apply_filters()
+            self.bot.wait(2)
         except Exception as error:
-            print("\x1b[FILTERS!!\x1b[0m", error)
+            print("\x1b[FILTERS!! ERROR\x1b[0m", error)
+
 
         #FETCHING
         if(self.listing_type == 'general'):
@@ -897,6 +901,7 @@ class RedfinBot():
             self.filters().payment_type().click_payment_type_button().click_for_rent_button().click_done()
         
         elif(value == 'For sale'):
+
             self.filters().payment_type().click_payment_type_button().click_for_sale_button().click_done()
         
         elif(value in home_types):
@@ -924,9 +929,10 @@ class RedfinBot():
         self.bot.close()
 
 
-#bot = RedfinBot()
-#bot.activate()
-#bot.address('san diego').location('general').get_response()
+bot = RedfinBot()
+bot.activate()
+bot.save_filters(['For rent'])
+bot.address('san diego').location('general').get_response()
 
 """
 TODO:

@@ -1,136 +1,53 @@
-from http.server import HTTPServer, BaseHTTPRequestHandler
-import copy
 import sys
 sys.path.insert(0, r'C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper')
+from http.server import HTTPServer, BaseHTTPRequestHandler
+import copy
 from Redfin.interface import *
+from Router import *
+from AutomationService import *
+from ListingsService import *
 
-
-EMPTY_URL = 'RoutingTable: set URL is empty'
-ERROR_CODES = [EMPTY_URL]
-
-class RoutingTable():
-    def __init__(self):
-        self.url = None
-        self.table = {}
-
-    def create_binding(self, url_pattern, handler):
-        if((url_pattern in self.table.keys()) == True):
-            self.table[url_pattern].append(handler)
-        
-        elif((url_pattern in self.table.keys()) == False):
-            self.table[url_pattern] = []
-            self.table[url_pattern].append(handler)
-        return self
-    
-    def set_url(self, url):
-        self.url = url
-        return self
-
-    def get_url(self):
-        return self.url
-    
-    def execute(self, url_pattern):
-        unbound_patterns = "None"
-        Error = None
-        try:
-            for each_handler in self.table[url_pattern]:
-                each_handler()
-        except Exception as error:
-            unbound_patterns = url_pattern
-            Error = error
-
-        print("\x1b[31mUNBOUND:\x1b[0m", unbound_patterns, Error)
-        return self
-
-    def process_url(self):
-        if(self.url == None): return EMPTY_URL
-        slash = "/"
-        url_patterns = []
-
-        url_patterns = copy.copy(self.url).split("/")
-        url_patterns.pop(0)
-
-        for i in range(0, len(url_patterns)):
-            url_patterns[i] = "/" + url_patterns[i]
-            self.execute(url_patterns[i])
-        
-        print("\x1b[31mREQUEST URL PATH\x1b[0m",  url_patterns, "\n\n\n")
-        return self
-
-    def print_bindings(self):
-        for key, val in self.table.items():
-            print("Binding: ", key, val)
-        return self
-
-
-class BotController():
-
-    def __init__(self):
-        self.router = RoutingTable()
-        self.router.create_binding("/search", self.search)
-        self.path = ""
-    
-    def set_path(self, string):
-        self.path = string
-
-
-    def search(self):
-        #Process search params
-            # - check if the search is specific
-                # - then call specific()
-            # - Check if the search is general
-                # - then call general()
-
-        pass
-
-    def specific(self):
-        pass
-    
-    def general(self):
-        pass
-
-    
-
-class LibraryHandler():
-
-    def __init__(self):
-        self.router = RoutingTable()
-        self.router.create_binding("/search", self.search)
-
-    def search(self):
-        pass
-
-    def fetch(self, address):
-        pass
-
-    pass
 
 
 class RequestHandler(BaseHTTPRequestHandler):
 
     def __init__(self, *args, **kwargs):
-
         self.router = RoutingTable()
         self.router.create_binding("/", self.root)
         self.router.create_binding("/library", self.library)
-        self.router.create_binding("/bot", self.bot_controller1)
+        self.router.create_binding("/automations", self.automation_controller)
         self.response_body = "None"
-        self.bot_handler = BotController()
-        self.library_handler = LibraryHandler()
 
-        #self._bot_controller = BotController()
-        #self._library_manager = LibraryHandler()
+        self.automation_handler = AutomationService()
+        self.library_handler = ListingService()
+
         super().__init__(*args, **kwargs)
 
     def root(self):
-        pass
+        value = {
+            'response:':"<h3>Root Endpoint Not available</h3>"
+        }
+        self.send_response(200)
+        self.send_header("Cotent-type", "text/html")
+        self.end_headers()
+        self.wfile.write(bytes(value['response:'], "utf-8"))
 
-    def library(self):        
-        pass
+    def library(self):    
+        value = "<h3>Library Service Not available</h3>"
+
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+        self.wfile.write(bytes(value), "utf-8")    
+
     
-    def bot_controller(self):
-        pass
-    
+    def automation_controller(self):
+        url = copy.copy(self.router.get_url()).replace("/automations", "")
+        self.automation_handler.handle(url)
+        response = self.automation_handler.get_response()
+        self.wfile.write(bytes("The POST request for automation service has been fullfilled", "utf-8"))
+
+
     def bot_controller1(self):
         url = self.router.get_url()
         index = url.find("/address")
@@ -141,10 +58,10 @@ class RequestHandler(BaseHTTPRequestHandler):
                 break
             string += url[i]
 
+
         string = string.replace("%20", " ")
         string = string.replace("address=", "")
         print("After Filtering:", string)
-        
 
         RedfinInterface.type('general')
         RedfinInterface.apply_filters(['For rent'])
@@ -152,11 +69,13 @@ class RequestHandler(BaseHTTPRequestHandler):
         response = RedfinInterface.search_images(string)
         self.response_body = str(response)
     
+
     def do_GET(self):
         self.send_response(200)
         self.send_header("Content-type", "json")
         self.end_headers()
 
+        print("do_GET:", self.path)
         response = self.router.set_url(copy.copy(self.path)).process_url()
 
         if(response in ERROR_CODES):
@@ -166,9 +85,18 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.send_response(201)
         self.wfile.write(bytes("{MESSAGE:"+self.response_body+"}", "utf-8"))
 
-    def do_POST(self):
-        pass
 
+    def do_POST(self):
+        self.send_response(200)
+        self.send_header("Content-type", "application/json")
+        self.end_headers()
+
+        print("PATH do_POST():", self.path)
+        #response = self.router.set_url(copy.copy(self.path)).process_url()
+        self.router.set_url(copy.copy(self.path))
+        self.automation_controller()
+
+        
     def do_PUT(self):
         pass
 
@@ -193,26 +121,6 @@ class HttpServer():
         self.server.server_close()
 
 
-server = HttpServer('localhost', 9999)
-#server = HttpServer('192.168.1.222', 9999)
+#server = HttpServer('localhost', 9999)
+server = HttpServer('192.168.1.222', 9999)
 server.run()
-
-
-"""
-NOTE:
-    GET
-    - Routes:
-         - /library:
-            - /fetch specific:
-            - /fetch an array of specific address
-
-         POST/PUT
-         - /bot:
-            - /site_data=cache|return|discard:
-                - /general
-                - /specific
-
-            - /any_site_data=cache|return|discard: (Must choose a prefered website)
-                - /general
-                - /specific
-"""
