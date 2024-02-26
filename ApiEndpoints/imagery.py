@@ -8,6 +8,8 @@ class Response():
     def __init__(self):
         pass
 
+
+#ADMIN API
 class ImagingAPI():
 
     def __init__(self):
@@ -42,8 +44,6 @@ class ImagingAPI():
             }
         }
         #"san diego, CA", "Austin, TX", "Sacramento, CA"
-
-    
     def initialize(self, ip, port):
         self.server_ip = ip
         self.server_port = port
@@ -83,8 +83,6 @@ class ImagingAPI():
         req = requests.post(url, headers=headers)
         print(req)
         return self
-
-
 
 image_api = ImagingAPI()
 image_api.initialize("38.56.138.77", 8888)

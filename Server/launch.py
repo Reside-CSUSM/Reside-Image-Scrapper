@@ -55,6 +55,8 @@ data_R = {
 string = '"{service_type":"image_collection","service_name":"redfin","client_request_data":"{"filters":["For rent"],"listing_requested":{"type":"city&state","area":"san diego, CA", "storage":"cache"}"}"}"'
 s = str(data_M)
 j = str(data_R)
+
+
 # Convert data to JSON string
 #string_json = json.dumps()
 
@@ -139,10 +141,17 @@ http://localhost:9999/automations/query={"search_config":1,"data":28777}
 
 """
 TODO:
- 1) TEST Specific Search funcatinality
- 2) Test Multiple specific search funcationality
- 3) Implement ERROR codes as well.
- 4) Start preparing a quick API in java/python
+ 1) TEST Specific Search funcatinality  Done
+ 2) Test Multiple specific search funcationality  Done
+ 3) Implement ERROR codes as well.  Not Done
+ 4) Start preparing a quick API in java/python Done
 
+ 5) Implement auto folder add
+   - Search for available automations
+   - Add routes automatically
 
+PROBLEMS:
+ WHEN sending an address that contains  a special character like '#' the json.load() on server or the decoder won't process it and throw an error
+ have to be able to find the addresses no matter what kind. 
+ May need to seperate out /automations from /library endpoint on two different servers or processes since POST can be blocking. 
 """
