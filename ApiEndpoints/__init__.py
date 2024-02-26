@@ -1,1 +1,1 @@
-from ApiEndpoints import imagery
+from ApiEndpoints import Imagery
