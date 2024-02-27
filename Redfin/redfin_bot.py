@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, r'C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper')
+sys.path.insert(0, r'C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper')
 from Utility.bot import Bot
 from selenium import webdriver
 from Utility.utility import _ID, Flag
@@ -912,7 +912,6 @@ class RedfinBot():
             min = int(value[index])
             max = int(value[value.find(",")+1])
             self.filters().price_range().click_price_button().send_minimum(min).send_maximum(max).click_done()
-
 
     def filters(self):
         return self.redfin_filter

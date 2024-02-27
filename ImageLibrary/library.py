@@ -1,5 +1,6 @@
 import json
 
+
 class ListingHandler():
 
     def __init__(self):
@@ -7,34 +8,33 @@ class ListingHandler():
         self.city = ""
         self.current_listing = ""
     
-    def __update_city(self, city):
+    def update_city(self, city):
         self.city = city
-        pass
 
+    
     def Fetch(self, address):
         #OPEN A FILE AND SEARCH USING REGEX
         #OPEN UP FILE PATH
         return self.current_listing + " Fetch"
-        pass
+
 
     def Delete(self, address):
         #OPEN A FILE AND DELETE USING REGEX
         return self.current_listing + " Delete"
-        pass
+        
 
     def Update(self, address):
         #OPEN A FILE AND UPDATE USING REGEX4
         return self.current_listing + " Update"
-        pass
+    
 
     def Create(self, data):
         return self.current_listing + " Create"
-        pass
+    
 
     def Listing(self, name):
         self.current_listing = name
         return self
-
 
 
 class CityHandler():
@@ -46,31 +46,31 @@ class CityHandler():
         self.current_city = ""
         self.listing_handler = ListingHandler()
 
-    def __update_state(self, value):
+    def update_state(self, value):
         self.state = value
 
-    def Create(self):
+    def Create(self, name):
         #CREATE A CITY FILE
         #OPEN UP FILE PATH
         return self.current_city + " Create"
     
-    def Delete(self):
+    def Delete(self, name):
         #DELETE A CITY FILE
         #OPEN UP FILE PATH
         return self.current_city + " Delete"
 
-    def Update(self):
+    def Update(self, name):
         #OPEN UP FILE PATH
         return self.current_city + " Update"
     
-    def Fetch(self):
+    def Fetch(self, name):
         #SEARCH FOR THE FILE NAME
         #OPEN UP FILE PATH
         return self.current_city + " Fetch"
 
     def City(self, city):
         self.current_city = city
-        self.listing_handler.__update_city(self.state + ", " + city)
+        self.listing_handler.update_city(self.state + ", " + city)
         return self
     
     def Listing(self, name):
@@ -86,32 +86,33 @@ class StateHandler():
         self.city_handler = CityHandler()
         self.current_state = ""
     
-    def Fetch(self):
+    def Fetch(self, name):
         #FETCH THE STATE
         #OPEN UP THE PATH
         return self.current_state + " Fetch"
     
-    def Create(self):
+    def Create(self, name):
         #CREATE FOLDER
         #OPEN UP THE PATH
         return self.current_state +  " Create"
     
-    def Update(self):
+    def Update(self, name):
         #UPDATE STATE
         #OPEN UP THE PATH
         return self.current_state + " Update"
 
-    def Delete(self):
+    def Delete(self, name):
         #DELETE FOLDER 
         #OPEN UP THE PATH
         return self.current_state  + " Delete"
     
     def State(self, name):
         self.current_state = name
-        self.city_handler.__update_state(name)
+        self.city_handler.update_state(name)
         return self
 
-    def City(self):
+    def City(self, name):
+        self.city_handler.City(name)
         return self.city_handler
 
 
@@ -130,10 +131,14 @@ class ListingAttributes():
             'street':None
         }
     
-    def getter(self, type):
+    def get(self, type):
+        try:
+            return self._attributes[type]
+        except Exception as error:
+            pass
         pass
 
-    def setter(self):
+    def set(self):
         pass
 
     def getter(self):
@@ -181,13 +186,16 @@ class ImagingLibraryManager():
         address = listing.attribute().getter('address')
         self.state_handler.FetchState(state).CityHandler().FetchCityFile(city).ListingHandler().FetchListing(address)
 
-    def command(self):
+    def directory(self):
         return self.state_handler
+    
+
 
 manager = ImagingLibraryManager()
-value = manager.command().State("California").City("San Diego").Listing("3045 Main St, san diego, CA 91912").Create("something")
+value = manager.directory().State("California").City("San Diego").Listing("3045 Main St, san diego, CA 91912").Create("created")
 print(value)
-#state.State("Texas").City("Austin").Listing("1024 Main St, Austin, TX 91909").Fetch()
+print(manager.directory().State("California").City("San Diego").Listing("2098 Mainst, Austin, TX").Create(""))
+
 """ 
 Manager:
     - State:

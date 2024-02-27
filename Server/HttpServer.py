@@ -1,12 +1,11 @@
 import sys
-sys.path.insert(0, r'C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper')
+sys.path.insert(0, r'C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper')
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import copy
 from Redfin.interface import *
 from Router import *
 from AutomationService import *
 from ListingsService import *
-
 
 
 class RequestHandler(BaseHTTPRequestHandler):
@@ -124,5 +123,5 @@ class HttpServer():
 
 
 #server = HttpServer('localhost', 9999)
-server = HttpServer('192.168.1.222', 9999)
+server = HttpServer('172.25.177.82', 9999)
 server.run()

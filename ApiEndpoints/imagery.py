@@ -142,14 +142,27 @@ class ImagingAPI():
         headers = {'Content-Type': 'application/json'}
         req = requests.post(url, headers=headers)
         print(req)
-        return self
+        return self 
 
 
 image_api = ImagingAPI()
 image_api.initialize("38.56.138.77", 8888)
 image_api.add_housings("5210 Rain Creek Pkwy, Austin, TX").add_housings("7122 Wood Hollow Dr 13, Austin, TX").search_housings()
 image_api.add_areas("san diego, CA").add_areas("Austin, TX").search_area()
+
+
 print("End of the api")
+
+
+
+
+
+
+
+
+
+
+
 #API requests have to be asynchronous, not blocking code. 
 #API has to be able to send 'STOP' commands to automations running
 
