@@ -1,0 +1,28 @@
+{
+    "Address": "2200 Royale Rd, Sacramento, CA, 95815",
+    "Price": "$1,600/mo",
+    "Stats": [
+        "$1,600/mo",
+        "2 beds",
+        "1 bath",
+        "938 sq ft",
+        "2200 Royale Rd, Sacramento, CA 95815",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(916) 284-0667"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2200 Royale Rd",
+    "ZipCode": "95815",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8d6d0f13-96b9-44cf-af6a-6deeb5fe5ad8/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d6d0f13-96b9-44cf-af6a-6deeb5fe5ad8/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d6d0f13-96b9-44cf-af6a-6deeb5fe5ad8/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d6d0f13-96b9-44cf-af6a-6deeb5fe5ad8/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d6d0f13-96b9-44cf-af6a-6deeb5fe5ad8/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d6d0f13-96b9-44cf-af6a-6deeb5fe5ad8/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d6d0f13-96b9-44cf-af6a-6deeb5fe5ad8/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d6d0f13-96b9-44cf-af6a-6deeb5fe5ad8/islphoto/genIsl.7_1.jpg"
+    ]
+}

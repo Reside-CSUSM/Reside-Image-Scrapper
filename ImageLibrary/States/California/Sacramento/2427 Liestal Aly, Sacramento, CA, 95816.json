@@ -1,0 +1,34 @@
+{
+    "Address": "2427 Liestal Aly, Sacramento, CA, 95816",
+    "Price": "$2,295/mo",
+    "Stats": [
+        "$2,295/mo",
+        "2 beds",
+        "1 bath",
+        "600 sq ft",
+        "2427 Liestal Aly, Sacramento, CA 95816",
+        " House",
+        "Request a tour",
+        "(866) 416-0545"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2427 Liestal Aly",
+    "ZipCode": "95816",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c47cc33b-793d-41d0-8deb-bef7a9e2fdf9/islphoto/genIsl.13_1.jpg"
+    ]
+}

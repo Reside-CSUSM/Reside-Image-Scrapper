@@ -1,0 +1,37 @@
+{
+    "Address": "13252 Salmon River Rd #106, San Diego, CA, 92129",
+    "Price": "$599,900",
+    "Stats": [
+        "$599,900",
+        "2 beds",
+        "2 baths",
+        "927 sq ft",
+        "13252 Salmon River Rd #106, San Diego, CA 92129"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "13252 Salmon River Rd #106",
+    "ZipCode": "92129",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/775/genIslnoResize.SW24037775_19_0.jpg"
+    ]
+}

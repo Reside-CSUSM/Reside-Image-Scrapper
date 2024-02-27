@@ -1,0 +1,20 @@
+{
+    "Address": "5 Pitcairn Ct, Sacramento, CA, 95823",
+    "Price": "$2,695/mo",
+    "Stats": [
+        "$2,695/mo",
+        "3 beds",
+        "3.5 baths",
+        "1,473 sq ft",
+        "5 Pitcairn Ct, Sacramento, CA 95823",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "5 Pitcairn Ct",
+    "ZipCode": "95823",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e355741f-4ba6-4f76-b7b8-c54ee2ce11da/islphoto/genIsl.0_1.jpg"
+    ]
+}

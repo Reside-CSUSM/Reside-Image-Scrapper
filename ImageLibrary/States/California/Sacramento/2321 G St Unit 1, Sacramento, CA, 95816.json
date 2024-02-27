@@ -1,0 +1,40 @@
+{
+    "Address": "2321 G St Unit 1, Sacramento, CA, 95816",
+    "Price": "$1,775/mo",
+    "Stats": [
+        "$1,775/mo",
+        "2 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "2321 G St Unit 1, Sacramento, CA 95816",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(916) 520-9792"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2321 G St Unit 1",
+    "ZipCode": "95816",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a2c40c1-7749-415e-962c-5d8249e49a2a/islphoto/genIsl.19_1.jpg"
+    ]
+}

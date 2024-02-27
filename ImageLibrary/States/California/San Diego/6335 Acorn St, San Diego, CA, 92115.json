@@ -1,0 +1,31 @@
+{
+    "Address": "6335 Acorn St, San Diego, CA, 92115",
+    "Price": "$850,000",
+    "Stats": [
+        "$850,000",
+        "4 beds",
+        "2 baths",
+        "1,570 sq ft",
+        "6335 Acorn St, San Diego, CA 92115"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "6335 Acorn St",
+    "ZipCode": "92115",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/574/genIslnoResize.240003574_13_1.jpg"
+    ]
+}

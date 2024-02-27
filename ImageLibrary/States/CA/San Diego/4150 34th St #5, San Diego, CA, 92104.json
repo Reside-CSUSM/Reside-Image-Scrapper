@@ -1,0 +1,35 @@
+{
+    "Address": "4150 34th St #5, San Diego, CA, 92104",
+    "Price": "$629,000",
+    "Stats": [
+        "$629,000",
+        "2 beds",
+        "2 baths",
+        "718 sq ft",
+        "4150 34th St #5, San Diego, CA 92104"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "4150 34th St #5",
+    "ZipCode": "92104",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/029/genIslnoResize.240004029_17_0.jpg"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Address": "240 Ledgewood Ln, San Diego, CA, 92114",
+    "Price": "$850,000",
+    "Stats": [
+        "$850,000",
+        "4 beds",
+        "1.5 baths",
+        "1,544 sq ft",
+        "7,500 sq ft (lot)",
+        "240 Ledgewood Ln, San Diego, CA 92114"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "240 Ledgewood Ln",
+    "ZipCode": "92114",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/672/genIslnoResize.240003672_21_1.jpg"
+    ]
+}

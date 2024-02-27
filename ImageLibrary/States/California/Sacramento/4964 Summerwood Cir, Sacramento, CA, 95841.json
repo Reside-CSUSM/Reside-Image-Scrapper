@@ -1,0 +1,30 @@
+{
+    "Address": "4964 Summerwood Cir, Sacramento, CA, 95841",
+    "Price": "$1,900/mo",
+    "Stats": [
+        "$1,900/mo",
+        "2 beds",
+        "1 bath",
+        "950 sq ft",
+        "4964 Summerwood Cir, Sacramento, CA 95841",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "4964 Summerwood Cir",
+    "ZipCode": "95841",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5343cd5e-198a-437c-bc79-cf47e5abc2f9/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5343cd5e-198a-437c-bc79-cf47e5abc2f9/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5343cd5e-198a-437c-bc79-cf47e5abc2f9/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5343cd5e-198a-437c-bc79-cf47e5abc2f9/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5343cd5e-198a-437c-bc79-cf47e5abc2f9/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5343cd5e-198a-437c-bc79-cf47e5abc2f9/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5343cd5e-198a-437c-bc79-cf47e5abc2f9/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5343cd5e-198a-437c-bc79-cf47e5abc2f9/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5343cd5e-198a-437c-bc79-cf47e5abc2f9/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5343cd5e-198a-437c-bc79-cf47e5abc2f9/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5343cd5e-198a-437c-bc79-cf47e5abc2f9/islphoto/genIsl.10_1.jpg"
+    ]
+}

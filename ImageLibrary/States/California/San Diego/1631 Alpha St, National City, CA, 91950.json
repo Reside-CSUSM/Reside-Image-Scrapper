@@ -1,0 +1,36 @@
+{
+    "Address": "1631 Alpha St, National City, CA, 91950",
+    "Price": "$699,000",
+    "Stats": [
+        "$699,000",
+        "3 beds",
+        "1.5 baths",
+        "1,064 sq ft",
+        "8,400 sq ft (lot)",
+        "1631 Alpha St, National City, CA 91950"
+    ],
+    "State": "CA",
+    "City": "National City",
+    "Street": "1631 Alpha St",
+    "ZipCode": "91950",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/894/genIslnoResize.240003894_17_1.jpg"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Address": "4326 Copeland Ave #2, San Diego, CA, 92105",
+    "Price": "$350,000",
+    "Stats": [
+        "$350,000",
+        "1 bed",
+        "1 bath",
+        "550 sq ft",
+        "4326 Copeland Ave #2, San Diego, CA 92105"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "4326 Copeland Ave #2",
+    "ZipCode": "92105",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/937/genIslnoResize.240003937_18_1.jpg"
+    ]
+}

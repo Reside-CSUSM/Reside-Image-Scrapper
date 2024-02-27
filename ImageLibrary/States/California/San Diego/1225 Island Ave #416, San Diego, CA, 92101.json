@@ -1,0 +1,35 @@
+{
+    "Address": "1225 Island Ave #416, San Diego, CA, 92101",
+    "Price": "$485,000",
+    "Stats": [
+        "$485,000",
+        "1 bed",
+        "1 bath",
+        "646 sq ft",
+        "1225 Island Ave #416, San Diego, CA 92101"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "1225 Island Ave #416",
+    "ZipCode": "92101",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240003891_17_0.jpg"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Address": "711 14th St Unit 04, Sacramento, CA, 95814",
+    "Price": "$1,145/mo",
+    "Stats": [
+        "$1,145/mo",
+        "0 beds",
+        "1 bath",
+        "400 sq ft",
+        "711 14th St Unit 04, Sacramento, CA 95814",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(415) 342-4220"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "711 14th St Unit 04",
+    "ZipCode": "95814",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a876e809-d9ff-4cbf-8c23-f73b859aaed3/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a876e809-d9ff-4cbf-8c23-f73b859aaed3/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a876e809-d9ff-4cbf-8c23-f73b859aaed3/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a876e809-d9ff-4cbf-8c23-f73b859aaed3/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a876e809-d9ff-4cbf-8c23-f73b859aaed3/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a876e809-d9ff-4cbf-8c23-f73b859aaed3/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a876e809-d9ff-4cbf-8c23-f73b859aaed3/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a876e809-d9ff-4cbf-8c23-f73b859aaed3/islphoto/genIsl.7_1.jpg"
+    ]
+}

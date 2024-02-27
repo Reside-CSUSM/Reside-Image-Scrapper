@@ -1,0 +1,33 @@
+{
+    "Address": "4960 Dafter Pl, San Diego, CA, 92102",
+    "Price": "$760,000",
+    "Stats": [
+        "$760,000",
+        "3 beds",
+        "2 baths",
+        "1,204 sq ft",
+        "0.24 acre (lot)",
+        "4960 Dafter Pl, San Diego, CA 92102"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "4960 Dafter Pl",
+    "ZipCode": "92102",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/368/genIslnoResize.240003368_14_0.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Address": "3671 Shining Star Dr, Sacramento, CA, 95823",
+    "Price": "$3,000/mo",
+    "Stats": [
+        "$3,000/mo",
+        "4 beds",
+        "2 baths",
+        "1,395 sq ft",
+        "3671 Shining Star Dr, Sacramento, CA 95823",
+        " House",
+        "Request a tour",
+        "(844) 262-1671"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3671 Shining Star Dr",
+    "ZipCode": "95823",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37857c2f-bb59-428b-8981-1137966f1bc2/islphoto/genIsl.13_2.jpg"
+    ]
+}

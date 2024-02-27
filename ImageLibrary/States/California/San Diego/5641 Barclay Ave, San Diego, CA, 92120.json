@@ -1,0 +1,16 @@
+{
+    "Address": "5641 Barclay Ave, San Diego, CA, 92120",
+    "Price": "$799,000",
+    "Stats": [
+        "$799,000",
+        "3 beds",
+        "1.5 baths",
+        "1,183 sq ft",
+        "5641 Barclay Ave, San Diego, CA 92120"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "5641 Barclay Ave",
+    "ZipCode": "92120",
+    "Images": []
+}

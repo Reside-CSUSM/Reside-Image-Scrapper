@@ -1,0 +1,31 @@
+{
+    "Address": "4500 Del Rio Rd, Sacramento, CA, 95822",
+    "Price": "$1,795/mo",
+    "Stats": [
+        "$1,795/mo",
+        "2 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "4500 Del Rio Rd, Sacramento, CA 95822",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "4500 Del Rio Rd",
+    "ZipCode": "95822",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bf1383d0-3b43-4162-94da-cdf8d556feb8/islphoto/genIsl.11_1.jpg"
+    ]
+}

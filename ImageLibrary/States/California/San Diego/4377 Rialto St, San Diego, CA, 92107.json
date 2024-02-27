@@ -1,0 +1,35 @@
+{
+    "Address": "4377 Rialto St, San Diego, CA, 92107",
+    "Price": "$2,500,000",
+    "Stats": [
+        "$2,500,000",
+        "0 beds",
+        "\u2014 baths",
+        "6,255 sq ft (lot)",
+        "4377 Rialto St, San Diego, CA 92107"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "4377 Rialto St",
+    "ZipCode": "92107",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/054/genIslnoResize.240004054_17_1.jpg"
+    ]
+}

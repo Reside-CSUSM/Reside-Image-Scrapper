@@ -1,0 +1,25 @@
+{
+    "Address": "8034 Linda Vista Rd Unit 2K, San Diego, CA, 92111",
+    "Price": "$475,000",
+    "Stats": [
+        "$475,000",
+        "1 bed",
+        "1 bath",
+        "618 sq ft",
+        "8034 Linda Vista Rd Unit 2K, San Diego, CA 92111"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "8034 Linda Vista Rd Unit 2K",
+    "ZipCode": "92111",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/218/genIslnoResize.SW24039218_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/218/genIslnoResize.SW24039218_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/218/genIslnoResize.SW24039218_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/218/genIslnoResize.SW24039218_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/218/genIslnoResize.SW24039218_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/218/genIslnoResize.SW24039218_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/218/genIslnoResize.SW24039218_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/218/genIslnoResize.SW24039218_7_0.jpg"
+    ]
+}

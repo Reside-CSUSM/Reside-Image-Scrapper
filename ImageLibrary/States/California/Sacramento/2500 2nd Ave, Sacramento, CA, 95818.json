@@ -1,0 +1,30 @@
+{
+    "Address": "2500 2nd Ave, Sacramento, CA, 95818",
+    "Price": "$1,195/mo",
+    "Stats": [
+        "$1,195/mo",
+        "0 beds",
+        "1 bath",
+        "650 sq ft",
+        "2500 2nd Ave, Sacramento, CA 95818",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2500 2nd Ave",
+    "ZipCode": "95818",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/2d6a6aff-8c53-464b-8b60-e23660908694/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d6a6aff-8c53-464b-8b60-e23660908694/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d6a6aff-8c53-464b-8b60-e23660908694/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d6a6aff-8c53-464b-8b60-e23660908694/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d6a6aff-8c53-464b-8b60-e23660908694/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d6a6aff-8c53-464b-8b60-e23660908694/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d6a6aff-8c53-464b-8b60-e23660908694/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d6a6aff-8c53-464b-8b60-e23660908694/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d6a6aff-8c53-464b-8b60-e23660908694/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d6a6aff-8c53-464b-8b60-e23660908694/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d6a6aff-8c53-464b-8b60-e23660908694/islphoto/genIsl.10_1.jpg"
+    ]
+}

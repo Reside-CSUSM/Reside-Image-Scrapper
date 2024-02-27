@@ -1,0 +1,40 @@
+{
+    "Address": "6795 Alvarado Rd #7, San Diego, CA, 92120",
+    "Price": "$510,000",
+    "Stats": [
+        "$510,000",
+        "2 beds",
+        "1.5 baths",
+        "1,120 sq ft",
+        "6795 Alvarado Rd #7, San Diego, CA 92120"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "6795 Alvarado Rd #7",
+    "ZipCode": "92120",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/675/genIslnoResize.240002675_22_0.jpg"
+    ]
+}

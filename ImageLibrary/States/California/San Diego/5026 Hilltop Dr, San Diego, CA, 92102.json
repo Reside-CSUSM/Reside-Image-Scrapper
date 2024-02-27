@@ -1,0 +1,35 @@
+{
+    "Address": "5026 Hilltop Dr, San Diego, CA, 92102",
+    "Price": "$769,500",
+    "Stats": [
+        "$769,500",
+        "3 beds",
+        "2.5 baths",
+        "1,491 sq ft",
+        "2,450 sq ft (lot)",
+        "5026 Hilltop Dr, San Diego, CA 92102"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "5026 Hilltop Dr",
+    "ZipCode": "92102",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2401024_16_0.jpg"
+    ]
+}

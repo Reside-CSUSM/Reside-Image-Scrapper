@@ -1,0 +1,34 @@
+{
+    "Address": "3500 Marjorie Way, Sacramento, CA, 95820",
+    "Price": "$2,500/mo",
+    "Stats": [
+        "$2,500/mo",
+        "2 beds",
+        "1 bath",
+        "932 sq ft",
+        "3500 Marjorie Way, Sacramento, CA 95820",
+        " House",
+        "Request a tour",
+        "(916) 271-5119"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3500 Marjorie Way",
+    "ZipCode": "95820",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48b4d851-057b-4c09-b97e-add506bef7f8/islphoto/genIsl.13_1.jpg"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Address": "5330 25th St, Sacramento, CA, 95822",
+    "Price": "$2,495/mo",
+    "Stats": [
+        "$2,495/mo",
+        "3 beds",
+        "1 bath",
+        "1,445 sq ft",
+        "5330 25th St, Sacramento, CA 95822",
+        " House",
+        "Request a tour",
+        "(424) 237-9863"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "5330 25th St",
+    "ZipCode": "95822",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66fb43aa-e09b-4cda-b25b-4a4ee6c14bd6/islphoto/genIsl.12_1.jpg"
+    ]
+}

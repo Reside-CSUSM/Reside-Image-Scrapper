@@ -1,0 +1,32 @@
+{
+    "Address": "3024 53rd St, Sacramento, CA, 95820",
+    "Price": "$2,694/mo",
+    "Stats": [
+        "$2,694/mo",
+        "3 beds",
+        "2 baths",
+        "1,175 sq ft",
+        "3024 53rd St, Sacramento, CA 95820",
+        " House",
+        "Request a tour",
+        "(916) 760-8295"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3024 53rd St",
+    "ZipCode": "95820",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8574c4d3-421b-4ae9-818c-97179bd0a1f3/islphoto/genIsl.11_1.jpg"
+    ]
+}

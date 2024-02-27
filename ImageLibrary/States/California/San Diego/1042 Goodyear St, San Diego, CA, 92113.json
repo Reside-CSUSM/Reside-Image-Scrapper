@@ -1,0 +1,42 @@
+{
+    "Address": "1042 Goodyear St, San Diego, CA, 92113",
+    "Price": "$625,000",
+    "Stats": [
+        "$625,000",
+        "2 beds",
+        "1 bath",
+        "712 sq ft",
+        "2,648 sq ft (lot)",
+        "1042 Goodyear St, San Diego, CA 92113"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "1042 Goodyear St",
+    "ZipCode": "92113",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/523/genIslnoResize.240003523_23_2.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Address": "8421 Summerdale Rd Unit A, San Diego, CA, 92126",
+    "Price": "$664,900",
+    "Stats": [
+        "$664,900",
+        "2 beds",
+        "2 baths",
+        "1,101 sq ft",
+        "8421 Summerdale Rd Unit A, San Diego, CA 92126"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "8421 Summerdale Rd Unit A",
+    "ZipCode": "92126",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/238/genIslnoResize.TR24038238_13_0.jpg"
+    ]
+}

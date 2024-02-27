@@ -1,0 +1,19 @@
+{
+    "Address": "16170 Avenida Venusto #42, San Diego, CA, 92128",
+    "Price": "$799,000",
+    "Stats": [
+        "$799,000",
+        "3 beds",
+        "2.5 baths",
+        "1,672 sq ft",
+        "16170 Avenida Venusto #42, San Diego, CA 92128",
+        "United Real Estate San Diego"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "16170 Avenida Venusto #42",
+    "ZipCode": "92128",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/035/genIslnoResize.PTP2401035_0.jpg"
+    ]
+}

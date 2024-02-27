@@ -1,0 +1,18 @@
+{
+    "Address": "11315 Affinity Ct #142, San Diego, CA, 92131",
+    "Price": "$725,000",
+    "Stats": [
+        "$725,000",
+        "3 beds",
+        "2 baths",
+        "1,273 sq ft",
+        "11315 Affinity Ct #142, San Diego, CA 92131"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "11315 Affinity Ct #142",
+    "ZipCode": "92131",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/994/genIslnoResize.PTP2400994_1.jpg"
+    ]
+}

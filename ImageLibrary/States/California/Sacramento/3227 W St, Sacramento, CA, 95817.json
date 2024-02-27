@@ -1,0 +1,29 @@
+{
+    "Address": "3227 W St, Sacramento, CA, 95817",
+    "Price": "$1,195/mo",
+    "Stats": [
+        "$1,195/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "3227 W St, Sacramento, CA 95817",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3227 W St",
+    "ZipCode": "95817",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/71cdc7f7-8ac6-4361-bea2-444b86df5a33/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71cdc7f7-8ac6-4361-bea2-444b86df5a33/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71cdc7f7-8ac6-4361-bea2-444b86df5a33/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71cdc7f7-8ac6-4361-bea2-444b86df5a33/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71cdc7f7-8ac6-4361-bea2-444b86df5a33/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71cdc7f7-8ac6-4361-bea2-444b86df5a33/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71cdc7f7-8ac6-4361-bea2-444b86df5a33/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71cdc7f7-8ac6-4361-bea2-444b86df5a33/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71cdc7f7-8ac6-4361-bea2-444b86df5a33/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71cdc7f7-8ac6-4361-bea2-444b86df5a33/islphoto/genIsl.9_3.jpg"
+    ]
+}

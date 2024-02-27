@@ -1,0 +1,33 @@
+{
+    "Address": "2941 Marconi Ave, Sacramento, CA, 95821",
+    "Price": "$1,325/mo",
+    "Stats": [
+        "$1,325/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "2941 Marconi Ave, Sacramento, CA 95821",
+        " Apartment",
+        "Request a tour",
+        "(866) 620-1745"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2941 Marconi Ave",
+    "ZipCode": "95821",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.0_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.1_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.5_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.6_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af0a694a-d2fe-4d6a-8abe-4e57112820c3/islphoto/genIsl.12_4.jpg"
+    ]
+}

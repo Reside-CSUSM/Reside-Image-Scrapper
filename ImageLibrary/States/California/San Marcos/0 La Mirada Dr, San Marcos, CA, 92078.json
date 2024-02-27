@@ -1,0 +1,22 @@
+{
+    "Address": "0 La Mirada Dr, San Marcos, CA, 92078",
+    "Price": "$599,999",
+    "Stats": [
+        "$599,999",
+        "\u2014 beds",
+        "\u2014 baths",
+        "1.02 acres (lot)",
+        "0 La Mirada Dr, San Marcos, CA 92078"
+    ],
+    "State": "CA",
+    "City": "San Marcos",
+    "Street": "0 La Mirada Dr",
+    "ZipCode": "92078",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/053/genIslnoResize.CV23111053_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/053/genIslnoResize.CV23111053_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/053/genIslnoResize.CV23111053_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/053/genIslnoResize.CV23111053_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/053/genIslnoResize.CV23111053_4_0.jpg"
+    ]
+}

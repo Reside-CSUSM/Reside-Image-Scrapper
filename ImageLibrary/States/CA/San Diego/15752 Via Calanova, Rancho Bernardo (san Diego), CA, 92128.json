@@ -1,0 +1,22 @@
+{
+    "Address": "15752 Via Calanova, Rancho Bernardo (san Diego), CA, 92128",
+    "Price": "$738,500",
+    "Stats": [
+        "$738,500",
+        "2 beds",
+        "2 baths",
+        "1,168 sq ft",
+        "3,242 sq ft (lot)",
+        "15752 Via Calanova, Rancho Bernardo (san Diego), CA 92128"
+    ],
+    "State": "CA",
+    "City": "Rancho Bernardo (san Diego)",
+    "Street": "15752 Via Calanova",
+    "ZipCode": "92128",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/628/genIslnoResize.SW24036628_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/628/genIslnoResize.SW24036628_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/628/genIslnoResize.SW24036628_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/628/genIslnoResize.SW24036628_3_0.jpg"
+    ]
+}

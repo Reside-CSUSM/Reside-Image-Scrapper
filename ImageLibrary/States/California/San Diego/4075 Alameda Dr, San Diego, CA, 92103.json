@@ -1,0 +1,36 @@
+{
+    "Address": "4075 Alameda Dr, San Diego, CA, 92103",
+    "Price": "$2,995,000",
+    "Stats": [
+        "$2,995,000",
+        "4 beds",
+        "4 baths",
+        "2,958 sq ft",
+        "6,400 sq ft (lot)",
+        "4075 Alameda Dr, San Diego, CA 92103"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "4075 Alameda Dr",
+    "ZipCode": "92103",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/790/genIslnoResize.240003790_17_1.jpg"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Address": "6929 McQuillan Cir, Sacramento, CA, 95820",
+    "Price": "$965/mo",
+    "Stats": [
+        "$965/mo",
+        "5 beds",
+        "2 baths",
+        "\u2014 sq ft",
+        "6929 McQuillan Cir, Sacramento, CA 95820",
+        " House",
+        "Request a tour",
+        "(916) 367-3415"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "6929 McQuillan Cir",
+    "ZipCode": "95820",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/2991c4b7-09ab-4780-bd78-7c25df17e537/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2991c4b7-09ab-4780-bd78-7c25df17e537/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2991c4b7-09ab-4780-bd78-7c25df17e537/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2991c4b7-09ab-4780-bd78-7c25df17e537/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2991c4b7-09ab-4780-bd78-7c25df17e537/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2991c4b7-09ab-4780-bd78-7c25df17e537/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2991c4b7-09ab-4780-bd78-7c25df17e537/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2991c4b7-09ab-4780-bd78-7c25df17e537/islphoto/genIsl.7_2.jpg"
+    ]
+}

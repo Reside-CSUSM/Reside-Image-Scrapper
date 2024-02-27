@@ -1,0 +1,39 @@
+{
+    "Address": "3550 Ruffin Rd #254, San Diego, CA, 92123",
+    "Price": "$599,000",
+    "Stats": [
+        "$599,000",
+        "3 beds",
+        "2 baths",
+        "952 sq ft",
+        "3550 Ruffin Rd #254, San Diego, CA 92123"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "3550 Ruffin Rd #254",
+    "ZipCode": "92123",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/775/genIslnoResize.240003775_21_2.jpg"
+    ]
+}

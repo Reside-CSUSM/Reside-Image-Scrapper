@@ -1,0 +1,29 @@
+{
+    "Address": "MULBERRY Dr, San Marcos, CA, 92069",
+    "Price": "$1,850,000",
+    "Stats": [
+        "$1,850,000",
+        "0 beds",
+        "\u2014 baths",
+        "10.06 acres (lot)",
+        "MULBERRY Dr, San Marcos, CA 92069"
+    ],
+    "State": "CA",
+    "City": "San Marcos",
+    "Street": "MULBERRY Dr",
+    "ZipCode": "92069",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/551/genIslnoResize.200008551_11_2.jpg"
+    ]
+}

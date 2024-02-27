@@ -1,0 +1,25 @@
+{
+    "Address": "3224 W St, Sacramento, CA, 95817",
+    "Price": "$1,545/mo",
+    "Stats": [
+        "$1,545/mo",
+        "2 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "3224 W St, Sacramento, CA 95817",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3224 W St",
+    "ZipCode": "95817",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/19592a6c-cff4-41ee-87a5-9b877fbfa241/islphoto/genIsl.0_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19592a6c-cff4-41ee-87a5-9b877fbfa241/islphoto/genIsl.1_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19592a6c-cff4-41ee-87a5-9b877fbfa241/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19592a6c-cff4-41ee-87a5-9b877fbfa241/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19592a6c-cff4-41ee-87a5-9b877fbfa241/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19592a6c-cff4-41ee-87a5-9b877fbfa241/islphoto/genIsl.5_1.jpg"
+    ]
+}

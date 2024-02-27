@@ -1,0 +1,35 @@
+{
+    "Address": "5737 Blachly Way Unit 4, Sacramento, CA, 95841",
+    "Price": "$1,550/mo",
+    "Stats": [
+        "$1,550/mo",
+        "2 beds",
+        "1 bath",
+        "900 sq ft",
+        "5737 Blachly Way Unit 4, Sacramento, CA 95841",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(650) 580-2311"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "5737 Blachly Way Unit 4",
+    "ZipCode": "95841",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e2b2d12-ea52-47c4-a992-c6a2d612accb/islphoto/genIsl.14_2.jpg"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Address": "941 43rd Ave, Sacramento, CA, 95831",
+    "Price": "$1,850/mo",
+    "Stats": [
+        "$1,850/mo",
+        "2 beds",
+        "1 bath",
+        "900 sq ft",
+        "941 43rd Ave, Sacramento, CA 95831",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "941 43rd Ave",
+    "ZipCode": "95831",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/80673158-8e9c-40eb-8565-2fd5cd609a7c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/80673158-8e9c-40eb-8565-2fd5cd609a7c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/80673158-8e9c-40eb-8565-2fd5cd609a7c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/80673158-8e9c-40eb-8565-2fd5cd609a7c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/80673158-8e9c-40eb-8565-2fd5cd609a7c/islphoto/genIsl.4_1.jpg"
+    ]
+}

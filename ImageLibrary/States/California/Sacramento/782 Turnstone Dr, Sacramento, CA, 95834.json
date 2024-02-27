@@ -1,0 +1,41 @@
+{
+    "Address": "782 Turnstone Dr, Sacramento, CA, 95834",
+    "Price": "$2,750/mo",
+    "Stats": [
+        "$2,750/mo",
+        "4 beds",
+        "2 baths",
+        "1,385 sq ft",
+        "782 Turnstone Dr, Sacramento, CA 95834",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "782 Turnstone Dr",
+    "ZipCode": "95834",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ec726d9-3f55-4361-858a-d4b0131d6a7d/islphoto/genIsl.21_1.jpg"
+    ]
+}

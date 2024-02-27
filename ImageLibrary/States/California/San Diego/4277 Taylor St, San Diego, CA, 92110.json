@@ -1,0 +1,25 @@
+{
+    "Address": "4277 Taylor St, San Diego, CA, 92110",
+    "Price": "$1,800,000",
+    "Stats": [
+        "$1,800,000",
+        "0 beds",
+        "\u2014 baths",
+        "4277 Taylor St, San Diego, CA 92110"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "4277 Taylor St",
+    "ZipCode": "92110",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/796/genIslnoResize.240003796_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/796/genIslnoResize.240003796_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/796/genIslnoResize.240003796_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/796/genIslnoResize.240003796_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/796/genIslnoResize.240003796_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/796/genIslnoResize.240003796_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/796/genIslnoResize.240003796_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/796/genIslnoResize.240003796_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/796/genIslnoResize.240003796_8_1.jpg"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Address": "6619 Oakridge Rd, San Diego, CA, 92120",
+    "Price": "$1,040,000",
+    "Stats": [
+        "$1,040,000",
+        "3 beds",
+        "3 baths",
+        "1,616 sq ft",
+        "6619 Oakridge Rd, San Diego, CA 92120"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "6619 Oakridge Rd",
+    "ZipCode": "92120",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/959/genIslnoResize.240003959_24_0.jpg"
+    ]
+}

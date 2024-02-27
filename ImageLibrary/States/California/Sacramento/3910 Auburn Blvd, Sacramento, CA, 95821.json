@@ -1,0 +1,26 @@
+{
+    "Address": "3910 Auburn Blvd, Sacramento, CA, 95821",
+    "Price": "$1,825/mo",
+    "Stats": [
+        "$1,825/mo",
+        "2 beds",
+        "1 bath",
+        "875 sq ft",
+        "3910 Auburn Blvd, Sacramento, CA 95821",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3910 Auburn Blvd",
+    "ZipCode": "95821",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fb13678e-b32b-446d-981b-5d62792ab12f/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb13678e-b32b-446d-981b-5d62792ab12f/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb13678e-b32b-446d-981b-5d62792ab12f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb13678e-b32b-446d-981b-5d62792ab12f/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb13678e-b32b-446d-981b-5d62792ab12f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb13678e-b32b-446d-981b-5d62792ab12f/islphoto/genIsl.5_1.jpg"
+    ]
+}

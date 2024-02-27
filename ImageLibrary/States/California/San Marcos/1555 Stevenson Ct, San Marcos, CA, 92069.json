@@ -1,0 +1,22 @@
+{
+    "Address": "1555 Stevenson Ct, San Marcos, CA, 92069",
+    "Price": "$1,530,000",
+    "Stats": [
+        "$1,530,000",
+        "4 beds",
+        "2.5 baths",
+        "2,700 sq ft",
+        "1.00 acre (lot)",
+        "1555 Stevenson Ct, San Marcos, CA 92069"
+    ],
+    "State": "CA",
+    "City": "San Marcos",
+    "Street": "1555 Stevenson Ct",
+    "ZipCode": "92069",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/364/genIslnoResize.NDP2401364_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/364/genIslnoResize.NDP2401364_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/364/genIslnoResize.NDP2401364_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/364/genIslnoResize.NDP2401364_3_0.jpg"
+    ]
+}

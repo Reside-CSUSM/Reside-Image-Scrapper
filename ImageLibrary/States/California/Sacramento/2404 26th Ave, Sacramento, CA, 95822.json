@@ -1,0 +1,20 @@
+{
+    "Address": "2404 26th Ave, Sacramento, CA, 95822",
+    "Price": "$1,645/mo",
+    "Stats": [
+        "$1,645/mo",
+        "2 beds",
+        "1 bath",
+        "890 sq ft",
+        "2404 26th Ave, Sacramento, CA 95822",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2404 26th Ave",
+    "ZipCode": "95822",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/75a54e72-7a07-4180-ada4-4ef2b6710b02/islphoto/genIsl.0_1.jpg"
+    ]
+}

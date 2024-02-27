@@ -1,0 +1,42 @@
+{
+    "Address": "3650 5Th Ave #413, San Diego, CA, 92103",
+    "Price": "$625,000",
+    "Stats": [
+        "$625,000",
+        "1 bed",
+        "1 bath",
+        "864 sq ft",
+        "3650 5Th Ave #413, San Diego, CA 92103"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "3650 5Th Ave #413",
+    "ZipCode": "92103",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/868/genIslnoResize.240003868_24_0.jpg"
+    ]
+}

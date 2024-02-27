@@ -1,0 +1,30 @@
+{
+    "Address": "9141 Newhall Dr #59, Sacramento, CA, 95826",
+    "Price": "$2,300/mo",
+    "Stats": [
+        "$2,300/mo",
+        "2 beds",
+        "1.5 baths",
+        "1,140 sq ft",
+        "9141 Newhall Dr #59, Sacramento, CA 95826",
+        " Condo",
+        "Request a tour",
+        "(877) 262-0722"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "9141 Newhall Dr #59",
+    "ZipCode": "95826",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8e51705e-9e47-4545-aa3f-fe371c53cb2c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e51705e-9e47-4545-aa3f-fe371c53cb2c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e51705e-9e47-4545-aa3f-fe371c53cb2c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e51705e-9e47-4545-aa3f-fe371c53cb2c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e51705e-9e47-4545-aa3f-fe371c53cb2c/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e51705e-9e47-4545-aa3f-fe371c53cb2c/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e51705e-9e47-4545-aa3f-fe371c53cb2c/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e51705e-9e47-4545-aa3f-fe371c53cb2c/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e51705e-9e47-4545-aa3f-fe371c53cb2c/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e51705e-9e47-4545-aa3f-fe371c53cb2c/islphoto/genIsl.9_1.jpg"
+    ]
+}

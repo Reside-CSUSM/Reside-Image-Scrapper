@@ -1,0 +1,21 @@
+{
+    "Address": "3535 Linda Vista Dr #153, San Marcos, CA, 92078",
+    "Price": "$285,000",
+    "Stats": [
+        "$285,000",
+        "2 beds",
+        "2 baths",
+        "1,440 sq ft",
+        "3535 Linda Vista Dr #153, San Marcos, CA 92078"
+    ],
+    "State": "CA",
+    "City": "San Marcos",
+    "Street": "3535 Linda Vista Dr #153",
+    "ZipCode": "92078",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/243/genIslnoResize.OC24039243_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/243/genIslnoResize.OC24039243_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/243/genIslnoResize.OC24039243_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/243/genIslnoResize.OC24039243_3_0.jpg"
+    ]
+}

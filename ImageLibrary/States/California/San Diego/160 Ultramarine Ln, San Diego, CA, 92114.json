@@ -1,0 +1,40 @@
+{
+    "Address": "160 Ultramarine Ln, San Diego, CA, 92114",
+    "Price": "$799,000",
+    "Stats": [
+        "$799,000",
+        "4 beds",
+        "2 baths",
+        "1,475 sq ft",
+        "5,767 sq ft (lot)",
+        "160 Ultramarine Ln, San Diego, CA 92114"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "160 Ultramarine Ln",
+    "ZipCode": "92114",
+    "Images": [
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_27.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_33.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_31.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_5.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_4.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_30.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_29.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_11.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_12.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_13.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_14.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_32.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_21.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_15.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_20.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_16.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_17.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_1.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_22.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_23.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_24.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/881138_JPG/genDesktopMapHomeCardUrl/item_25.jpg"
+    ]
+}

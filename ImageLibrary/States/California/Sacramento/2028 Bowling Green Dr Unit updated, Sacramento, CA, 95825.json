@@ -1,0 +1,30 @@
+{
+    "Address": "2028 Bowling Green Dr Unit updated, Sacramento, CA, 95825",
+    "Price": "$1,650/mo",
+    "Stats": [
+        "$1,650/mo",
+        "3 beds",
+        "2 baths",
+        "994 sq ft",
+        "2028 Bowling Green Dr Unit updated, Sacramento, CA 95825",
+        " House",
+        "Request a tour",
+        "(910) 556-1062"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2028 Bowling Green Dr Unit updated",
+    "ZipCode": "95825",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3b9c0114-680b-4464-be5e-ac0160c84190/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b9c0114-680b-4464-be5e-ac0160c84190/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b9c0114-680b-4464-be5e-ac0160c84190/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b9c0114-680b-4464-be5e-ac0160c84190/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b9c0114-680b-4464-be5e-ac0160c84190/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b9c0114-680b-4464-be5e-ac0160c84190/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b9c0114-680b-4464-be5e-ac0160c84190/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b9c0114-680b-4464-be5e-ac0160c84190/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b9c0114-680b-4464-be5e-ac0160c84190/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b9c0114-680b-4464-be5e-ac0160c84190/islphoto/genIsl.9_1.jpg"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Address": "7690 W Bay Ln, Sacramento, CA, 95831",
+    "Price": "$2,850/mo",
+    "Stats": [
+        "$2,850/mo",
+        "3 beds",
+        "3 baths",
+        "2,259 sq ft",
+        "7690 W Bay Ln, Sacramento, CA 95831",
+        " House",
+        "Request a tour",
+        "(916) 718-4488"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "7690 W Bay Ln",
+    "ZipCode": "95831",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fa599f8c-0f2a-48c2-87ad-53fc2a0e232f/islphoto/genIsl.17_1.jpg"
+    ]
+}

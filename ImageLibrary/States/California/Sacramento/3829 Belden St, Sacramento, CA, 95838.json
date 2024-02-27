@@ -1,0 +1,41 @@
+{
+    "Address": "3829 Belden St, Sacramento, CA, 95838",
+    "Price": "$2,400/mo",
+    "Stats": [
+        "$2,400/mo",
+        "3 beds",
+        "2 baths",
+        "1,001 sq ft",
+        "3829 Belden St, Sacramento, CA 95838",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3829 Belden St",
+    "ZipCode": "95838",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ee3ff93d-1404-42b8-901e-949e3a99767c/islphoto/genIsl.21_1.jpg"
+    ]
+}

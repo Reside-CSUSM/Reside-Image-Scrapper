@@ -1,0 +1,31 @@
+{
+    "Address": "2201 Arena Blvd, Sacramento, CA, 95834",
+    "Price": "$2,365/mo",
+    "Stats": [
+        "$2,365/mo",
+        "2 beds",
+        "2 baths",
+        "1,136 sq ft",
+        "2201 Arena Blvd, Sacramento, CA 95834",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2201 Arena Blvd",
+    "ZipCode": "95834",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/39af6b55-bfb3-4d88-b3e7-72cf67e7730a/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39af6b55-bfb3-4d88-b3e7-72cf67e7730a/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39af6b55-bfb3-4d88-b3e7-72cf67e7730a/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39af6b55-bfb3-4d88-b3e7-72cf67e7730a/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39af6b55-bfb3-4d88-b3e7-72cf67e7730a/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39af6b55-bfb3-4d88-b3e7-72cf67e7730a/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39af6b55-bfb3-4d88-b3e7-72cf67e7730a/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39af6b55-bfb3-4d88-b3e7-72cf67e7730a/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39af6b55-bfb3-4d88-b3e7-72cf67e7730a/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39af6b55-bfb3-4d88-b3e7-72cf67e7730a/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39af6b55-bfb3-4d88-b3e7-72cf67e7730a/islphoto/genIsl.10_1.jpg"
+    ]
+}

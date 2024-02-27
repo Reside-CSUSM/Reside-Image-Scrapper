@@ -1,0 +1,20 @@
+{
+    "Address": "8987 Jade Coast, San Diego, CA, 92126",
+    "Price": "$940,000",
+    "Stats": [
+        "$940,000",
+        "6 beds",
+        "3 baths",
+        "2,158 sq ft",
+        "5,800 sq ft (lot)",
+        "8987 Jade Coast, San Diego, CA 92126"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "8987 Jade Coast",
+    "ZipCode": "92126",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/722/genIslnoResize.240003722_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/722/genIslnoResize.240003722_1_1.jpg"
+    ]
+}

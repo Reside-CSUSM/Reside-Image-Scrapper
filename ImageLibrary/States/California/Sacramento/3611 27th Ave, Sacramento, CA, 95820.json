@@ -1,0 +1,26 @@
+{
+    "Address": "3611 27th Ave, Sacramento, CA, 95820",
+    "Price": "$1,495/mo",
+    "Stats": [
+        "$1,495/mo",
+        "2 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "3611 27th Ave, Sacramento, CA 95820",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3611 27th Ave",
+    "ZipCode": "95820",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/751f6abb-d32c-4f2d-b3d1-386b69f1acc1/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751f6abb-d32c-4f2d-b3d1-386b69f1acc1/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751f6abb-d32c-4f2d-b3d1-386b69f1acc1/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751f6abb-d32c-4f2d-b3d1-386b69f1acc1/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751f6abb-d32c-4f2d-b3d1-386b69f1acc1/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751f6abb-d32c-4f2d-b3d1-386b69f1acc1/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751f6abb-d32c-4f2d-b3d1-386b69f1acc1/islphoto/genIsl.6_1.jpg"
+    ]
+}

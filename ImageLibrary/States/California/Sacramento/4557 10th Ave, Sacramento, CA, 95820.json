@@ -1,0 +1,27 @@
+{
+    "Address": "4557 10th Ave, Sacramento, CA, 95820",
+    "Price": "$1,195/mo",
+    "Stats": [
+        "$1,195/mo",
+        "2 beds",
+        "1 bath",
+        "750 sq ft",
+        "4557 10th Ave, Sacramento, CA 95820",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(877) 603-9696"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "4557 10th Ave",
+    "ZipCode": "95820",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/02972963-799e-4fc4-a060-3930e9915b1e/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/02972963-799e-4fc4-a060-3930e9915b1e/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/02972963-799e-4fc4-a060-3930e9915b1e/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/02972963-799e-4fc4-a060-3930e9915b1e/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/02972963-799e-4fc4-a060-3930e9915b1e/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/02972963-799e-4fc4-a060-3930e9915b1e/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/02972963-799e-4fc4-a060-3930e9915b1e/islphoto/genIsl.6_1.jpg"
+    ]
+}

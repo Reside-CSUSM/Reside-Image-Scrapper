@@ -1,0 +1,26 @@
+{
+    "Address": "209 Wainwright Ct, Sacramento, CA, 95838",
+    "Price": "$1,800/mo",
+    "Stats": [
+        "$1,800/mo",
+        "2 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "209 Wainwright Ct, Sacramento, CA 95838",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "209 Wainwright Ct",
+    "ZipCode": "95838",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/58912a48-842e-469f-977f-95d1bf7c7684/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/58912a48-842e-469f-977f-95d1bf7c7684/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/58912a48-842e-469f-977f-95d1bf7c7684/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/58912a48-842e-469f-977f-95d1bf7c7684/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/58912a48-842e-469f-977f-95d1bf7c7684/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/58912a48-842e-469f-977f-95d1bf7c7684/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/58912a48-842e-469f-977f-95d1bf7c7684/islphoto/genIsl.6_1.jpg"
+    ]
+}

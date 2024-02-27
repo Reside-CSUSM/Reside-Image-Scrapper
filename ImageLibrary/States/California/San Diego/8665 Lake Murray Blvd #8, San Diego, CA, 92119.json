@@ -1,0 +1,41 @@
+{
+    "Address": "8665 Lake Murray Blvd #8, San Diego, CA, 92119",
+    "Price": "$419,000",
+    "Stats": [
+        "$419,000",
+        "1 bed",
+        "1 bath",
+        "610 sq ft",
+        "8665 Lake Murray Blvd #8, San Diego, CA 92119"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "8665 Lake Murray Blvd #8",
+    "ZipCode": "92119",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/756/genIslnoResize.240003756_23_1.jpg"
+    ]
+}

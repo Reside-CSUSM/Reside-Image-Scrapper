@@ -1,0 +1,23 @@
+{
+    "Address": "1514-16 Calavo Dr, Escondido, CA, 92026",
+    "Price": "$1,499,000",
+    "Stats": [
+        "$1,499,000",
+        "7 beds",
+        "7 baths",
+        "3,946 sq ft",
+        "1.02 acres (lot)",
+        "1514-16 Calavo Dr, Escondido, CA 92026"
+    ],
+    "State": "CA",
+    "City": "Escondido",
+    "Street": "1514-16 Calavo Dr",
+    "ZipCode": "92026",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/658/genIslnoResize.NDP2400658_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/658/genIslnoResize.NDP2400658_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/658/genIslnoResize.NDP2400658_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/658/genIslnoResize.NDP2400658_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/658/genIslnoResize.NDP2400658_4_0.jpg"
+    ]
+}

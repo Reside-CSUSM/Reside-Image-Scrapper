@@ -1,0 +1,32 @@
+{
+    "Address": "4428 Greenholme Dr #2, Sacramento, CA, 95842",
+    "Price": "$1,495/mo",
+    "Stats": [
+        "$1,495/mo",
+        "2 beds",
+        "1 bath",
+        "900 sq ft",
+        "4428 Greenholme Dr #2, Sacramento, CA 95842",
+        " Condo",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "4428 Greenholme Dr #2",
+    "ZipCode": "95842",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12983da0-b804-456c-a946-3badecc636c7/islphoto/genIsl.12_2.jpg"
+    ]
+}

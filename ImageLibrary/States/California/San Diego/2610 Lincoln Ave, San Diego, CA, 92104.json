@@ -1,0 +1,20 @@
+{
+    "Address": "2610 Lincoln Ave, San Diego, CA, 92104",
+    "Price": "$949,900",
+    "Stats": [
+        "$949,900",
+        "3 beds",
+        "2.5 baths",
+        "1,036 sq ft",
+        "2610 Lincoln Ave, San Diego, CA 92104"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "2610 Lincoln Ave",
+    "ZipCode": "92104",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_2_0.jpg"
+    ]
+}

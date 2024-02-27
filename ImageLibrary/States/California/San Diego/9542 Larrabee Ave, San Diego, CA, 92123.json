@@ -1,0 +1,19 @@
+{
+    "Address": "9542 Larrabee Ave, San Diego, CA, 92123",
+    "Price": "$949,900",
+    "Stats": [
+        "$949,900",
+        "3 beds",
+        "2 baths",
+        "1,150 sq ft",
+        "6,000 sq ft (lot)",
+        "9542 Larrabee Ave, San Diego, CA 92123"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "9542 Larrabee Ave",
+    "ZipCode": "92123",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/829/genIslnoResize.240003829_1.jpg"
+    ]
+}

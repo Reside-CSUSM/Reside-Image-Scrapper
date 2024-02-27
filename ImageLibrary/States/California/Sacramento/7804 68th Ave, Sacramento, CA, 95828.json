@@ -1,0 +1,31 @@
+{
+    "Address": "7804 68th Ave, Sacramento, CA, 95828",
+    "Price": "$1,550/mo",
+    "Stats": [
+        "$1,550/mo",
+        "2 beds",
+        "1.5 baths",
+        "\u2014 sq ft",
+        "7804 68th Ave, Sacramento, CA 95828",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "7804 68th Ave",
+    "ZipCode": "95828",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd861b3c-66db-4694-9bf3-c081575ecd0d/islphoto/genIsl.11_1.jpg"
+    ]
+}

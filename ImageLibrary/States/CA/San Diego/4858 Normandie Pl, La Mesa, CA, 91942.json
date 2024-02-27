@@ -1,0 +1,42 @@
+{
+    "Address": "4858 Normandie Pl, La Mesa, CA, 91942",
+    "Price": "$895,000",
+    "Stats": [
+        "$895,000",
+        "3 beds",
+        "2 baths",
+        "1,343 sq ft",
+        "4858 Normandie Pl, La Mesa, CA 91942"
+    ],
+    "State": "CA",
+    "City": "La Mesa",
+    "Street": "4858 Normandie Pl",
+    "ZipCode": "91942",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/037/genIslnoResize.240004037_24_1.jpg"
+    ]
+}

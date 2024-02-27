@@ -1,0 +1,24 @@
+{
+    "Address": "9235 Starina Way, Sacramento, CA, 95826",
+    "Price": "$2,595/mo",
+    "Stats": [
+        "$2,595/mo",
+        "4 beds",
+        "2 baths",
+        "1,600 sq ft",
+        "9235 Starina Way, Sacramento, CA 95826",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "9235 Starina Way",
+    "ZipCode": "95826",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/76922b66-cc0b-4247-a12d-b6267878ccbf/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/76922b66-cc0b-4247-a12d-b6267878ccbf/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/76922b66-cc0b-4247-a12d-b6267878ccbf/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/76922b66-cc0b-4247-a12d-b6267878ccbf/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/76922b66-cc0b-4247-a12d-b6267878ccbf/islphoto/genIsl.4_1.jpg"
+    ]
+}

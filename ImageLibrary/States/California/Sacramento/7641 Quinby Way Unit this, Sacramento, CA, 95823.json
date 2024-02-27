@@ -1,0 +1,24 @@
+{
+    "Address": "7641 Quinby Way Unit this, Sacramento, CA, 95823",
+    "Price": "$1,500/mo",
+    "Stats": [
+        "$1,500/mo",
+        "4 beds",
+        "2 baths",
+        "1,406 sq ft",
+        "7641 Quinby Way Unit this, Sacramento, CA 95823",
+        " House",
+        "Request a tour",
+        "(910) 556-1062"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "7641 Quinby Way Unit this",
+    "ZipCode": "95823",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f273fd3b-5c86-43e1-82d9-66179d812916/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f273fd3b-5c86-43e1-82d9-66179d812916/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f273fd3b-5c86-43e1-82d9-66179d812916/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f273fd3b-5c86-43e1-82d9-66179d812916/islphoto/genIsl.3_1.jpg"
+    ]
+}

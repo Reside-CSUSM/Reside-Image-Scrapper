@@ -1,0 +1,39 @@
+{
+    "Address": "7068 Belden St, San Diego, CA, 92111",
+    "Price": "$949,000",
+    "Stats": [
+        "$949,000",
+        "2 beds",
+        "2 baths",
+        "1,228 sq ft",
+        "6,000 sq ft (lot)",
+        "7068 Belden St, San Diego, CA 92111"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "7068 Belden St",
+    "ZipCode": "92111",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/918/genIslnoResize.240003918_20_0.jpg"
+    ]
+}

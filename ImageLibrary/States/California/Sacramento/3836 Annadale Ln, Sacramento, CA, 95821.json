@@ -1,0 +1,32 @@
+{
+    "Address": "3836 Annadale Ln, Sacramento, CA, 95821",
+    "Price": "$1,395/mo",
+    "Stats": [
+        "$1,395/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "3836 Annadale Ln, Sacramento, CA 95821",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3836 Annadale Ln",
+    "ZipCode": "95821",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/607ed102-b851-467d-9a39-74901e1c8f63/islphoto/genIsl.12_1.jpg"
+    ]
+}

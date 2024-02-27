@@ -1,0 +1,35 @@
+{
+    "Address": "1515 Capalina Rd #72, San Marcos, CA, 92069",
+    "Price": "$215,000",
+    "Stats": [
+        "$215,000",
+        "2 beds",
+        "2 baths",
+        "960 sq ft",
+        "1515 Capalina Rd #72, San Marcos, CA 92069"
+    ],
+    "State": "CA",
+    "City": "San Marcos",
+    "Street": "1515 Capalina Rd #72",
+    "ZipCode": "92069",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/292/genIslnoResize.230023292_17_1.jpg"
+    ]
+}

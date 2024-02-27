@@ -1,5 +1,9 @@
-import sys
-sys.path.insert(0, r'C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper')
+#import sys
+#sys.path.insert(0, r'C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper')
+import os, sys
+dir_path = os.path.dirname(os.path.realpath(__file__))
+parent_dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
+sys.path.insert(0, parent_dir_path)
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import copy
 from Redfin.interface import *
@@ -123,5 +127,5 @@ class HttpServer():
 
 
 #server = HttpServer('localhost', 9999)
-server = HttpServer('172.25.177.82', 9999)
+server = HttpServer('192.168.1.222', 9999)
 server.run()

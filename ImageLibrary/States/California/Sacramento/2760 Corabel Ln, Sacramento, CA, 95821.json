@@ -1,0 +1,30 @@
+{
+    "Address": "2760 Corabel Ln, Sacramento, CA, 95821",
+    "Price": "$1,550/mo",
+    "Stats": [
+        "$1,550/mo",
+        "2 beds",
+        "1 bath",
+        "1,100 sq ft",
+        "2760 Corabel Ln, Sacramento, CA 95821",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2760 Corabel Ln",
+    "ZipCode": "95821",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4470bb15-e55d-495b-b7ae-d8943b67e0dd/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4470bb15-e55d-495b-b7ae-d8943b67e0dd/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4470bb15-e55d-495b-b7ae-d8943b67e0dd/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4470bb15-e55d-495b-b7ae-d8943b67e0dd/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4470bb15-e55d-495b-b7ae-d8943b67e0dd/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4470bb15-e55d-495b-b7ae-d8943b67e0dd/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4470bb15-e55d-495b-b7ae-d8943b67e0dd/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4470bb15-e55d-495b-b7ae-d8943b67e0dd/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4470bb15-e55d-495b-b7ae-d8943b67e0dd/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4470bb15-e55d-495b-b7ae-d8943b67e0dd/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4470bb15-e55d-495b-b7ae-d8943b67e0dd/islphoto/genIsl.10_1.jpg"
+    ]
+}

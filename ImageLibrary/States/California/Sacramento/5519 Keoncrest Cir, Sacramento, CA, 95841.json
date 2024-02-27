@@ -1,0 +1,30 @@
+{
+    "Address": "5519 Keoncrest Cir, Sacramento, CA, 95841",
+    "Price": "$1,495/mo",
+    "Stats": [
+        "$1,495/mo",
+        "2 beds",
+        "1 bath",
+        "700 sq ft",
+        "5519 Keoncrest Cir, Sacramento, CA 95841",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "5519 Keoncrest Cir",
+    "ZipCode": "95841",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/eb6dfd69-a9fc-453b-b69e-0519125cfdfc/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb6dfd69-a9fc-453b-b69e-0519125cfdfc/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb6dfd69-a9fc-453b-b69e-0519125cfdfc/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb6dfd69-a9fc-453b-b69e-0519125cfdfc/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb6dfd69-a9fc-453b-b69e-0519125cfdfc/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb6dfd69-a9fc-453b-b69e-0519125cfdfc/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb6dfd69-a9fc-453b-b69e-0519125cfdfc/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb6dfd69-a9fc-453b-b69e-0519125cfdfc/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb6dfd69-a9fc-453b-b69e-0519125cfdfc/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb6dfd69-a9fc-453b-b69e-0519125cfdfc/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb6dfd69-a9fc-453b-b69e-0519125cfdfc/islphoto/genIsl.10_1.jpg"
+    ]
+}

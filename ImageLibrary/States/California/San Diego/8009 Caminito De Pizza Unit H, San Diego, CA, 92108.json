@@ -1,0 +1,34 @@
+{
+    "Address": "8009 Caminito De Pizza Unit H, San Diego, CA, 92108",
+    "Price": "$438,000",
+    "Stats": [
+        "$438,000",
+        "2 beds",
+        "1 bath",
+        "726 sq ft",
+        "8009 Caminito De Pizza Unit H, San Diego, CA 92108"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "8009 Caminito De Pizza Unit H",
+    "ZipCode": "92108",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/759/genIslnoResize.240003759_16_2.jpg"
+    ]
+}

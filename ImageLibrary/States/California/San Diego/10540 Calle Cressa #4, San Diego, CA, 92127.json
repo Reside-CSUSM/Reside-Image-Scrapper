@@ -1,0 +1,40 @@
+{
+    "Address": "10540 Calle Cressa #4, San Diego, CA, 92127",
+    "Price": "$950,000",
+    "Stats": [
+        "$950,000",
+        "3 beds",
+        "3.5 baths",
+        "1,484 sq ft",
+        "10540 Calle Cressa #4, San Diego, CA 92127"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "10540 Calle Cressa #4",
+    "ZipCode": "92127",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/881/genIslnoResize.240003881_22_1.jpg"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Address": "3042 Driscoll Dr, San Diego, CA, 92117",
+    "Price": "$1,051,000",
+    "Stats": [
+        "$1,051,000",
+        "4 beds",
+        "2 baths",
+        "1,470 sq ft",
+        "8,000 sq ft (lot)",
+        "3042 Driscoll Dr, San Diego, CA 92117"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "3042 Driscoll Dr",
+    "ZipCode": "92117",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/485/genIslnoResize.240003485_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/485/genIslnoResize.240003485_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/485/genIslnoResize.240003485_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/485/genIslnoResize.240003485_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/485/genIslnoResize.240003485_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/485/genIslnoResize.240003485_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/485/genIslnoResize.240003485_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/485/genIslnoResize.240003485_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/485/genIslnoResize.240003485_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/485/genIslnoResize.240003485_9_0.jpg"
+    ]
+}

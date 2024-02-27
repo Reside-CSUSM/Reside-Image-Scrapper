@@ -1,0 +1,30 @@
+{
+    "Address": "1679 Pentecost #7, San Diego, CA, 92105",
+    "Price": "$415,000",
+    "Stats": [
+        "$415,000",
+        "2 beds",
+        "1 bath",
+        "813 sq ft",
+        "1679 Pentecost #7, San Diego, CA 92105"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "1679 Pentecost #7",
+    "ZipCode": "92105",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/104/genIslnoResize.240004104_12_2.jpg"
+    ]
+}

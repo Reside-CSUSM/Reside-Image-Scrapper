@@ -1,0 +1,31 @@
+{
+    "Address": "8836 La Riviera Dr Unit B, Sacramento, CA, 95826",
+    "Price": "$1,995/mo",
+    "Stats": [
+        "$1,995/mo",
+        "3 beds",
+        "1.5 baths",
+        "1,191 sq ft",
+        "8836 La Riviera Dr Unit B, Sacramento, CA 95826",
+        " Condo",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "8836 La Riviera Dr Unit B",
+    "ZipCode": "95826",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/53121824-a3e5-420f-9400-34f5240f5e40/islphoto/genIsl.11_1.jpg"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Address": "2820 Hing Ave, Sacramento, CA, 95822",
+    "Price": "$3,195/mo",
+    "Stats": [
+        "$3,195/mo",
+        "5 beds",
+        "3 baths",
+        "2,230 sq ft",
+        "2820 Hing Ave, Sacramento, CA 95822",
+        " House",
+        "Request a tour",
+        "(844) 303-1863"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2820 Hing Ave",
+    "ZipCode": "95822",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a6b2db2c-4fc2-46e5-880b-a99e7fa97a92/islphoto/genIsl.14_1.jpg"
+    ]
+}

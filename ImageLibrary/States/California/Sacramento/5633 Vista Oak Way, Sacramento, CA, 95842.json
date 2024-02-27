@@ -1,0 +1,28 @@
+{
+    "Address": "5633 Vista Oak Way, Sacramento, CA, 95842",
+    "Price": "$1,775/mo",
+    "Stats": [
+        "$1,775/mo",
+        "3 beds",
+        "1 bath",
+        "1,054 sq ft",
+        "5633 Vista Oak Way, Sacramento, CA 95842",
+        " House",
+        "Request a tour",
+        "(910) 556-1062"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "5633 Vista Oak Way",
+    "ZipCode": "95842",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f56a5609-9562-4735-a477-4b6b4a1aa427/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f56a5609-9562-4735-a477-4b6b4a1aa427/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f56a5609-9562-4735-a477-4b6b4a1aa427/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f56a5609-9562-4735-a477-4b6b4a1aa427/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f56a5609-9562-4735-a477-4b6b4a1aa427/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f56a5609-9562-4735-a477-4b6b4a1aa427/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f56a5609-9562-4735-a477-4b6b4a1aa427/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f56a5609-9562-4735-a477-4b6b4a1aa427/islphoto/genIsl.7_1.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Address": "3401 Balmoral Dr, Sacramento, CA, 95821",
+    "Price": "$1,154/mo",
+    "Stats": [
+        "$1,154/mo",
+        "1 bed",
+        "1 bath",
+        "536 sq ft",
+        "3401 Balmoral Dr, Sacramento, CA 95821",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3401 Balmoral Dr",
+    "ZipCode": "95821",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82027a04-9fae-4927-86a3-a828a572aaeb/islphoto/genIsl.11_1.jpg"
+    ]
+}

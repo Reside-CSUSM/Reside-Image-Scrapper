@@ -1,0 +1,39 @@
+{
+    "Address": "11320 Camino Playa Cancun #1, San Diego, CA, 92124",
+    "Price": "$755,000",
+    "Stats": [
+        "$755,000",
+        "2 beds",
+        "2 baths",
+        "1,090 sq ft",
+        "2.01 acres (lot)",
+        "11320 Camino Playa Cancun #1, San Diego, CA 92124"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "11320 Camino Playa Cancun #1",
+    "ZipCode": "92124",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/995/genIslnoResize.240003995_20_2.jpg"
+    ]
+}

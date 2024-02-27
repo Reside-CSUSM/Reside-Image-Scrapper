@@ -1,0 +1,35 @@
+{
+    "Address": "2600 Torrey Pines Rd Unit B38, La Jolla, CA, 92037",
+    "Price": "$799,000",
+    "Stats": [
+        "$799,000",
+        "2 beds",
+        "2 baths",
+        "1,102 sq ft",
+        "2600 Torrey Pines Rd Unit B38, La Jolla, CA 92037"
+    ],
+    "State": "CA",
+    "City": "La Jolla",
+    "Street": "2600 Torrey Pines Rd Unit B38",
+    "ZipCode": "92037",
+    "Images": [
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_32.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_33.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_21.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_23.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_34.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_7.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_31.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_36.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_17.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_20.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_37.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_18.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_1.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_26.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_24.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_2.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_4.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/888353_JPG/genDesktopMapHomeCardUrl/item_30.jpg"
+    ]
+}

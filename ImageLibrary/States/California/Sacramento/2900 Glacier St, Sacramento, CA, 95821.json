@@ -1,0 +1,29 @@
+{
+    "Address": "2900 Glacier St, Sacramento, CA, 95821",
+    "Price": "$2,500/mo",
+    "Stats": [
+        "$2,500/mo",
+        "3 beds",
+        "2 baths",
+        "1,513 sq ft",
+        "2900 Glacier St, Sacramento, CA 95821",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2900 Glacier St",
+    "ZipCode": "95821",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c8714cd7-bb89-40b6-b815-b9aa75a8b62f/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8714cd7-bb89-40b6-b815-b9aa75a8b62f/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8714cd7-bb89-40b6-b815-b9aa75a8b62f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8714cd7-bb89-40b6-b815-b9aa75a8b62f/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8714cd7-bb89-40b6-b815-b9aa75a8b62f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8714cd7-bb89-40b6-b815-b9aa75a8b62f/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8714cd7-bb89-40b6-b815-b9aa75a8b62f/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8714cd7-bb89-40b6-b815-b9aa75a8b62f/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8714cd7-bb89-40b6-b815-b9aa75a8b62f/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8714cd7-bb89-40b6-b815-b9aa75a8b62f/islphoto/genIsl.9_1.jpg"
+    ]
+}

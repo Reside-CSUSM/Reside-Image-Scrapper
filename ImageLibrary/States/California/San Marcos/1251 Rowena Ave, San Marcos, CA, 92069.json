@@ -1,0 +1,20 @@
+{
+    "Address": "1251 Rowena Ave, San Marcos, CA, 92069",
+    "Price": "$689,000",
+    "Stats": [
+        "$689,000",
+        "3 beds",
+        "2 baths",
+        "1,000 sq ft",
+        "6,200 sq ft (lot)",
+        "1251 Rowena Ave, San Marcos, CA 92069",
+        "Arrive"
+    ],
+    "State": "CA",
+    "City": "San Marcos",
+    "Street": "1251 Rowena Ave",
+    "ZipCode": "92069",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.SW24034058_0.jpg"
+    ]
+}

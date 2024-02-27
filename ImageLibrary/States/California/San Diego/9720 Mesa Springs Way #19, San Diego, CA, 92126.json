@@ -1,0 +1,19 @@
+{
+    "Address": "9720 Mesa Springs Way #19, San Diego, CA, 92126",
+    "Price": "$450,000",
+    "Stats": [
+        "$450,000",
+        "1 bed",
+        "1 bath",
+        "772 sq ft",
+        "9720 Mesa Springs Way #19, San Diego, CA 92126"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "9720 Mesa Springs Way #19",
+    "ZipCode": "92126",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/972/genIslnoResize.PTP2400972_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/972/genIslnoResize.PTP2400972_1_1.jpg"
+    ]
+}

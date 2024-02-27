@@ -1,0 +1,28 @@
+{
+    "Address": "2792 26th Ave, Sacramento, CA, 95820",
+    "Price": "$2,095/mo",
+    "Stats": [
+        "$2,095/mo",
+        "2 beds",
+        "1 bath",
+        "914 sq ft",
+        "2792 26th Ave, Sacramento, CA 95820",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(833) 658-3477"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2792 26th Ave",
+    "ZipCode": "95820",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/98169d20-1af8-4df3-a5e4-2a094ab21720/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/98169d20-1af8-4df3-a5e4-2a094ab21720/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/98169d20-1af8-4df3-a5e4-2a094ab21720/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/98169d20-1af8-4df3-a5e4-2a094ab21720/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/98169d20-1af8-4df3-a5e4-2a094ab21720/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/98169d20-1af8-4df3-a5e4-2a094ab21720/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/98169d20-1af8-4df3-a5e4-2a094ab21720/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/98169d20-1af8-4df3-a5e4-2a094ab21720/islphoto/genIsl.7_1.jpg"
+    ]
+}

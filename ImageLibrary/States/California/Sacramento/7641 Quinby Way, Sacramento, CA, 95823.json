@@ -1,0 +1,32 @@
+{
+    "Address": "7641 Quinby Way, Sacramento, CA, 95823",
+    "Price": "$2,295/mo",
+    "Stats": [
+        "$2,295/mo",
+        "4 beds",
+        "2 baths",
+        "1,406 sq ft",
+        "7641 Quinby Way, Sacramento, CA 95823",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "7641 Quinby Way",
+    "ZipCode": "95823",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c9615d78-ab43-4291-abff-387bef0f6aad/islphoto/genIsl.12_2.jpg"
+    ]
+}

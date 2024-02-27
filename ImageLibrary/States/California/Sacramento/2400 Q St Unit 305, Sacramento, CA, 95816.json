@@ -1,0 +1,35 @@
+{
+    "Address": "2400 Q St Unit 305, Sacramento, CA, 95816",
+    "Price": "$1,650/mo",
+    "Stats": [
+        "$1,650/mo",
+        "0 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "2400 Q St Unit 305, Sacramento, CA 95816",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(916) 520-9792"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2400 Q St Unit 305",
+    "ZipCode": "95816",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c099284f-914e-4c09-acef-f1663db2789b/islphoto/genIsl.14_1.jpg"
+    ]
+}

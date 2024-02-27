@@ -1,0 +1,26 @@
+{
+    "Address": "593 Almond, San Marcos, CA, 92078",
+    "Price": "$650,000",
+    "Stats": [
+        "$650,000",
+        "2 beds",
+        "2.5 baths",
+        "1,051 sq ft",
+        "593 Almond, San Marcos, CA 92078"
+    ],
+    "State": "CA",
+    "City": "San Marcos",
+    "Street": "593 Almond",
+    "ZipCode": "92078",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/346/genIslnoResize.NDP2308346_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/346/genIslnoResize.NDP2308346_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/346/genIslnoResize.NDP2308346_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/346/genIslnoResize.NDP2308346_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/346/genIslnoResize.NDP2308346_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/346/genIslnoResize.NDP2308346_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/346/genIslnoResize.NDP2308346_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/346/genIslnoResize.NDP2308346_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/346/genIslnoResize.NDP2308346_8_0.jpg"
+    ]
+}

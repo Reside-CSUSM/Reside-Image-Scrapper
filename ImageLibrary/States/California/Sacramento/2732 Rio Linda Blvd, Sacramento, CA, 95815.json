@@ -1,0 +1,25 @@
+{
+    "Address": "2732 Rio Linda Blvd, Sacramento, CA, 95815",
+    "Price": "$1,300/mo",
+    "Stats": [
+        "$1,300/mo",
+        "1 bed",
+        "1 bath",
+        "550 sq ft",
+        "2732 Rio Linda Blvd, Sacramento, CA 95815",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(916) 480-8740"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2732 Rio Linda Blvd",
+    "ZipCode": "95815",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a2443faa-962d-4a88-bf45-37f5f8702ece/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2443faa-962d-4a88-bf45-37f5f8702ece/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2443faa-962d-4a88-bf45-37f5f8702ece/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2443faa-962d-4a88-bf45-37f5f8702ece/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2443faa-962d-4a88-bf45-37f5f8702ece/islphoto/genIsl.4_1.jpg"
+    ]
+}

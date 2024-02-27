@@ -1,0 +1,28 @@
+{
+    "Address": "5254 Foxborough, San Diego, CA, 92130",
+    "Price": "$2,725,000",
+    "Stats": [
+        "$2,725,000",
+        "5 beds",
+        "3 baths",
+        "2,724 sq ft",
+        "7,881 sq ft (lot)",
+        "5254 Foxborough, San Diego, CA 92130",
+        "CENTURY 21 Affiliated"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "5254 Foxborough",
+    "ZipCode": "92130",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/923/genIslnoResize.OC24015923_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/923/genIslnoResize.OC24015923_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/923/genIslnoResize.OC24015923_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/923/genIslnoResize.OC24015923_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/923/genIslnoResize.OC24015923_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/923/genIslnoResize.OC24015923_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/923/genIslnoResize.OC24015923_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/923/genIslnoResize.OC24015923_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/923/genIslnoResize.OC24015923_8_1.jpg"
+    ]
+}

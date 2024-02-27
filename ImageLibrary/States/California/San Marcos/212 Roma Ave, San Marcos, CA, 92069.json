@@ -1,0 +1,17 @@
+{
+    "Address": "212 Roma Ave, San Marcos, CA, 92069",
+    "Price": "$750,000",
+    "Stats": [
+        "$750,000",
+        "3 beds",
+        "2 baths",
+        "1,200 sq ft",
+        "3,549 sq ft (lot)",
+        "212 Roma Ave, San Marcos, CA 92069"
+    ],
+    "State": "CA",
+    "City": "San Marcos",
+    "Street": "212 Roma Ave",
+    "ZipCode": "92069",
+    "Images": []
+}

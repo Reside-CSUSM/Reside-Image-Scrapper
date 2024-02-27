@@ -1,0 +1,36 @@
+{
+    "Address": "3922 Santa Nella Pl, San Diego, CA, 92130",
+    "Price": "$1,679,000",
+    "Stats": [
+        "$1,679,000",
+        "3 beds",
+        "2.5 baths",
+        "2,220 sq ft",
+        "6,404 sq ft (lot)",
+        "3922 Santa Nella Pl, San Diego, CA 92130"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "3922 Santa Nella Pl",
+    "ZipCode": "92130",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/936/genIslnoResize.240003936_17_2.jpg"
+    ]
+}

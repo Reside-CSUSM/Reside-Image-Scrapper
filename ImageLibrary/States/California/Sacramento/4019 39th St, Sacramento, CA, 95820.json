@@ -1,0 +1,36 @@
+{
+    "Address": "4019 39th St, Sacramento, CA, 95820",
+    "Price": "$2,350/mo",
+    "Stats": [
+        "$2,350/mo",
+        "3 beds",
+        "2 baths",
+        "1,013 sq ft",
+        "4019 39th St, Sacramento, CA 95820",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "4019 39th St",
+    "ZipCode": "95820",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e131b9e-62c0-4e61-b39f-ff57a6d70d27/islphoto/genIsl.16_1.jpg"
+    ]
+}

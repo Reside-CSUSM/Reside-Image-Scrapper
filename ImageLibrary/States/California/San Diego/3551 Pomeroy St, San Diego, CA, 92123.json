@@ -1,0 +1,36 @@
+{
+    "Address": "3551 Pomeroy St, San Diego, CA, 92123",
+    "Price": "$1,069,900",
+    "Stats": [
+        "$1,069,900",
+        "3 beds",
+        "2 baths",
+        "1,272 sq ft",
+        "8,200 sq ft (lot)",
+        "3551 Pomeroy St, San Diego, CA 92123"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "3551 Pomeroy St",
+    "ZipCode": "92123",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/926/genIslnoResize.240003926_17_0.jpg"
+    ]
+}

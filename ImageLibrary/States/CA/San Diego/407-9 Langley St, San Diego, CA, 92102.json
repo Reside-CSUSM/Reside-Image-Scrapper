@@ -1,0 +1,19 @@
+{
+    "Address": "407-9 Langley St, San Diego, CA, 92102",
+    "Price": "$849,000",
+    "Stats": [
+        "$849,000",
+        "5 beds",
+        "3 baths",
+        "2,800 sq ft",
+        "3,319 sq ft (lot)",
+        "407-9 Langley St, San Diego, CA 92102"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "407-9 Langley St",
+    "ZipCode": "92102",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/022/genIslnoResize.240004022_3.jpg"
+    ]
+}

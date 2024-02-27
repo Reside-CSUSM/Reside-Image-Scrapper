@@ -1,0 +1,31 @@
+{
+    "Address": "4715 Hayford Way #3, Sacramento, CA, 95842",
+    "Price": "$1,775/mo",
+    "Stats": [
+        "$1,775/mo",
+        "2 beds",
+        "1 bath",
+        "900 sq ft",
+        "4715 Hayford Way #3, Sacramento, CA 95842",
+        " Condo",
+        "Request a tour",
+        "(305) 299-4622"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "4715 Hayford Way #3",
+    "ZipCode": "95842",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fb6dfcff-66be-4050-b838-5898b88acef4/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6dfcff-66be-4050-b838-5898b88acef4/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6dfcff-66be-4050-b838-5898b88acef4/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6dfcff-66be-4050-b838-5898b88acef4/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6dfcff-66be-4050-b838-5898b88acef4/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6dfcff-66be-4050-b838-5898b88acef4/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6dfcff-66be-4050-b838-5898b88acef4/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6dfcff-66be-4050-b838-5898b88acef4/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6dfcff-66be-4050-b838-5898b88acef4/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6dfcff-66be-4050-b838-5898b88acef4/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6dfcff-66be-4050-b838-5898b88acef4/islphoto/genIsl.10_1.jpg"
+    ]
+}

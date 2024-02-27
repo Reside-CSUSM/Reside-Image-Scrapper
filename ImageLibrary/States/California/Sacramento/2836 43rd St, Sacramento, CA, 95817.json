@@ -1,0 +1,28 @@
+{
+    "Address": "2836 43rd St, Sacramento, CA, 95817",
+    "Price": "$2,050/mo",
+    "Stats": [
+        "$2,050/mo",
+        "2 beds",
+        "2 baths",
+        "946 sq ft",
+        "2836 43rd St, Sacramento, CA 95817",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2836 43rd St",
+    "ZipCode": "95817",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e8415532-e3ab-41d8-8fb9-56b5a41b5204/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e8415532-e3ab-41d8-8fb9-56b5a41b5204/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e8415532-e3ab-41d8-8fb9-56b5a41b5204/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e8415532-e3ab-41d8-8fb9-56b5a41b5204/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e8415532-e3ab-41d8-8fb9-56b5a41b5204/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e8415532-e3ab-41d8-8fb9-56b5a41b5204/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e8415532-e3ab-41d8-8fb9-56b5a41b5204/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e8415532-e3ab-41d8-8fb9-56b5a41b5204/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e8415532-e3ab-41d8-8fb9-56b5a41b5204/islphoto/genIsl.8_1.jpg"
+    ]
+}

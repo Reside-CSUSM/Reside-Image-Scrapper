@@ -1,0 +1,38 @@
+{
+    "Address": "321 10th Ave #1505, San Diego, CA, 92101",
+    "Price": "$645,000",
+    "Stats": [
+        "$645,000",
+        "1 bed",
+        "1 bath",
+        "603 sq ft",
+        "321 10th Ave #1505, San Diego, CA 92101"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "321 10th Ave #1505",
+    "ZipCode": "92101",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/712/genIslnoResize.240003712_20_1.jpg"
+    ]
+}

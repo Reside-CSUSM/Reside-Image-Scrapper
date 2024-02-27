@@ -1,0 +1,22 @@
+{
+    "Address": "2900 Marconi Ave, Sacramento, CA, 95821",
+    "Price": "$1,330/mo",
+    "Stats": [
+        "$1,330/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "2900 Marconi Ave, Sacramento, CA 95821",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2900 Marconi Ave",
+    "ZipCode": "95821",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/82bf4b04-e70d-499f-8f8a-c16fff1afdf5/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82bf4b04-e70d-499f-8f8a-c16fff1afdf5/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82bf4b04-e70d-499f-8f8a-c16fff1afdf5/islphoto/genIsl.2_1.jpg"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Address": "2720 Everly Dr, San Diego, CA, 92108",
+    "Price": "$1,569,000",
+    "Stats": [
+        "$1,569,000",
+        "4 beds",
+        "3.5 baths",
+        "2,301 sq ft",
+        "2720 Everly Dr, San Diego, CA 92108"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "2720 Everly Dr",
+    "ZipCode": "92108",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/372/genIslnoResize.PW24033372_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/372/genIslnoResize.PW24033372_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/372/genIslnoResize.PW24033372_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/372/genIslnoResize.PW24033372_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/372/genIslnoResize.PW24033372_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/372/genIslnoResize.PW24033372_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/372/genIslnoResize.PW24033372_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/372/genIslnoResize.PW24033372_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/372/genIslnoResize.PW24033372_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/372/genIslnoResize.PW24033372_9_0.jpg"
+    ]
+}

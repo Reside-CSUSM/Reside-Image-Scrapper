@@ -1,0 +1,24 @@
+{
+    "Address": "6200 Greenhaven Dr, Sacramento, CA, 95831",
+    "Price": "$2,413/mo",
+    "Stats": [
+        "$2,413/mo",
+        "3 beds",
+        "2 baths",
+        "1,136 sq ft",
+        "6200 Greenhaven Dr, Sacramento, CA 95831",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "6200 Greenhaven Dr",
+    "ZipCode": "95831",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a77ed854-307c-47ea-930b-4682ed1e6132/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a77ed854-307c-47ea-930b-4682ed1e6132/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a77ed854-307c-47ea-930b-4682ed1e6132/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a77ed854-307c-47ea-930b-4682ed1e6132/islphoto/genIsl.3_1.jpg"
+    ]
+}

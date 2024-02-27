@@ -1,0 +1,18 @@
+{
+    "Address": "1551 4th Ave #608, San Diego, CA, 92101",
+    "Price": "$689,000",
+    "Stats": [
+        "$689,000",
+        "1 bed",
+        "2 baths",
+        "1,168 sq ft",
+        "1551 4th Ave #608, San Diego, CA 92101"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "1551 4th Ave #608",
+    "ZipCode": "92101",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.ND24030798_0.jpg"
+    ]
+}

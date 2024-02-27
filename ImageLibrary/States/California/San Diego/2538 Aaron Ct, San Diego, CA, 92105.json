@@ -1,0 +1,31 @@
+{
+    "Address": "2538 Aaron Ct, San Diego, CA, 92105",
+    "Price": "$850,000",
+    "Stats": [
+        "$850,000",
+        "3 beds",
+        "2.5 baths",
+        "1,560 sq ft",
+        "0.23 acre (lot)",
+        "2538 Aaron Ct, San Diego, CA 92105"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "2538 Aaron Ct",
+    "ZipCode": "92105",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/879/genIslnoResize.240003879_12_1.jpg"
+    ]
+}

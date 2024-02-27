@@ -1,0 +1,33 @@
+{
+    "Address": "3808 Wildrose Way, Sacramento, CA, 95826",
+    "Price": "$2,095/mo",
+    "Stats": [
+        "$2,095/mo",
+        "3 beds",
+        "1.5 baths",
+        "1,000 sq ft",
+        "3808 Wildrose Way, Sacramento, CA 95826",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3808 Wildrose Way",
+    "ZipCode": "95826",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8fc8e4e-9dd9-4d35-a598-df6de4eb8f27/islphoto/genIsl.13_1.jpg"
+    ]
+}

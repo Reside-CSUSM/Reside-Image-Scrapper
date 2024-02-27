@@ -1,0 +1,29 @@
+{
+    "Address": "3222 2nd Ave, Sacramento, CA, 95817",
+    "Price": "$1,349/mo",
+    "Stats": [
+        "$1,349/mo",
+        "1 bed",
+        "1 bath",
+        "860 sq ft",
+        "3222 2nd Ave, Sacramento, CA 95817",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3222 2nd Ave",
+    "ZipCode": "95817",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ebe36126-475e-4fb8-bdd7-848f515ef85f/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ebe36126-475e-4fb8-bdd7-848f515ef85f/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ebe36126-475e-4fb8-bdd7-848f515ef85f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ebe36126-475e-4fb8-bdd7-848f515ef85f/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ebe36126-475e-4fb8-bdd7-848f515ef85f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ebe36126-475e-4fb8-bdd7-848f515ef85f/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ebe36126-475e-4fb8-bdd7-848f515ef85f/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ebe36126-475e-4fb8-bdd7-848f515ef85f/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ebe36126-475e-4fb8-bdd7-848f515ef85f/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ebe36126-475e-4fb8-bdd7-848f515ef85f/islphoto/genIsl.9_1.jpg"
+    ]
+}

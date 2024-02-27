@@ -2,14 +2,66 @@ import json
 import os
 
 
-
 project_root = os.getcwd() 
+project_root = r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper"
 CACHE_ROOT_DIRECTORY = project_root + r"\ImageLibrary\States"
-
 STATE_ABBREVIATION = {
+    'AL':'Alabama',
+    'AK':'Alaska',
+    'AZ':'Arizona',
+    'AR':'Arkansas',
+    'AS':'American Samoa',
     'CA':'California',
+    'CO':'Colorado',
+    'CT':'Connecticut',
+    'DE':'Delaware',
+    'DC':'District of Columbia',
+    'FL':'Florida',
+    'GA':'Georgia',
+    'GU':'Guam',
+    'HI':'Hawaii',
+    'IL':'Illinois',
+    'IN':'Indiana',
+    'IA':'Iowa',
+    'KS':'Kansas',
+    'KY':'Kentucky',
+    'LA':'Louisiana',
+    'ME':'Maine',
+    'MD':'Maryland',
+    'MA':'Massachusetts',
+    'MI':'Michigan',
+    'MN':'Minnesota',
+    'MS':'Mississippi',
+    'MO':'Missouri',
+    'MT':'Montana',
+    'NE':'Nebraska',
+    'NV':'Nevada',
+    'NH':'New Hampshire',
+    'NJ':'New Jersey',
+    'NM':'New Mexico',
+    'NY':'New York',
+    'NC':'North Carolina',
+    'ND':'North Dakota',
+    'MP':'Northern Mariana Islands',
+    'OH':'Ohio',
+    'OK':'Oklahoma',
+    'OR':'Oregon',
+    'PA':'Pennsylvania',
+    'PR':'Puerto Rico',
+    'RI':'Rhode Island',
+    'SD':'South Dakota',
+    'SC':'South Carolina',
+    'TN':'Tennessee',
     'TX':'Texas',
-    'SA':'San Francisco'
+    'TT':'Territories',
+    'UT':'Utah',
+    'VT':'Vermont',
+    'VA':'Virginia',
+    'VI':'Virgin Islands',
+    'WA':'Washington',
+    'WV':'West Virginia',
+    'WI':'Wisconsin',
+    'WY':'Wyoming'
 }
 
 class ListingHandler():
@@ -194,7 +246,7 @@ class StateHandler():
     
     def update_path(self):
         if(self.current_state != ""): self.state_path = CACHE_ROOT_DIRECTORY + "\\" + self.current_state
-        else: self.state_path = CACHE_ROOT_DIRECTORY + "\\"
+        elif(self.current_state == ""): self.state_path = CACHE_ROOT_DIRECTORY + "\\"
         print("State Path:", self.state_path)
 
     def Fetch(self, name=None):
@@ -342,14 +394,14 @@ class ImagingLibraryManager():
         return self.state_handler
 
 
-api = ImagingLibraryManager()
+#api = ImagingLibraryManager()
 #print(api.directory().State("California").City("San Diego").Listing().Create("13607 Caldwell Dr #36, Austin, TX", json.dumps(data, indent=4)))
 #"13607 Caldwell Dr #36, Austin, TX"
 
 #print(api.directory().State("California").City("San Diego").Listing("13604 Caldwell Dr #36, Austin, TX").Fetch())
 #print(api.directory().State("California").City("San Diego").Listing("13604 Caldwell Dr #36, Austin, TX").Search())
 #print(api.directory().State("California").City("Los Alamos").Create())
-print(api.directory().State("California").City("San Diego").Listing().GetAll())
+#print(api.directory().State("California").City("San Diego").Listing().GetAll())
 
 """ 
 GENERAL IDEA:

@@ -1,0 +1,38 @@
+{
+    "Address": "4527 Terrace Downs Way, Sacramento, CA, 95842",
+    "Price": "$2,250/mo",
+    "Stats": [
+        "$2,250/mo",
+        "3 beds",
+        "2 baths",
+        "1,170 sq ft",
+        "4527 Terrace Downs Way, Sacramento, CA 95842",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "4527 Terrace Downs Way",
+    "ZipCode": "95842",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e0153b3-8a8a-455f-9cae-89c3e66c7d37/islphoto/genIsl.18_1.jpg"
+    ]
+}

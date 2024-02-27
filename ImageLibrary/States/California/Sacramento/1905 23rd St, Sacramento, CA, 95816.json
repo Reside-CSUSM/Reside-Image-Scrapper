@@ -1,0 +1,33 @@
+{
+    "Address": "1905 23rd St, Sacramento, CA, 95816",
+    "Price": "$1,400/mo",
+    "Stats": [
+        "$1,400/mo",
+        "1 bed",
+        "1 bath",
+        "600 sq ft",
+        "1905 23rd St, Sacramento, CA 95816",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "1905 23rd St",
+    "ZipCode": "95816",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed56150e-14f6-4eaf-97c8-396091852911/islphoto/genIsl.13_1.jpg"
+    ]
+}

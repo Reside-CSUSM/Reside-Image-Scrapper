@@ -1,0 +1,39 @@
+{
+    "Address": "8233 Station Village Ln #2205, San Diego, CA, 92108",
+    "Price": "$700,000",
+    "Stats": [
+        "$700,000",
+        "2 beds",
+        "2 baths",
+        "1,176 sq ft",
+        "8233 Station Village Ln #2205, San Diego, CA 92108"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "8233 Station Village Ln #2205",
+    "ZipCode": "92108",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240003802_21_0.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Address": "8550 Florin Rd, Sacramento, CA, 95828",
+    "Price": "$1,695/mo",
+    "Stats": [
+        "$1,695/mo",
+        "2 beds",
+        "1 bath",
+        "889 sq ft",
+        "8550 Florin Rd, Sacramento, CA 95828",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "8550 Florin Rd",
+    "ZipCode": "95828",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/37e5a2f8-c29b-443e-af00-9005d7405f1b/islphoto/genIsl.0_1.jpg"
+    ]
+}

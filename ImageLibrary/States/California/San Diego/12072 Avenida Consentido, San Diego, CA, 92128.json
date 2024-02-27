@@ -1,0 +1,28 @@
+{
+    "Address": "12072 Avenida Consentido, San Diego, CA, 92128",
+    "Price": "$1,598,000",
+    "Stats": [
+        "$1,598,000",
+        "4 beds",
+        "3 baths",
+        "2,644 sq ft",
+        "7,332 sq ft (lot)",
+        "12072 Avenida Consentido, San Diego, CA 92128"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "12072 Avenida Consentido",
+    "ZipCode": "92128",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/110/genIslnoResize.240004110_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/110/genIslnoResize.240004110_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/110/genIslnoResize.240004110_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/110/genIslnoResize.240004110_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/110/genIslnoResize.240004110_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/110/genIslnoResize.240004110_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/110/genIslnoResize.240004110_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/110/genIslnoResize.240004110_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/110/genIslnoResize.240004110_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/110/genIslnoResize.240004110_9_1.jpg"
+    ]
+}

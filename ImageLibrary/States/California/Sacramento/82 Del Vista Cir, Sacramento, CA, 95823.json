@@ -1,0 +1,40 @@
+{
+    "Address": "82 Del Vista Cir, Sacramento, CA, 95823",
+    "Price": "$2,200/mo",
+    "Stats": [
+        "$2,200/mo",
+        "3 beds",
+        "2 baths",
+        "1,384 sq ft",
+        "82 Del Vista Cir, Sacramento, CA 95823",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "82 Del Vista Cir",
+    "ZipCode": "95823",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4929bb0d-4c8c-4553-bfb1-ee76a049bcfa/islphoto/genIsl.20_2.jpg"
+    ]
+}

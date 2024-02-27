@@ -1,0 +1,30 @@
+{
+    "Address": "3004 Club Center Dr, Sacramento, CA, 95835",
+    "Price": "$2,900/mo",
+    "Stats": [
+        "$2,900/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,722 sq ft",
+        "3004 Club Center Dr, Sacramento, CA 95835",
+        " House",
+        "Request a tour",
+        "(877) 596-3023"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3004 Club Center Dr",
+    "ZipCode": "95835",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/89f3ad43-8e3a-4b0b-a029-596bf2ebe0ae/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89f3ad43-8e3a-4b0b-a029-596bf2ebe0ae/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89f3ad43-8e3a-4b0b-a029-596bf2ebe0ae/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89f3ad43-8e3a-4b0b-a029-596bf2ebe0ae/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89f3ad43-8e3a-4b0b-a029-596bf2ebe0ae/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89f3ad43-8e3a-4b0b-a029-596bf2ebe0ae/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89f3ad43-8e3a-4b0b-a029-596bf2ebe0ae/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89f3ad43-8e3a-4b0b-a029-596bf2ebe0ae/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89f3ad43-8e3a-4b0b-a029-596bf2ebe0ae/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89f3ad43-8e3a-4b0b-a029-596bf2ebe0ae/islphoto/genIsl.9_1.jpg"
+    ]
+}

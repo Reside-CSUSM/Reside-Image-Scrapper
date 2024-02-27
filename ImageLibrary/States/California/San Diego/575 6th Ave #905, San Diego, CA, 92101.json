@@ -1,0 +1,37 @@
+{
+    "Address": "575 6th Ave #905, San Diego, CA, 92101",
+    "Price": "$648,000",
+    "Stats": [
+        "$648,000",
+        "1 bed",
+        "1 bath",
+        "679 sq ft",
+        "575 6th Ave #905, San Diego, CA 92101"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "575 6th Ave #905",
+    "ZipCode": "92101",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/728/genIslnoResize.TR24036728_19_0.jpg"
+    ]
+}

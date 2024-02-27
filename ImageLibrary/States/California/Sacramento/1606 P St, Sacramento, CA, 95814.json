@@ -1,0 +1,23 @@
+{
+    "Address": "1606 P St, Sacramento, CA, 95814",
+    "Price": "$2,715/mo",
+    "Stats": [
+        "$2,715/mo",
+        "1 bed",
+        "1 bath",
+        "801 sq ft",
+        "1606 P St, Sacramento, CA 95814",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "1606 P St",
+    "ZipCode": "95814",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3d006939-d6e3-4405-adc3-6f54c7eb0c69/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d006939-d6e3-4405-adc3-6f54c7eb0c69/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d006939-d6e3-4405-adc3-6f54c7eb0c69/islphoto/genIsl.2_1.jpg"
+    ]
+}

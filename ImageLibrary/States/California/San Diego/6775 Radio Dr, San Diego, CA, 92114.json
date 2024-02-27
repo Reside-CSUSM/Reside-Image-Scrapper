@@ -1,0 +1,41 @@
+{
+    "Address": "6775 Radio Dr, San Diego, CA, 92114",
+    "Price": "$709,999",
+    "Stats": [
+        "$709,999",
+        "4 beds",
+        "2 baths",
+        "1,358 sq ft",
+        "5,629 sq ft (lot)",
+        "6775 Radio Dr, San Diego, CA 92114"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "6775 Radio Dr",
+    "ZipCode": "92114",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/935/genIslnoResize.PTP2400935_22_0.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Address": "1611 Hotel Cir S #110, San Diego, CA, 92108",
+    "Price": "$310,000",
+    "Stats": [
+        "$310,000",
+        "0 beds",
+        "1 bath",
+        "422 sq ft",
+        "1611 Hotel Cir S #110, San Diego, CA 92108"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "1611 Hotel Cir S #110",
+    "ZipCode": "92108",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/097/genIslnoResize.240004097_13_0.jpg"
+    ]
+}

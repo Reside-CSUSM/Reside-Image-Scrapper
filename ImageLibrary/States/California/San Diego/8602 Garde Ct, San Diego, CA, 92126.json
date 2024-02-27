@@ -1,0 +1,36 @@
+{
+    "Address": "8602 Garde Ct, San Diego, CA, 92126",
+    "Price": "$749,900",
+    "Stats": [
+        "$749,900",
+        "3 beds",
+        "2 baths",
+        "1,010 sq ft",
+        "8602 Garde Ct, San Diego, CA 92126"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "8602 Garde Ct",
+    "ZipCode": "92126",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240003927_18_1.jpg"
+    ]
+}

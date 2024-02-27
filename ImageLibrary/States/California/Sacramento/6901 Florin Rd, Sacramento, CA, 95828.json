@@ -1,0 +1,20 @@
+{
+    "Address": "6901 Florin Rd, Sacramento, CA, 95828",
+    "Price": "$1,500/mo",
+    "Stats": [
+        "$1,500/mo",
+        "2 beds",
+        "1 bath",
+        "752 sq ft",
+        "6901 Florin Rd, Sacramento, CA 95828",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "6901 Florin Rd",
+    "ZipCode": "95828",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c3acd956-c034-4ea7-8d0c-2c3365df7429/islphoto/genIsl.0_2.jpg"
+    ]
+}

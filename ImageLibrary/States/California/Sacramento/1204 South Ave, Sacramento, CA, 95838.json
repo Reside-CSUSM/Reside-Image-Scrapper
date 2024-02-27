@@ -1,0 +1,24 @@
+{
+    "Address": "1204 South Ave, Sacramento, CA, 95838",
+    "Price": "$1,300/mo",
+    "Stats": [
+        "$1,300/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "1204 South Ave, Sacramento, CA 95838",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "1204 South Ave",
+    "ZipCode": "95838",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/356f01e3-9e60-4633-93a6-baee5a8fff2c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/356f01e3-9e60-4633-93a6-baee5a8fff2c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/356f01e3-9e60-4633-93a6-baee5a8fff2c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/356f01e3-9e60-4633-93a6-baee5a8fff2c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/356f01e3-9e60-4633-93a6-baee5a8fff2c/islphoto/genIsl.4_1.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Address": "1580 Union St #504, San Diego, CA, 92101",
+    "Price": "$599,999",
+    "Stats": [
+        "$599,999",
+        "1 bed",
+        "1 bath",
+        "681 sq ft",
+        "1580 Union St #504, San Diego, CA 92101"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "1580 Union St #504",
+    "ZipCode": "92101",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/755/genIslnoResize.240003755_16_1.jpg"
+    ]
+}

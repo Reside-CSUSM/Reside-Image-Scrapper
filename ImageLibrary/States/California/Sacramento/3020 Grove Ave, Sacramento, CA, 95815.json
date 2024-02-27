@@ -1,0 +1,20 @@
+{
+    "Address": "3020 Grove Ave, Sacramento, CA, 95815",
+    "Price": "$2,250/mo",
+    "Stats": [
+        "$2,250/mo",
+        "4 beds",
+        "1 bath",
+        "1,200 sq ft",
+        "3020 Grove Ave, Sacramento, CA 95815",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3020 Grove Ave",
+    "ZipCode": "95815",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/63c2fed0-097c-4ffe-b4c8-d1e245f98034/islphoto/genIsl.0_1.jpg"
+    ]
+}

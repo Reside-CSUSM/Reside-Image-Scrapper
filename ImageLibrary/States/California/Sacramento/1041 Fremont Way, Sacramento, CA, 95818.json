@@ -1,0 +1,28 @@
+{
+    "Address": "1041 Fremont Way, Sacramento, CA, 95818",
+    "Price": "$2,600/mo",
+    "Stats": [
+        "$2,600/mo",
+        "2 beds",
+        "1 bath",
+        "1,100 sq ft",
+        "1041 Fremont Way, Sacramento, CA 95818",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "1041 Fremont Way",
+    "ZipCode": "95818",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/0e47c4d5-615f-462c-8388-9d1ce57d5c9e/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e47c4d5-615f-462c-8388-9d1ce57d5c9e/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e47c4d5-615f-462c-8388-9d1ce57d5c9e/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e47c4d5-615f-462c-8388-9d1ce57d5c9e/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e47c4d5-615f-462c-8388-9d1ce57d5c9e/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e47c4d5-615f-462c-8388-9d1ce57d5c9e/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e47c4d5-615f-462c-8388-9d1ce57d5c9e/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e47c4d5-615f-462c-8388-9d1ce57d5c9e/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0e47c4d5-615f-462c-8388-9d1ce57d5c9e/islphoto/genIsl.8_1.jpg"
+    ]
+}

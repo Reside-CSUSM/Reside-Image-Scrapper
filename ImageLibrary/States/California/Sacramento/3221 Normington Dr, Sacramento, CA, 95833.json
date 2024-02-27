@@ -1,0 +1,25 @@
+{
+    "Address": "3221 Normington Dr, Sacramento, CA, 95833",
+    "Price": "$850/mo",
+    "Stats": [
+        "$850/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "3221 Normington Dr, Sacramento, CA 95833",
+        " House",
+        "Request a tour",
+        "(707) 992-8325"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3221 Normington Dr",
+    "ZipCode": "95833",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/89aef213-b18c-48ce-8d5d-f7b16e4420b2/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89aef213-b18c-48ce-8d5d-f7b16e4420b2/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89aef213-b18c-48ce-8d5d-f7b16e4420b2/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89aef213-b18c-48ce-8d5d-f7b16e4420b2/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89aef213-b18c-48ce-8d5d-f7b16e4420b2/islphoto/genIsl.4_1.jpg"
+    ]
+}

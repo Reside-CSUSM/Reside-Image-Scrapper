@@ -1,5 +1,9 @@
-import sys
-sys.path.insert(0, r'C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper')
+#import sys
+#sys.path.insert(0, r'C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper')
+import os, sys
+dir_path = os.path.dirname(os.path.realpath(__file__))
+parent_dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
+sys.path.insert(0, parent_dir_path)
 from Utility.bot import Bot
 from selenium import webdriver
 from Utility.utility import _ID, Flag
@@ -11,7 +15,7 @@ import json
 import copy
 import time
 import re
-from ImageLibrary.library import ImagingLibraryManager
+from ImageLibrary.library import *
 
 """
 Tasks based:
@@ -53,6 +57,8 @@ LOGIN_ERROR_CODE = 'scrapper login error'
 SEARCHING_ERROR_CODE = 'scrapper address error'
 DATA_FETCHING_ERROR_CODE = 'scrapper image fetching error'
 
+
+CURRENT_SESSION_ADDRESS = ""
 image_library = ImagingLibraryManager()
 
 #In future, elements references can be chained kind of like action chains
@@ -140,6 +146,7 @@ class Listing():
         self.state = "no state"
         self.city = "no city"
         self.zipcode = "no zipcode"
+        self.street = "no street"
         self.image_urls = []
         self.processed_flag = Flag()
         self.processed_flag.set_true()
@@ -221,21 +228,15 @@ class Listing():
                             self.address += matches.group(i)+", "
                     break
             
-            #EXTRACTING STATE, CITY, AND ZIP FROM THE ADDRESS
-            state_regex = r"(?P<state>[A-Za-z]{2})\s+\d{5}(?:-\d{4})?$"
-            city_regex = r"(?P<city>[A-Za-z\s]+),\s+(?P<state>[A-Za-z]{2})"
-            zipcode_regex = r"\d{5}(?:-\d{4})?$"
+            """#EXTRACTING STATE, CITY, AND ZIP FROM THE ADDRESS"""
+            string = copy.copy(self.address)
+            values = string.split(", ")
+            self.street = values[0]
+            self.city = values[1]
+            self.state = values[2]
+            self.zipcode = values[3]
+            print("VALUES:== ", values)
 
-            for item in self.stats:
-                if(re.match(state_regex, item) != None):
-                    self.state = re.match(state_regex, item)
-                
-                elif(re.match(city_regex, item) != None):
-                    self.city = re.match(city_regex, item)
-                
-                elif(re.match(zipcode_regex, item) != None):
-                    self.zipcode = re.match(zipcode_regex, item)
-                 
             if(self.detail_flag.check()):
                 print("ADDRESS:", self.address)
                 print("STATS:", self.stats)
@@ -271,6 +272,7 @@ class Listing():
                 'Stats':self.stats,
                 'State':self.state,
                 'City':self.city,
+                'Street':self.street,
                 'ZipCode':self.zipcode,
                 'Images':[]
             }
@@ -674,7 +676,7 @@ class GeneralLocation():
         #root = ElementPointer(By.CLASS_NAME, 'HomeCardContainer flex justify-center', self.bot)
 
     def address(self, address):
-        self.location_address = address
+        self.location_address = copy.copy(address)
     
     def fetch_listing_data(self):
         #APPLY FILTERS
@@ -697,12 +699,23 @@ class GeneralLocation():
         #self.export_to_file(r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper\ImageLibrary\san_diego.json")
 
     def get_listings_on_page(self):
-         #NOTE:
-            # - Need to make sure everything is error proof
-            # - Need to figure out the file data saving problem
-            # - Setup launch routes
-            # - Setup the storage library
+        #PARSE THE DATA OUT
+        list = self.location_address.split(", ")
+        state = list[1]
+        city = list[0]
 
+        print("ABBREVIATIONS: ", STATE_ABBREVIATION[state])
+        state_exists = image_library.directory().State(STATE_ABBREVIATION[state]).Search()
+        city_exists = image_library.directory().State(STATE_ABBREVIATION[state]).City(city).Search()
+        if(state_exists == False):
+            image_library.directory().State(STATE_ABBREVIATION[state]).Create()
+            image_library.directory().State(STATE_ABBREVIATION[state]).City(city).Create()
+        
+        elif(state_exists == True):
+            if(city_exists == False):
+                image_library.directory().State(STATE_ABBREVIATION[state]).City(city).Create()
+
+        print(state, city, " this is another staet, city")
         try:
             for i in range(1, 39):
                 element = self.bot.search_element(By.XPATH, '//*[@id="results-display"]/div[5]/div/div[1]/div/div['+ str(i) + ']').get_element()
@@ -714,9 +727,8 @@ class GeneralLocation():
                     self.jsonified_listings.append((listing.export('json')))
                     print("Collected element: ", element.get_attribute('id'))
                     listing_json = listing.export('json')
-                    #image_library.directory().State(listing_json['State']).Create()
-                    #image_library.directory().State(listing_json['State']).City(listing_json['City']).Create()
-                    #image_library.directory().State(listing_json['State']).City(listing_json['City']).Listing(listing['Address']).Create(listing['Images'])
+                    image_library.directory().State(STATE_ABBREVIATION[state]).City(city).Listing(listing_json['Address']).Create(listing_json)
+
                 else:print("\x1b[31mCouldn't collect element\x1b[0m", element.get_attribute('id'))
         except Exception as error:
             print("Element not found", error)
@@ -893,7 +905,8 @@ class RedfinBot():
                 self.bot.wait(2)
             except Exception as error:
                 print("\x1b[FILTERS!! ERROR\x1b[0m", error)
-
+            
+            self.general_fetcher.address(self._address)
             self.listing_response = self.general_fetcher.fetch_listing_data()
             if(self.listing_response == DATA_FETCHING_ERROR_CODE): return DATA_FETCHING_ERROR_CODE
         
@@ -938,6 +951,8 @@ class RedfinBot():
     
     def address(self, address):
         self._address = address
+        CURRENT_SESSION_ADDRESS = copy.copy(address)
+        print(CURRENT_SESSION_ADDRESS, "  this is the current session ADDRESS")
         return self
     
     def location(self, type):
@@ -952,7 +967,8 @@ class RedfinBot():
 #bot.activate()
 #bot.save_filters(['For rent'])
 #print(bot.address('5210 Rain Creek Pkwy, Austin, TX').location('specific').get_response())
-
+#print(bot.address('san diego, CA').location('general').get_response())
+#
 """
 TODO:
     - Finish everything about the bot

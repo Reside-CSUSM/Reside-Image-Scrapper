@@ -1,0 +1,20 @@
+{
+    "Address": "2230 U St, Sacramento, CA, 95818",
+    "Price": "$2,500/mo",
+    "Stats": [
+        "$2,500/mo",
+        "3 beds",
+        "1 bath",
+        "1,100 sq ft",
+        "2230 U St, Sacramento, CA 95818",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "2230 U St",
+    "ZipCode": "95818",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/aab39d09-1762-4f83-8556-e982c052a7ab/islphoto/genIsl.0_1.jpg"
+    ]
+}

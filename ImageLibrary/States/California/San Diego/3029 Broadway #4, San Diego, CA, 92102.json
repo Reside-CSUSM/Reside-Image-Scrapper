@@ -1,0 +1,34 @@
+{
+    "Address": "3029 Broadway #4, San Diego, CA, 92102",
+    "Price": "$425,000",
+    "Stats": [
+        "$425,000",
+        "1 bed",
+        "1 bath",
+        "484 sq ft",
+        "3029 Broadway #4, San Diego, CA 92102"
+    ],
+    "State": "CA",
+    "City": "San Diego",
+    "Street": "3029 Broadway #4",
+    "ZipCode": "92102",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/921/genIslnoResize.PTP2400921_16_0.jpg"
+    ]
+}

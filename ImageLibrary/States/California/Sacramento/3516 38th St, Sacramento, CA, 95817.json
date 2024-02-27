@@ -1,0 +1,42 @@
+{
+    "Address": "3516 38th St, Sacramento, CA, 95817",
+    "Price": "$1,895/mo",
+    "Stats": [
+        "$1,895/mo",
+        "2 beds",
+        "2 baths",
+        "954 sq ft",
+        "3516 38th St, Sacramento, CA 95817",
+        " House",
+        "Request a tour"
+    ],
+    "State": "CA",
+    "City": "Sacramento",
+    "Street": "3516 38th St",
+    "ZipCode": "95817",
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c84b6566-ee79-41b6-8638-7c3006eaf233/islphoto/genIsl.22_1.jpg"
+    ]
+}
