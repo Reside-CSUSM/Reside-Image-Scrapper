@@ -11,7 +11,7 @@ import json
 import copy
 import time
 import re
-
+from ImageLibrary.library import ImagingLibraryManager
 
 """
 Tasks based:
@@ -53,6 +53,7 @@ LOGIN_ERROR_CODE = 'scrapper login error'
 SEARCHING_ERROR_CODE = 'scrapper address error'
 DATA_FETCHING_ERROR_CODE = 'scrapper image fetching error'
 
+image_library = ImagingLibraryManager()
 
 #In future, elements references can be chained kind of like action chains
 class ElementReference():
@@ -136,6 +137,9 @@ class Listing():
         self.price = "No price"
         self.address = "No address"
         self.stats = "No stats"
+        self.state = "no state"
+        self.city = "no city"
+        self.zipcode = "no zipcode"
         self.image_urls = []
         self.processed_flag = Flag()
         self.processed_flag.set_true()
@@ -191,7 +195,7 @@ class Listing():
             except Exception as error:
                 if(self.print_flag.check()):print("\x1b[31mUnsuccessful IMAGE URL:\x1b[0m", image_url)
                 #print(error)
-    
+
         try: 
             address_el = self.element_ptr.find_element(By.CLASS_NAME, 'bp-Homecard__Content')
             string = copy.copy(address_el.text)
@@ -203,6 +207,7 @@ class Listing():
                 str.replace("\n", "")
                 self.stats.append(str)
 
+            #EXTRACTING THE STREET ADDRESS ITSELF
             self.price = self.stats[0]
             regex = r"^(.*?),\s*(.*?),\s*(.*?)\s+(\d{5})$"
             for item in self.stats:
@@ -216,17 +221,33 @@ class Listing():
                             self.address += matches.group(i)+", "
                     break
             
+            #EXTRACTING STATE, CITY, AND ZIP FROM THE ADDRESS
+            state_regex = r"(?P<state>[A-Za-z]{2})\s+\d{5}(?:-\d{4})?$"
+            city_regex = r"(?P<city>[A-Za-z\s]+),\s+(?P<state>[A-Za-z]{2})"
+            zipcode_regex = r"\d{5}(?:-\d{4})?$"
+
+            for item in self.stats:
+                if(re.match(state_regex, item) != None):
+                    self.state = re.match(state_regex, item)
+                
+                elif(re.match(city_regex, item) != None):
+                    self.city = re.match(city_regex, item)
+                
+                elif(re.match(zipcode_regex, item) != None):
+                    self.zipcode = re.match(zipcode_regex, item)
+                 
             if(self.detail_flag.check()):
                 print("ADDRESS:", self.address)
                 print("STATS:", self.stats)
                 print("PRICE:", self.price)
-            #print("innerHTML:", address_el.text)
+                print("STATE:", self.state)
+                print("CITY:", self.city)
+                print("ZIPCODE", self.zipcode)
 
         except Exception as error:
             has_address.set_false()
             if(self.detail_flag.check()):
                 print("Couldn't find address element")
-
 
         #return false when either the li element that contains all the images is not found
         #or return false when the addres is not found. Rn nothing is setup to detech image
@@ -245,12 +266,15 @@ class Listing():
         payload = None
         if(type == 'json'):
             payload = {
-                'address':self.address,
-                'price':self.price,
-                'stats':self.stats,
-                'images':[]
+                'Address':self.address,
+                'Price':self.price,
+                'Stats':self.stats,
+                'State':self.state,
+                'City':self.city,
+                'ZipCode':self.zipcode,
+                'Images':[]
             }
-            payload['images'] = self.image_urls
+            payload['Images'] = self.image_urls
             return payload
 
         else:
@@ -405,7 +429,6 @@ class PaymentType():
         self.done_button = ElementPointer(By.XPATH, '/html/body/div[1]/div[8]/div[2]/div[1]/div[2]/div/div/div/div[1]/form/div[1]/div/div[2]/div/div[2]/button', self.bot)
         if(self.bot == None):
             self.bot_flag.set_false()
-        
         else:
             self.bot_flag.set_true()
     
@@ -503,7 +526,6 @@ class PriceRange():
         except Exception as error:
             print("PriceRange click_done() Error", error)
     
-
 
 class RedfinSearchFilter():
     def __init__(self, bot):
@@ -685,12 +707,16 @@ class GeneralLocation():
             for i in range(1, 39):
                 element = self.bot.search_element(By.XPATH, '//*[@id="results-display"]/div[5]/div/div[1]/div/div['+ str(i) + ']').get_element()
                 listing = Listing(self.bot, element)
-                listing.print_meta_data('off')
+                listing.print_meta_data('on')
                 status = listing.process()
                 if(status == True):
                     #self.listings.append(listing)
                     self.jsonified_listings.append((listing.export('json')))
                     print("Collected element: ", element.get_attribute('id'))
+                    listing_json = listing.export('json')
+                    #image_library.directory().State(listing_json['State']).Create()
+                    #image_library.directory().State(listing_json['State']).City(listing_json['City']).Create()
+                    #image_library.directory().State(listing_json['State']).City(listing_json['City']).Listing(listing['Address']).Create(listing['Images'])
                 else:print("\x1b[31mCouldn't collect element\x1b[0m", element.get_attribute('id'))
         except Exception as error:
             print("Element not found", error)
@@ -779,7 +805,6 @@ class SpecificLocation():
             }
             return self.response
 
-
         self.response = {
             'image_urls':self.image_urls, 
             'price':self.price, 
@@ -789,11 +814,8 @@ class SpecificLocation():
         return self.response
 
 
-
 #-----------------------------------------------------INTERFACE MODULES-------------------------------------------------------
 #Interface that other services will interact with
-
-
 class RedfinBot():
 
     def __init__(self):
@@ -863,7 +885,6 @@ class RedfinBot():
         value = self.redfin_search.perform()
         if(value == SEARCHING_ERROR_CODE): return SEARCHING_ERROR_CODE
 
-
         #FETCHING
         if(self.listing_type == 'general'):
             #APPLYING FILTERS
@@ -901,7 +922,6 @@ class RedfinBot():
             self.filters().payment_type().click_payment_type_button().click_for_rent_button().click_done()
         
         elif(value == 'For sale'):
-
             self.filters().payment_type().click_payment_type_button().click_for_sale_button().click_done()
         
         elif(value in home_types):

@@ -26,7 +26,6 @@ class AvailableServices():
     pass
 
 
-
 class AutomationService():
 
     def __init__(self):
