@@ -1,0 +1,59 @@
+{
+    "Address": "1967 Bucknell St",
+    "Price": "$4,000/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$4,000/mo",
+        "4 beds",
+        "2 baths",
+        "1,790 sq ft",
+        "1967 Bucknell St, Chula Vista, CA 91913",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_42",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6e1bf091-3193-4c3f-be0b-1f5fd4cd0b04/islphoto/genIsl.13_3.jpg"
+    ]
+}

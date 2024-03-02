@@ -1,0 +1,71 @@
+{
+    "Address": "2686 Canyon Crest Dr Unit A",
+    "Price": "$2,595/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92027",
+    "Street": "",
+    "Stats": [
+        "$2,595/mo",
+        "1 bed",
+        "1 bath",
+        "610 sq ft",
+        "2686 Canyon Crest Dr Unit A, Escondido, CA 92027",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_65",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c6aed1ac-9d4b-4ca0-a5a2-555dcbc0d71d/islphoto/genIsl.25_2.jpg"
+    ]
+}

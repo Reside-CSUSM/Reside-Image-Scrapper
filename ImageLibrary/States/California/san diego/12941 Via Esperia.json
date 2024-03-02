@@ -1,0 +1,75 @@
+{
+    "Address": "12941 Via Esperia",
+    "Price": "$7,000/mo",
+    "State": "CA",
+    "City": "Del Mar",
+    "ZipCode": "92014",
+    "Street": "",
+    "Stats": [
+        "$7,000/mo",
+        "2 beds",
+        "1 bath",
+        "1,210 sq ft",
+        "12941 Via Esperia, Del Mar, CA 92014",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_224",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8fedaf69-0785-47c6-90dd-de175a5b53fc/islphoto/genIsl.29_2.jpg"
+    ]
+}

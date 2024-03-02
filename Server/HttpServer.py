@@ -27,6 +27,7 @@ class RequestHandler(BaseHTTPRequestHandler):
 
         super().__init__(*args, **kwargs)
 
+
     def root(self):
         value = {
             'response:':"<h3>Root Endpoint Not available</h3>"
@@ -44,7 +45,6 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(bytes(value), "utf-8")    
 
-    
     def automation_controller(self):
         url = copy.copy(self.router.get_url()).replace("/automations", "")
         self.automation_handler.handle(url, copy.copy(self.current_request_type))

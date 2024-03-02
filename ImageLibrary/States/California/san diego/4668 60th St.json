@@ -1,0 +1,61 @@
+{
+    "Address": "4668 60th St",
+    "Price": "$4,875/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92115",
+    "Street": "",
+    "Stats": [
+        "$4,875/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,850 sq ft",
+        "4668 60th St, San Diego, CA 92115",
+        " House",
+        "Request a tour",
+        "(844) 205-3916"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_166",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/74746752-8d09-4e83-9ded-e7f94c994cda/islphoto/genIsl.14_4.jpg"
+    ]
+}

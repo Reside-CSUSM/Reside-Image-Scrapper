@@ -1,0 +1,56 @@
+{
+    "Address": "2742 Malibu Pl",
+    "Price": "$3,800/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92027",
+    "Street": "",
+    "Stats": [
+        "$3,800/mo",
+        "3 beds",
+        "2 baths",
+        "1,348 sq ft",
+        "2742 Malibu Pl, Escondido, CA 92027",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_21",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/254f78fb-e387-4dd2-b25e-1b5e6178711e/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/254f78fb-e387-4dd2-b25e-1b5e6178711e/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/254f78fb-e387-4dd2-b25e-1b5e6178711e/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/254f78fb-e387-4dd2-b25e-1b5e6178711e/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/254f78fb-e387-4dd2-b25e-1b5e6178711e/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/254f78fb-e387-4dd2-b25e-1b5e6178711e/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/254f78fb-e387-4dd2-b25e-1b5e6178711e/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/254f78fb-e387-4dd2-b25e-1b5e6178711e/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/254f78fb-e387-4dd2-b25e-1b5e6178711e/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/254f78fb-e387-4dd2-b25e-1b5e6178711e/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/254f78fb-e387-4dd2-b25e-1b5e6178711e/islphoto/genIsl.10_1.jpg"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Address": "1418 Country Vistas Ln Unit 2",
+    "Price": "$1,500/mo",
+    "State": "CA",
+    "City": "Bonita",
+    "ZipCode": "91902",
+    "Street": "",
+    "Stats": [
+        "$1,500/mo",
+        "0 beds",
+        "1 bath",
+        "400 sq ft",
+        "1418 Country Vistas Ln Unit 2, Bonita, CA 91902",
+        " Townhome",
+        "Request a tour",
+        "(619) 368-1723"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_165",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a57eb0af-d941-47e0-a311-f3f35040f6bd/islphoto/genIsl.12_1.jpg"
+    ]
+}

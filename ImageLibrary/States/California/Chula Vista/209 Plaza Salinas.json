@@ -1,0 +1,68 @@
+{
+    "Address": "209 Plaza Salinas",
+    "Price": "$5,800/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91914",
+    "Street": "",
+    "Stats": [
+        "$5,800/mo",
+        "5 beds",
+        "4.5 baths",
+        "3,811 sq ft",
+        "209 Plaza Salinas, Chula Vista, CA 91914",
+        " House",
+        "Request a tour",
+        "(619) 745-6664"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_110",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/18cd94dd-a8eb-4909-b7da-d0855cd56206/islphoto/genIsl.22_1.jpg"
+    ]
+}

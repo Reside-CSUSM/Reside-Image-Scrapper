@@ -1,0 +1,59 @@
+{
+    "Address": "2096 Silverado St",
+    "Price": "$3,499/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$3,499/mo",
+        "2 beds",
+        "2.5 baths",
+        "1,438 sq ft",
+        "2096 Silverado St, San Marcos, CA 92078",
+        "Laundry in unit \u2022 A/C \u2022 Car-dependent",
+        "Request a tour",
+        "(972) 469-0609"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_25",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5e0deec-6a48-480a-94b2-b456512cbcca/islphoto/genIsl.12_2.jpg"
+    ]
+}

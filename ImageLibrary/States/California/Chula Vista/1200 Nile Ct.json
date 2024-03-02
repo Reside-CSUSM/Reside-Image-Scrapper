@@ -1,0 +1,61 @@
+{
+    "Address": "1200 Nile Ct",
+    "Price": "$3,700/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$3,700/mo",
+        "3 beds",
+        "2 baths",
+        "1,297 sq ft",
+        "1200 Nile Ct, Chula Vista, CA 91911",
+        " House",
+        "Request a tour",
+        "(833) 539-6660"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_69",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eeae34b6-fa6e-46a8-905c-3f79372bbe9a/islphoto/genIsl.14_1.jpg"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "Address": "1675 Melrose Ave",
+    "Price": "$2,900/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$2,900/mo",
+        "3 beds",
+        "2 baths",
+        "1,074 sq ft",
+        "1675 Melrose Ave, Chula Vista, CA 91911",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_101",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccac7b47-011a-4cda-b3c1-e886f4ce030f/islphoto/genIsl.19_2.jpg"
+    ]
+}

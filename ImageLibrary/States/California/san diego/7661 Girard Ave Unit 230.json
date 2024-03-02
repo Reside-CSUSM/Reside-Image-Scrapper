@@ -1,0 +1,46 @@
+{
+    "Address": "7661 Girard Ave Unit 230",
+    "Price": "$5,750/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$5,750/mo",
+        "2 beds",
+        "1 bath",
+        "1,613 sq ft",
+        "7661 Girard Ave Unit 230, La Jolla, CA 92037",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_175",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4a72b2ee-5687-4adb-8f4e-0ef574fa941f/islphoto/genIsl.0_1.jpg"
+    ]
+}

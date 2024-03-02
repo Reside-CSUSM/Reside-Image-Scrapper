@@ -1,0 +1,64 @@
+{
+    "Address": "727 San Juan Pl",
+    "Price": "$4,000/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91914",
+    "Street": "",
+    "Stats": [
+        "$4,000/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,523 sq ft",
+        "727 San Juan Pl, Chula Vista, CA 91914",
+        " House",
+        "Request a tour",
+        "(619) 414-2155"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_50",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95e807f3-df3d-4985-817a-ecb37bbd5ac9/islphoto/genIsl.17_1.jpg"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Address": "1350 N Escondido Blvd #46",
+    "Price": "$2,150/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92026",
+    "Street": "",
+    "Stats": [
+        "$2,150/mo",
+        "0 beds",
+        "1 bath",
+        "480 sq ft",
+        "1350 N Escondido Blvd #46, Escondido, CA 92026",
+        " Condo",
+        "Request a tour",
+        "(669) 289-6207"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_45",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c7f9da7b-14bb-4c08-a66c-954122a6bc97/islphoto/genIsl.0_1.jpg"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Address": "510 Camino De La Reina",
+    "Price": "$3,200/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92108",
+    "Street": "",
+    "Stats": [
+        "$3,200/mo",
+        "2 beds",
+        "2 baths",
+        "1,274 sq ft",
+        "510 Camino De La Reina, San Diego, CA 92108",
+        " House",
+        "Request a tour",
+        "(844) 254-8539"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_148",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c5133172-8e98-4871-b993-cecca55f93e8/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c5133172-8e98-4871-b993-cecca55f93e8/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c5133172-8e98-4871-b993-cecca55f93e8/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c5133172-8e98-4871-b993-cecca55f93e8/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c5133172-8e98-4871-b993-cecca55f93e8/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c5133172-8e98-4871-b993-cecca55f93e8/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c5133172-8e98-4871-b993-cecca55f93e8/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c5133172-8e98-4871-b993-cecca55f93e8/islphoto/genIsl.7_1.jpg"
+    ]
+}

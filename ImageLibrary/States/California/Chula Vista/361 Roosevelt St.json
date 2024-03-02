@@ -1,0 +1,53 @@
+{
+    "Address": "361 Roosevelt St",
+    "Price": "$2,150/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$2,150/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "361 Roosevelt St, Chula Vista, CA 91910",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(850) 764-3545"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_145",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6a470ab6-0614-4f45-8e9f-23d1446c1de7/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a470ab6-0614-4f45-8e9f-23d1446c1de7/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a470ab6-0614-4f45-8e9f-23d1446c1de7/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a470ab6-0614-4f45-8e9f-23d1446c1de7/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a470ab6-0614-4f45-8e9f-23d1446c1de7/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a470ab6-0614-4f45-8e9f-23d1446c1de7/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a470ab6-0614-4f45-8e9f-23d1446c1de7/islphoto/genIsl.6_1.jpg"
+    ]
+}

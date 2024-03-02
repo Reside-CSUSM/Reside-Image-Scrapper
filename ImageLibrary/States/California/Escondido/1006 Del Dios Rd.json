@@ -1,0 +1,51 @@
+{
+    "Address": "1006 Del Dios Rd",
+    "Price": "$2,495/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92029",
+    "Street": "",
+    "Stats": [
+        "$2,495/mo",
+        "2 beds",
+        "1 bath",
+        "824 sq ft",
+        "1006 Del Dios Rd, Escondido, CA 92029",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_25",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/0dba4a14-38d1-4aba-9527-1a6512caba21/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0dba4a14-38d1-4aba-9527-1a6512caba21/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0dba4a14-38d1-4aba-9527-1a6512caba21/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0dba4a14-38d1-4aba-9527-1a6512caba21/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0dba4a14-38d1-4aba-9527-1a6512caba21/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0dba4a14-38d1-4aba-9527-1a6512caba21/islphoto/genIsl.5_3.jpg"
+    ]
+}

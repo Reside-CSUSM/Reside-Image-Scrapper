@@ -1,0 +1,71 @@
+{
+    "Address": "5375 Saxon St",
+    "Price": "$5,195/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92115",
+    "Street": "",
+    "Stats": [
+        "$5,195/mo",
+        "4 beds",
+        "2 baths",
+        "1,947 sq ft",
+        "5375 Saxon St, San Diego, CA 92115",
+        " House",
+        "Request a tour",
+        "(844) 980-2524"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_141",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7564b162-6c33-4044-a920-cfd0aa7dbdea/islphoto/genIsl.24_1.jpg"
+    ]
+}

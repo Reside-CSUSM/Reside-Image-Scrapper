@@ -1,0 +1,75 @@
+{
+    "Address": "8728 Esplanade Park Ln",
+    "Price": "$756,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92123",
+    "Street": "",
+    "Stats": [
+        "$756,000",
+        "2 beds",
+        "2.5 baths",
+        "1,267 sq ft",
+        "1.55 acres (lot)",
+        "8728 Esplanade Park Ln, San Diego, CA 92123"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_3",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/353/genIslnoResize.240004353_30_1.jpg"
+    ]
+}

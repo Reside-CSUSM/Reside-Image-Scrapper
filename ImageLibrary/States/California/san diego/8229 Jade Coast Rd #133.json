@@ -1,0 +1,72 @@
+{
+    "Address": "8229 Jade Coast Rd #133",
+    "Price": "$2,850/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92126",
+    "Street": "",
+    "Stats": [
+        "$2,850/mo",
+        "2 beds",
+        "2 baths",
+        "808 sq ft",
+        "8229 Jade Coast Rd #133, San Diego, CA 92126",
+        " Condo",
+        "Request a tour",
+        "(844) 265-9558"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_121",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5f2681ce-7c06-402f-9d15-90d18aa3b807/islphoto/genIsl.25_2.jpg"
+    ]
+}

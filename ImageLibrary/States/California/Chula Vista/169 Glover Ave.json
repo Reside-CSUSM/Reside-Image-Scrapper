@@ -1,0 +1,63 @@
+{
+    "Address": "169 Glover Ave",
+    "Price": "$2,000/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$2,000/mo",
+        "2 beds",
+        "1 bath",
+        "665 sq ft",
+        "169 Glover Ave, Chula Vista, CA 91910",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_134",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d856ac20-4896-434d-9b7c-12a52874314b/islphoto/genIsl.17_1.jpg"
+    ]
+}

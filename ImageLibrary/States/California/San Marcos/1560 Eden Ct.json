@@ -1,0 +1,57 @@
+{
+    "Address": "1560 Eden Ct",
+    "Price": "$5,300/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$5,300/mo",
+        "4 beds",
+        "3 baths",
+        "2,950 sq ft",
+        "1560 Eden Ct, San Marcos, CA 92078",
+        "Dogs welcome \u2022 Parking \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_16",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eb59229d-6607-499f-9d91-ec1430aeae45/islphoto/genIsl.11_1.jpg"
+    ]
+}

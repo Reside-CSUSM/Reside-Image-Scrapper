@@ -1,0 +1,61 @@
+{
+    "Address": "1810 Burton St",
+    "Price": "$2,895/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92111",
+    "Street": "",
+    "Stats": [
+        "$2,895/mo",
+        "2 beds",
+        "1 bath",
+        "750 sq ft",
+        "1810 Burton St, San Diego, CA 92111",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(844) 302-9869"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_188",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2f28e535-9ec6-4a41-81ac-1f9175cc79ca/islphoto/genIsl.15_1.jpg"
+    ]
+}

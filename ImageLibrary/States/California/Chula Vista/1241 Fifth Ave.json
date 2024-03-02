@@ -1,0 +1,48 @@
+{
+    "Address": "1241 Fifth Ave",
+    "Price": "$1,875/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$1,875/mo",
+        "1 bed",
+        "1 bath",
+        "650 sq ft",
+        "1241 Fifth Ave, Chula Vista, CA 91911",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_54",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fdad5223-101f-4aba-bb8d-48dd6612425f/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fdad5223-101f-4aba-bb8d-48dd6612425f/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fdad5223-101f-4aba-bb8d-48dd6612425f/islphoto/genIsl.2_4.jpg"
+    ]
+}

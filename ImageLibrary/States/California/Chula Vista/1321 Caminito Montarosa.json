@@ -1,0 +1,56 @@
+{
+    "Address": "1321 Caminito Montarosa",
+    "Price": "$4,100/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$4,100/mo",
+        "3 beds",
+        "3 baths",
+        "1,558 sq ft",
+        "1321 Caminito Montarosa, Chula Vista, CA 91915",
+        " Condo",
+        "Request a tour",
+        "(877) 368-0741"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_22",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/7623c160-4174-4314-9dce-bbbb3fff6895/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7623c160-4174-4314-9dce-bbbb3fff6895/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7623c160-4174-4314-9dce-bbbb3fff6895/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7623c160-4174-4314-9dce-bbbb3fff6895/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7623c160-4174-4314-9dce-bbbb3fff6895/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7623c160-4174-4314-9dce-bbbb3fff6895/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7623c160-4174-4314-9dce-bbbb3fff6895/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7623c160-4174-4314-9dce-bbbb3fff6895/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7623c160-4174-4314-9dce-bbbb3fff6895/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7623c160-4174-4314-9dce-bbbb3fff6895/islphoto/genIsl.9_1.jpg"
+    ]
+}

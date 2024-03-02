@@ -1,0 +1,73 @@
+{
+    "Address": "9402 Hito Ct",
+    "Price": "$4,800/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92129",
+    "Street": "",
+    "Stats": [
+        "$4,800/mo",
+        "4 beds",
+        "2.5 baths",
+        "2,356 sq ft",
+        "9402 Hito Ct, San Diego, CA 92129",
+        " House",
+        "Request a tour",
+        "(858) 922-6014"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_336",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/46afefba-7c0d-440b-ae94-eadf17ac75ff/islphoto/genIsl.26_1.jpg"
+    ]
+}

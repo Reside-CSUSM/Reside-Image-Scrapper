@@ -1,0 +1,60 @@
+{
+    "Address": "710 Aster St",
+    "Price": "$3,050/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92027",
+    "Street": "",
+    "Stats": [
+        "$3,050/mo",
+        "3 beds",
+        "1 bath",
+        "1,192 sq ft",
+        "710 Aster St, Escondido, CA 92027",
+        " House",
+        "Request a tour",
+        "(760) 839-3838"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_43",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/829e1bed-e587-4c6b-b71f-ba0add0c280f/islphoto/genIsl.13_1.jpg"
+    ]
+}

@@ -101,8 +101,8 @@ class ImagingAPI():
                     "area":[],
                     "storage":"cache"
                     }
+                }
             }
-        }
         #"san diego, CA", "Austin, TX", "Sacramento, CA"
     def initialize(self, ip, port):
         self.server_ip = ip
@@ -149,7 +149,11 @@ image_api = ImagingAPI()
 image_api.initialize("38.56.138.77", 8888)
 #image_api.add_housings("5210 Rain Creek Pkwy, Austin, TX").add_housings("7122 Wood Hollow Dr 13, Austin, TX").search_housings()
 #image_api.add_areas("san diego, CA").add_areas("Austin, TX").search_area()
-image_api.add_areas("San Diego, CA").search_area()
+#image_api.add_general_search_filter("For rent")
+#image_api.add_areas("San Diego, CA").search_area()
+#image_api.add_areas("San Marcos, CA").search_area()
+#image_api.add_areas("Escondio, CA").search_area()
+image_api.add_housings("13604 Caldwell Dr #36, Austin, TX").search_housings()
 
 
 print("End of the api")

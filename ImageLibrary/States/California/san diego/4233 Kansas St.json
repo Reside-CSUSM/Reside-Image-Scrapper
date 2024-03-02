@@ -1,0 +1,54 @@
+{
+    "Address": "4233 Kansas St",
+    "Price": "$1,925+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92104",
+    "Street": "",
+    "Stats": [
+        "$1,925+/mo",
+        "0-1 beds",
+        "1 bath",
+        "415-418 sq ft",
+        "4233 Kansas St, San Diego, CA 92104",
+        " Apartment \u2022 3 units available",
+        "Request a tour",
+        "(858) 326-1983"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_40",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.7_1.jpg"
+    ]
+}

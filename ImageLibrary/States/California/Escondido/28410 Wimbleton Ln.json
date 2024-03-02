@@ -1,0 +1,53 @@
+{
+    "Address": "28410 Wimbleton Ln",
+    "Price": "$1,975/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92026",
+    "Street": "",
+    "Stats": [
+        "$1,975/mo",
+        "1 bed",
+        "1 bath",
+        "496 sq ft",
+        "28410 Wimbleton Ln, Escondido, CA 92026",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_62",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/0935d035-5769-479d-8450-4dead75809a9/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0935d035-5769-479d-8450-4dead75809a9/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0935d035-5769-479d-8450-4dead75809a9/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0935d035-5769-479d-8450-4dead75809a9/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0935d035-5769-479d-8450-4dead75809a9/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0935d035-5769-479d-8450-4dead75809a9/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0935d035-5769-479d-8450-4dead75809a9/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0935d035-5769-479d-8450-4dead75809a9/islphoto/genIsl.7_1.jpg"
+    ]
+}

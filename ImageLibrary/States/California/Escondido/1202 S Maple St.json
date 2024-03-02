@@ -1,0 +1,57 @@
+{
+    "Address": "1202 S Maple St",
+    "Price": "$2,300/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92025",
+    "Street": "",
+    "Stats": [
+        "$2,300/mo",
+        "2 beds",
+        "1 bath",
+        "800 sq ft",
+        "1202 S Maple St, Escondido, CA 92025",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_28",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9487eb90-1af2-4af6-b13f-f20aac364670/islphoto/genIsl.11_3.jpg"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Address": "1137 Quinto Creek Pl",
+    "Price": "$4,900/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$4,900/mo",
+        "5 beds",
+        "3 baths",
+        "2,200 sq ft",
+        "1137 Quinto Creek Pl, Chula Vista, CA 91913",
+        " House",
+        "Request a tour",
+        "(619) 841-1129"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_80",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39a3510c-9866-43f5-8ab7-e3fa0ca6f1e4/islphoto/genIsl.24_1.jpg"
+    ]
+}

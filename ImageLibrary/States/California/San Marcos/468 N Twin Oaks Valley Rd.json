@@ -1,0 +1,55 @@
+{
+    "Address": "468 N Twin Oaks Valley Rd",
+    "Price": "$2,705/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$2,705/mo",
+        "2 beds",
+        "2 baths",
+        "950 sq ft",
+        "468 N Twin Oaks Valley Rd, San Marcos, CA 92069",
+        "A/C \u2022 Dishwasher \u2022 Somewhat walkable",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_27",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/87e4e2cb-c64e-412e-8188-d4da67353409/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87e4e2cb-c64e-412e-8188-d4da67353409/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87e4e2cb-c64e-412e-8188-d4da67353409/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87e4e2cb-c64e-412e-8188-d4da67353409/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87e4e2cb-c64e-412e-8188-d4da67353409/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87e4e2cb-c64e-412e-8188-d4da67353409/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87e4e2cb-c64e-412e-8188-d4da67353409/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87e4e2cb-c64e-412e-8188-d4da67353409/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87e4e2cb-c64e-412e-8188-d4da67353409/islphoto/genIsl.8_1.jpg"
+    ]
+}

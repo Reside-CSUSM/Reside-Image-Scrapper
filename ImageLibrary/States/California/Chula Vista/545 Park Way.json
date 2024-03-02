@@ -1,0 +1,60 @@
+{
+    "Address": "545 Park Way",
+    "Price": "$2,250/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$2,250/mo",
+        "2 beds",
+        "1 bath",
+        "712 sq ft",
+        "545 Park Way, Chula Vista, CA 91910",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_136",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/519b7526-b6c1-4a12-a972-283f17cadd5d/islphoto/genIsl.14_1.jpg"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Address": "787 Brookstone Rd #104",
+    "Price": "$3,000/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$3,000/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "787 Brookstone Rd #104, Chula Vista, CA 91913",
+        " Condo",
+        "Request a tour",
+        "(619) 572-2681"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_45",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8cf7e8d6-8822-4874-81dd-120fb91637b7/islphoto/genIsl.0_1.jpg"
+    ]
+}

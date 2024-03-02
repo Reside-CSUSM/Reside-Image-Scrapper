@@ -1,0 +1,56 @@
+{
+    "Address": "321 10th Ave #1702",
+    "Price": "$4,095/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92101",
+    "Street": "",
+    "Stats": [
+        "$4,095/mo",
+        "2 beds",
+        "2 baths",
+        "1,077 sq ft",
+        "321 10th Ave #1702, San Diego, CA 92101",
+        " Condo",
+        "Request a tour",
+        "(866) 628-1396"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_206",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8f5d177f-56e0-4b8f-bdd9-fb2eb29b12fd/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8f5d177f-56e0-4b8f-bdd9-fb2eb29b12fd/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8f5d177f-56e0-4b8f-bdd9-fb2eb29b12fd/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8f5d177f-56e0-4b8f-bdd9-fb2eb29b12fd/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8f5d177f-56e0-4b8f-bdd9-fb2eb29b12fd/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8f5d177f-56e0-4b8f-bdd9-fb2eb29b12fd/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8f5d177f-56e0-4b8f-bdd9-fb2eb29b12fd/islphoto/genIsl.6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8f5d177f-56e0-4b8f-bdd9-fb2eb29b12fd/islphoto/genIsl.7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8f5d177f-56e0-4b8f-bdd9-fb2eb29b12fd/islphoto/genIsl.8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8f5d177f-56e0-4b8f-bdd9-fb2eb29b12fd/islphoto/genIsl.9_5.jpg"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Address": "1245 Morning View Dr",
+    "Price": "$2,893/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92026",
+    "Street": "",
+    "Stats": [
+        "$2,893/mo",
+        "2 beds",
+        "2 baths",
+        "1,006 sq ft",
+        "1245 Morning View Dr, Escondido, CA 92026",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_19",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/37a5172d-2f0d-4ace-8028-3368f0df8e6f/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37a5172d-2f0d-4ace-8028-3368f0df8e6f/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37a5172d-2f0d-4ace-8028-3368f0df8e6f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37a5172d-2f0d-4ace-8028-3368f0df8e6f/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37a5172d-2f0d-4ace-8028-3368f0df8e6f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37a5172d-2f0d-4ace-8028-3368f0df8e6f/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37a5172d-2f0d-4ace-8028-3368f0df8e6f/islphoto/genIsl.6_1.jpg"
+    ]
+}

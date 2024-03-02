@@ -1,0 +1,61 @@
+{
+    "Address": "3835 3rd Ave Apt 4",
+    "Price": "$2,245/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92103",
+    "Street": "",
+    "Stats": [
+        "$2,245/mo",
+        "1 bed",
+        "1 bath",
+        "525 sq ft",
+        "3835 3rd Ave Apt 4, San Diego, CA 92103",
+        " House",
+        "Request a tour",
+        "(855) 947-6029"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_204",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/09d14cac-bf26-4867-af22-f6b919fe889e/islphoto/genIsl.14_1.jpg"
+    ]
+}

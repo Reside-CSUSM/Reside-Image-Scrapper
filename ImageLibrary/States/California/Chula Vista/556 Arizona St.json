@@ -1,0 +1,57 @@
+{
+    "Address": "556 Arizona St",
+    "Price": "$1,875/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$1,875/mo",
+        "1 bed",
+        "1 bath",
+        "484 sq ft",
+        "556 Arizona St, Chula Vista, CA 91911",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_164",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6f1b491-aa4d-4f5c-8d98-4ed2854c30a0/islphoto/genIsl.11_1.jpg"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Address": "28408 Wimbleton Ln",
+    "Price": "$3,195/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92026",
+    "Street": "",
+    "Stats": [
+        "$3,195/mo",
+        "3 beds",
+        "2 baths",
+        "1,198 sq ft",
+        "28408 Wimbleton Ln, Escondido, CA 92026",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_61",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/dc52222b-b1a6-49e2-81f2-4b7ae81e87d0/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dc52222b-b1a6-49e2-81f2-4b7ae81e87d0/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dc52222b-b1a6-49e2-81f2-4b7ae81e87d0/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dc52222b-b1a6-49e2-81f2-4b7ae81e87d0/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dc52222b-b1a6-49e2-81f2-4b7ae81e87d0/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dc52222b-b1a6-49e2-81f2-4b7ae81e87d0/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dc52222b-b1a6-49e2-81f2-4b7ae81e87d0/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dc52222b-b1a6-49e2-81f2-4b7ae81e87d0/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dc52222b-b1a6-49e2-81f2-4b7ae81e87d0/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dc52222b-b1a6-49e2-81f2-4b7ae81e87d0/islphoto/genIsl.9_1.jpg"
+    ]
+}

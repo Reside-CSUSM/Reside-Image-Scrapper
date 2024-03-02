@@ -1,0 +1,64 @@
+{
+    "Address": "12366 Carmel Country Rd #103",
+    "Price": "$2,500/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92130",
+    "Street": "",
+    "Stats": [
+        "$2,500/mo",
+        "1 bed",
+        "1 bath",
+        "783 sq ft",
+        "12366 Carmel Country Rd #103, San Diego, CA 92130",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_243",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/59fd020d-461f-40b9-9b09-e74ceb254302/islphoto/genIsl.18_2.jpg"
+    ]
+}

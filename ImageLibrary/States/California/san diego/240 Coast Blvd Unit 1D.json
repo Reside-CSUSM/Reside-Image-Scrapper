@@ -1,0 +1,72 @@
+{
+    "Address": "240 Coast Blvd Unit 1D",
+    "Price": "$10,000/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$10,000/mo",
+        "2 beds",
+        "2 baths",
+        "1,000 sq ft",
+        "240 Coast Blvd Unit 1D, La Jolla, CA 92037",
+        " Condo",
+        "Request a tour",
+        "(818) 442-2216"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_285",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11bfa4bc-ef1c-4f0a-a70f-0c1810c6b58c/islphoto/genIsl.25_2.jpg"
+    ]
+}

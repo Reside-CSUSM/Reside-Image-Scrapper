@@ -1,0 +1,56 @@
+{
+    "Address": "1935 Caminito de la Cruz",
+    "Price": "$3,995/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$3,995/mo",
+        "4 beds",
+        "2.5 baths",
+        "1,860 sq ft",
+        "1935 Caminito de la Cruz, Chula Vista, CA 91913",
+        " Condo",
+        "Request a tour",
+        "(866) 630-1657"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_123",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/9996ff95-5efc-41e1-b54c-3ba0d55886e1/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9996ff95-5efc-41e1-b54c-3ba0d55886e1/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9996ff95-5efc-41e1-b54c-3ba0d55886e1/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9996ff95-5efc-41e1-b54c-3ba0d55886e1/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9996ff95-5efc-41e1-b54c-3ba0d55886e1/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9996ff95-5efc-41e1-b54c-3ba0d55886e1/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9996ff95-5efc-41e1-b54c-3ba0d55886e1/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9996ff95-5efc-41e1-b54c-3ba0d55886e1/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9996ff95-5efc-41e1-b54c-3ba0d55886e1/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9996ff95-5efc-41e1-b54c-3ba0d55886e1/islphoto/genIsl.9_1.jpg"
+    ]
+}

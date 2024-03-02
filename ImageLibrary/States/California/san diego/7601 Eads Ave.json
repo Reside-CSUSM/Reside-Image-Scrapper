@@ -1,0 +1,60 @@
+{
+    "Address": "7601 Eads Ave",
+    "Price": "$3,795/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$3,795/mo",
+        "2 beds",
+        "2 baths",
+        "\u2014 sq ft",
+        "7601 Eads Ave, La Jolla, CA 92037",
+        " Apartment",
+        "Request a tour",
+        "(844) 301-0442"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_281",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.0_10.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.1_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.2_10.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.3_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.4_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.5_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.6_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.7_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.8_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.9_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.10_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.11_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.12_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1640983d-555f-4bda-8384-e3b51b0c79ba/islphoto/genIsl.13_6.jpg"
+    ]
+}

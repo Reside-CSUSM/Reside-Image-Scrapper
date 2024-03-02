@@ -1,0 +1,62 @@
+{
+    "Address": "13155 Wimberly Sq #282",
+    "Price": "$2,495/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92128",
+    "Street": "",
+    "Stats": [
+        "$2,495/mo",
+        "2 beds",
+        "2 baths",
+        "907 sq ft",
+        "13155 Wimberly Sq #282, San Diego, CA 92128",
+        " Condo",
+        "Request a tour",
+        "(619) 754-4375"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_328",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9345032f-69e6-4a6d-8e44-2507a1f3a546/islphoto/genIsl.15_2.jpg"
+    ]
+}

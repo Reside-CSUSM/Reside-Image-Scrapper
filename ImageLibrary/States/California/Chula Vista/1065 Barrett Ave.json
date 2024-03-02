@@ -1,0 +1,63 @@
+{
+    "Address": "1065 Barrett Ave",
+    "Price": "$3,550/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$3,550/mo",
+        "3 beds",
+        "2 baths",
+        "1,427 sq ft",
+        "1065 Barrett Ave, Chula Vista, CA 91911",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_33",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6716795b-c392-40a2-9205-e39f2db12d8c/islphoto/genIsl.17_1.jpg"
+    ]
+}

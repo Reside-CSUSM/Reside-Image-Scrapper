@@ -1,0 +1,51 @@
+{
+    "Address": "590 Juniper St",
+    "Price": "$1,200/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$1,200/mo",
+        "4 beds",
+        "2 baths",
+        "140 sq ft",
+        "590 Juniper St, Chula Vista, CA 91911",
+        " House",
+        "Request a tour",
+        "(877) 721-1460"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_25",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1382b519-1846-465b-a213-ac6ae762bb10/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1382b519-1846-465b-a213-ac6ae762bb10/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1382b519-1846-465b-a213-ac6ae762bb10/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1382b519-1846-465b-a213-ac6ae762bb10/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1382b519-1846-465b-a213-ac6ae762bb10/islphoto/genIsl.4_1.jpg"
+    ]
+}

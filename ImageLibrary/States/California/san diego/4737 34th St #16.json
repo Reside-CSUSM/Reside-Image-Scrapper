@@ -1,0 +1,61 @@
+{
+    "Address": "4737 34th St #16",
+    "Price": "$2,700/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92116",
+    "Street": "",
+    "Stats": [
+        "$2,700/mo",
+        "2 beds",
+        "2 baths",
+        "924 sq ft",
+        "4737 34th St #16, San Diego, CA 92116",
+        " Condo",
+        "Request a tour",
+        "(844) 310-9055"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_132",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d2424fcc-e2b7-4436-b818-ad6fa193ecd2/islphoto/genIsl.14_2.jpg"
+    ]
+}

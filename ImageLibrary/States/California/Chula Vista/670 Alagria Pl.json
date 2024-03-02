@@ -1,0 +1,66 @@
+{
+    "Address": "670 Alagria Pl",
+    "Price": "$1,200/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$1,200/mo",
+        "5 beds",
+        "3 baths",
+        "2,800 sq ft",
+        "670 Alagria Pl, Chula Vista, CA 91910",
+        " House",
+        "Request a tour",
+        "(949) 419-5655"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_40",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/697dfe64-8a07-4a0f-9170-9a7035e76ce6/islphoto/genIsl.19_3.jpg"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "Address": "1431 Santa Rita E",
+    "Price": "$4,900/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$4,900/mo",
+        "4 beds",
+        "2.5 baths",
+        "1,598 sq ft",
+        "1431 Santa Rita E, Chula Vista, CA 91913",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_82",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/cac86f71-5216-4536-9a0f-547ceb87ee72/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cac86f71-5216-4536-9a0f-547ceb87ee72/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cac86f71-5216-4536-9a0f-547ceb87ee72/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cac86f71-5216-4536-9a0f-547ceb87ee72/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cac86f71-5216-4536-9a0f-547ceb87ee72/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cac86f71-5216-4536-9a0f-547ceb87ee72/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cac86f71-5216-4536-9a0f-547ceb87ee72/islphoto/genIsl.6_1.jpg"
+    ]
+}

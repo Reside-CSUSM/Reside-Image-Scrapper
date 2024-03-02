@@ -1,0 +1,60 @@
+{
+    "Address": "152 Garrett Ave",
+    "Price": "$2,495/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$2,495/mo",
+        "2 beds",
+        "1 bath",
+        "704 sq ft",
+        "152 Garrett Ave, Chula Vista, CA 91910",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_133",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.5_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.6_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.7_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.8_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.9_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.10_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.11_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.12_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.13_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd404d20-b5bd-4c7b-844d-faa0708487f9/islphoto/genIsl.14_5.jpg"
+    ]
+}

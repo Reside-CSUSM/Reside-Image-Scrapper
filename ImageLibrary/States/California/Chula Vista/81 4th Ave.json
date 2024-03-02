@@ -1,0 +1,53 @@
+{
+    "Address": "81 4th Ave",
+    "Price": "$1,695/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$1,695/mo",
+        "1 bed",
+        "1 bath",
+        "600 sq ft",
+        "81 4th Ave, Chula Vista, CA 91910",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_163",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f320c9b2-5945-415e-88de-156c5fd0c01b/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f320c9b2-5945-415e-88de-156c5fd0c01b/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f320c9b2-5945-415e-88de-156c5fd0c01b/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f320c9b2-5945-415e-88de-156c5fd0c01b/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f320c9b2-5945-415e-88de-156c5fd0c01b/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f320c9b2-5945-415e-88de-156c5fd0c01b/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f320c9b2-5945-415e-88de-156c5fd0c01b/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f320c9b2-5945-415e-88de-156c5fd0c01b/islphoto/genIsl.7_2.jpg"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Address": "6930 Hyde Park Dr",
+    "Price": "$2,195/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92119",
+    "Street": "",
+    "Stats": [
+        "$2,195/mo",
+        "1 bed",
+        "1 bath",
+        "698 sq ft",
+        "6930 Hyde Park Dr, San Diego, CA 92119",
+        " House",
+        "Request a tour",
+        "(833) 532-2849"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_177",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f66e4858-45df-47b3-bc5f-c45520386b80/islphoto/genIsl.14_1.jpg"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Address": "5425 Lake Murray Blvd",
+    "Price": "$2,800/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$2,800/mo",
+        "2 beds",
+        "2 baths",
+        "878 sq ft",
+        "5425 Lake Murray Blvd, La Mesa, CA 91942",
+        " House",
+        "Request a tour",
+        "(844) 263-8548"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_181",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c83ecf0-6b43-43d6-a775-57c0e92456aa/islphoto/genIsl.15_2.jpg"
+    ]
+}

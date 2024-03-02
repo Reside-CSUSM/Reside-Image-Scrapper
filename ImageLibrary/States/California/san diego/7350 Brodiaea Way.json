@@ -1,0 +1,67 @@
+{
+    "Address": "7350 Brodiaea Way",
+    "Price": "$40,000/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$40,000/mo",
+        "5 beds",
+        "4.5 baths",
+        "6,000 sq ft",
+        "7350 Brodiaea Way, La Jolla, CA 92037",
+        " House",
+        "Request a tour",
+        "(858) 201-1828"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_216",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a16b23c-e173-40f2-8c16-bfa0af0a9edf/islphoto/genIsl.20_1.jpg"
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "Address": "3691 Caminito Cielo del Mar",
+    "Price": "$6,000/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92130",
+    "Street": "",
+    "Stats": [
+        "$6,000/mo",
+        "3 beds",
+        "3 baths",
+        "1,310 sq ft",
+        "3691 Caminito Cielo del Mar, San Diego, CA 92130",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_248",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.31_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.32_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.33_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.34_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.35_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.36_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.37_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.38_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.39_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.40_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.41_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.42_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.43_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.44_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.45_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.46_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.47_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.48_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.49_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.50_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.51_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.52_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.53_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.54_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.55_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de2ff271-620c-412c-a602-b17c79f617b4/islphoto/genIsl.56_1.jpg"
+    ]
+}

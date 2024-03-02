@@ -1,0 +1,54 @@
+{
+    "Address": "4166 Mississippi St",
+    "Price": "$2,000/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92104",
+    "Street": "",
+    "Stats": [
+        "$2,000/mo",
+        "1 bed",
+        "1 bath",
+        "600 sq ft",
+        "4166 Mississippi St, San Diego, CA 92104",
+        " House",
+        "Request a tour",
+        "(760) 224-6017"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_147",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/15c893b8-d7f0-4400-9fa4-e1442d5edc55/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/15c893b8-d7f0-4400-9fa4-e1442d5edc55/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/15c893b8-d7f0-4400-9fa4-e1442d5edc55/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/15c893b8-d7f0-4400-9fa4-e1442d5edc55/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/15c893b8-d7f0-4400-9fa4-e1442d5edc55/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/15c893b8-d7f0-4400-9fa4-e1442d5edc55/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/15c893b8-d7f0-4400-9fa4-e1442d5edc55/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/15c893b8-d7f0-4400-9fa4-e1442d5edc55/islphoto/genIsl.7_2.jpg"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Address": "1292 Nacion Ave",
+    "Price": "$3,800/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$3,800/mo",
+        "2 beds",
+        "1 bath",
+        "775 sq ft",
+        "1292 Nacion Ave, Chula Vista, CA 91911",
+        " House",
+        "Request a tour",
+        "(619) 508-9969"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_127",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/2eb02be0-42de-4c75-8636-71eebc47dc4c/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2eb02be0-42de-4c75-8636-71eebc47dc4c/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2eb02be0-42de-4c75-8636-71eebc47dc4c/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2eb02be0-42de-4c75-8636-71eebc47dc4c/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2eb02be0-42de-4c75-8636-71eebc47dc4c/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2eb02be0-42de-4c75-8636-71eebc47dc4c/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2eb02be0-42de-4c75-8636-71eebc47dc4c/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2eb02be0-42de-4c75-8636-71eebc47dc4c/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2eb02be0-42de-4c75-8636-71eebc47dc4c/islphoto/genIsl.8_2.jpg"
+    ]
+}

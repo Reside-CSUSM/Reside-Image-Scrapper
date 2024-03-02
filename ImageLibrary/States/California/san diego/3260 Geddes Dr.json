@@ -1,0 +1,62 @@
+{
+    "Address": "3260 Geddes Dr",
+    "Price": "$7,000/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92117",
+    "Street": "",
+    "Stats": [
+        "$7,000/mo",
+        "4 beds",
+        "2.5 baths",
+        "1,653 sq ft",
+        "3260 Geddes Dr, San Diego, CA 92117",
+        " House",
+        "Request a tour",
+        "(844) 239-3316"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_161",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66b3cae5-be3f-4339-8a25-19801046ad5e/islphoto/genIsl.15_2.jpg"
+    ]
+}

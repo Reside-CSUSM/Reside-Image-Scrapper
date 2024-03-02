@@ -1,0 +1,58 @@
+{
+    "Address": "210 Quintard St",
+    "Price": "$2,275/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$2,275/mo",
+        "2 beds",
+        "1 bath",
+        "875 sq ft",
+        "210 Quintard St, Chula Vista, CA 91911",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_64",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2a138ff6-ad87-4829-9c19-4a525d2f0a5c/islphoto/genIsl.12_1.jpg"
+    ]
+}

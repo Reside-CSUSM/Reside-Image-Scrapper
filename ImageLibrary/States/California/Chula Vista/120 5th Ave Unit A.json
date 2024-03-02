@@ -1,0 +1,61 @@
+{
+    "Address": "120 5th Ave Unit A",
+    "Price": "$1,950/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$1,950/mo",
+        "1 bed",
+        "1 bath",
+        "600 sq ft",
+        "120 5th Ave Unit A, Chula Vista, CA 91910",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_173",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88e7b2be-5771-4d2b-95fd-3fddc7a4d054/islphoto/genIsl.15_1.jpg"
+    ]
+}

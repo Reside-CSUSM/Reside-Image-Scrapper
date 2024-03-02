@@ -1,0 +1,71 @@
+{
+    "Address": "506 Telegraph Canyon Rd",
+    "Price": "$3,500/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$3,500/mo",
+        "3 beds",
+        "2 baths",
+        "\u2014 sq ft",
+        "506 Telegraph Canyon Rd, Chula Vista, CA 91910",
+        " Townhome",
+        "Request a tour",
+        "(619) 500-3051"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_139",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4e5d6de0-5aee-4f03-9a0f-707e15e42c9c/islphoto/genIsl.24_1.jpg"
+    ]
+}

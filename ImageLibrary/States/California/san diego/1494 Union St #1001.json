@@ -1,0 +1,68 @@
+{
+    "Address": "1494 Union St #1001",
+    "Price": "$6,500/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92101",
+    "Street": "",
+    "Stats": [
+        "$6,500/mo",
+        "2 beds",
+        "2.5 baths",
+        "1,900 sq ft",
+        "1494 Union St #1001, San Diego, CA 92101",
+        " Condo",
+        "Request a tour",
+        "(844) 462-4749"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_124",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a5ab5c92-f01a-4f29-ad2a-4d98b15a2cdf/islphoto/genIsl.21_2.jpg"
+    ]
+}

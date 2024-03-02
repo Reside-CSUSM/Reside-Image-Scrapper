@@ -1,0 +1,52 @@
+{
+    "Address": "457 Coast Blvd #403",
+    "Price": "$7,300/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$7,300/mo",
+        "2 beds",
+        "2 baths",
+        "992 sq ft",
+        "457 Coast Blvd #403, La Jolla, CA 92037",
+        " Condo",
+        "Request a tour",
+        "(619) 838-7609"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_269",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/febdca47-585a-4b85-abda-9b7accc489fd/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/febdca47-585a-4b85-abda-9b7accc489fd/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/febdca47-585a-4b85-abda-9b7accc489fd/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/febdca47-585a-4b85-abda-9b7accc489fd/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/febdca47-585a-4b85-abda-9b7accc489fd/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/febdca47-585a-4b85-abda-9b7accc489fd/islphoto/genIsl.5_1.jpg"
+    ]
+}

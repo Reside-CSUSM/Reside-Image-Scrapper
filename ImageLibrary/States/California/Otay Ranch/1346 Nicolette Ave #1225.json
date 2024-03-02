@@ -1,0 +1,75 @@
+{
+    "Address": "1346 Nicolette Ave #1225",
+    "Price": "$3,195/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$3,195/mo",
+        "3 beds",
+        "2 baths",
+        "1,315 sq ft",
+        "1346 Nicolette Ave #1225, Chula Vista, CA 91913",
+        " Condo",
+        "Request a tour",
+        "(844) 229-8613"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_26",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b14039f3-00b1-43a8-9deb-999f028fd633/islphoto/genIsl.28_2.jpg"
+    ]
+}

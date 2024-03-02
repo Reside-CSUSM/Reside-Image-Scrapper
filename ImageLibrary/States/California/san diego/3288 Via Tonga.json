@@ -1,0 +1,67 @@
+{
+    "Address": "3288 Via Tonga",
+    "Price": "$3,450/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$3,450/mo",
+        "3 beds",
+        "2 baths",
+        "1,158 sq ft",
+        "3288 Via Tonga, San Diego, CA 92154",
+        " Condo",
+        "Request a tour",
+        "(844) 227-9634"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_165",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00942dbd-782e-4d0e-bfe4-66894b4d48f8/islphoto/genIsl.20_1.jpg"
+    ]
+}

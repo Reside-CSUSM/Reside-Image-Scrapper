@@ -1,0 +1,58 @@
+{
+    "Address": "218 Woodland Pkwy",
+    "Price": "$2,800/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$2,800/mo",
+        "2 beds",
+        "2 baths",
+        "1,025 sq ft",
+        "218 Woodland Pkwy, San Marcos, CA 92069",
+        "Laundry in unit \u2022 Dishwasher \u2022 Somewhat walkable",
+        "Request a tour",
+        "(800) 525-0975"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_29",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d9c0112-d15f-4ce9-b54d-212d57f3a0b4/islphoto/genIsl.11_1.jpg"
+    ]
+}

@@ -56,7 +56,7 @@ WEB_DRIVER = None
 LOGIN_ERROR_CODE = 'scrapper login error'
 SEARCHING_ERROR_CODE = 'scrapper address error'
 DATA_FETCHING_ERROR_CODE = 'scrapper image fetching error'
-
+ADDRESS_TYPE_ERROR_CODE = "ADDRESS IDENTIFIER IS NOT 'specific'"
 
 CURRENT_SESSION_ADDRESS = ""
 image_library = ImagingLibraryManager()
@@ -147,6 +147,19 @@ class Listing():
         self.city = "no city"
         self.zipcode = "no zipcode"
         self.street = "no street"
+        self.data = {
+            'Address':"",
+            'Price':"",
+            'State':"",
+            'City':"",
+            'ZipCode':"",
+            'Street':"",
+            'Stats':"",
+            'ListingNumber':"",
+            'WebElementID':el_ptr.get_attribute('id'),
+            "Filters":"",
+            'Images':[],
+        }
         self.image_urls = []
         self.processed_flag = Flag()
         self.processed_flag.set_true()
@@ -154,6 +167,13 @@ class Listing():
         self.print_flag.set_true()
         self.detail_flag = Flag()
         self.detail_flag.set_true()
+
+
+    def set_data(self, key, value):
+        try:
+            self.data[key] = value
+        except Exception as error:
+            print("\x1b[31m",error,"\x1b[0m")
 
     def print_meta_data(self, value):
         if(value == 'off'):
@@ -196,7 +216,7 @@ class Listing():
             try:
                 image_url = image.find_element(By.CLASS_NAME, 'bp-Homecard__Photo--image').get_attribute('src')
                 if("https" in image_url):
-                    self.image_urls.append(image_url)
+                    self.data['Images'].append(image_url)
                     if(self.print_flag.check()):
                         print("\x1b[34mSuccessful IMAGE URL:\x1b[0m", image_url)
             except Exception as error:
@@ -209,13 +229,14 @@ class Listing():
             string = string.split("\n")
             #self.address = string[-1]
             self.stats = []
-
+            
             for str in string:
                 str.replace("\n", "")
                 self.stats.append(str)
 
             #EXTRACTING THE STREET ADDRESS ITSELF
-            self.price = self.stats[0]
+            self.data['Stats'] = self.stats
+            self.data['Price'] = self.stats[0]
             regex = r"^(.*?),\s*(.*?),\s*(.*?)\s+(\d{5})$"
             for item in self.stats:
                 matches = re.match(regex, item)
@@ -231,19 +252,19 @@ class Listing():
             """#EXTRACTING STATE, CITY, AND ZIP FROM THE ADDRESS"""
             string = copy.copy(self.address)
             values = string.split(", ")
-            self.street = values[0]
-            self.city = values[1]
-            self.state = values[2]
-            self.zipcode = values[3]
+            self.data['Address'] = values[0]
+            self.data['City'] = values[1]
+            self.data['State'] = values[2]
+            self.data['ZipCode'] = values[3]
             print("VALUES:== ", values)
 
             if(self.detail_flag.check()):
-                print("ADDRESS:", self.address)
-                print("STATS:", self.stats)
-                print("PRICE:", self.price)
-                print("STATE:", self.state)
-                print("CITY:", self.city)
-                print("ZIPCODE", self.zipcode)
+                print("ADDRESS:", self.data['Address'])
+                print("STATS:", self.data['Stats'])
+                print("PRICE:", self.data['Price'])
+                print("STATE:", self.data['State'])
+                print("CITY:", self.data['City'])
+                print("ZIPCODE", self.data['ZipCode'])
 
         except Exception as error:
             has_address.set_false()
@@ -264,25 +285,8 @@ class Listing():
         return self.image_urls
 
     def export(self, type='json'):
-        payload = None
-        if(type == 'json'):
-            payload = {
-                'Address':self.address,
-                'Price':self.price,
-                'Stats':self.stats,
-                'State':self.state,
-                'City':self.city,
-                'Street':self.street,
-                'ZipCode':self.zipcode,
-                'Images':[]
-            }
-            payload['Images'] = self.image_urls
-            return payload
-
-        else:
-            return payload
+        return self.data
     
-
 
 class ListingPageBar():
 
@@ -349,7 +353,12 @@ class BedsAndBath():
         self.bot = bot
         self.bed_bath_button = ElementPointer(By.XPATH, '', self.bot)
         self._click_done_button = ElementPointer(By.CLASS_NAME, "", self.bot)
-
+        self.settings = {
+            'BedsAndBath':{
+                'Beds':"None",
+                "Baths":"None"
+            }
+        }
         self.bed_bar = {
             'studio':None, 
             '1':None, 
@@ -358,6 +367,7 @@ class BedsAndBath():
             '4':None, 
             '5':None,
         }
+
         self.bath_bar = {
             '1':None, 
             '1.5':None, 
@@ -374,7 +384,11 @@ class BedsAndBath():
             self._click_done_button.element().click()
         except Exception as error:pass
 
-
+    def export_settings(self, type):
+        if(type == "value"):
+            return [self.settings['BedsAndBath']['Beds'], self.settings['BedsAndBath']['Baths']]
+        elif(type == 'json'):
+            return self.settings
 
 class HomeType():
 
@@ -393,6 +407,9 @@ class HomeType():
             'co_op':ElementPointer(By.CLASS_NAME, '//*[@id="sidepane-header"]/div/div/div[1]/form/div[3]/div/div[2]/div/div[1]/div[2]/div/div[7]', self.bot),
             'other':ElementPointer(By.CLASS_NAME, '//*[@id="sidepane-header"]/div/div/div[1]/form/div[3]/div/div[2]/div/div[1]/div[2]/div/div[8]', self.bot)
         }
+        self.settings = {
+            'Home Type':"None"
+        }
                                                    
     def click_home_button(self):
         try:
@@ -407,6 +424,7 @@ class HomeType():
         try:
             self.options[type].create_pointer()
             self.options[type].element().click()
+            self.settings['Home Type'] = type
         except Exception as error:
             print("HomeType Choosing Error choose_home_type():", error)
         return self
@@ -418,6 +436,11 @@ class HomeType():
         except Exception as error:
             print("HomeType Error click_done():", error)
         return self
+    
+    def export_settings(self, type):
+        if(type == "value"):
+            return self.settings['Home Type']
+        return self.settings
 
 
 class PaymentType():
@@ -429,6 +452,9 @@ class PaymentType():
         self.for_rent = ElementPointer(By.ID, 'forRent', self.bot)
         self.for_sale = ElementPointer(By.ID, 'for-sale', self.bot)
         self.done_button = ElementPointer(By.XPATH, '/html/body/div[1]/div[8]/div[2]/div[1]/div[2]/div/div/div/div[1]/form/div[1]/div/div[2]/div/div[2]/button', self.bot)
+        self.settings ={
+            'Payment Type':"None"
+        }
         if(self.bot == None):
             self.bot_flag.set_false()
         else:
@@ -448,6 +474,7 @@ class PaymentType():
         try:
             self.for_rent.create_pointer()
             self.for_rent.element().click()
+            self.settings['Payment Type'] = 'For rent'
         except Exception as error:
             print("PaymentType Error:", error)
             raise error
@@ -457,6 +484,7 @@ class PaymentType():
         try:
             self.for_sale.create_pointer()
             self.for_sale.element().click()
+            self.settings['Payment Type'] = 'For sale'
         except Exception as error:
             print("PaymentType Error:", error)
             raise error
@@ -471,6 +499,12 @@ class PaymentType():
             print("PaymentType Error:", error)
             raise error
         return self
+    
+    def export_settings(self, type):
+        if(type == 'value'):
+            return self.settings['Payment Type']
+        elif(type == 'json'): 
+            return self.settings
 
 
 class PriceRange():
@@ -483,6 +517,12 @@ class PriceRange():
         self.maximum_amount = 100000
         self.enter_max_field = None
         self.done_button = None
+        self.settings = {
+            'Price Range':{
+                'Minimum':"None",
+                "Maximum":"None",
+            }
+        }
         if(bot == None):self.bot_flag.set_false()
 
         else:
@@ -506,6 +546,7 @@ class PriceRange():
         try:
             self.enter_min_field.create_pointer()
             self.enter_min_field.element().send_keys(amount)
+            self.settings['Price Range']['Minimum'] = amount
             return self
         except Exception as error:
             print("PriceRange send_minimum() Error:", error)
@@ -515,6 +556,7 @@ class PriceRange():
         try:
             self.enter_max_field.create_pointer()
             self.enter_max_field.element().send_keys(amount)
+            self.settings['Price Range']['Maximum'] = amount
             return self
         except Exception as error:
             print("PriceRange send_maximum() Error:", error)
@@ -528,16 +570,30 @@ class PriceRange():
         except Exception as error:
             print("PriceRange click_done() Error", error)
     
+    def export_settings(self, type):
+        if(type == "value"):
+            return [self.settings['Price Range']['Minimum'], self.settings['Price Range']['Maximum']]
 
+        elif(type == "json"):
+            return self.settings
+    
 class RedfinSearchFilter():
     def __init__(self, bot):
         self._house_type = PaymentType(bot)
         self._price_range = PriceRange(bot)
         self._home_type = HomeType(bot)
         self._bed_and_bath = BedsAndBath(bot)
-    
+        self.settings = {
+            'Filter Settings':{
+                'Payement Type':"None",
+                'Price Range':"None",
+                "Home Type":"None",
+                "BedsAndBath":"None"
+            }
+        }
     def payment_type(self):
         return self._house_type
+
     
     def price_range(self):
         return self._price_range
@@ -548,6 +604,24 @@ class RedfinSearchFilter():
     def bed_bath_type(self):
         return self._bed_and_bath
     
+    def export_settings(self, type):
+        self.settings['Filter Settings']['Payment Type'] = self._house_type.export_settings('json')
+        self.settings['Filter Settings']['Price Range'] = self._price_range.export_settings('json')
+        self.settings['Filter Settings']['Home type'] = self._home_type.export_settings('json')
+        self.settings['Filter Settings']['BedsAndBath'] = self._bed_and_bath.export_settings('json')
+        
+        """ 
+        THIS CODE HERE DOESN'T WORK PRODUCES EMPTY FILES FOR SOME REASON IN LOCAL STORAGE
+        self.settings['Filter Settings']['Payment Type'] = self._house_type.export_settings('value')
+        self.settings['Filter Settings']['Price Range'] = self._price_range.export_settings('value')
+        self.settings['Filter Settings']['Home Type'] = self._home_type.export_settings('value')
+        self.settings['Filter Settings']['BedsAndBath'] = self._bed_and_bath.export_settings('value')"""
+        if(type == "json"):
+            return self.settings
+        elif(type == "value"):
+            dict = self.settings['Filter Settings']
+            list = dict.values()
+            return list
 
 #--------------------------------------------ADDRESS SEARCH MODULES------------------------------------------------
 class RedfinSearch():
@@ -667,20 +741,23 @@ class GeneralLocation():
     def __init__(self, bot):
         self.bot = bot
         self.location_address = None
-        #self.search_filter = RedfinSearchFilter(self.bot)
         self.listing_page_bar = ListingPageBar(self.bot)
         self.listings = []
         self.jsonified_listings = []
         self.listing_limit = 350
+        self.filter = None
         #This is for the listing object
         #root = ElementPointer(By.CLASS_NAME, 'HomeCardContainer flex justify-center', self.bot)
 
-    def address(self, address):
+    def address(self, address, type):
         self.location_address = copy.copy(address)
     
+    def save_filters(self, filter):
+        self.filter = filter
+
     def fetch_listing_data(self):
         #APPLY FILTERS
-        self.apply_filters()
+        #self.apply_filters()
         
         #FETCH THE LISTINGS
         self.listing_page_bar.create_pointer()
@@ -715,7 +792,7 @@ class GeneralLocation():
             if(city_exists == False):
                 image_library.directory().State(STATE_ABBREVIATION[state]).City(city).Create()
 
-        print(state, city, " this is another staet, city")
+        print(state, city, "this is another state, city")
         try:
             for i in range(1, 39):
                 element = self.bot.search_element(By.XPATH, '//*[@id="results-display"]/div[5]/div/div[1]/div/div['+ str(i) + ']').get_element()
@@ -724,7 +801,8 @@ class GeneralLocation():
                 status = listing.process()
                 if(status == True):
                     #self.listings.append(listing)
-                    self.jsonified_listings.append((listing.export('json')))
+                    listing.set_data('Filters', self.filter)
+                    #self.jsonified_listings.append((listing.export('json')))
                     print("Collected element: ", element.get_attribute('id'))
                     listing_json = listing.export('json')
                     image_library.directory().State(STATE_ABBREVIATION[state]).City(city).Listing(listing_json['Address']).Create(listing_json)
@@ -733,18 +811,6 @@ class GeneralLocation():
         except Exception as error:
             print("Element not found", error)
 
-
-    def export_to_file(self, file_path):
-        global export_file
-        export_file = open(file_path, "w")
-        json.dump(self.jsonified_listings, export_file, indent=4)
-        export_file.close()
-
-
-    def apply_filters(self):
-        #self.search_filter.payment_type().click_payment_type_button().click_for_rent_button().click_done()
-        #self.search_filter.price_range().click_price_button().send_minimum(10).send_maximum(60000).click_done()
-        pass
 
 
 class SpecificLocation():
@@ -756,17 +822,52 @@ class SpecificLocation():
         self.price = None
         self.amenities = []
         self.response = None
-    
-    def address(self, address):
+        self.listing_type = 'specifc'
+        self.data = {
+            'Address':"",
+            'Price':"",
+            'State':"",
+            'City':"",
+            'ZipCode':"",
+            'Street':"",
+            'Stats':"",
+            'ListingNumber':"",
+            'WebElementID':"",
+            "Filters":"",
+            'Images':[],
+        }
+
+
+    def address(self, address, type):
+        self.listing_type = type
         self.location_address = address
     
     def fetch_listing_data(self):
+        #SPECIFIC SEARCH FUNCTION IS NOT WORKING IT IS BROKEN NOW
         try:
             #GETTING IMAGE URLS
-            
+            if(self.listing_type != 'specific'):
+                return ADDRESS_TYPE_ERROR_CODE
+            list = self.location_address.split(", ")
+            state = list[2].split(" ")[0]
+            city = list[1]
+
+            print("STATE:", state)
+            print("CITY:", city)
+
             try:
+                if(image_library.directory().State(STATE_ABBREVIATION[state]).Search() == False):
+                    image_library.directory().State(STATE_ABBREVIATION[state]).Create()
+                    image_library.directory().State(STATE_ABBREVIATION[state]).City(city).Create()
+                
+                elif(image_library.directory().State(STATE_ABBREVIATION[state]).Search() == True):
+                    image_library.directory().State(STATE_ABBREVIATION[state]).City(city).Create()
+            except Exception as error:
+                print("ERROR in creating local storage files for specific search function", error)
+
+            try:                
                 image_button = '/html/body/div[1]/div[11]/div[1]/div[3]/div/div[5]/div/button'
-                image_button = '/html/body/div[1]/div[11]/div[1]/div[2]/div/div[5]/div/button'
+                image_button = '/html/body/div[1]/div[12]/div[1]/div[2]/div/div[5]/div/button'
                 self.bot.search_element(By.XPATH, image_button).get_element().click()
 
                 image_class1 = 'inline-block selected'
@@ -778,14 +879,14 @@ class SpecificLocation():
                 #https://ssl.cdn-redfin.com/photo
 
                 for element in element_list1:
-                    self.image_urls.append(element.get_attribute('src'))
+                    self.data['Images'].append(element.get_attribute('src'))
                 
                 for element in element_list2:
-                    self.image_urls.append(element.get_attribute('src'))
+                    self.data['Images'].append(element.get_attribute('src'))
 
                 for i in range(len(self.image_urls) - 1, -1, -1):
-                    if self.image_urls[i] is None or self.image_urls[i] == 'None':
-                        self.image_urls.pop(i)
+                    if self.data['Images'][i] is None or self.data['Images'][i] == 'None':
+                        self.data['Images'].pop(i)
 
             except Exception as error:
                      print("SOME IMAGES WERE NOT FOUND", error)
@@ -797,33 +898,45 @@ class SpecificLocation():
             except Exception as error:
                 print("CLOSE BUTTON NOT FOUND")
             
-            
-            #GET PRICE
-            self.price = self.bot.search_element(By.CLASS_NAME, 'statsValue').get_element()
-            self.price = self.price.text
 
-            #GET AMENITIES
-            #var = '/html/body/div[1]/div[11]/div[2]/div[6]/section/div/div[2]/div/div[1]/div[2]/div[1]/div/ul/li[1]'
-            #end = ']'
-            
-            #self.amenities.append(self.bot.wait(0.5).search_element(By.XPATH, var).get_element().text)
+            try:
+            #GET THE ADDRESS
+                self.data['Address'] = self.bot.search_element(By.CLASS_NAME, 'full-address').get_element()
+                self.data['Address'] = self.data['Address'].text
+                string = copy.copy(self.data['Address']).replace("\n", "")
+                values = string.split(", ")
+                address_and_city = values[0].split(",")
+                print(values, " ===yess")
+                self.data['Address'] = address_and_city[0]
+                self.data['City'] = address_and_city[1]
+                self.data['State'] = values[1].split(" ")[0]
+                self.data['ZipCode'] = values[1].split(" ")[1]
+            except Exception as error:
+                print("Error getting the address", error)
+
+            #GET PRICE
+            try:
+                self.price = self.bot.search_element(By.CLASS_NAME, 'statsValue').get_element()
+                self.data['Price'] = self.price.text
+                """ i = 0
+                list = []
+                len1 = len(self.data['Images'])
+                for i in range(0, len1):
+                    if(self.data['Images'][i] == None):
+                        list.append(i)
+                        print(i)
+                    pass
+
+                for index in list:
+                    self.data['Images'].pop(index)"""
+                image_library.directory().State(STATE_ABBREVIATION[state]).City(city).Listing(self.data['Address']).Create(self.data)
+            except Exception as error:
+                print("Error getting the price", error)
 
         except Exception as error:
             print("EITHER PRICE OR AMENTIES NOT FOUND", error)
-            self.response = {
-            'image_urls':self.image_urls, 
-            'price':self.price, 
-            'amenities':'None'
-            }
-            return self.response
+        return self.data
 
-        self.response = {
-            'image_urls':self.image_urls, 
-            'price':self.price, 
-            'amenities':self.amenities
-        }
-
-        return self.response
 
 
 #-----------------------------------------------------INTERFACE MODULES-------------------------------------------------------
@@ -906,11 +1019,15 @@ class RedfinBot():
             except Exception as error:
                 print("\x1b[FILTERS!! ERROR\x1b[0m", error)
             
-            self.general_fetcher.address(self._address)
+            filters = self.redfin_filter.export_settings('json')
+            #filters = self.redfin_filter.export_settings('value')
+            self.general_fetcher.address(self._address, self.listing_type)
+            self.general_fetcher.save_filters(filters)
             self.listing_response = self.general_fetcher.fetch_listing_data()
             if(self.listing_response == DATA_FETCHING_ERROR_CODE): return DATA_FETCHING_ERROR_CODE
         
         elif(self.listing_type == 'specific'):
+            self.specific_fetcher.address(self._address, self.listing_type)
             self.listing_response = self.specific_fetcher.fetch_listing_data()
             if(self.listing_response == DATA_FETCHING_ERROR_CODE): return DATA_FETCHING_ERROR_CODE
 
@@ -949,10 +1066,11 @@ class RedfinBot():
     def filters(self):
         return self.redfin_filter
     
-    def address(self, address):
+    def address(self, address, type):
         self._address = address
         CURRENT_SESSION_ADDRESS = copy.copy(address)
         print(CURRENT_SESSION_ADDRESS, "  this is the current session ADDRESS")
+        self.listing_type = type
         return self
     
     def location(self, type):
@@ -963,14 +1081,16 @@ class RedfinBot():
         self.bot.close()
 
 
-#bot = RedfinBot()
-#bot.activate()
+#bot = RedfinBot()#bot.activate()
 #bot.save_filters(['For rent'])
-#print(bot.address('5210 Rain Creek Pkwy, Austin, TX').location('specific').get_response())
+#print(bot.address('5210 Rain Creek Pkwy, Austin, TX', 'specific').location('specific').get_response())
 #print(bot.address('san diego, CA').location('general').get_response())
+
 #
 """
 TODO:
+1) IMPORTANT  TEST AND FINISH UP THE SPECIFIC SEARCH FILTER
+
     - Finish everything about the bot
        - Filters
        - Finish all the tests

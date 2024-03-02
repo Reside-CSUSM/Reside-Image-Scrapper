@@ -1,0 +1,56 @@
+{
+    "Address": "10905 Caminito Arcada",
+    "Price": "$3,950/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92131",
+    "Street": "",
+    "Stats": [
+        "$3,950/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,320 sq ft",
+        "10905 Caminito Arcada, San Diego, CA 92131",
+        "Pets welcome \u2022 Laundry in unit \u2022 Parking",
+        "Request a tour",
+        "(858) 775-8841"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_240",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/dbab2514-f5fc-4ee4-8156-165d665f6292/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dbab2514-f5fc-4ee4-8156-165d665f6292/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dbab2514-f5fc-4ee4-8156-165d665f6292/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dbab2514-f5fc-4ee4-8156-165d665f6292/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dbab2514-f5fc-4ee4-8156-165d665f6292/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dbab2514-f5fc-4ee4-8156-165d665f6292/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dbab2514-f5fc-4ee4-8156-165d665f6292/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dbab2514-f5fc-4ee4-8156-165d665f6292/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dbab2514-f5fc-4ee4-8156-165d665f6292/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/dbab2514-f5fc-4ee4-8156-165d665f6292/islphoto/genIsl.9_1.jpg"
+    ]
+}

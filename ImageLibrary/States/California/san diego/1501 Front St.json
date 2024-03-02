@@ -1,0 +1,56 @@
+{
+    "Address": "1501 Front St",
+    "Price": "$3,795/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92101",
+    "Street": "",
+    "Stats": [
+        "$3,795/mo",
+        "2 beds",
+        "1 bath",
+        "1,096 sq ft",
+        "1501 Front St, San Diego, CA 92101",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(844) 281-2151"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_176",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/cb719eee-524f-4a1a-bc61-f190028a170e/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cb719eee-524f-4a1a-bc61-f190028a170e/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cb719eee-524f-4a1a-bc61-f190028a170e/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cb719eee-524f-4a1a-bc61-f190028a170e/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cb719eee-524f-4a1a-bc61-f190028a170e/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cb719eee-524f-4a1a-bc61-f190028a170e/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cb719eee-524f-4a1a-bc61-f190028a170e/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cb719eee-524f-4a1a-bc61-f190028a170e/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cb719eee-524f-4a1a-bc61-f190028a170e/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cb719eee-524f-4a1a-bc61-f190028a170e/islphoto/genIsl.9_1.jpg"
+    ]
+}

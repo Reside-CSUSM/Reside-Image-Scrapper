@@ -1,0 +1,52 @@
+{
+    "Address": "128 E Orlando St",
+    "Price": "$2,200/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$2,200/mo",
+        "2 beds",
+        "1 bath",
+        "750 sq ft",
+        "128 E Orlando St, Chula Vista, CA 91911",
+        " House",
+        "Request a tour",
+        "(619) 843-9982"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_61",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/70afd448-99cb-44c3-94e7-3673e90d3af8/islphoto/genIsl.0_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70afd448-99cb-44c3-94e7-3673e90d3af8/islphoto/genIsl.1_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70afd448-99cb-44c3-94e7-3673e90d3af8/islphoto/genIsl.2_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70afd448-99cb-44c3-94e7-3673e90d3af8/islphoto/genIsl.3_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70afd448-99cb-44c3-94e7-3673e90d3af8/islphoto/genIsl.4_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70afd448-99cb-44c3-94e7-3673e90d3af8/islphoto/genIsl.5_7.jpg"
+    ]
+}

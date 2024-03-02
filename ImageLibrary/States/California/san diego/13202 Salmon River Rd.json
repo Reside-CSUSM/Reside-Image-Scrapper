@@ -1,0 +1,53 @@
+{
+    "Address": "13202 Salmon River Rd",
+    "Price": "$3,200/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92129",
+    "Street": "",
+    "Stats": [
+        "$3,200/mo",
+        "3 beds",
+        "2 baths",
+        "1,127 sq ft",
+        "13202 Salmon River Rd, San Diego, CA 92129",
+        " Condo",
+        "Request a tour",
+        "(619) 252-9124"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_347",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/499a9723-358f-42c3-9c72-00fe155290c6/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/499a9723-358f-42c3-9c72-00fe155290c6/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/499a9723-358f-42c3-9c72-00fe155290c6/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/499a9723-358f-42c3-9c72-00fe155290c6/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/499a9723-358f-42c3-9c72-00fe155290c6/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/499a9723-358f-42c3-9c72-00fe155290c6/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/499a9723-358f-42c3-9c72-00fe155290c6/islphoto/genIsl.6_1.jpg"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Address": "535 Glover Ave Unit UNITA",
+    "Price": "$2,225/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$2,225/mo",
+        "2 beds",
+        "1 bath",
+        "792 sq ft",
+        "535 Glover Ave Unit UNITA, Chula Vista, CA 91910",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(619) 425-6460"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_87",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38420463-6ec3-4adb-a63a-53214900e339/islphoto/genIsl.13_3.jpg"
+    ]
+}

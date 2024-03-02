@@ -1,0 +1,60 @@
+{
+    "Address": "1409 1st Ave Unit B",
+    "Price": "$3,295/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$3,295/mo",
+        "3 beds",
+        "2 baths",
+        "1,160 sq ft",
+        "1409 1st Ave Unit B, Chula Vista, CA 91911",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_172",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/464bcd53-3011-4c94-8160-29bcabb0fbc5/islphoto/genIsl.14_3.jpg"
+    ]
+}

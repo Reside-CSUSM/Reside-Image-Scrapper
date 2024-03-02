@@ -1,0 +1,60 @@
+{
+    "Address": "4277 College Ave",
+    "Price": "$3,395/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92115",
+    "Street": "",
+    "Stats": [
+        "$3,395/mo",
+        "3 beds",
+        "2 baths",
+        "1,100 sq ft",
+        "4277 College Ave, San Diego, CA 92115",
+        " House",
+        "Request a tour",
+        "(888) 909-4908"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_192",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/71a50fde-fcfc-4248-b9ac-fb76764dfc5f/islphoto/genIsl.13_1.jpg"
+    ]
+}

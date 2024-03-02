@@ -1,0 +1,76 @@
+{
+    "Address": "1216 Sunrise Vw Unit 103",
+    "Price": "$3,800/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92029",
+    "Street": "",
+    "Stats": [
+        "$3,800/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,468 sq ft",
+        "1216 Sunrise Vw Unit 103, Escondido, CA 92029",
+        "Pets welcome \u2022 Laundry in unit \u2022 Parking",
+        "Request a tour",
+        "(858) 229-2222"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_46",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5021a643-350b-4eeb-ac92-8457c9401266/islphoto/genIsl.29_1.jpg"
+    ]
+}

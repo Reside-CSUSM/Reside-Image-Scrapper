@@ -1,0 +1,74 @@
+{
+    "Address": "1150 J St",
+    "Price": "$3,499/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92101",
+    "Street": "",
+    "Stats": [
+        "$3,499/mo",
+        "2 beds",
+        "1 bath",
+        "994 sq ft",
+        "1150 J St, San Diego, CA 92101",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(844) 316-0982"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_150",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a743ab0-0721-41c1-984f-1cf8c47b706f/islphoto/genIsl.27_1.jpg"
+    ]
+}

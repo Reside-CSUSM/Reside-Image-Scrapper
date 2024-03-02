@@ -1,0 +1,53 @@
+{
+    "Address": "1960 E Grand Ave",
+    "Price": "$2,100/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92027",
+    "Street": "",
+    "Stats": [
+        "$2,100/mo",
+        "1 bed",
+        "1 bath",
+        "585 sq ft",
+        "1960 E Grand Ave, Escondido, CA 92027",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_16",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5b7da566-2da1-4c47-a4a5-ee7b58935417/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b7da566-2da1-4c47-a4a5-ee7b58935417/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b7da566-2da1-4c47-a4a5-ee7b58935417/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b7da566-2da1-4c47-a4a5-ee7b58935417/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b7da566-2da1-4c47-a4a5-ee7b58935417/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b7da566-2da1-4c47-a4a5-ee7b58935417/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b7da566-2da1-4c47-a4a5-ee7b58935417/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b7da566-2da1-4c47-a4a5-ee7b58935417/islphoto/genIsl.7_2.jpg"
+    ]
+}

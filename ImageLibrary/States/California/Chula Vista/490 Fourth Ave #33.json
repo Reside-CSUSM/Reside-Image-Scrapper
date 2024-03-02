@@ -1,0 +1,54 @@
+{
+    "Address": "490 Fourth Ave #33",
+    "Price": "$1,695/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$1,695/mo",
+        "1 bed",
+        "1 bath",
+        "700 sq ft",
+        "490 Fourth Ave #33, Chula Vista, CA 91910",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_144",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/db92f89e-fab2-40b0-8354-c673cc262ee3/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db92f89e-fab2-40b0-8354-c673cc262ee3/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db92f89e-fab2-40b0-8354-c673cc262ee3/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db92f89e-fab2-40b0-8354-c673cc262ee3/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db92f89e-fab2-40b0-8354-c673cc262ee3/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db92f89e-fab2-40b0-8354-c673cc262ee3/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db92f89e-fab2-40b0-8354-c673cc262ee3/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db92f89e-fab2-40b0-8354-c673cc262ee3/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db92f89e-fab2-40b0-8354-c673cc262ee3/islphoto/genIsl.8_2.jpg"
+    ]
+}

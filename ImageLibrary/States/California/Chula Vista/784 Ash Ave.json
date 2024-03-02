@@ -1,0 +1,73 @@
+{
+    "Address": "784 Ash Ave",
+    "Price": "$3,280/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$3,280/mo",
+        "3 beds",
+        "1 bath",
+        "1,044 sq ft",
+        "784 Ash Ave, Chula Vista, CA 91910",
+        " House",
+        "Request a tour",
+        "(619) 800-1313"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_26",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0c6ad76-e42e-4bd5-8afb-57573697b3ce/islphoto/genIsl.26_1.jpg"
+    ]
+}

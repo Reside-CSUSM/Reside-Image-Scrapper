@@ -1,0 +1,53 @@
+{
+    "Address": "363 Roosevelt St Unit 6",
+    "Price": "$2,095/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$2,095/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "363 Roosevelt St Unit 6, Chula Vista, CA 91910",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(850) 764-3545"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_169",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f59394ac-48eb-401c-99e9-59d484a7ce4a/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f59394ac-48eb-401c-99e9-59d484a7ce4a/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f59394ac-48eb-401c-99e9-59d484a7ce4a/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f59394ac-48eb-401c-99e9-59d484a7ce4a/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f59394ac-48eb-401c-99e9-59d484a7ce4a/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f59394ac-48eb-401c-99e9-59d484a7ce4a/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f59394ac-48eb-401c-99e9-59d484a7ce4a/islphoto/genIsl.6_3.jpg"
+    ]
+}

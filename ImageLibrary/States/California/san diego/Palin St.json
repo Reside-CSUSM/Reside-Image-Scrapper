@@ -1,0 +1,56 @@
+{
+    "Address": "Palin St",
+    "Price": "$2,600/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92113",
+    "Street": "",
+    "Stats": [
+        "$2,600/mo",
+        "3 beds",
+        "2 baths",
+        "1,054 sq ft",
+        "Palin St, San Diego, CA 92113",
+        "Laundry hookups \u2022 Patio/Balcony",
+        "Request a tour",
+        "(877) 653-1801"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_206",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b6aeefd1-f406-4fe9-964c-560beedf7315/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b6aeefd1-f406-4fe9-964c-560beedf7315/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b6aeefd1-f406-4fe9-964c-560beedf7315/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b6aeefd1-f406-4fe9-964c-560beedf7315/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b6aeefd1-f406-4fe9-964c-560beedf7315/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b6aeefd1-f406-4fe9-964c-560beedf7315/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b6aeefd1-f406-4fe9-964c-560beedf7315/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b6aeefd1-f406-4fe9-964c-560beedf7315/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b6aeefd1-f406-4fe9-964c-560beedf7315/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b6aeefd1-f406-4fe9-964c-560beedf7315/islphoto/genIsl.9_1.jpg"
+    ]
+}

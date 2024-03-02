@@ -1,0 +1,62 @@
+{
+    "Address": "775 Paso de Luz #135",
+    "Price": "$2,400/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$2,400/mo",
+        "1 bed",
+        "1 bath",
+        "720 sq ft",
+        "775 Paso de Luz #135, Chula Vista, CA 91911",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_100",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ae67d44-f843-4935-ac50-f0dbd8ec1da4/islphoto/genIsl.16_1.jpg"
+    ]
+}

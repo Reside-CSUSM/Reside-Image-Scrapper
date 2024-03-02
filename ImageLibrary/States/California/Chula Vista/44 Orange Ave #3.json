@@ -1,0 +1,59 @@
+{
+    "Address": "44 Orange Ave #3",
+    "Price": "$2,500/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$2,500/mo",
+        "3 beds",
+        "1.5 baths",
+        "1,220 sq ft",
+        "44 Orange Ave #3, Chula Vista, CA 91911",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_66",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/03608043-3267-40df-9a51-cb1b464f9eb5/islphoto/genIsl.13_1.jpg"
+    ]
+}

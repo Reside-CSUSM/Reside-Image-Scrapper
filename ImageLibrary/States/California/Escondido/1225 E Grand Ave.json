@@ -1,0 +1,53 @@
+{
+    "Address": "1225 E Grand Ave",
+    "Price": "$1,575/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92027",
+    "Street": "",
+    "Stats": [
+        "$1,575/mo",
+        "1 bed",
+        "1 bath",
+        "540 sq ft",
+        "1225 E Grand Ave, Escondido, CA 92027",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_58",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/9f6a2414-581e-4d28-8bdd-4078e5407e46/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9f6a2414-581e-4d28-8bdd-4078e5407e46/islphoto/genIsl.1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9f6a2414-581e-4d28-8bdd-4078e5407e46/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9f6a2414-581e-4d28-8bdd-4078e5407e46/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9f6a2414-581e-4d28-8bdd-4078e5407e46/islphoto/genIsl.4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9f6a2414-581e-4d28-8bdd-4078e5407e46/islphoto/genIsl.5_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9f6a2414-581e-4d28-8bdd-4078e5407e46/islphoto/genIsl.6_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9f6a2414-581e-4d28-8bdd-4078e5407e46/islphoto/genIsl.7_6.jpg"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Address": "358 Naples St",
+    "Price": "$3,850/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$3,850/mo",
+        "3 beds",
+        "2 baths",
+        "1,510 sq ft",
+        "358 Naples St, Chula Vista, CA 91911",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_56",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/efe08490-27a7-47ea-b065-5643ac2ce555/islphoto/genIsl.13_2.jpg"
+    ]
+}

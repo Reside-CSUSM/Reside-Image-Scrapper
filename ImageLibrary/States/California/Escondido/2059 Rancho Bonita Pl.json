@@ -1,0 +1,69 @@
+{
+    "Address": "2059 Rancho Bonita Pl",
+    "Price": "$5,450/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92026",
+    "Street": "",
+    "Stats": [
+        "$5,450/mo",
+        "5 beds",
+        "4 baths",
+        "3,606 sq ft",
+        "2059 Rancho Bonita Pl, Escondido, CA 92026",
+        " House",
+        "Request a tour",
+        "(844) 878-4876"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_4",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.13_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.16_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.17_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.18_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.19_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82e35fe8-0df3-414a-b805-9157d7f75083/islphoto/genIsl.22_1.jpg"
+    ]
+}

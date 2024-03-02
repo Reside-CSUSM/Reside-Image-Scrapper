@@ -1,0 +1,62 @@
+{
+    "Address": "1476 Canvas Dr #1",
+    "Price": "$3,188/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$3,188/mo",
+        "2 beds",
+        "2 baths",
+        "1,008 sq ft",
+        "1476 Canvas Dr #1, Chula Vista, CA 91913",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_4",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3beca12a-aab2-4f62-925c-b1870d1ab86b/islphoto/genIsl.16_1.jpg"
+    ]
+}

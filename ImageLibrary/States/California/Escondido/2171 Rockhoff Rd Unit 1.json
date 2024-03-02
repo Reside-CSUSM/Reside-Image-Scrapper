@@ -1,0 +1,57 @@
+{
+    "Address": "2171 Rockhoff Rd Unit 1",
+    "Price": "$3,000/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92026",
+    "Street": "",
+    "Stats": [
+        "$3,000/mo",
+        "2 beds",
+        "1 bath",
+        "758 sq ft",
+        "2171 Rockhoff Rd Unit 1, Escondido, CA 92026",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_66",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/12412d8c-7a60-4018-9096-7d51f8faed7d/islphoto/genIsl.11_1.jpg"
+    ]
+}

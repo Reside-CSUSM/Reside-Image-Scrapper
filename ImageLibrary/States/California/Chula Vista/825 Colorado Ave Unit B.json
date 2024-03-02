@@ -1,0 +1,55 @@
+{
+    "Address": "825 Colorado Ave Unit B",
+    "Price": "$1,750/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$1,750/mo",
+        "1 bed",
+        "1 bath",
+        "500 sq ft",
+        "825 Colorado Ave Unit B, Chula Vista, CA 91911",
+        " Townhome",
+        "Request a tour",
+        "(909) 766-6529"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_167",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/751806cd-498e-4995-b05c-e9a3e044c927/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751806cd-498e-4995-b05c-e9a3e044c927/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751806cd-498e-4995-b05c-e9a3e044c927/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751806cd-498e-4995-b05c-e9a3e044c927/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751806cd-498e-4995-b05c-e9a3e044c927/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751806cd-498e-4995-b05c-e9a3e044c927/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751806cd-498e-4995-b05c-e9a3e044c927/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751806cd-498e-4995-b05c-e9a3e044c927/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/751806cd-498e-4995-b05c-e9a3e044c927/islphoto/genIsl.8_1.jpg"
+    ]
+}

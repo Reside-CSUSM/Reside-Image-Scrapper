@@ -1,0 +1,64 @@
+{
+    "Address": "8934 Caminito Verano",
+    "Price": "$7,595/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$7,595/mo",
+        "4 beds",
+        "3.5 baths",
+        "1,668 sq ft",
+        "8934 Caminito Verano, La Jolla, CA 92037",
+        " House",
+        "Request a tour",
+        "(855) 900-1280"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_186",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f77604f7-cff9-4fbd-b6df-a003cb38390e/islphoto/genIsl.18_3.jpg"
+    ]
+}

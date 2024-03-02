@@ -1,0 +1,50 @@
+{
+    "Address": "2400 Fifth Ave",
+    "Price": "$4,995/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92101",
+    "Street": "",
+    "Stats": [
+        "$4,995/mo",
+        "2 beds",
+        "2 baths",
+        "1,107 sq ft",
+        "2400 Fifth Ave, San Diego, CA 92101",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(855) 356-1177"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_153",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d8b06512-b4d5-47ba-9725-49baa81b6d1e/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8b06512-b4d5-47ba-9725-49baa81b6d1e/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8b06512-b4d5-47ba-9725-49baa81b6d1e/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8b06512-b4d5-47ba-9725-49baa81b6d1e/islphoto/genIsl.3_3.jpg"
+    ]
+}

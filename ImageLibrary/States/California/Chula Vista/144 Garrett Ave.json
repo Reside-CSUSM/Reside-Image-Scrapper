@@ -1,0 +1,54 @@
+{
+    "Address": "144 Garrett Ave",
+    "Price": "$1,950/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$1,950/mo",
+        "1 bed",
+        "1 bath",
+        "675 sq ft",
+        "144 Garrett Ave, Chula Vista, CA 91910",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_132",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6a451d69-a8af-46db-b536-e4130ded1bd6/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a451d69-a8af-46db-b536-e4130ded1bd6/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a451d69-a8af-46db-b536-e4130ded1bd6/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a451d69-a8af-46db-b536-e4130ded1bd6/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a451d69-a8af-46db-b536-e4130ded1bd6/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a451d69-a8af-46db-b536-e4130ded1bd6/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a451d69-a8af-46db-b536-e4130ded1bd6/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a451d69-a8af-46db-b536-e4130ded1bd6/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a451d69-a8af-46db-b536-e4130ded1bd6/islphoto/genIsl.8_1.jpg"
+    ]
+}

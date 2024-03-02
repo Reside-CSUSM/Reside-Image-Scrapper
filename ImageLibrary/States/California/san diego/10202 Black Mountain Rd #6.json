@@ -1,0 +1,61 @@
+{
+    "Address": "10202 Black Mountain Rd #6",
+    "Price": "$2,095/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92126",
+    "Street": "",
+    "Stats": [
+        "$2,095/mo",
+        "1 bed",
+        "1 bath",
+        "686 sq ft",
+        "10202 Black Mountain Rd #6, San Diego, CA 92126",
+        " Condo",
+        "Request a tour",
+        "(619) 754-4375"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_226",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8f84c7f-cbd8-45e5-aea3-636451810e6e/islphoto/genIsl.14_2.jpg"
+    ]
+}

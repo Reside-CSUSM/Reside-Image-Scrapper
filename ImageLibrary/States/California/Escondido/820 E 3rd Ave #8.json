@@ -1,0 +1,72 @@
+{
+    "Address": "820 E 3rd Ave #8",
+    "Price": "$3,050/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92025",
+    "Street": "",
+    "Stats": [
+        "$3,050/mo",
+        "2 beds",
+        "2.5 baths",
+        "1,344 sq ft",
+        "820 E 3rd Ave #8, Escondido, CA 92025",
+        " Condo",
+        "Request a tour",
+        "(858) 487-6988"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_11",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4c0e29db-f817-4b64-8cd0-e71fe66d266d/islphoto/genIsl.25_1.jpg"
+    ]
+}

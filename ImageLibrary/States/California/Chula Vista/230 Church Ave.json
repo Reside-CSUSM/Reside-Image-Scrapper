@@ -1,0 +1,55 @@
+{
+    "Address": "230 Church Ave",
+    "Price": "$2,195+/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$2,195+/mo",
+        "1 bed",
+        "1 bath",
+        "592-660 sq ft",
+        "230 Church Ave, Chula Vista, CA 91910",
+        " Apartment \u2022 5 units available",
+        "Request a tour",
+        "(619) 329-9917"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_107",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e1f6fe71-04dc-451d-b11c-4b2c75671f55/islphoto/genIsl.0_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e1f6fe71-04dc-451d-b11c-4b2c75671f55/islphoto/genIsl.1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e1f6fe71-04dc-451d-b11c-4b2c75671f55/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e1f6fe71-04dc-451d-b11c-4b2c75671f55/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e1f6fe71-04dc-451d-b11c-4b2c75671f55/islphoto/genIsl.4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e1f6fe71-04dc-451d-b11c-4b2c75671f55/islphoto/genIsl.5_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e1f6fe71-04dc-451d-b11c-4b2c75671f55/islphoto/genIsl.6_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e1f6fe71-04dc-451d-b11c-4b2c75671f55/islphoto/genIsl.7_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e1f6fe71-04dc-451d-b11c-4b2c75671f55/islphoto/genIsl.8_6.jpg"
+    ]
+}

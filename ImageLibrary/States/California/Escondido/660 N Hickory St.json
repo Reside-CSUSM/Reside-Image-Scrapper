@@ -1,0 +1,79 @@
+{
+    "Address": "660 N Hickory St",
+    "Price": "$2,795/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92025",
+    "Street": "",
+    "Stats": [
+        "$2,795/mo",
+        "2 beds",
+        "1.5 baths",
+        "930 sq ft",
+        "660 N Hickory St, Escondido, CA 92025",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/16e109ca-87b9-448f-992c-4bf275291e7c/islphoto/genIsl.33_2.jpg"
+    ]
+}

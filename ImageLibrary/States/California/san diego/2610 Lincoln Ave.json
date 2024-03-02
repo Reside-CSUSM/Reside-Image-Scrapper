@@ -1,0 +1,74 @@
+{
+    "Address": "2610 Lincoln Ave",
+    "Price": "$949,900",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92104",
+    "Street": "",
+    "Stats": [
+        "$949,900",
+        "3 beds",
+        "2.5 baths",
+        "1,036 sq ft",
+        "2610 Lincoln Ave, San Diego, CA 92104"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_18",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/814/genIslnoResize.240003814_30_0.jpg"
+    ]
+}

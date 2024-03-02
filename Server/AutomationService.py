@@ -44,14 +44,23 @@ class AutomationService():
         #print("STRING: ", string)
         decoded_data = urllib.parse.unquote(string)
         decoded_data = decoded_data.replace("'", '"')
-        #print("Decoded DATA:", decoded_data)
-
+        print("Decoded DATA:", decoded_data)
+        #parsed_data = json.loads(decoded_data)
+            #print("After parsing:", parsed_data)
+        #return parsed_data
         try:
             parsed_data = json.loads(decoded_data)
             #print("After parsing:", parsed_data)
             return parsed_data
         except Exception as error:
             print("Error coverting from json to python dict", error)
+            try:
+                decoded_data += ']'
+                parsed_data = json.loads(decoded_data)
+                print("Success on retrying the decoding tho...")
+            except Exception as error:
+                print("Failure on retrying to decode as well.....")
+                pass
 
 
     def get_response(self):
@@ -105,7 +114,6 @@ class AutomationService():
                 return self.responses
         pass
     
-
     def __PUT(self):
         pass
 
@@ -133,5 +141,5 @@ class AutomationService():
         elif(TYPE == 'DELETE'):
             self.__DELETE()
 
-        
-            
+
+#NOTE SPECIFIC SEARCH THROUGH IMAGERY.PY NOT WORKING THROWS AN ERRO, ALSO HAVE TO TEST SPECIFIC SEARCH FUNCTION IF IT PUTS THINGS IN FILE

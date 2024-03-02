@@ -1,0 +1,54 @@
+{
+    "Address": "1015 E Ohio Ave",
+    "Price": "$1,950/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92025",
+    "Street": "",
+    "Stats": [
+        "$1,950/mo",
+        "1 bed",
+        "1 bath",
+        "630 sq ft",
+        "1015 E Ohio Ave, Escondido, CA 92025",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_14",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d631f5bc-6fbf-418b-abee-3f724f9d5a7d/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d631f5bc-6fbf-418b-abee-3f724f9d5a7d/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d631f5bc-6fbf-418b-abee-3f724f9d5a7d/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d631f5bc-6fbf-418b-abee-3f724f9d5a7d/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d631f5bc-6fbf-418b-abee-3f724f9d5a7d/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d631f5bc-6fbf-418b-abee-3f724f9d5a7d/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d631f5bc-6fbf-418b-abee-3f724f9d5a7d/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d631f5bc-6fbf-418b-abee-3f724f9d5a7d/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d631f5bc-6fbf-418b-abee-3f724f9d5a7d/islphoto/genIsl.8_2.jpg"
+    ]
+}

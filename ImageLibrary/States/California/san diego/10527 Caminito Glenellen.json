@@ -1,0 +1,63 @@
+{
+    "Address": "10527 Caminito Glenellen",
+    "Price": "$4,495/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92126",
+    "Street": "",
+    "Stats": [
+        "$4,495/mo",
+        "4 beds",
+        "2 baths",
+        "1,948 sq ft",
+        "10527 Caminito Glenellen, San Diego, CA 92126",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_256",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8251d500-0aab-4bcd-8190-9eb1d4fc69ec/islphoto/genIsl.17_1.jpg"
+    ]
+}

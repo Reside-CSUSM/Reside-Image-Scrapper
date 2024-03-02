@@ -1,0 +1,50 @@
+{
+    "Address": "174 D St",
+    "Price": "$2,000/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$2,000/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "174 D St, Chula Vista, CA 91910",
+        " House",
+        "Request a tour",
+        "(888) 206-9124"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ed395b9f-9bba-47ac-b6e6-cace221f00de/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed395b9f-9bba-47ac-b6e6-cace221f00de/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed395b9f-9bba-47ac-b6e6-cace221f00de/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed395b9f-9bba-47ac-b6e6-cace221f00de/islphoto/genIsl.3_2.jpg"
+    ]
+}

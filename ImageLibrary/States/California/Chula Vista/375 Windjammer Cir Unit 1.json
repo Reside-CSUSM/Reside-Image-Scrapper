@@ -1,0 +1,54 @@
+{
+    "Address": "375 Windjammer Cir Unit 1",
+    "Price": "$3,500/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$3,500/mo",
+        "3 beds",
+        "2.5 baths",
+        "\u2014 sq ft",
+        "375 Windjammer Cir Unit 1, Chula Vista, CA 91910",
+        " Townhome",
+        "Request a tour",
+        "(619) 779-0160"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_111",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e0f20915-df59-40ef-bd0e-8db1dc39a2e5/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0f20915-df59-40ef-bd0e-8db1dc39a2e5/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0f20915-df59-40ef-bd0e-8db1dc39a2e5/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0f20915-df59-40ef-bd0e-8db1dc39a2e5/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0f20915-df59-40ef-bd0e-8db1dc39a2e5/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0f20915-df59-40ef-bd0e-8db1dc39a2e5/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0f20915-df59-40ef-bd0e-8db1dc39a2e5/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0f20915-df59-40ef-bd0e-8db1dc39a2e5/islphoto/genIsl.7_1.jpg"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Address": "1606 Dana Point Ct",
+    "Price": "$4,600/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$4,600/mo",
+        "4 beds",
+        "2.5 baths",
+        "2,223 sq ft",
+        "1606 Dana Point Ct, Chula Vista, CA 91911",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_72",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab2b0028-3d23-42cf-80cc-e295b81b694f/islphoto/genIsl.15_1.jpg"
+    ]
+}

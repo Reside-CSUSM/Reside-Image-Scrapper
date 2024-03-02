@@ -1,0 +1,69 @@
+{
+    "Address": "725 Coast Blvd S",
+    "Price": "$9,950/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$9,950/mo",
+        "3 beds",
+        "2 baths",
+        "1,504 sq ft",
+        "725 Coast Blvd S, La Jolla, CA 92037",
+        " House",
+        "Request a tour",
+        "(858) 822-9699"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_265",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf8fa43-8e01-4e2f-b090-aa56a52867cc/islphoto/genIsl.22_1.jpg"
+    ]
+}

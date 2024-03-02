@@ -1,0 +1,47 @@
+{
+    "Address": "7247 Hyatt St",
+    "Price": "$2,500/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92111",
+    "Street": "",
+    "Stats": [
+        "$2,500/mo",
+        "2 beds",
+        "1 bath",
+        "1,000 sq ft",
+        "7247 Hyatt St, San Diego, CA 92111",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(844) 244-7389"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_193",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/34e6e0fb-78ea-441f-90f5-1d3fd18b2c65/islphoto/genIsl.0_1.jpg"
+    ]
+}

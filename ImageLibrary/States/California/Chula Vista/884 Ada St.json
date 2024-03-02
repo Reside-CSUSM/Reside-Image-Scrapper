@@ -1,0 +1,52 @@
+{
+    "Address": "884 Ada St",
+    "Price": "$1,800/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$1,800/mo",
+        "1 bed",
+        "1 bath",
+        "320 sq ft",
+        "884 Ada St, Chula Vista, CA 91911",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(844) 289-6468"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_18",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/cde47e9a-48bf-4180-9ab1-ce9ad444396b/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde47e9a-48bf-4180-9ab1-ce9ad444396b/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde47e9a-48bf-4180-9ab1-ce9ad444396b/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde47e9a-48bf-4180-9ab1-ce9ad444396b/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde47e9a-48bf-4180-9ab1-ce9ad444396b/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde47e9a-48bf-4180-9ab1-ce9ad444396b/islphoto/genIsl.5_1.jpg"
+    ]
+}

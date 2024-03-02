@@ -1,0 +1,73 @@
+{
+    "Address": "1040 Coast Blvd S #103",
+    "Price": "$5,985/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$5,985/mo",
+        "2 beds",
+        "2 baths",
+        "1,125 sq ft",
+        "1040 Coast Blvd S #103, La Jolla, CA 92037",
+        " Condo",
+        "Request a tour",
+        "(858) 220-4295"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_326",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a40d9445-945c-49a4-908e-38ff9315b28b/islphoto/genIsl.26_1.jpg"
+    ]
+}

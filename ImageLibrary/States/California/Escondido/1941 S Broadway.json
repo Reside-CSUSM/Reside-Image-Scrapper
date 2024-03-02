@@ -1,0 +1,50 @@
+{
+    "Address": "1941 S Broadway",
+    "Price": "$3,200/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92025",
+    "Street": "",
+    "Stats": [
+        "$3,200/mo",
+        "2 beds",
+        "2 baths",
+        "985 sq ft",
+        "1941 S Broadway, Escondido, CA 92025",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_32",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f7e7fe11-83f4-43aa-b60b-3281e4b1180c/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7e7fe11-83f4-43aa-b60b-3281e4b1180c/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7e7fe11-83f4-43aa-b60b-3281e4b1180c/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7e7fe11-83f4-43aa-b60b-3281e4b1180c/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7e7fe11-83f4-43aa-b60b-3281e4b1180c/islphoto/genIsl.4_2.jpg"
+    ]
+}

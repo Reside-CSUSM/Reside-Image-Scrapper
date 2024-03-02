@@ -1,0 +1,48 @@
+{
+    "Address": "1055 Granjas Rd",
+    "Price": "$1,900/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$1,900/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "1055 Granjas Rd, Chula Vista, CA 91911",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_52",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6d7f2240-5141-4c7d-818f-0d9368c21d91/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d7f2240-5141-4c7d-818f-0d9368c21d91/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d7f2240-5141-4c7d-818f-0d9368c21d91/islphoto/genIsl.2_1.jpg"
+    ]
+}

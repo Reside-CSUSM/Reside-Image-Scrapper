@@ -1,0 +1,50 @@
+{
+    "Address": "1630 Paseo Monti",
+    "Price": "$4,837/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$4,837/mo",
+        "3 beds",
+        "4 baths",
+        "1,833 sq ft",
+        "1630 Paseo Monti, Chula Vista, CA 91913",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_10",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/26c7bff2-6256-4a52-bfc4-7f94017ec2f6/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/26c7bff2-6256-4a52-bfc4-7f94017ec2f6/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/26c7bff2-6256-4a52-bfc4-7f94017ec2f6/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/26c7bff2-6256-4a52-bfc4-7f94017ec2f6/islphoto/genIsl.3_1.jpg"
+    ]
+}

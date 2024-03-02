@@ -1,0 +1,46 @@
+{
+    "Address": "944 Myra Ave",
+    "Price": "$4,550/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$4,550/mo",
+        "4 beds",
+        "2 baths",
+        "1,500 sq ft",
+        "944 Myra Ave, Chula Vista, CA 91911",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_23",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/95b5cd0e-7100-43cf-a818-ab6afe591b13/islphoto/genIsl.0_1.jpg"
+    ]
+}

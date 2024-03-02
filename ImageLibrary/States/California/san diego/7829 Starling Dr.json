@@ -1,0 +1,67 @@
+{
+    "Address": "7829 Starling Dr",
+    "Price": "$4,500/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92123",
+    "Street": "",
+    "Stats": [
+        "$4,500/mo",
+        "3 beds",
+        "3 baths",
+        "1,454 sq ft",
+        "7829 Starling Dr, San Diego, CA 92123",
+        " Condo",
+        "Request a tour",
+        "(844) 269-0857"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_138",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d9afcf9-468a-4c36-b13b-278d5fc6a7ed/islphoto/genIsl.20_1.jpg"
+    ]
+}

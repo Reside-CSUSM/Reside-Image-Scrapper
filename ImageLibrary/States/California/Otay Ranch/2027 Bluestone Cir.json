@@ -1,0 +1,75 @@
+{
+    "Address": "2027 Bluestone Cir",
+    "Price": "$4,400/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$4,400/mo",
+        "4 beds",
+        "2.5 baths",
+        "1,758 sq ft",
+        "2027 Bluestone Cir, Chula Vista, CA 91913",
+        " Townhome",
+        "Request a tour",
+        "(619) 306-6007"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_14",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/141905ae-e65c-4682-ac99-1ab17e604fc0/islphoto/genIsl.28_2.jpg"
+    ]
+}

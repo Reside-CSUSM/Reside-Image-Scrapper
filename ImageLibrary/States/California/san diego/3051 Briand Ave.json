@@ -1,0 +1,67 @@
+{
+    "Address": "3051 Briand Ave",
+    "Price": "$5,850/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92122",
+    "Street": "",
+    "Stats": [
+        "$5,850/mo",
+        "4 beds",
+        "2 baths",
+        "1,708 sq ft",
+        "3051 Briand Ave, San Diego, CA 92122",
+        " House",
+        "Request a tour",
+        "(844) 264-0356"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_172",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d7aece96-abc6-4b34-9125-4be0391de5b8/islphoto/genIsl.20_2.jpg"
+    ]
+}

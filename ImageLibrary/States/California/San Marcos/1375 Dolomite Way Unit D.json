@@ -1,0 +1,53 @@
+{
+    "Address": "1375 Dolomite Way Unit D",
+    "Price": "$1,800/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$1,800/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "1375 Dolomite Way Unit D, San Marcos, CA 92078",
+        "Laundry in unit \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(575) 491-4476"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_41",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8aa64b61-8683-4d34-991c-67f76001a367/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8aa64b61-8683-4d34-991c-67f76001a367/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8aa64b61-8683-4d34-991c-67f76001a367/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8aa64b61-8683-4d34-991c-67f76001a367/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8aa64b61-8683-4d34-991c-67f76001a367/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8aa64b61-8683-4d34-991c-67f76001a367/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8aa64b61-8683-4d34-991c-67f76001a367/islphoto/genIsl.6_3.jpg"
+    ]
+}

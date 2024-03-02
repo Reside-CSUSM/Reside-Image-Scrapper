@@ -17,7 +17,8 @@ class RedfinInterface():
 
     def search_images(value):
         #RedfinInterface.BOT.activate()
-        response = RedfinInterface.BOT.location(RedfinInterface.TYPE).address(value).get_response()
+        type = RedfinInterface.TYPE
+        response = RedfinInterface.BOT.location(RedfinInterface.TYPE).address(value, type).get_response()
         #RedfinInterface.BOT.close()
         return response
     

@@ -1,0 +1,60 @@
+{
+    "Address": "1812 Mint Ter #4",
+    "Price": "$4,500/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$4,500/mo",
+        "3 beds",
+        "3 baths",
+        "1,981 sq ft",
+        "1812 Mint Ter #4, Chula Vista, CA 91915",
+        " Condo",
+        "Request a tour",
+        "(619) 888-6401"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_103",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3bab689-6519-470f-8ef3-d47725d7577a/islphoto/genIsl.13_1.jpg"
+    ]
+}

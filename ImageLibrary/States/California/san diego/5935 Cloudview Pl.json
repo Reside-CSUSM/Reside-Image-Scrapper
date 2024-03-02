@@ -1,0 +1,73 @@
+{
+    "Address": "5935 Cloudview Pl",
+    "Price": "$1,299,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92120",
+    "Street": "",
+    "Stats": [
+        "$1,299,000",
+        "4 beds",
+        "2 baths",
+        "2,445 sq ft",
+        "6,000 sq ft (lot)",
+        "5935 Cloudview Pl, San Diego, CA 92120"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_11",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_35_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_36_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_37_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_38_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/107/genIslnoResize.PTP2401107_39_0.jpg"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Address": "4460 Calle Mar de Armonia",
+    "Price": "$6,250/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92130",
+    "Street": "",
+    "Stats": [
+        "$6,250/mo",
+        "5 beds",
+        "4 baths",
+        "2,727 sq ft",
+        "4460 Calle Mar de Armonia, San Diego, CA 92130",
+        " House",
+        "Request a tour",
+        "(844) 254-6934"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_190",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5330d062-7640-4042-ada8-1642b746df90/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5330d062-7640-4042-ada8-1642b746df90/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5330d062-7640-4042-ada8-1642b746df90/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5330d062-7640-4042-ada8-1642b746df90/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5330d062-7640-4042-ada8-1642b746df90/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5330d062-7640-4042-ada8-1642b746df90/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5330d062-7640-4042-ada8-1642b746df90/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5330d062-7640-4042-ada8-1642b746df90/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5330d062-7640-4042-ada8-1642b746df90/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5330d062-7640-4042-ada8-1642b746df90/islphoto/genIsl.9_1.jpg"
+    ]
+}

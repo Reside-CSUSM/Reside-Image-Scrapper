@@ -1,0 +1,58 @@
+{
+    "Address": "1890 Chambery Pl #2334",
+    "Price": "$2,750/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$2,750/mo",
+        "2 beds",
+        "2 baths",
+        "959 sq ft",
+        "1890 Chambery Pl #2334, Chula Vista, CA 91913",
+        " Condo",
+        "Request a tour",
+        "(844) 319-8553"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_7",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/283becf4-4698-4e1c-bd57-ecbd15887ebf/islphoto/genIsl.11_1.jpg"
+    ]
+}

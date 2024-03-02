@@ -1,0 +1,81 @@
+{
+    "Address": "8533 Villa La Jolla Dr Apt C",
+    "Price": "$775,000",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$775,000",
+        "2 beds",
+        "2 baths",
+        "978 sq ft",
+        "8533 Villa La Jolla Dr Apt C, La Jolla, CA 92037"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_16",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_33_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_34_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_35_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_36_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/329/genIslnoResize.240004329_37_2.jpg"
+    ]
+}

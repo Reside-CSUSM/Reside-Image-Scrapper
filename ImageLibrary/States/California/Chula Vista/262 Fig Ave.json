@@ -1,0 +1,59 @@
+{
+    "Address": "262 Fig Ave",
+    "Price": "$1,995/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$1,995/mo",
+        "1 bed",
+        "1 bath",
+        "621 sq ft",
+        "262 Fig Ave, Chula Vista, CA 91910",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_141",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34bff096-27d9-4297-9cfe-53f49a4226dc/islphoto/genIsl.13_1.jpg"
+    ]
+}

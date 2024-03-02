@@ -1,0 +1,71 @@
+{
+    "Address": "343 Mission Villas Rd",
+    "Price": "$3,595/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$3,595/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,331 sq ft",
+        "343 Mission Villas Rd, San Marcos, CA 92069",
+        "Somewhat walkable \u2022 Patio/Balcony",
+        "Request a tour",
+        "(844) 377-7368"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_9",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca46e1c-75f7-4784-9cd7-31148c97fac3/islphoto/genIsl.24_1.jpg"
+    ]
+}

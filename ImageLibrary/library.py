@@ -403,9 +403,10 @@ class ImagingLibraryManager():
 #print(api.directory().State("California").City("Los Alamos").Create())
 #print(api.directory().State("California").City("San Diego").Listing().GetAll())
 
+
 """ 
 GENERAL IDEA:
-Manager:
+Directory():
     - State:
         - State()
         - Fetch = state directory
