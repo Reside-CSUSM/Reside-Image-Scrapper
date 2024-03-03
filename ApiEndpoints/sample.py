@@ -78,6 +78,7 @@ def console():
                 print(error)
                 print("\x1b[31mConnection closed or host in correct,  use 'set host' to set ip and port\x1b[0m")
 
+            val = input()
         elif(val == "exit"):
             break
 
