@@ -1,0 +1,66 @@
+{
+    "Address": "6941 Wyoming Ave",
+    "Price": "$4,195/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$4,195/mo",
+        "3 beds",
+        "2 baths",
+        "1,188 sq ft",
+        "6941 Wyoming Ave, La Mesa, CA 91942",
+        "Pets welcome \u2022 Laundry in unit \u2022 Somewhat walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_82",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eace5d5e-6207-453b-b0bc-8464455ffaad/islphoto/genIsl.20_2.jpg"
+    ]
+}

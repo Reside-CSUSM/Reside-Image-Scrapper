@@ -1,0 +1,102 @@
+{
+    "Address": "563 Offshore Pt",
+    "Price": "$6,250/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$6,250/mo",
+        "5 beds",
+        "2.5 baths",
+        "2,353 sq ft",
+        "563 Offshore Pt, San Diego, CA 92154",
+        " House",
+        "Request a tour",
+        "(619) 852-2354"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_2",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.31_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.32_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.33_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.34_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.35_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.36_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.37_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.38_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.39_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.40_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.41_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.42_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.43_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.44_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.45_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.46_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.47_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.48_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.49_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.50_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.51_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.52_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.53_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.54_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ccb05ba9-7be6-4207-b2e9-7e9739b0161e/islphoto/genIsl.55_1.jpg"
+    ]
+}

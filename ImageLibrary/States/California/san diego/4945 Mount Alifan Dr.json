@@ -1,22 +1,22 @@
 {
     "Address": "4945 Mount Alifan Dr",
-    "Price": "$4,800/mo",
+    "Price": "$4,450/mo",
     "State": "CA",
     "City": "San Diego",
     "ZipCode": "92111",
     "Street": "",
     "Stats": [
-        "$4,800/mo",
+        "$4,450/mo",
         "3 beds",
         "1.5 baths",
         "1,065 sq ft",
         "4945 Mount Alifan Dr, San Diego, CA 92111",
-        " House",
+        "Pets welcome \u2022 Laundry in unit \u2022 Dishwasher",
         "Request a tour",
-        "(844) 220-1965"
+        "(866) 470-3683"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_205",
+    "WebElementID": "MapHomeCard_307",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

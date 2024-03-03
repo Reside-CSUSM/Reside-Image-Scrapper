@@ -1,0 +1,79 @@
+{
+    "Address": "13126 Carriage Rd",
+    "Price": "$2,995/mo",
+    "State": "CA",
+    "City": "Poway",
+    "ZipCode": "92064",
+    "Street": "",
+    "Stats": [
+        "$2,995/mo",
+        "2 beds",
+        "2 baths",
+        "864 sq ft",
+        "13126 Carriage Rd, Poway, CA 92064",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_7",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.31_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.32_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/00939f6e-a272-4816-8767-163b24c6b6a2/islphoto/genIsl.33_1.jpg"
+    ]
+}

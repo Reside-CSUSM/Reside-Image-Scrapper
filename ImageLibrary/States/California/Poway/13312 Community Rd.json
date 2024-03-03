@@ -1,0 +1,59 @@
+{
+    "Address": "13312 Community Rd",
+    "Price": "$2,640/mo",
+    "State": "CA",
+    "City": "Poway",
+    "ZipCode": "92064",
+    "Street": "",
+    "Stats": [
+        "$2,640/mo",
+        "2 beds",
+        "1.5 baths",
+        "865 sq ft",
+        "13312 Community Rd, Poway, CA 92064",
+        " Apartment",
+        "Request a tour",
+        "(858) 477-8318"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_6",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/92d089eb-6562-443b-8880-9983e9a564e4/islphoto/genIsl.12_2.jpg"
+    ]
+}

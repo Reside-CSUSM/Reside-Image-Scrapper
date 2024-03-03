@@ -1,0 +1,62 @@
+{
+    "Address": "17477 Plaza Dolores",
+    "Price": "$3,900/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92128",
+    "Street": "",
+    "Stats": [
+        "$3,900/mo",
+        "2 beds",
+        "2 baths",
+        "1,431 sq ft",
+        "17477 Plaza Dolores, San Diego, CA 92128",
+        " Condo",
+        "Request a tour",
+        "(619) 504-0700"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_12",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c04dc514-ac21-460e-9379-79719d968d17/islphoto/genIsl.15_1.jpg"
+    ]
+}

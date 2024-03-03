@@ -1,0 +1,54 @@
+{
+    "Address": "4021 Falcon St",
+    "Price": "$2,937/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92103",
+    "Street": "",
+    "Stats": [
+        "$2,937/mo",
+        "1 bed",
+        "1 bath",
+        "868 sq ft",
+        "4021 Falcon St, San Diego, CA 92103",
+        "Pets welcome \u2022 Walker's paradise \u2022 Some transit",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_107",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/50a23b99-e8be-49cf-839e-02bc5c27be80/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50a23b99-e8be-49cf-839e-02bc5c27be80/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50a23b99-e8be-49cf-839e-02bc5c27be80/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50a23b99-e8be-49cf-839e-02bc5c27be80/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50a23b99-e8be-49cf-839e-02bc5c27be80/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50a23b99-e8be-49cf-839e-02bc5c27be80/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50a23b99-e8be-49cf-839e-02bc5c27be80/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50a23b99-e8be-49cf-839e-02bc5c27be80/islphoto/genIsl.7_1.jpg"
+    ]
+}

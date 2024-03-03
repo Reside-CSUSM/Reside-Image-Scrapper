@@ -1,0 +1,50 @@
+{
+    "Address": "12529 Oak Knoll Rd",
+    "Price": "$1,895/mo",
+    "State": "CA",
+    "City": "Poway",
+    "ZipCode": "92064",
+    "Street": "",
+    "Stats": [
+        "$1,895/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "12529 Oak Knoll Rd, Poway, CA 92064",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_10",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f4ce2f40-a6f1-4052-a199-da2ea735b9a9/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f4ce2f40-a6f1-4052-a199-da2ea735b9a9/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f4ce2f40-a6f1-4052-a199-da2ea735b9a9/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f4ce2f40-a6f1-4052-a199-da2ea735b9a9/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f4ce2f40-a6f1-4052-a199-da2ea735b9a9/islphoto/genIsl.4_2.jpg"
+    ]
+}

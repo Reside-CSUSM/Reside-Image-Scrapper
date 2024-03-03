@@ -1,0 +1,54 @@
+{
+    "Address": "8770 Washington Ave",
+    "Price": "$2,025/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$2,025/mo",
+        "0 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "8770 Washington Ave, La Mesa, CA 91942",
+        "Pets welcome \u2022 Laundry in unit \u2022 Walker's paradise",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_56",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8d93976a-70c8-40c5-901d-1bb241c69071/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d93976a-70c8-40c5-901d-1bb241c69071/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d93976a-70c8-40c5-901d-1bb241c69071/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d93976a-70c8-40c5-901d-1bb241c69071/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d93976a-70c8-40c5-901d-1bb241c69071/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d93976a-70c8-40c5-901d-1bb241c69071/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d93976a-70c8-40c5-901d-1bb241c69071/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d93976a-70c8-40c5-901d-1bb241c69071/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d93976a-70c8-40c5-901d-1bb241c69071/islphoto/genIsl.8_3.jpg"
+    ]
+}

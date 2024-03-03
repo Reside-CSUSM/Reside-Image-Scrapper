@@ -1,0 +1,60 @@
+{
+    "Address": "5103 La Cuenta Dr",
+    "Price": "$3,095/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92124",
+    "Street": "",
+    "Stats": [
+        "$3,095/mo",
+        "2 beds",
+        "1 bath",
+        "950 sq ft",
+        "5103 La Cuenta Dr, San Diego, CA 92124",
+        "Laundry in unit \u2022 Dishwasher \u2022 Somewhat walkable",
+        "Request a tour",
+        "(844) 208-3239"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_162",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb373876-1819-4fda-8008-1b02d2a1e88c/islphoto/genIsl.13_1.jpg"
+    ]
+}

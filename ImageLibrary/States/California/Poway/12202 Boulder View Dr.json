@@ -1,0 +1,65 @@
+{
+    "Address": "12202 Boulder View Dr",
+    "Price": "$4,600/mo",
+    "State": "CA",
+    "City": "Poway",
+    "ZipCode": "92064",
+    "Street": "",
+    "Stats": [
+        "$4,600/mo",
+        "3 beds",
+        "3 baths",
+        "1,845 sq ft",
+        "12202 Boulder View Dr, Poway, CA 92064",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_4",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ac6d6ad-c7db-407d-983c-ab0a80ba08fc/islphoto/genIsl.19_1.jpg"
+    ]
+}

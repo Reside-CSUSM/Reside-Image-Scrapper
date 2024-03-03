@@ -1,0 +1,53 @@
+{
+    "Address": "8230 Lemon Grove Way",
+    "Price": "$1,875/mo",
+    "State": "CA",
+    "City": "Lemon Grove",
+    "ZipCode": "91945",
+    "Street": "",
+    "Stats": [
+        "$1,875/mo",
+        "2 beds",
+        "1 bath",
+        "800 sq ft",
+        "8230 Lemon Grove Way, Lemon Grove, CA 91945",
+        "Pets welcome \u2022 Very walkable \u2022 Patio/Balcony",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_66",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/afd7997c-db7c-492a-a4b3-3a6c85bdb510/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afd7997c-db7c-492a-a4b3-3a6c85bdb510/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afd7997c-db7c-492a-a4b3-3a6c85bdb510/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afd7997c-db7c-492a-a4b3-3a6c85bdb510/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afd7997c-db7c-492a-a4b3-3a6c85bdb510/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afd7997c-db7c-492a-a4b3-3a6c85bdb510/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afd7997c-db7c-492a-a4b3-3a6c85bdb510/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afd7997c-db7c-492a-a4b3-3a6c85bdb510/islphoto/genIsl.7_2.jpg"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Address": "12610 Robison Blvd",
+    "Price": "$3,300/mo",
+    "State": "CA",
+    "City": "Poway",
+    "ZipCode": "92064",
+    "Street": "",
+    "Stats": [
+        "$3,300/mo",
+        "3 beds",
+        "2 baths",
+        "1,089 sq ft",
+        "12610 Robison Blvd, Poway, CA 92064",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66766dff-178c-4f54-a0fa-b089fa8e27c7/islphoto/genIsl.16_2.jpg"
+    ]
+}

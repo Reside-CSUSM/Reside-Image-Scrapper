@@ -1,0 +1,55 @@
+{
+    "Address": "6225 Lance Pl",
+    "Price": "$6,000/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92120",
+    "Street": "",
+    "Stats": [
+        "$6,000/mo",
+        "4 beds",
+        "3 baths",
+        "2,000 sq ft",
+        "6225 Lance Pl, San Diego, CA 92120",
+        "Laundry in unit \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(866) 512-0648"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_172",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/738bf310-18ff-43ca-96e6-d227852b963c/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/738bf310-18ff-43ca-96e6-d227852b963c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/738bf310-18ff-43ca-96e6-d227852b963c/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/738bf310-18ff-43ca-96e6-d227852b963c/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/738bf310-18ff-43ca-96e6-d227852b963c/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/738bf310-18ff-43ca-96e6-d227852b963c/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/738bf310-18ff-43ca-96e6-d227852b963c/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/738bf310-18ff-43ca-96e6-d227852b963c/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/738bf310-18ff-43ca-96e6-d227852b963c/islphoto/genIsl.8_2.jpg"
+    ]
+}

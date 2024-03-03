@@ -1,0 +1,60 @@
+{
+    "Address": "8715 Mellmanor Dr",
+    "Price": "$2,795/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$2,795/mo",
+        "2 beds",
+        "1.5 baths",
+        "1,035 sq ft",
+        "8715 Mellmanor Dr, La Mesa, CA 91942",
+        "Laundry in unit \u2022 A/C \u2022 Somewhat walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_54",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eab3245e-8e99-44d9-be45-4a5e15df5c14/islphoto/genIsl.14_1.jpg"
+    ]
+}

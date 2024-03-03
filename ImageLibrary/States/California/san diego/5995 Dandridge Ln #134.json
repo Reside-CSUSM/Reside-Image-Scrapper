@@ -1,22 +1,22 @@
 {
     "Address": "5995 Dandridge Ln #134",
-    "Price": "$3,000/mo",
+    "Price": "$2,850/mo",
     "State": "CA",
     "City": "San Diego",
     "ZipCode": "92115",
     "Street": "",
     "Stats": [
-        "$3,000/mo",
+        "$2,850/mo",
         "2 beds",
         "2 baths",
         "1,069 sq ft",
         "5995 Dandridge Ln #134, San Diego, CA 92115",
-        " Condo",
+        "Laundry in unit \u2022 Dishwasher \u2022 Car-dependent",
         "Request a tour",
         "(877) 372-0286"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_140",
+    "WebElementID": "MapHomeCard_161",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

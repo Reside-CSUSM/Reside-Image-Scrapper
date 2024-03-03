@@ -1,0 +1,58 @@
+{
+    "Address": "4352 Rosebud Ln",
+    "Price": "$1,980/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$1,980/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "4352 Rosebud Ln, La Mesa, CA 91941",
+        "Pets welcome \u2022 Very walkable \u2022 Some transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_32",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba5d54d-6b5b-44b8-8bd4-8b75a11d52f5/islphoto/genIsl.12_1.jpg"
+    ]
+}

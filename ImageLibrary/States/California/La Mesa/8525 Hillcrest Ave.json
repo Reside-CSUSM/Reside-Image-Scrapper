@@ -1,0 +1,47 @@
+{
+    "Address": "8525 Hillcrest Ave",
+    "Price": "$750/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$750/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "8525 Hillcrest Ave, La Mesa, CA 91941",
+        "A/C \u2022 Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(619) 697-7972"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_43",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/097bc992-6573-46a7-9c24-f3f35f74304f/islphoto/genIsl.0_1.jpg"
+    ]
+}

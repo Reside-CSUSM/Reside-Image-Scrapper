@@ -1,22 +1,22 @@
 {
     "Address": "11002 Creekbridge Pl",
-    "Price": "$4,300/mo",
+    "Price": "$3,900/mo",
     "State": "CA",
     "City": "San Diego",
     "ZipCode": "92128",
     "Street": "",
     "Stats": [
-        "$4,300/mo",
+        "$3,900/mo",
         "3 beds",
         "2.5 baths",
         "1,425 sq ft",
         "11002 Creekbridge Pl, San Diego, CA 92128",
-        " Condo",
+        "Pets welcome \u2022 Laundry in unit \u2022 Parking",
         "Request a tour",
         "(760) 402-3316"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_324",
+    "WebElementID": "MapHomeCard_261",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

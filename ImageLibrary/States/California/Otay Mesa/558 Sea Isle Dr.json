@@ -1,0 +1,56 @@
+{
+    "Address": "558 Sea Isle Dr",
+    "Price": "$4,500/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$4,500/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,734 sq ft",
+        "558 Sea Isle Dr, San Diego, CA 92154",
+        " House",
+        "Request a tour",
+        "(833) 320-3118"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d4251e54-cb98-4293-8522-766cbb197b32/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d4251e54-cb98-4293-8522-766cbb197b32/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d4251e54-cb98-4293-8522-766cbb197b32/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d4251e54-cb98-4293-8522-766cbb197b32/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d4251e54-cb98-4293-8522-766cbb197b32/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d4251e54-cb98-4293-8522-766cbb197b32/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d4251e54-cb98-4293-8522-766cbb197b32/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d4251e54-cb98-4293-8522-766cbb197b32/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d4251e54-cb98-4293-8522-766cbb197b32/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d4251e54-cb98-4293-8522-766cbb197b32/islphoto/genIsl.9_3.jpg"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Address": "8176 Lemon Grove Way",
+    "Price": "$2,100/mo",
+    "State": "CA",
+    "City": "Lemon Grove",
+    "ZipCode": "91945",
+    "Street": "",
+    "Stats": [
+        "$2,100/mo",
+        "2 beds",
+        "1 bath",
+        "728 sq ft",
+        "8176 Lemon Grove Way, Lemon Grove, CA 91945",
+        "Very walkable \u2022 Some transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_46",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e3e9ad61-8ea4-4ac7-b168-6578f4bddc24/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3e9ad61-8ea4-4ac7-b168-6578f4bddc24/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3e9ad61-8ea4-4ac7-b168-6578f4bddc24/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3e9ad61-8ea4-4ac7-b168-6578f4bddc24/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3e9ad61-8ea4-4ac7-b168-6578f4bddc24/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3e9ad61-8ea4-4ac7-b168-6578f4bddc24/islphoto/genIsl.5_1.jpg"
+    ]
+}

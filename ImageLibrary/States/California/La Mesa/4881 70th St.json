@@ -1,0 +1,57 @@
+{
+    "Address": "4881 70th St",
+    "Price": "$1,990/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92115",
+    "Street": "",
+    "Stats": [
+        "$1,990/mo",
+        "2 beds",
+        "1.5 baths",
+        "\u2014 sq ft",
+        "4881 70th St, San Diego, CA 92115",
+        "Very walkable \u2022 Some transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_17",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37acd66f-f17a-44d6-83f3-003168669922/islphoto/genIsl.11_1.jpg"
+    ]
+}

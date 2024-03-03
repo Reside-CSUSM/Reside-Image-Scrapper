@@ -1,21 +1,21 @@
 {
     "Address": "12541 Cypress Woods Ct",
-    "Price": "$6,150/mo",
+    "Price": "$5,997/mo",
     "State": "CA",
     "City": "San Diego",
     "ZipCode": "92131",
     "Street": "",
     "Stats": [
-        "$6,150/mo",
+        "$5,997/mo",
         "4 beds",
         "3.5 baths",
         "3,010 sq ft",
         "12541 Cypress Woods Ct, San Diego, CA 92131",
-        " House",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
         "Request a tour"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_229",
+    "WebElementID": "MapHomeCard_220",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

@@ -1,0 +1,58 @@
+{
+    "Address": "3802 Avenida Johanna",
+    "Price": "$5,995/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$5,995/mo",
+        "4 beds",
+        "2.5 baths",
+        "1,996 sq ft",
+        "3802 Avenida Johanna, La Mesa, CA 91941",
+        "Pets welcome \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(888) 809-1209"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_8",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/df3d037a-030a-45f2-a91b-8ffc61e29a3f/islphoto/genIsl.11_1.jpg"
+    ]
+}

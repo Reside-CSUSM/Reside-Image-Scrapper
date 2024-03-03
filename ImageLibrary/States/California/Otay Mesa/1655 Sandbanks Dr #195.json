@@ -1,0 +1,64 @@
+{
+    "Address": "1655 Sandbanks Dr #195",
+    "Price": "$4,500/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$4,500/mo",
+        "4 beds",
+        "2.5 baths",
+        "1,703 sq ft",
+        "1655 Sandbanks Dr #195, San Diego, CA 92154",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_12",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac612b33-531c-41ae-8ce6-298cd39861ee/islphoto/genIsl.18_1.jpg"
+    ]
+}

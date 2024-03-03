@@ -1,0 +1,59 @@
+{
+    "Address": "6966 Amherst St Unit 2",
+    "Price": "$1,850/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92115",
+    "Street": "",
+    "Stats": [
+        "$1,850/mo",
+        "1 bed",
+        "1 bath",
+        "650 sq ft",
+        "6966 Amherst St Unit 2, San Diego, CA 92115",
+        "A/C",
+        "Request a tour",
+        "(619) 507-7119"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_88",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81b21a0c-3f8f-4adc-9130-9e7ae7a0e3f7/islphoto/genIsl.12_1.jpg"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Address": "284 Dolphin Cove Ct",
+    "Price": "$7,500/mo",
+    "State": "CA",
+    "City": "Del Mar",
+    "ZipCode": "92014",
+    "Street": "",
+    "Stats": [
+        "$7,500/mo",
+        "2 beds",
+        "2 baths",
+        "1,308 sq ft",
+        "284 Dolphin Cove Ct, Del Mar, CA 92014",
+        "Parking \u2022 Car-dependent \u2022 Swimming Pool",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_268",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.13_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.14_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.15_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.16_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.17_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.18_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.19_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.20_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3877fbfc-1f3c-43f5-9362-5543c2c08908/islphoto/genIsl.22_3.jpg"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "Address": "6131 Horton Dr",
+    "Price": "$2,495/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$2,495/mo",
+        "2 beds",
+        "1 bath",
+        "725 sq ft",
+        "6131 Horton Dr, La Mesa, CA 91942",
+        "Pets welcome \u2022 Dishwasher \u2022 Somewhat walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_50",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4312e218-a982-4850-ad54-9e4ede21a3ad/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4312e218-a982-4850-ad54-9e4ede21a3ad/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4312e218-a982-4850-ad54-9e4ede21a3ad/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4312e218-a982-4850-ad54-9e4ede21a3ad/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4312e218-a982-4850-ad54-9e4ede21a3ad/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4312e218-a982-4850-ad54-9e4ede21a3ad/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4312e218-a982-4850-ad54-9e4ede21a3ad/islphoto/genIsl.6_2.jpg"
+    ]
+}

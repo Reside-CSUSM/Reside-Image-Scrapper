@@ -1,0 +1,61 @@
+{
+    "Address": "4851 Jessie Ave Unit B",
+    "Price": "$2,195/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$2,195/mo",
+        "2 beds",
+        "1 bath",
+        "800 sq ft",
+        "4851 Jessie Ave Unit B, La Mesa, CA 91942",
+        "Cats welcome \u2022 A/C \u2022 Patio/Balcony",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_91",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0688e03f-2de9-4c07-9e56-4c1e1dc23ba7/islphoto/genIsl.15_1.jpg"
+    ]
+}

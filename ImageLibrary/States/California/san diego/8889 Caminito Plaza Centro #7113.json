@@ -1,0 +1,56 @@
+{
+    "Address": "8889 Caminito Plaza Centro #7113",
+    "Price": "$2,500/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92122",
+    "Street": "",
+    "Stats": [
+        "$2,500/mo",
+        "1 bed",
+        "1 bath",
+        "535 sq ft",
+        "8889 Caminito Plaza Centro #7113, San Diego, CA 92122",
+        "Dishwasher \u2022 Very walkable \u2022 Swimming Pool",
+        "Request a tour",
+        "(650) 826-8784"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_179",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/82d0123b-0f26-49c7-b253-a6c1400a4cb3/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82d0123b-0f26-49c7-b253-a6c1400a4cb3/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82d0123b-0f26-49c7-b253-a6c1400a4cb3/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82d0123b-0f26-49c7-b253-a6c1400a4cb3/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82d0123b-0f26-49c7-b253-a6c1400a4cb3/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82d0123b-0f26-49c7-b253-a6c1400a4cb3/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82d0123b-0f26-49c7-b253-a6c1400a4cb3/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82d0123b-0f26-49c7-b253-a6c1400a4cb3/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82d0123b-0f26-49c7-b253-a6c1400a4cb3/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82d0123b-0f26-49c7-b253-a6c1400a4cb3/islphoto/genIsl.9_1.jpg"
+    ]
+}

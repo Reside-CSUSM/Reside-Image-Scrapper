@@ -1,0 +1,56 @@
+{
+    "Address": "7629 Normal Ave",
+    "Price": "$2,175/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$2,175/mo",
+        "2 beds",
+        "1 bath",
+        "810 sq ft",
+        "7629 Normal Ave, La Mesa, CA 91941",
+        "Dishwasher \u2022 Very walkable \u2022 Swimming Pool",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_44",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/296f10fd-ff99-4e57-bf40-136a79409ede/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/296f10fd-ff99-4e57-bf40-136a79409ede/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/296f10fd-ff99-4e57-bf40-136a79409ede/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/296f10fd-ff99-4e57-bf40-136a79409ede/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/296f10fd-ff99-4e57-bf40-136a79409ede/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/296f10fd-ff99-4e57-bf40-136a79409ede/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/296f10fd-ff99-4e57-bf40-136a79409ede/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/296f10fd-ff99-4e57-bf40-136a79409ede/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/296f10fd-ff99-4e57-bf40-136a79409ede/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/296f10fd-ff99-4e57-bf40-136a79409ede/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/296f10fd-ff99-4e57-bf40-136a79409ede/islphoto/genIsl.10_1.jpg"
+    ]
+}

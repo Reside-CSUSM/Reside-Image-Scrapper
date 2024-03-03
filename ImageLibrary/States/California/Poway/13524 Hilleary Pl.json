@@ -1,0 +1,61 @@
+{
+    "Address": "13524 Hilleary Pl",
+    "Price": "$2,395/mo",
+    "State": "CA",
+    "City": "Poway",
+    "ZipCode": "92064",
+    "Street": "",
+    "Stats": [
+        "$2,395/mo",
+        "1 bed",
+        "1 bath",
+        "512 sq ft",
+        "13524 Hilleary Pl, Poway, CA 92064",
+        " Apartment",
+        "Request a tour",
+        "(858) 433-5440"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_8",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.0_15.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.1_17.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.2_17.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.3_17.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.4_17.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.5_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.6_15.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.7_15.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.8_15.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.9_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.10_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.11_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.12_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.13_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0a141a2-a716-4805-9cda-1f3c3ae8a728/islphoto/genIsl.14_13.jpg"
+    ]
+}

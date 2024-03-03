@@ -144,30 +144,6 @@ class ImagingAPI():
         print(req)
         return self 
 
-
-image_api = ImagingAPI()
-image_api.initialize("38.56.138.77", 8888)
-#image_api.add_housings("5210 Rain Creek Pkwy, Austin, TX").add_housings("7122 Wood Hollow Dr 13, Austin, TX").search_housings()
-#image_api.add_areas("san diego, CA").add_areas("Austin, TX").search_area()
-#image_api.add_general_search_filter("For rent")
-#image_api.add_areas("San Diego, CA").search_area()
-#image_api.add_areas("San Marcos, CA").search_area()
-#image_api.add_areas("Escondio, CA").search_area()
-image_api.add_housings("13604 Caldwell Dr #36, Austin, TX").search_housings()
-
-
-print("End of the api")
-
-
-
-
-
-
-
-
-
-
-
 #API requests have to be asynchronous, not blocking code. 
 #API has to be able to send 'STOP' commands to automations running
 
@@ -187,4 +163,3 @@ AutomationsAPI:
             """
 
 #   ListingsImageAPI -> Server -> /ListingImages -> LibaryHandlerProcess -> Fetch and find the data using regex
-

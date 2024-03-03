@@ -1,22 +1,22 @@
 {
     "Address": "11595 Compass Point Dr N #4",
-    "Price": "$4,500/mo",
+    "Price": "$4,350/mo",
     "State": "CA",
     "City": "San Diego",
     "ZipCode": "92126",
     "Street": "",
     "Stats": [
-        "$4,500/mo",
+        "$4,350/mo",
         "4 beds",
         "2.5 baths",
         "1,733 sq ft",
         "11595 Compass Point Dr N #4, San Diego, CA 92126",
-        " Condo",
+        "Pets welcome \u2022 Laundry in unit \u2022 A/C",
         "Request a tour",
         "(858) 210-1858"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_252",
+    "WebElementID": "MapHomeCard_244",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

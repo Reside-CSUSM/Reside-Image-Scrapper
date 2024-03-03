@@ -1,0 +1,58 @@
+{
+    "Address": "816 E Washington Ave Unit A",
+    "Price": "$2,450/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92025",
+    "Street": "",
+    "Stats": [
+        "$2,450/mo",
+        "2 beds",
+        "2 baths",
+        "1,064 sq ft",
+        "816 E Washington Ave Unit A, Escondido, CA 92025",
+        "A/C \u2022 Dishwasher \u2022 Somewhat walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_49",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c8992f9-c1db-4c33-af9d-cc1741787a2e/islphoto/genIsl.12_1.jpg"
+    ]
+}

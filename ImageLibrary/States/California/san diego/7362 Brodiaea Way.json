@@ -1,22 +1,22 @@
 {
     "Address": "7362 Brodiaea Way",
-    "Price": "$30,000/mo",
+    "Price": "$29,950/mo",
     "State": "CA",
     "City": "La Jolla",
     "ZipCode": "92037",
     "Street": "",
     "Stats": [
-        "$30,000/mo",
+        "$29,950/mo",
         "3 beds",
         "3.5 baths",
         "3,100 sq ft",
         "7362 Brodiaea Way, La Jolla, CA 92037",
-        " House",
+        "Pets welcome \u2022 Laundry in unit \u2022 Parking",
         "Request a tour",
         "(858) 256-6209"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_321",
+    "WebElementID": "MapHomeCard_205",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

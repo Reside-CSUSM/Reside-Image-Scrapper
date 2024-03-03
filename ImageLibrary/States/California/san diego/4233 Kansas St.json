@@ -11,12 +11,12 @@
         "1 bath",
         "415-418 sq ft",
         "4233 Kansas St, San Diego, CA 92104",
-        " Apartment \u2022 3 units available",
+        "3 units available \u2022 Walker's paradise \u2022 Good transit",
         "Request a tour",
-        "(858) 326-1983"
+        "(619) 837-9285"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_40",
+    "WebElementID": "MapHomeCard_53",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",
@@ -42,13 +42,13 @@
         }
     },
     "Images": [
-        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.0_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.1_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.2_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.3_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.4_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.5_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.6_1.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.7_1.jpg"
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a4efb2b9-3cf9-4129-990f-7b2e35cf9e94/islphoto/genIsl.7_2.jpg"
     ]
 }

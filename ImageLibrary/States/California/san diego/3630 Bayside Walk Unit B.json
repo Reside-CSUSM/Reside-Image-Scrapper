@@ -1,0 +1,74 @@
+{
+    "Address": "3630 Bayside Walk Unit B",
+    "Price": "$5,950/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92109",
+    "Street": "",
+    "Stats": [
+        "$5,950/mo",
+        "3 beds",
+        "2 baths",
+        "1,389 sq ft",
+        "3630 Bayside Walk Unit B, San Diego, CA 92109",
+        "Available 03/04 \u2022 Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(855) 602-7217"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_126",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.0_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.1_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.2_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.3_11.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.4_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.5_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.6_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.7_10.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.8_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.9_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.10_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.11_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.12_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.13_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.14_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.15_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.16_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.17_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.18_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.19_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/aa9b4bad-e19c-48a3-91c6-bb5282bf0ff7/islphoto/genIsl.27_2.jpg"
+    ]
+}

@@ -1,22 +1,22 @@
 {
     "Address": "884 Ada St",
-    "Price": "$1,800/mo",
+    "Price": "$1,600/mo",
     "State": "CA",
     "City": "Chula Vista",
     "ZipCode": "91911",
     "Street": "",
     "Stats": [
-        "$1,800/mo",
+        "$1,600/mo",
         "1 bed",
         "1 bath",
         "320 sq ft",
         "884 Ada St, Chula Vista, CA 91911",
-        " Apartment \u2022 1 unit available",
+        "Laundry in unit \u2022 Somewhat walkable \u2022 Patio/Balcony",
         "Request a tour",
-        "(844) 289-6468"
+        "(844) 506-1770"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_174",
+    "WebElementID": "MapHomeCard_181",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

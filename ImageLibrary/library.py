@@ -394,16 +394,6 @@ class ImagingLibraryManager():
         return self.state_handler
 
 
-#api = ImagingLibraryManager()
-#print(api.directory().State("California").City("San Diego").Listing().Create("13607 Caldwell Dr #36, Austin, TX", json.dumps(data, indent=4)))
-#"13607 Caldwell Dr #36, Austin, TX"
-
-#print(api.directory().State("California").City("San Diego").Listing("13604 Caldwell Dr #36, Austin, TX").Fetch())
-#print(api.directory().State("California").City("San Diego").Listing("13604 Caldwell Dr #36, Austin, TX").Search())
-#print(api.directory().State("California").City("Los Alamos").Create())
-#print(api.directory().State("California").City("San Diego").Listing().GetAll())
-
-
 """ 
 GENERAL IDEA:
 Directory():

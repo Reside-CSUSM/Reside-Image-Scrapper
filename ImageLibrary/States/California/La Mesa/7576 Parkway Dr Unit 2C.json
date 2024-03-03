@@ -1,0 +1,61 @@
+{
+    "Address": "7576 Parkway Dr Unit 2C",
+    "Price": "$2,145/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$2,145/mo",
+        "2 beds",
+        "1 bath",
+        "805 sq ft",
+        "7576 Parkway Dr Unit 2C, La Mesa, CA 91942",
+        "Dogs welcome \u2022 Dishwasher \u2022 Swimming Pool",
+        "Request a tour",
+        "(619) 460-5241"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_100",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/44c637ed-3b7a-42d9-8910-84918631f3af/islphoto/genIsl.15_1.jpg"
+    ]
+}

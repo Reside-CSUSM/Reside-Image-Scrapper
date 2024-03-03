@@ -1,0 +1,55 @@
+{
+    "Address": "4515 3rd St",
+    "Price": "$2,395/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$2,395/mo",
+        "2 beds",
+        "2 baths",
+        "980 sq ft",
+        "4515 3rd St, La Mesa, CA 91941",
+        "Cats welcome \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_62",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/82c5656a-b979-46dc-97eb-9a52a92a1336/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82c5656a-b979-46dc-97eb-9a52a92a1336/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82c5656a-b979-46dc-97eb-9a52a92a1336/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82c5656a-b979-46dc-97eb-9a52a92a1336/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82c5656a-b979-46dc-97eb-9a52a92a1336/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82c5656a-b979-46dc-97eb-9a52a92a1336/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82c5656a-b979-46dc-97eb-9a52a92a1336/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82c5656a-b979-46dc-97eb-9a52a92a1336/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82c5656a-b979-46dc-97eb-9a52a92a1336/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82c5656a-b979-46dc-97eb-9a52a92a1336/islphoto/genIsl.9_1.jpg"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "Address": "5380 Calle Rockfish #38",
+    "Price": "$3,200/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$3,200/mo",
+        "2 beds",
+        "2.5 baths",
+        "1,362 sq ft",
+        "5380 Calle Rockfish #38, San Diego, CA 92154",
+        " Condo",
+        "Request a tour",
+        "(619) 633-6436"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_8",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/696db675-ac68-4adb-bb5d-bf16946ec27b/islphoto/genIsl.22_1.jpg"
+    ]
+}

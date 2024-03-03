@@ -1,0 +1,52 @@
+{
+    "Address": "5265 Clairemont Mesa Blvd",
+    "Price": "$1,745/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92117",
+    "Street": "",
+    "Stats": [
+        "$1,745/mo",
+        "0 beds",
+        "1 bath",
+        "380 sq ft",
+        "5265 Clairemont Mesa Blvd, San Diego, CA 92117",
+        "Pets welcome \u2022 Somewhat walkable \u2022 Some transit",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_83",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/634b971d-24e4-4f17-a368-23629e2b60f1/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/634b971d-24e4-4f17-a368-23629e2b60f1/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/634b971d-24e4-4f17-a368-23629e2b60f1/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/634b971d-24e4-4f17-a368-23629e2b60f1/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/634b971d-24e4-4f17-a368-23629e2b60f1/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/634b971d-24e4-4f17-a368-23629e2b60f1/islphoto/genIsl.5_1.jpg"
+    ]
+}

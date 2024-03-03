@@ -1,0 +1,57 @@
+{
+    "Address": "7138 Saranac St",
+    "Price": "$1,895/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$1,895/mo",
+        "1 bed",
+        "1 bath",
+        "741 sq ft",
+        "7138 Saranac St, La Mesa, CA 91942",
+        "Pets welcome \u2022 Dishwasher \u2022 Very walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/058a84d4-d4d1-41d0-bef4-cef02b3badec/islphoto/genIsl.11_1.jpg"
+    ]
+}

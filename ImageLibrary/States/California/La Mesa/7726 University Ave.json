@@ -1,0 +1,53 @@
+{
+    "Address": "7726 University Ave",
+    "Price": "$1,800/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$1,800/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "7726 University Ave, La Mesa, CA 91942",
+        "Very walkable \u2022 Some transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_29",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/9adc5387-6362-43d5-8baa-95e405b5e98c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9adc5387-6362-43d5-8baa-95e405b5e98c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9adc5387-6362-43d5-8baa-95e405b5e98c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9adc5387-6362-43d5-8baa-95e405b5e98c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9adc5387-6362-43d5-8baa-95e405b5e98c/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9adc5387-6362-43d5-8baa-95e405b5e98c/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9adc5387-6362-43d5-8baa-95e405b5e98c/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9adc5387-6362-43d5-8baa-95e405b5e98c/islphoto/genIsl.7_1.jpg"
+    ]
+}

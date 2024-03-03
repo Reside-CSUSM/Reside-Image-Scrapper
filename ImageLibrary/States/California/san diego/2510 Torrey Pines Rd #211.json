@@ -1,0 +1,58 @@
+{
+    "Address": "2510 Torrey Pines Rd #211",
+    "Price": "$2,500/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$2,500/mo",
+        "1 bed",
+        "1 bath",
+        "631 sq ft",
+        "2510 Torrey Pines Rd #211, La Jolla, CA 92037",
+        "A/C \u2022 Dishwasher \u2022 Car-dependent",
+        "Request a tour",
+        "(650) 826-8784"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_163",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3fa58299-0adf-4239-bc12-994efeb5cf1b/islphoto/genIsl.11_1.jpg"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Address": "13635 Cynthia Ln",
+    "Price": "$2,470/mo",
+    "State": "CA",
+    "City": "Poway",
+    "ZipCode": "92064",
+    "Street": "",
+    "Stats": [
+        "$2,470/mo",
+        "1 bed",
+        "1 bath",
+        "720 sq ft",
+        "13635 Cynthia Ln, Poway, CA 92064",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_9",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/48fcba88-6dae-44b2-b175-5204ad3a0104/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48fcba88-6dae-44b2-b175-5204ad3a0104/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/48fcba88-6dae-44b2-b175-5204ad3a0104/islphoto/genIsl.2_1.jpg"
+    ]
+}
