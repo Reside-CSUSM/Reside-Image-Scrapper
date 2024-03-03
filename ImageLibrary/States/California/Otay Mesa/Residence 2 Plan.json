@@ -1,0 +1,62 @@
+{
+    "Address": "Residence 2 Plan",
+    "Price": "$533,900",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$533,900",
+        "2 beds",
+        "2.5 baths",
+        "1,153 sq ft",
+        "Residence 2 Plan, San Diego, CA 92154",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_29",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/854/genIslnoResize.2E484ECD9854_17_1.jpg"
+    ]
+}

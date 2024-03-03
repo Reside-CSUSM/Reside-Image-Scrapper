@@ -49,14 +49,14 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.automation_handler.handle(url, copy.copy(self.current_request_type))
         response = self.automation_handler.get_response()
 
-        if(response is not True):
-            self.send_response(403)
-            self.wfile.write(bytes("{ERROR:"+response+"}", "utf-8"))
-            
-        else:
-            self.send_response(200)
+        if(response is True):
+            self.send_response(201)
             self.wfile.write(bytes("The POST request for automation service has been fullfilled", "utf-8"))
             print("\x1b[35mFINAL RESPONSE:\x1b[0m", response)
+
+        else:
+            self.send_response(403)
+            self.wfile.write(bytes("{ERROR:"+response+"}", "utf-8"))
 
     def bot_controller1(self):
         url = self.router.get_url()
@@ -97,13 +97,13 @@ class RequestHandler(BaseHTTPRequestHandler):
 
 
     def do_POST(self):
-        self.send_response(200)
-        self.send_header("Content-type", "application/json")
-        self.end_headers()
-
         self.current_request_type = 'POST'
         print("PATH do_POST():", self.path)
         response = self.router.set_url(copy.copy(self.path)).process_url()
+
+        #self.send_response(200)
+        self.send_header("Content-type", "application/json")
+        self.end_headers()
     
     def do_PUT(self):
         #UPDAT

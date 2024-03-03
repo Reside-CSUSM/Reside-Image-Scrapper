@@ -104,9 +104,11 @@ class AutomationService():
                         self.responses = RedfinInterface.search_images(area)
                         RedfinInterface.close_bot()
                     
+                    print("ERROR CODE:", self.responses)
                     if(self.responses in REDFIN_ERROR_CODES):
                         return self.responses
-                    return True
+                    self.responses = True
+                    return self.responses
             
             elif(response["service_name"] == "zillow"):
                 self.responses = "No Automation Service Available For Zillow"

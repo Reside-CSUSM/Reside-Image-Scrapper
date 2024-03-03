@@ -1,0 +1,80 @@
+{
+    "Address": "5503 Sandcliff Ln #151",
+    "Price": "$680,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$680,000",
+        "4 beds",
+        "3.5 baths",
+        "1,774 sq ft",
+        "5503 Sandcliff Ln #151, San Diego, CA 92154"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_14",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_33_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_34_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_35_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/666/genIslnoResize.240002666_36_2.jpg"
+    ]
+}

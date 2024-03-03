@@ -1,0 +1,112 @@
+{
+    "Address": "5412 Calle Sandwaves #171",
+    "Price": "$699,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$699,000",
+        "4 beds",
+        "3.5 baths",
+        "1,915 sq ft",
+        "5412 Calle Sandwaves #171, San Diego, CA 92154"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_6",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_31_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_34_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_35_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_36_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_37_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_38_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_39_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_40_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_41_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_42_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_43_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_44_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_45_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_46_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_47_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_48_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_49_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_50_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_51_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_52_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_53_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_54_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_55_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_56_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_57_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_58_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_59_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_60_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_61_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_62_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_63_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_64_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_65_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_66_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_67_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/561/genIslnoResize.NDP2401561_68_1.jpg"
+    ]
+}

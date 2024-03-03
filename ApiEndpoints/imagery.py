@@ -131,8 +131,20 @@ class ImagingAPI():
         string = str(self.area_payload)
         url += string
         headers = {'Content-Type': 'application/json'}
-        req = requests.post(url, headers=headers)
-        print(req)
+        req = ""
+        try:
+            req = requests.post(url, headers=headers)
+            print(req, "  status=", req.status_code)
+        except Exception as error:
+            if('403' in str(error)):
+                string = str(error)
+                string = string[string.find('{'):string.find('}')]
+                return 403
+            
+            elif('200' in str(error)): return 200
+
+            else: return False
+      
         return req.status_code
 
     def search_housings(self):

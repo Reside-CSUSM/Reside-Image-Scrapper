@@ -1,0 +1,66 @@
+{
+    "Address": "5520 Santa Alicia",
+    "Price": "$649,999",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$649,999",
+        "3 beds",
+        "2.5 baths",
+        "1,334 sq ft",
+        "5520 Santa Alicia, San Diego, CA 92154",
+        "CA-RES"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_19",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/428/genIslnoResize.PTP2400428_21_2.jpg"
+    ]
+}

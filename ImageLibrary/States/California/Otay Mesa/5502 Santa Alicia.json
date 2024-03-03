@@ -1,0 +1,75 @@
+{
+    "Address": "5502 Santa Alicia",
+    "Price": "$709,500",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$709,500",
+        "3 beds",
+        "2.5 baths",
+        "1,686 sq ft",
+        "5502 Santa Alicia, Chula Vista, CA 92154"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_7",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/262/genIslnoResize.240004262_31_0.jpg"
+    ]
+}

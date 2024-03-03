@@ -1,0 +1,62 @@
+{
+    "Address": "2055 Vela Ln",
+    "Price": "$579,900",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$579,900",
+        "3 beds",
+        "3 baths",
+        "1,385 sq ft",
+        "2055 Vela Ln, San Diego, CA 92154",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_1",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/CFA/genIslnoResize.0C3D999B9CFA_17_0.jpg"
+    ]
+}

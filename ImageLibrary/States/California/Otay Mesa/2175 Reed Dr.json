@@ -1,0 +1,60 @@
+{
+    "Address": "2175 Reed Dr",
+    "Price": "$559,900",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$559,900",
+        "2 beds",
+        "2.5 baths",
+        "1,221 sq ft",
+        "2175 Reed Dr, San Diego, CA 92154",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_2",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/A95/genIslnoResize.ADED721ECA95_15_0.jpg"
+    ]
+}

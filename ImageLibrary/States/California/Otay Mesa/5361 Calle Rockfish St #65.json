@@ -1,0 +1,44 @@
+{
+    "Address": "5361 Calle Rockfish St #65",
+    "Price": "$649,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$649,000",
+        "3 beds",
+        "2.5 baths",
+        "1,600 sq ft",
+        "5361 Calle Rockfish St #65, San Diego, CA 92154"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_4",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_0.jpg"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "Address": "1222 Sand Drift",
+    "Price": "$819,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$819,000",
+        "3 beds",
+        "2.5 baths",
+        "1,653 sq ft",
+        "4,524 sq ft (lot)",
+        "1222 Sand Drift, San Diego, CA 92154"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_8",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/079/genIslnoResize.PTP2401079_22_0.jpg"
+    ]
+}

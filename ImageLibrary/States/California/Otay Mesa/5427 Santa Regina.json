@@ -1,0 +1,66 @@
+{
+    "Address": "5427 Santa Regina",
+    "Price": "$675,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$675,000",
+        "4 beds",
+        "3.5 baths",
+        "1,559 sq ft",
+        "4.73 acres (lot)",
+        "5427 Santa Regina, San Diego, CA 92154"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_3",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_32_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_35_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/136/genIslnoResize.PTP2401136_37_1.jpg"
+    ]
+}

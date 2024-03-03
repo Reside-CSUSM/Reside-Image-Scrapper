@@ -5,6 +5,7 @@ parent_dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
 sys.path.insert(0, parent_dir_path)
 from imagery import *
 image_api = ImagingAPI()
+image_api.initialize('38.56.138.77', 8888)
 #image_api.add_areas("Otay Mesa, CA").add_areas("Poway, CA").add_areas("San Diego, CA").add_areas("La Mesa, CA").search_area()
 #image_api.add_housings("13604 Caldwell Dr #36, Austin, TX").search_housings()
 
@@ -68,10 +69,13 @@ def console():
                 val = image_api.search_area()
                 if(val > 400):
                     print("search request failed for atleast one time or more")
-                else:
+                elif(val < 400 and val > 0):
                     print("search successfull on all area queries")
+                else:
+                    print("internal api error")
             except Exception as error:
-                print("\x1b[31mHost server address is incorrect,  use 'set host' to set ip and port\x1b[0m")
+                print(error)
+                print("\x1b[31mConnection closed or host in correct,  use 'set host' to set ip and port\x1b[0m")
 
         elif(val == "exit"):
             break

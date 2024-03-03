@@ -1,0 +1,59 @@
+{
+    "Address": "1486 Ridgeline Ct",
+    "Price": "$1,100,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$1,100,000",
+        "6 beds",
+        "3 baths",
+        "2,333 sq ft",
+        "4,919 sq ft (lot)",
+        "1486 Ridgeline Ct, San Diego, CA 92154"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/799/genIslnoResize.PTP2400799_14_0.jpg"
+    ]
+}
