@@ -16,7 +16,7 @@ import copy
 import time
 import re
 from ImageLibrary.library import *
-from .redfind_errors import *
+from Redfin.redfind_errors import *
 """
 Tasks based:
     - Search and load location
@@ -1067,11 +1067,10 @@ class RedfinBot():
     def filters(self):
         return self.redfin_filter
     
-    def address(self, address, type):
+    def address(self, address):
         self._address = address
         CURRENT_SESSION_ADDRESS = copy.copy(address)
         print(CURRENT_SESSION_ADDRESS, "  this is the current session ADDRESS")
-        self.listing_type = type
         return self
     
     def location(self, type):
@@ -1082,10 +1081,11 @@ class RedfinBot():
         self.bot.close()
 
 
-#bot = RedfinBot()#bot.activate()
+#bot = RedfinBot()
+#bot.activate()
 #bot.save_filters(['For rent'])
 #print(bot.address('5210 Rain Creek Pkwy, Austin, TX', 'specific').location('specific').get_response())
-#print(bot.address('san diego, CA').location('general').get_response())
+#print(bot.address('La Mesa, CA').location('general').get_response())
 
 #
 """

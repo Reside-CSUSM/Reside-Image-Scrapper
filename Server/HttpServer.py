@@ -50,7 +50,7 @@ class RequestHandler(BaseHTTPRequestHandler):
         response = self.automation_handler.get_response()
 
         if(response is True):
-            self.send_response(201)
+            self.send_response(200)
             self.wfile.write(bytes("The POST request for automation service has been fullfilled", "utf-8"))
             print("\x1b[35mFINAL RESPONSE:\x1b[0m", response)
 

@@ -45,7 +45,14 @@ def console():
                 if(val == "exit"):break
                 if(filter == "none"): continue
                 else: filter = val
-                image_api.add_general_search_filter(filter)
+
+                if('For rent' in filter):
+                    #Because 'filter' var don't work
+                    image_api.add_general_search_filter('For rent')
+
+                elif('For sale' in filter):
+                    image_api.add_general_search_filter('For sale')
+                    
                 image_api.add_areas(area)
 
         elif(val == "set host"):

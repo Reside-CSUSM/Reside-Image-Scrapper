@@ -136,13 +136,16 @@ class ImagingAPI():
             req = requests.post(url, headers=headers)
             print(req, "  status=", req.status_code)
         except Exception as error:
+            print(error)
             if('403' in str(error)):
                 string = str(error)
                 string = string[string.find('{'):string.find('}')]
                 return 403
             
-            elif('200' in str(error)): return 200
-
+            for i in range(200, 399):
+                if(str(i) in str(error)):
+                    return i
+                
             else: return False
       
         return req.status_code
