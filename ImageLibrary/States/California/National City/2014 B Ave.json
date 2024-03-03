@@ -1,0 +1,56 @@
+{
+    "Address": "2014 B Ave",
+    "Price": "$2,650/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$2,650/mo",
+        "2 beds",
+        "1 bath",
+        "700 sq ft",
+        "2014 B Ave, National City, CA 91950",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_20",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8e9b148f-9ccd-42ea-9ef6-13d5cd910183/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e9b148f-9ccd-42ea-9ef6-13d5cd910183/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e9b148f-9ccd-42ea-9ef6-13d5cd910183/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e9b148f-9ccd-42ea-9ef6-13d5cd910183/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e9b148f-9ccd-42ea-9ef6-13d5cd910183/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e9b148f-9ccd-42ea-9ef6-13d5cd910183/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e9b148f-9ccd-42ea-9ef6-13d5cd910183/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e9b148f-9ccd-42ea-9ef6-13d5cd910183/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e9b148f-9ccd-42ea-9ef6-13d5cd910183/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e9b148f-9ccd-42ea-9ef6-13d5cd910183/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e9b148f-9ccd-42ea-9ef6-13d5cd910183/islphoto/genIsl.10_4.jpg"
+    ]
+}

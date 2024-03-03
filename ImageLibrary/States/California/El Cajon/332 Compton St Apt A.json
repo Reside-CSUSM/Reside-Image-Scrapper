@@ -1,0 +1,58 @@
+{
+    "Address": "332 Compton St Apt A",
+    "Price": "$2,795/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$2,795/mo",
+        "3 beds",
+        "2 baths",
+        "1,200 sq ft",
+        "332 Compton St Apt A, El Cajon, CA 92020",
+        " House",
+        "Request a tour",
+        "(833) 833-9010"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_67",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ed8a674d-dd80-4242-92fb-512e4b24aad9/islphoto/genIsl.11_1.jpg"
+    ]
+}

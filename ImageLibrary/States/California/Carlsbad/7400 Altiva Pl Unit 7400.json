@@ -1,0 +1,65 @@
+{
+    "Address": "7400 Altiva Pl Unit 7400",
+    "Price": "$3,500/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92009",
+    "Street": "",
+    "Stats": [
+        "$3,500/mo",
+        "2 beds",
+        "2 baths",
+        "950 sq ft",
+        "7400 Altiva Pl Unit 7400, Carlsbad, CA 92009",
+        "Dogs welcome \u2022 Laundry in unit \u2022 Swimming Pool",
+        "Request a tour",
+        "(760) 207-6746"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_31",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0434d266-6186-4d24-814a-8306868fed48/islphoto/genIsl.18_1.jpg"
+    ]
+}

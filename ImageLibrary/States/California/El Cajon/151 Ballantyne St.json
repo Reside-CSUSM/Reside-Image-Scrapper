@@ -1,0 +1,60 @@
+{
+    "Address": "151 Ballantyne St",
+    "Price": "$1,825/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$1,825/mo",
+        "1 bed",
+        "1 bath",
+        "650 sq ft",
+        "151 Ballantyne St, El Cajon, CA 92020",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_42",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45059dd8-2d44-4c67-add1-d687243ee7d7/islphoto/genIsl.14_2.jpg"
+    ]
+}

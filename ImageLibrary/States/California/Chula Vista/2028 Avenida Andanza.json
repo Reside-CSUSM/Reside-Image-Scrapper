@@ -1,0 +1,58 @@
+{
+    "Address": "2028 Avenida Andanza",
+    "Price": "$1,550/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$1,550/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "2028 Avenida Andanza, Chula Vista, CA 91913",
+        "Laundry in unit \u2022 Dishwasher \u2022 Car-dependent",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_108",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1fc812dd-ec7c-487d-8d7d-04307426f6e9/islphoto/genIsl.12_1.jpg"
+    ]
+}

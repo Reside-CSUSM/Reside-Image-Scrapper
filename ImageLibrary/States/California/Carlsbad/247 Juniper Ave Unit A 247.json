@@ -1,0 +1,63 @@
+{
+    "Address": "247 Juniper Ave Unit A 247",
+    "Price": "$3,900/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$3,900/mo",
+        "2 beds",
+        "2 baths",
+        "1,200 sq ft",
+        "247 Juniper Ave Unit A 247, Carlsbad, CA 92008",
+        "Dogs welcome \u2022 Laundry in unit \u2022 Patio/Balcony",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_124",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abda1fa7-7c43-4cb8-8d1f-38d532e61a5a/islphoto/genIsl.17_1.jpg"
+    ]
+}

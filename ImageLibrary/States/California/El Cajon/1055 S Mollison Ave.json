@@ -1,0 +1,77 @@
+{
+    "Address": "1055 S Mollison Ave",
+    "Price": "$2,325/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$2,325/mo",
+        "2 beds",
+        "2 baths",
+        "882 sq ft",
+        "1055 S Mollison Ave, El Cajon, CA 92020",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_95",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.9_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.10_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.11_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.12_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.13_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.14_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.15_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.16_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.17_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.18_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.19_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.20_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.21_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.22_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.23_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.24_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.25_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.26_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.27_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.28_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.29_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.30_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e42390ea-2508-4a54-9e47-29d420f32ff0/islphoto/genIsl.31_2.jpg"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Address": "121 E Renette Ave",
+    "Price": "$2,250/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$2,250/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "121 E Renette Ave, El Cajon, CA 92020",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_82",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/38b77fcb-7fca-428c-a51a-a52967c44430/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38b77fcb-7fca-428c-a51a-a52967c44430/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38b77fcb-7fca-428c-a51a-a52967c44430/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38b77fcb-7fca-428c-a51a-a52967c44430/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38b77fcb-7fca-428c-a51a-a52967c44430/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38b77fcb-7fca-428c-a51a-a52967c44430/islphoto/genIsl.5_1.jpg"
+    ]
+}

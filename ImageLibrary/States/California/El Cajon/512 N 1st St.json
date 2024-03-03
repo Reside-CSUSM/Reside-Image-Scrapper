@@ -1,0 +1,67 @@
+{
+    "Address": "512 N 1st St",
+    "Price": "$2,500/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$2,500/mo",
+        "2 beds",
+        "1.5 baths",
+        "1,110 sq ft",
+        "512 N 1st St, El Cajon, CA 92021",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_54",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.0_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.1_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4d65924b-4842-40e1-a68f-0afe4f5e7039/islphoto/genIsl.21_1.jpg"
+    ]
+}

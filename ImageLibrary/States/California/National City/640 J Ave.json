@@ -1,0 +1,52 @@
+{
+    "Address": "640 J Ave",
+    "Price": "$1,200/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$1,200/mo",
+        "0 beds",
+        "1 bath",
+        "146 sq ft",
+        "640 J Ave, National City, CA 91950",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_30",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/95449f34-b68f-4efd-adf7-6341546c18a8/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95449f34-b68f-4efd-adf7-6341546c18a8/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95449f34-b68f-4efd-adf7-6341546c18a8/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95449f34-b68f-4efd-adf7-6341546c18a8/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95449f34-b68f-4efd-adf7-6341546c18a8/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95449f34-b68f-4efd-adf7-6341546c18a8/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95449f34-b68f-4efd-adf7-6341546c18a8/islphoto/genIsl.6_2.jpg"
+    ]
+}

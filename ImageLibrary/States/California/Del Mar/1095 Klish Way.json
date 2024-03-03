@@ -1,0 +1,66 @@
+{
+    "Address": "1095 Klish Way",
+    "Price": "$8,000/mo",
+    "State": "CA",
+    "City": "Del Mar",
+    "ZipCode": "92014",
+    "Street": "",
+    "Stats": [
+        "$8,000/mo",
+        "3 beds",
+        "2 baths",
+        "1,575 sq ft",
+        "1095 Klish Way, Del Mar, CA 92014",
+        "Pets welcome \u2022 Laundry in unit \u2022 Parking",
+        "Request a tour",
+        "(858) 367-9750"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_63",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b8455e77-0706-45d5-bdfb-c20bfe09a5eb/islphoto/genIsl.19_1.jpg"
+    ]
+}

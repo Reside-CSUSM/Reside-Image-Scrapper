@@ -1,0 +1,53 @@
+{
+    "Address": "1052 Prescott Ave",
+    "Price": "$3,950/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$3,950/mo",
+        "4 beds",
+        "3 baths",
+        "1,700 sq ft",
+        "1052 Prescott Ave, El Cajon, CA 92020",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_86",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/adc5bc25-c206-427b-86ce-8cd648e996fa/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/adc5bc25-c206-427b-86ce-8cd648e996fa/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/adc5bc25-c206-427b-86ce-8cd648e996fa/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/adc5bc25-c206-427b-86ce-8cd648e996fa/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/adc5bc25-c206-427b-86ce-8cd648e996fa/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/adc5bc25-c206-427b-86ce-8cd648e996fa/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/adc5bc25-c206-427b-86ce-8cd648e996fa/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/adc5bc25-c206-427b-86ce-8cd648e996fa/islphoto/genIsl.7_1.jpg"
+    ]
+}

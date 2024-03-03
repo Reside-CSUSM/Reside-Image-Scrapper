@@ -1,0 +1,65 @@
+{
+    "Address": "34 E 2nd St",
+    "Price": "$4,800/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$4,800/mo",
+        "2 beds",
+        "1 bath",
+        "850 sq ft",
+        "34 E 2nd St, National City, CA 91950",
+        " House",
+        "Request a tour",
+        "(619) 500-2347"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_19",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/db7fba5e-f2f7-4d64-b568-1a1d6f2c73ba/islphoto/genIsl.18_2.jpg"
+    ]
+}

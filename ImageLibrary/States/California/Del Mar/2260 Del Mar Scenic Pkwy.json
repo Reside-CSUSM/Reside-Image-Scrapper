@@ -1,0 +1,70 @@
+{
+    "Address": "2260 Del Mar Scenic Pkwy",
+    "Price": "$6,495/mo",
+    "State": "CA",
+    "City": "Del Mar",
+    "ZipCode": "92014",
+    "Street": "",
+    "Stats": [
+        "$6,495/mo",
+        "2 beds",
+        "2 baths",
+        "1,655 sq ft",
+        "2260 Del Mar Scenic Pkwy, Del Mar, CA 92014",
+        "Dogs welcome \u2022 Parking \u2022 Car-dependent",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_56",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e37945a6-790c-4325-802e-d1f9d82a80eb/islphoto/genIsl.24_3.jpg"
+    ]
+}

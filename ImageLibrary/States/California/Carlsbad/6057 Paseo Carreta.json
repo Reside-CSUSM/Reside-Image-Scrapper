@@ -1,0 +1,56 @@
+{
+    "Address": "6057 Paseo Carreta",
+    "Price": "$6,000/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92009",
+    "Street": "",
+    "Stats": [
+        "$6,000/mo",
+        "4 beds",
+        "2.5 baths",
+        "2,113 sq ft",
+        "6057 Paseo Carreta, Carlsbad, CA 92009",
+        "Dogs welcome \u2022 Car-dependent \u2022 Minimal transit",
+        "Request a tour",
+        "(866) 808-5885"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_5",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f23ee531-0130-4879-9509-6185f8a04392/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f23ee531-0130-4879-9509-6185f8a04392/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f23ee531-0130-4879-9509-6185f8a04392/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f23ee531-0130-4879-9509-6185f8a04392/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f23ee531-0130-4879-9509-6185f8a04392/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f23ee531-0130-4879-9509-6185f8a04392/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f23ee531-0130-4879-9509-6185f8a04392/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f23ee531-0130-4879-9509-6185f8a04392/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f23ee531-0130-4879-9509-6185f8a04392/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f23ee531-0130-4879-9509-6185f8a04392/islphoto/genIsl.9_2.jpg"
+    ]
+}

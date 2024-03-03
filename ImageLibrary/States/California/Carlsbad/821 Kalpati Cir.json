@@ -1,0 +1,50 @@
+{
+    "Address": "821 Kalpati Cir",
+    "Price": "$1,500/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$1,500/mo",
+        "1 bed",
+        "1 bath",
+        "346 sq ft",
+        "821 Kalpati Cir, Carlsbad, CA 92008",
+        "Parking \u2022 Somewhat walkable \u2022 Some transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_43",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fd47fe99-cd14-4eef-9b5c-dbc6fd4c45ea/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd47fe99-cd14-4eef-9b5c-dbc6fd4c45ea/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd47fe99-cd14-4eef-9b5c-dbc6fd4c45ea/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd47fe99-cd14-4eef-9b5c-dbc6fd4c45ea/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd47fe99-cd14-4eef-9b5c-dbc6fd4c45ea/islphoto/genIsl.4_1.jpg"
+    ]
+}

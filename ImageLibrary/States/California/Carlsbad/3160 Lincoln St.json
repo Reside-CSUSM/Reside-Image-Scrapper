@@ -1,0 +1,64 @@
+{
+    "Address": "3160 Lincoln St",
+    "Price": "$3,200/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$3,200/mo",
+        "2 beds",
+        "1.5 baths",
+        "900 sq ft",
+        "3160 Lincoln St, Carlsbad, CA 92008",
+        "Walker's paradise \u2022 Some transit",
+        "Request a tour",
+        "(858) 752-8929"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_21",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f13a46e1-561e-4516-8714-eb49a5973e43/islphoto/genIsl.17_2.jpg"
+    ]
+}

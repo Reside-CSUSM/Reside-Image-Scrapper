@@ -1,0 +1,54 @@
+{
+    "Address": "1076 S Magnolia Ave",
+    "Price": "$2,000/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$2,000/mo",
+        "2 beds",
+        "2 baths",
+        "875 sq ft",
+        "1076 S Magnolia Ave, El Cajon, CA 92020",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_80",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e970e486-7233-4b82-995f-f5189b63c359/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e970e486-7233-4b82-995f-f5189b63c359/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e970e486-7233-4b82-995f-f5189b63c359/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e970e486-7233-4b82-995f-f5189b63c359/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e970e486-7233-4b82-995f-f5189b63c359/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e970e486-7233-4b82-995f-f5189b63c359/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e970e486-7233-4b82-995f-f5189b63c359/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e970e486-7233-4b82-995f-f5189b63c359/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e970e486-7233-4b82-995f-f5189b63c359/islphoto/genIsl.8_2.jpg"
+    ]
+}

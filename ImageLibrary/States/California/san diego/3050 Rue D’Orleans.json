@@ -1,0 +1,66 @@
+{
+    "Address": "3050 Rue D\u2019Orleans",
+    "Price": "$1,950/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92110",
+    "Street": "",
+    "Stats": [
+        "$1,950/mo",
+        "1 bed",
+        "1 bath",
+        "650 sq ft",
+        "3050 Rue D\u2019Orleans, San Diego, CA 92110",
+        "Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(877) 808-0390"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_192",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c1457361-376b-4279-9204-c03bd93d95e2/islphoto/genIsl.19_1.jpg"
+    ]
+}

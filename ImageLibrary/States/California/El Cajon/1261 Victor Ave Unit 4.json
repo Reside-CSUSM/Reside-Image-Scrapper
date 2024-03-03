@@ -1,0 +1,62 @@
+{
+    "Address": "1261 Victor Ave Unit 4",
+    "Price": "$2,850/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$2,850/mo",
+        "3 beds",
+        "2 baths",
+        "867 sq ft",
+        "1261 Victor Ave Unit 4, El Cajon, CA 92021",
+        " House",
+        "Request a tour",
+        "(619) 270-6925"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_139",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/37e18f7a-fb42-4084-a152-27035e618538/islphoto/genIsl.15_3.jpg"
+    ]
+}

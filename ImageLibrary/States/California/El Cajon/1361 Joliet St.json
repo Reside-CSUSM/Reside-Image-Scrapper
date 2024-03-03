@@ -1,0 +1,57 @@
+{
+    "Address": "1361 Joliet St",
+    "Price": "$4,000/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$4,000/mo",
+        "3 beds",
+        "2 baths",
+        "1,114 sq ft",
+        "1361 Joliet St, El Cajon, CA 92019",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_31",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a4cd409-6aff-4694-b7bc-a7606f44839f/islphoto/genIsl.11_1.jpg"
+    ]
+}

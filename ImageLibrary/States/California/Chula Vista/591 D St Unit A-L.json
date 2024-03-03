@@ -1,0 +1,52 @@
+{
+    "Address": "591 D St Unit A-L",
+    "Price": "$1,750/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$1,750/mo",
+        "1 bed",
+        "1 bath",
+        "500 sq ft",
+        "591 D St Unit A-L, Chula Vista, CA 91910",
+        "Very walkable \u2022 Good transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_150",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f774a3ae-af72-4615-8356-bf3c8fef269a/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f774a3ae-af72-4615-8356-bf3c8fef269a/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f774a3ae-af72-4615-8356-bf3c8fef269a/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f774a3ae-af72-4615-8356-bf3c8fef269a/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f774a3ae-af72-4615-8356-bf3c8fef269a/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f774a3ae-af72-4615-8356-bf3c8fef269a/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f774a3ae-af72-4615-8356-bf3c8fef269a/islphoto/genIsl.6_2.jpg"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Address": "133 S Clairmont Ave",
+    "Price": "$850/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$850/mo",
+        "5 beds",
+        "3 baths",
+        "2,770 sq ft",
+        "133 S Clairmont Ave, National City, CA 91950",
+        " House",
+        "Request a tour",
+        "(760) 802-4166"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_29",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3ef0bac-c785-4356-b14c-464c2b40cf9c/islphoto/genIsl.15_1.jpg"
+    ]
+}

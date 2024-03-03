@@ -1,0 +1,53 @@
+{
+    "Address": "3640 Pio Pico Dr",
+    "Price": "$2,300/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$2,300/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "3640 Pio Pico Dr, Carlsbad, CA 92008",
+        "Somewhat walkable \u2022 Some transit",
+        "Request a tour",
+        "(760) 732-1086"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_23",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/653d0c86-13ac-4594-8fa2-18aa861ab841/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/653d0c86-13ac-4594-8fa2-18aa861ab841/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/653d0c86-13ac-4594-8fa2-18aa861ab841/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/653d0c86-13ac-4594-8fa2-18aa861ab841/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/653d0c86-13ac-4594-8fa2-18aa861ab841/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/653d0c86-13ac-4594-8fa2-18aa861ab841/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/653d0c86-13ac-4594-8fa2-18aa861ab841/islphoto/genIsl.6_1.jpg"
+    ]
+}

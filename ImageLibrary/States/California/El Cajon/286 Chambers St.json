@@ -1,0 +1,59 @@
+{
+    "Address": "286 Chambers St",
+    "Price": "$2,395/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$2,395/mo",
+        "2 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "286 Chambers St, El Cajon, CA 92020",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_32",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc8b3ca-6488-42e1-aa25-8a2403ef4963/islphoto/genIsl.13_1.jpg"
+    ]
+}

@@ -1,22 +1,22 @@
 {
     "Address": "4877 Beacon Ln",
-    "Price": "$4,500/mo",
+    "Price": "$4,395/mo",
     "State": "CA",
     "City": "San Diego",
     "ZipCode": "92154",
     "Street": "",
     "Stats": [
-        "$4,500/mo",
+        "$4,395/mo",
         "4 beds",
         "3 baths",
         "\u2014 sq ft",
         "4877 Beacon Ln, San Diego, CA 92154",
-        " Condo",
+        "Pets welcome \u2022 Dishwasher \u2022 Car-dependent",
         "Request a tour",
         "(858) 877-6565"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_63",
+    "WebElementID": "MapHomeCard_71",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

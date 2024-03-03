@@ -1,0 +1,60 @@
+{
+    "Address": "2153 Caminito del Barco",
+    "Price": "$5,995/mo",
+    "State": "CA",
+    "City": "Del Mar",
+    "ZipCode": "92014",
+    "Street": "",
+    "Stats": [
+        "$5,995/mo",
+        "2 beds",
+        "2.5 baths",
+        "1,426 sq ft",
+        "2153 Caminito del Barco, Del Mar, CA 92014",
+        "Dogs welcome \u2022 Laundry in unit \u2022 Parking",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_54",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/be490b5a-8598-47c0-b8eb-3655d0b1917d/islphoto/genIsl.14_3.jpg"
+    ]
+}

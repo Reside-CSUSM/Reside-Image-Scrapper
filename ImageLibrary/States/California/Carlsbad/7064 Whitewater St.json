@@ -1,0 +1,72 @@
+{
+    "Address": "7064 Whitewater St",
+    "Price": "$7,950/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92011",
+    "Street": "",
+    "Stats": [
+        "$7,950/mo",
+        "3 beds",
+        "2.5 baths",
+        "2,050 sq ft",
+        "7064 Whitewater St, Carlsbad, CA 92011",
+        "A/C \u2022 Car-dependent \u2022 Some transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_81",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/703eda62-fb9a-4966-bcf1-d613c7fc4bd7/islphoto/genIsl.26_3.jpg"
+    ]
+}

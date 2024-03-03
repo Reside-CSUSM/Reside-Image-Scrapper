@@ -1,0 +1,47 @@
+{
+    "Address": "853 Aspen Glen Rd",
+    "Price": "$6,400/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91914",
+    "Street": "",
+    "Stats": [
+        "$6,400/mo",
+        "5 beds",
+        "4.5 baths",
+        "4,301 sq ft",
+        "853 Aspen Glen Rd, Chula Vista, CA 91914",
+        "Car-dependent \u2022 Minimal transit",
+        "Request a tour",
+        "(844) 316-8689"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_11",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a2bdb2ab-e82a-4d45-bc64-9a83b9ed6456/islphoto/genIsl.0_1.jpg"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Address": "2143 E 16th St",
+    "Price": "$1,950/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$1,950/mo",
+        "1 bed",
+        "1 bath",
+        "480 sq ft",
+        "2143 E 16th St, National City, CA 91950",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_24",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/9d0617ff-33f5-4783-919d-c3073f8e514c/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9d0617ff-33f5-4783-919d-c3073f8e514c/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9d0617ff-33f5-4783-919d-c3073f8e514c/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9d0617ff-33f5-4783-919d-c3073f8e514c/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9d0617ff-33f5-4783-919d-c3073f8e514c/islphoto/genIsl.4_3.jpg"
+    ]
+}

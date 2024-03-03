@@ -1,0 +1,58 @@
+{
+    "Address": "257 Jamacha Rd",
+    "Price": "$1,500/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$1,500/mo",
+        "2 beds",
+        "1 bath",
+        "850 sq ft",
+        "257 Jamacha Rd, El Cajon, CA 92019",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_108",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eaa7de1a-d411-43a6-97d9-293a6b9a763a/islphoto/genIsl.12_4.jpg"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "Address": "6564 Bluebonnet Dr",
+    "Price": "$6,795/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92011",
+    "Street": "",
+    "Stats": [
+        "$6,795/mo",
+        "5 beds",
+        "2.5 baths",
+        "3,060 sq ft",
+        "6564 Bluebonnet Dr, Carlsbad, CA 92011",
+        "Laundry in unit \u2022 Parking \u2022 Dishwasher",
+        "Request a tour",
+        "(760) 658-1863"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_57",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a0cf3ac-de0f-455e-94e3-5e4a1305ddda/islphoto/genIsl.19_1.jpg"
+    ]
+}

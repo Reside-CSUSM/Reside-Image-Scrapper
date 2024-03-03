@@ -1,0 +1,58 @@
+{
+    "Address": "1141 Crosby St",
+    "Price": "$1,975/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$1,975/mo",
+        "1 bed",
+        "1 bath",
+        "485 sq ft",
+        "1141 Crosby St, El Cajon, CA 92021",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(619) 312-7138"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_59",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/07137ef7-eb9b-405e-a31a-52db650d0490/islphoto/genIsl.11_1.jpg"
+    ]
+}

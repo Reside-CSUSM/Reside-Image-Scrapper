@@ -1,0 +1,57 @@
+{
+    "Address": "647 Prescott Ave",
+    "Price": "$2,750/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$2,750/mo",
+        "2 beds",
+        "1 bath",
+        "735 sq ft",
+        "647 Prescott Ave, El Cajon, CA 92020",
+        " House",
+        "Request a tour",
+        "(619) 227-4467"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_51",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5687dde6-d281-42b4-b112-25bce3cdf145/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5687dde6-d281-42b4-b112-25bce3cdf145/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5687dde6-d281-42b4-b112-25bce3cdf145/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5687dde6-d281-42b4-b112-25bce3cdf145/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5687dde6-d281-42b4-b112-25bce3cdf145/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5687dde6-d281-42b4-b112-25bce3cdf145/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5687dde6-d281-42b4-b112-25bce3cdf145/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5687dde6-d281-42b4-b112-25bce3cdf145/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5687dde6-d281-42b4-b112-25bce3cdf145/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5687dde6-d281-42b4-b112-25bce3cdf145/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5687dde6-d281-42b4-b112-25bce3cdf145/islphoto/genIsl.10_1.jpg"
+    ]
+}

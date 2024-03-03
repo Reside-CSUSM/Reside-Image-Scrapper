@@ -1,0 +1,66 @@
+{
+    "Address": "6677 Paseo del Norte Unit B",
+    "Price": "$3,900/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92011",
+    "Street": "",
+    "Stats": [
+        "$3,900/mo",
+        "2 beds",
+        "1 bath",
+        "959 sq ft",
+        "6677 Paseo del Norte Unit B, Carlsbad, CA 92011",
+        "Dogs welcome \u2022 Parking \u2022 Dishwasher",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_53",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.0_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.1_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.3_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.4_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.6_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.7_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.8_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.9_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.10_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.11_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.12_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.13_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.14_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.15_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.16_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.17_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.18_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.19_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b0ad5c8a-2486-4d25-894e-c95bc7ae4a22/islphoto/genIsl.20_5.jpg"
+    ]
+}

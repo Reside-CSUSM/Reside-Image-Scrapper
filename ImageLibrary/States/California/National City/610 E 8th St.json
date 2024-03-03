@@ -1,0 +1,52 @@
+{
+    "Address": "610 E 8th St",
+    "Price": "$1,495/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$1,495/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "610 E 8th St, National City, CA 91950",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_32",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/2d9ab11d-3eec-48d2-a0a0-837c39670fe4/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d9ab11d-3eec-48d2-a0a0-837c39670fe4/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d9ab11d-3eec-48d2-a0a0-837c39670fe4/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d9ab11d-3eec-48d2-a0a0-837c39670fe4/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d9ab11d-3eec-48d2-a0a0-837c39670fe4/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d9ab11d-3eec-48d2-a0a0-837c39670fe4/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d9ab11d-3eec-48d2-a0a0-837c39670fe4/islphoto/genIsl.6_3.jpg"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Address": "1013 E 18th St",
+    "Price": "$5,000/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$5,000/mo",
+        "3 beds",
+        "2 baths",
+        "2,000 sq ft",
+        "1013 E 18th St, National City, CA 91950",
+        " House",
+        "Request a tour",
+        "(619) 754-4375"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_7",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c8e45242-d3f9-4f76-997f-b080546d18ce/islphoto/genIsl.15_1.jpg"
+    ]
+}
