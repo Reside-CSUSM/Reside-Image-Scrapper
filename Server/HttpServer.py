@@ -56,7 +56,7 @@ class RequestHandler(BaseHTTPRequestHandler):
 
         else:
             self.send_response(403)
-            self.wfile.write(bytes("{ERROR:"+response+"}", "utf-8"))
+            self.wfile.write(bytes("{ERROR:"+response+",FAILED_LAUNCHES:" + str(response) + "}", "utf-8"))
 
     def bot_controller1(self):
         url = self.router.get_url()

@@ -96,7 +96,7 @@ class AutomationService():
                 elif(type == "city&state"):
                     filters = response["client_request_data"]["filters"]
                     areas = listing_requested["area"]
-                    responses = []
+                    error_count = None
                     for area in areas:
                         RedfinInterface.create_bot()
                         RedfinInterface.activate()
@@ -107,6 +107,12 @@ class AutomationService():
                     
                     for response in self.responses:
                         if(response in REDFIN_ERROR_CODES):
+                            if(error_count == None):
+                                error_count = 0
+                            error_count += 1
+                    
+                    if(error_count != None):
+                        if(error_count > 0):
                             return self.responses
                     
                     self.responses = True
