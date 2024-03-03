@@ -1041,9 +1041,14 @@ class RedfinBot():
         if(self._filter == None):
             print("FILTER NONE!!!")
             return
+        filter_list = []
         for filter in self._filter:
+            if(filter in filter_list):
+                print("Duplicate filter", filter)
+                continue
             print("____Processing filters in list______")
             self.__apply_filter(filter)
+            filter_list.append(filter)
 
     def __apply_filter(self, value):
         print("*****Entered single filter*****")

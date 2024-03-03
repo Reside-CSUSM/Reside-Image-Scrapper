@@ -9,7 +9,8 @@ image_api.initialize('38.56.138.77', 8888)
 #image_api.add_areas("Otay Mesa, CA").add_areas("Poway, CA").add_areas("San Diego, CA").add_areas("La Mesa, CA").search_area()
 #image_api.add_housings("13604 Caldwell Dr #36, Austin, TX").search_housings()
 
-
+image_api.add_general_search_filter('For rent')
+image_api.add_general_search_filter('For rent')
 
 def search_area(area, webfilters):
     filters = webfilters
@@ -22,14 +23,14 @@ def search_area(area, webfilters):
 
 def console():
     while(True):
-
+        os.system('cls')
         print("Select Options: [add, set host, run search, exit, show areas]")
         val = input()
 
         if(val == "add"):
 
             while(True):
-                print("/add> ", end="")
+                print("\n/add> ", end="")
                 print("Enter the name of (City, State) ", end="")
                 val = input()
                 area = ""
@@ -38,25 +39,18 @@ def console():
                 elif(val == "none"):continue
                 else: area = val
 
-                print("\n Available Filters ['For rent', 'For sale']")
-                print("Enter Filters: ", end="")
+                print("['For rent', 'For sale']", end="")
+                print("  Enter Filters: ", end="")
                 filter = input()
 
-                if(val == "exit"):break
+                if(filter == "exit"):break
                 if(filter == "none"): continue
-                else: filter = val
 
-                if('For rent' in filter):
-                    #Because 'filter' var don't work
-                    image_api.add_general_search_filter('For rent')
-
-                elif('For sale' in filter):
-                    image_api.add_general_search_filter('For sale')
-                    
+                image_api.add_general_search_filter(filter)
                 image_api.add_areas(area)
-
+            
         elif(val == "set host"):
-            print("/set host> ", end="")
+            print("\n\n/set host> ", end="")
             print("Enter host server ip: ", end="")
             ip = input()
 
@@ -66,11 +60,11 @@ def console():
             pass
 
         elif (val == "show areas"):
-            print("/show areas> ", end="")
+            print("\n\n/show areas> ", end="")
             image_api.print_areas()
 
         elif(val == "run search"):
-            print("/run search> ", end="")
+            print("\n\n/run search> ", end="")
             print("Posted request for searching all areas.......")
             try:
                 val = image_api.search_area()
