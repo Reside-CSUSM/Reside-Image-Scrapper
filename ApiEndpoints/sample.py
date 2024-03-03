@@ -48,6 +48,7 @@ def console():
                 image_api.add_areas(area)
 
         elif(val == "set host"):
+            print("/set host> ", end="")
             print("Enter host server ip: ", end="")
             ip = input()
 
@@ -55,13 +56,20 @@ def console():
             port = input()
             image_api.initialize(ip, port)
             pass
+
         elif (val == "show areas"):
+            print("/show areas> ", end="")
             image_api.print_areas()
 
         elif(val == "run search"):
+            print("/run search> ", end="")
             print("Posted request for searching all areas.......")
             try:
-                image_api.search_area()
+                val = image_api.search_area()
+                if(val > 400):
+                    print("search request failed for atleast one time or more")
+                else:
+                    print("search successfull on all area queries")
             except Exception as error:
                 print("\x1b[31mHost server address is incorrect,  use 'set host' to set ip and port\x1b[0m")
 

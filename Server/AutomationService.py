@@ -8,7 +8,7 @@ import time
 
 #AUTOMATION MODULES
 from Redfin.interface import *
-
+from Redfin.redfind_errors import *
 
 class AutomationsHandler():
 
@@ -103,7 +103,10 @@ class AutomationService():
                         RedfinInterface.apply_filters(filters)
                         self.responses = RedfinInterface.search_images(area)
                         RedfinInterface.close_bot()
-                    return self.responses
+                    
+                    if(self.responses in REDFIN_ERROR_CODES):
+                        return self.responses
+                    return True
             
             elif(response["service_name"] == "zillow"):
                 self.responses = "No Automation Service Available For Zillow"

@@ -11,7 +11,6 @@ from Router import *
 from AutomationService import *
 from ListingsService import *
 
-
 class RequestHandler(BaseHTTPRequestHandler):
 
     def __init__(self, *args, **kwargs):
@@ -32,7 +31,7 @@ class RequestHandler(BaseHTTPRequestHandler):
         value = {
             'response:':"<h3>Root Endpoint Not available</h3>"
         }
-        self.send_response(200)
+        self.send_response(403)
         self.send_header("Cotent-type", "text/html")
         self.end_headers()
         self.wfile.write(bytes(value['response:'], "utf-8"))
@@ -49,9 +48,15 @@ class RequestHandler(BaseHTTPRequestHandler):
         url = copy.copy(self.router.get_url()).replace("/automations", "")
         self.automation_handler.handle(url, copy.copy(self.current_request_type))
         response = self.automation_handler.get_response()
-        self.wfile.write(bytes("The POST request for automation service has been fullfilled", "utf-8"))
 
-        print("\x1b[35mFINAL RESPONSE:\x1b[0m", response)
+        if(response is not True):
+            self.send_response(403)
+            self.wfile.write(bytes("{ERROR:"+response+"}", "utf-8"))
+            
+        else:
+            self.send_response(200)
+            self.wfile.write(bytes("The POST request for automation service has been fullfilled", "utf-8"))
+            print("\x1b[35mFINAL RESPONSE:\x1b[0m", response)
 
     def bot_controller1(self):
         url = self.router.get_url()

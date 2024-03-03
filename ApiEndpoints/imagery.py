@@ -133,7 +133,7 @@ class ImagingAPI():
         headers = {'Content-Type': 'application/json'}
         req = requests.post(url, headers=headers)
         print(req)
-        return self
+        return req.status_code
 
     def search_housings(self):
         url = self.proto + self.server_ip + ":"+str(self.server_port) + "/automations/query="

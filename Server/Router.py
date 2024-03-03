@@ -2,8 +2,6 @@ import copy
 
 
 
-
-
 EMPTY_URL = 'RoutingTable: set URL is empty'
 ERROR_CODES = [EMPTY_URL]
 
