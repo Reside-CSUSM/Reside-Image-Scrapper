@@ -5,8 +5,6 @@ parent_dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
 sys.path.insert(0, parent_dir_path)
 from imagery import *
 image_api = ImagingAPI()
-image_api.initialize("38.56.138.77", 8888)
-image_api.add_general_search_filter("For rent")
 #image_api.add_areas("Otay Mesa, CA").add_areas("Poway, CA").add_areas("San Diego, CA").add_areas("La Mesa, CA").search_area()
 #image_api.add_housings("13604 Caldwell Dr #36, Austin, TX").search_housings()
 
@@ -24,7 +22,7 @@ def search_area(area, webfilters):
 def console():
     while(True):
 
-        print("Select Options: [add, search]")
+        print("Select Options: [add, set host, run search, exit, show areas]")
         val = input()
 
         if(val == "add"):
@@ -49,12 +47,23 @@ def console():
                 image_api.add_general_search_filter(filter)
                 image_api.add_areas(area)
 
+        elif(val == "set host"):
+            print("Enter host server ip: ", end="")
+            ip = input()
+
+            print("\nEnter host server port: ", end="")
+            port = input()
+            image_api.initialize(ip, port)
+            pass
         elif (val == "show areas"):
             image_api.print_areas()
 
         elif(val == "run search"):
             print("Posted request for searching all areas.......")
-            image_api.search_area()
+            try:
+                image_api.search_area()
+            except Exception as error:
+                print("\x1b[31mHost server address is incorrect,  use 'set host' to set ip and port\x1b[0m")
 
         elif(val == "exit"):
             break
