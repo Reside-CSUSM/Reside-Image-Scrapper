@@ -12,7 +12,7 @@ image_api.add_general_search_filter("For rent")
 
 
 
-def add_area(area, webfilters):
+def search_area(area, webfilters):
     filters = webfilters
     for filter in filters:
         image_api.add_general_search_filter(filter)
@@ -22,21 +22,44 @@ def add_area(area, webfilters):
 
 
 def console():
-
     while(True):
-        print("Enter the name of (City, State) ", end="")
+
+        print("Select Options: [add, search]")
         val = input()
 
-        print("\n Available Filters ['For rent', 'For sale']")
-        print("Enter Filters: ", end="")
-        filter = input()
+        if(val == "add"):
 
-        if(val == "exit"):
+            while(True):
+                print("/add> ", end="")
+                print("Enter the name of (City, State) ", end="")
+                val = input()
+                area = ""
+                filter = ""
+                if(val == "exit"):break
+                elif(val == "none"):continue
+                else: area = val
+
+                print("\n Available Filters ['For rent', 'For sale']")
+                print("Enter Filters: ", end="")
+                filter = input()
+
+                if(val == "exit"):break
+                if(filter == "none"): continue
+                else: filter = val
+                image_api.add_general_search_filter(filter)
+                image_api.add_areas(area)
+
+        elif (val == "show areas"):
+            image_api.print_areas()
+
+        elif(val == "run search"):
+            print("Posted request for searching all areas.......")
+            image_api.search_area()
+
+        elif(val == "exit"):
             break
 
-        else:
-            add_area(val, filter)
-    
+       
     print("\n\n Program exited....")
 
 
