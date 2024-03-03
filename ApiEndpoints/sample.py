@@ -24,7 +24,7 @@ def search_area(area, webfilters):
 def console():
     while(True):
         os.system('cls')
-        print("Select Options: [add, set host, run search, exit, show areas]")
+        print("Select Options: [add, set host, run search, exit, show areas, delete]")
         val = input()
 
         if(val == "add"):
@@ -48,7 +48,12 @@ def console():
 
                 image_api.add_general_search_filter(filter)
                 image_api.add_areas(area)
-            
+        
+        elif (val == 'delete'):
+            print("\n\n/delete> choose area: ", end="")
+            val = input()
+            image_api.delete_area(val)
+
         elif(val == "set host"):
             print("\n\n/set host> ", end="")
             print("Enter host server ip: ", end="")

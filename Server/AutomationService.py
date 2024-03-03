@@ -96,17 +96,19 @@ class AutomationService():
                 elif(type == "city&state"):
                     filters = response["client_request_data"]["filters"]
                     areas = listing_requested["area"]
+                    responses = []
                     for area in areas:
                         RedfinInterface.create_bot()
                         RedfinInterface.activate()
                         RedfinInterface.type("general")
                         RedfinInterface.apply_filters(filters)
-                        self.responses = RedfinInterface.search_images(area)
+                        self.responses.append(RedfinInterface.search_images(area))
                         RedfinInterface.close_bot()
                     
-                    print("ERROR CODE:", self.responses)
-                    if(self.responses in REDFIN_ERROR_CODES):
-                        return self.responses
+                    for response in self.responses:
+                        if(response in REDFIN_ERROR_CODES):
+                            return self.responses
+                    
                     self.responses = True
                     return self.responses
             

@@ -159,6 +159,23 @@ class ImagingAPI():
         print(req)
         return self 
     
+    def delete_area(self, area):
+        areas = self.area_payload["client_request_data"]["listing_requested"]["area"]
+
+        if(area == 'all'):
+            alen = len(areas)
+            for i in range(0, alen):
+                areas.pop(i)
+                alen = len(areas)
+            return True
+        else:
+            for i in range(0, len(areas)):
+                if(areas[i] == area):
+                    self.area_payload["client_request_data"]["listing_requested"]["area"].pop(i)
+                    return True
+        
+        return False
+    
     def print_areas(self):
         print("Added areas....")
         filters = self.area_list["client_request_data"]["filters"]
