@@ -1,0 +1,97 @@
+{
+    "Address": "8003 Winter Gardens Blvd",
+    "Price": "$1,995/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$1,995/mo",
+        "2 beds",
+        "2 baths",
+        "\u2014 sq ft",
+        "8003 Winter Gardens Blvd, El Cajon, CA 92021",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_58",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.26_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.27_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.28_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.29_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.30_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.31_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.32_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.33_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.34_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.35_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.36_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.37_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.38_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.39_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.40_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.41_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.42_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.43_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.44_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.45_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.46_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.47_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.48_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.49_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.50_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8e8635eb-76f5-4cc7-bf15-626689ee5ae1/islphoto/genIsl.51_3.jpg"
+    ]
+}

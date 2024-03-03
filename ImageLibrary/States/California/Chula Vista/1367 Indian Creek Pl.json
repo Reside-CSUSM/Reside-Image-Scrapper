@@ -1,0 +1,52 @@
+{
+    "Address": "1367 Indian Creek Pl",
+    "Price": "$4,500/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$4,500/mo",
+        "3 beds",
+        "2 baths",
+        "1,918 sq ft",
+        "1367 Indian Creek Pl, Chula Vista, CA 91915",
+        "Parking \u2022 Car-dependent \u2022 Minimal transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_72",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/971fdaa5-f643-40dd-aec4-4960d8b6e889/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/971fdaa5-f643-40dd-aec4-4960d8b6e889/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/971fdaa5-f643-40dd-aec4-4960d8b6e889/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/971fdaa5-f643-40dd-aec4-4960d8b6e889/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/971fdaa5-f643-40dd-aec4-4960d8b6e889/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/971fdaa5-f643-40dd-aec4-4960d8b6e889/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/971fdaa5-f643-40dd-aec4-4960d8b6e889/islphoto/genIsl.6_1.jpg"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "Address": "4238 Lindos Way",
+    "Price": "$5,000/mo",
+    "State": "CA",
+    "City": "Oceanside",
+    "ZipCode": "92056",
+    "Street": "",
+    "Stats": [
+        "$5,000/mo",
+        "2 beds",
+        "2 baths",
+        "1,613 sq ft",
+        "4238 Lindos Way, Oceanside, CA 92056",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34165bbd-8d67-4964-a26b-2630f04fd960/islphoto/genIsl.29_1.jpg"
+    ]
+}

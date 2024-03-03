@@ -1,0 +1,64 @@
+{
+    "Address": "1761 Pepper Dr",
+    "Price": "$2,195/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$2,195/mo",
+        "1 bed",
+        "1 bath",
+        "700 sq ft",
+        "1761 Pepper Dr, El Cajon, CA 92021",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_101",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65fe27be-4b0d-4b25-ac0a-2e859d76ce97/islphoto/genIsl.18_1.jpg"
+    ]
+}

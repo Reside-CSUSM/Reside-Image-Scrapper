@@ -1,0 +1,70 @@
+{
+    "Address": "588 S Anza St",
+    "Price": "$1,625/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$1,625/mo",
+        "1 bed",
+        "1 bath",
+        "571 sq ft",
+        "588 S Anza St, El Cajon, CA 92020",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_49",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93033c19-4025-4ecb-81c9-619957f0c055/islphoto/genIsl.24_1.jpg"
+    ]
+}

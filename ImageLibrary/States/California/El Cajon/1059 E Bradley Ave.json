@@ -1,0 +1,58 @@
+{
+    "Address": "1059 E Bradley Ave",
+    "Price": "$2,195/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$2,195/mo",
+        "2 beds",
+        "2 baths",
+        "\u2014 sq ft",
+        "1059 E Bradley Ave, El Cajon, CA 92021",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_5",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4054b0b0-8af9-4903-907a-185faa7b02bb/islphoto/genIsl.12_2.jpg"
+    ]
+}

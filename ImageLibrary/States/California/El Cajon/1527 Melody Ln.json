@@ -1,0 +1,65 @@
+{
+    "Address": "1527 Melody Ln",
+    "Price": "$4,800/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$4,800/mo",
+        "4 beds",
+        "2 baths",
+        "1,540 sq ft",
+        "1527 Melody Ln, El Cajon, CA 92019",
+        " House",
+        "Request a tour",
+        "(619) 438-4387"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_55",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45b11bd3-c994-4c40-9658-52f2d522155d/islphoto/genIsl.18_1.jpg"
+    ]
+}

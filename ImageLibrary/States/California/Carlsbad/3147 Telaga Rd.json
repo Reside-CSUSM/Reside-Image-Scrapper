@@ -1,0 +1,68 @@
+{
+    "Address": "3147 Telaga Rd",
+    "Price": "$4,250/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92010",
+    "Street": "",
+    "Stats": [
+        "$4,250/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,535 sq ft",
+        "3147 Telaga Rd, Carlsbad, CA 92010",
+        "Pets welcome \u2022 Dishwasher \u2022 Car-dependent",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_99",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.10_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.11_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.12_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.13_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.14_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.15_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c00bc4f9-ebfd-49c9-9eb6-a248a9de2151/islphoto/genIsl.22_3.jpg"
+    ]
+}

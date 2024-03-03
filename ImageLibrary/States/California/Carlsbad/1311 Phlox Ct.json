@@ -1,0 +1,55 @@
+{
+    "Address": "1311 Phlox Ct",
+    "Price": "$4,050/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92011",
+    "Street": "",
+    "Stats": [
+        "$4,050/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,207 sq ft",
+        "1311 Phlox Ct, Carlsbad, CA 92011",
+        "Dishwasher \u2022 Car-dependent \u2022 Swimming Pool",
+        "Request a tour",
+        "(760) 277-3282"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_58",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/65cb0b5d-a4f7-4d16-9267-5349f27648dd/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65cb0b5d-a4f7-4d16-9267-5349f27648dd/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65cb0b5d-a4f7-4d16-9267-5349f27648dd/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65cb0b5d-a4f7-4d16-9267-5349f27648dd/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65cb0b5d-a4f7-4d16-9267-5349f27648dd/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65cb0b5d-a4f7-4d16-9267-5349f27648dd/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65cb0b5d-a4f7-4d16-9267-5349f27648dd/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65cb0b5d-a4f7-4d16-9267-5349f27648dd/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/65cb0b5d-a4f7-4d16-9267-5349f27648dd/islphoto/genIsl.8_1.jpg"
+    ]
+}

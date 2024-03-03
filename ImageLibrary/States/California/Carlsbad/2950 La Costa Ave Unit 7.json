@@ -1,0 +1,60 @@
+{
+    "Address": "2950 La Costa Ave Unit 7",
+    "Price": "$2,900/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92009",
+    "Street": "",
+    "Stats": [
+        "$2,900/mo",
+        "2 beds",
+        "1.5 baths",
+        "938 sq ft",
+        "2950 La Costa Ave Unit 7, Carlsbad, CA 92009",
+        "Laundry in unit \u2022 Dishwasher \u2022 Patio/Balcony",
+        "Request a tour",
+        "(760) 732-1086"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_123",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d8baa0c-9d77-4896-ab42-56025a715dfc/islphoto/genIsl.13_1.jpg"
+    ]
+}

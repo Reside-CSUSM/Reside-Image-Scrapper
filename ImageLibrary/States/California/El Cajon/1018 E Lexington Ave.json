@@ -1,0 +1,54 @@
+{
+    "Address": "1018 E Lexington Ave",
+    "Price": "$2,100/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$2,100/mo",
+        "1 bed",
+        "1 bath",
+        "670 sq ft",
+        "1018 E Lexington Ave, El Cajon, CA 92020",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_52",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5486d992-1b9a-4d54-842b-dcba9beeaff0/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5486d992-1b9a-4d54-842b-dcba9beeaff0/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5486d992-1b9a-4d54-842b-dcba9beeaff0/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5486d992-1b9a-4d54-842b-dcba9beeaff0/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5486d992-1b9a-4d54-842b-dcba9beeaff0/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5486d992-1b9a-4d54-842b-dcba9beeaff0/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5486d992-1b9a-4d54-842b-dcba9beeaff0/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5486d992-1b9a-4d54-842b-dcba9beeaff0/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5486d992-1b9a-4d54-842b-dcba9beeaff0/islphoto/genIsl.8_3.jpg"
+    ]
+}

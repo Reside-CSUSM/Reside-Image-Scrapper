@@ -1,0 +1,56 @@
+{
+    "Address": "1474 Peach Ave",
+    "Price": "$3,400/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$3,400/mo",
+        "3 beds",
+        "2 baths",
+        "1,320 sq ft",
+        "1474 Peach Ave, El Cajon, CA 92021",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_104",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/41ea2a7a-7915-430f-a8e0-a364d80e08f6/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/41ea2a7a-7915-430f-a8e0-a364d80e08f6/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/41ea2a7a-7915-430f-a8e0-a364d80e08f6/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/41ea2a7a-7915-430f-a8e0-a364d80e08f6/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/41ea2a7a-7915-430f-a8e0-a364d80e08f6/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/41ea2a7a-7915-430f-a8e0-a364d80e08f6/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/41ea2a7a-7915-430f-a8e0-a364d80e08f6/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/41ea2a7a-7915-430f-a8e0-a364d80e08f6/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/41ea2a7a-7915-430f-a8e0-a364d80e08f6/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/41ea2a7a-7915-430f-a8e0-a364d80e08f6/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/41ea2a7a-7915-430f-a8e0-a364d80e08f6/islphoto/genIsl.10_1.jpg"
+    ]
+}

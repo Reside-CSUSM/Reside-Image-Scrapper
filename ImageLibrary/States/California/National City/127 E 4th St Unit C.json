@@ -1,0 +1,54 @@
+{
+    "Address": "127 E 4th St Unit C",
+    "Price": "$2,200/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$2,200/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "127 E 4th St Unit C, National City, CA 91950",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_41",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1751c3f0-fa3f-4a6b-88a3-9c09814fc9c8/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1751c3f0-fa3f-4a6b-88a3-9c09814fc9c8/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1751c3f0-fa3f-4a6b-88a3-9c09814fc9c8/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1751c3f0-fa3f-4a6b-88a3-9c09814fc9c8/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1751c3f0-fa3f-4a6b-88a3-9c09814fc9c8/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1751c3f0-fa3f-4a6b-88a3-9c09814fc9c8/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1751c3f0-fa3f-4a6b-88a3-9c09814fc9c8/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1751c3f0-fa3f-4a6b-88a3-9c09814fc9c8/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1751c3f0-fa3f-4a6b-88a3-9c09814fc9c8/islphoto/genIsl.8_1.jpg"
+    ]
+}

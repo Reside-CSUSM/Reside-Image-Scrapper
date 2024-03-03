@@ -1,0 +1,64 @@
+{
+    "Address": "4263 Gamma St",
+    "Price": "$3,300/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92113",
+    "Street": "",
+    "Stats": [
+        "$3,300/mo",
+        "3 beds",
+        "2 baths",
+        "1,360 sq ft",
+        "4263 Gamma St, San Diego, CA 92113",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_22",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01f52165-2ece-4810-a7e6-2f55a80a3879/islphoto/genIsl.18_1.jpg"
+    ]
+}

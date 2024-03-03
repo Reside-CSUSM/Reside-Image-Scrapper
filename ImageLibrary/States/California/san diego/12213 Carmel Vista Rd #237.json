@@ -1,21 +1,21 @@
 {
     "Address": "12213 Carmel Vista Rd #237",
-    "Price": "$2,950/mo",
+    "Price": "$2,850/mo",
     "State": "CA",
     "City": "San Diego",
     "ZipCode": "92130",
     "Street": "",
     "Stats": [
-        "$2,950/mo",
+        "$2,850/mo",
         "2 beds",
         "1 bath",
         "951 sq ft",
         "12213 Carmel Vista Rd #237, San Diego, CA 92130",
-        " Condo",
+        "Dogs welcome \u2022 Laundry in unit \u2022 Parking",
         "Request a tour"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_258",
+    "WebElementID": "MapHomeCard_232",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

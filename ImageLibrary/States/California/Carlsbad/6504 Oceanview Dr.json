@@ -1,0 +1,47 @@
+{
+    "Address": "6504 Oceanview Dr",
+    "Price": "$5,200/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92011",
+    "Street": "",
+    "Stats": [
+        "$5,200/mo",
+        "2 beds",
+        "2 baths",
+        "1,357 sq ft",
+        "6504 Oceanview Dr, Carlsbad, CA 92011",
+        "Laundry in unit \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(775) 781-8678"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_94",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d3272c8e-a7ef-40e7-81f7-18cbcc0c3e2c/islphoto/genIsl.0_1.jpg"
+    ]
+}

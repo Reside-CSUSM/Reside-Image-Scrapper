@@ -1,0 +1,50 @@
+{
+    "Address": "3095 Harding St",
+    "Price": "$2,600/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$2,600/mo",
+        "2 beds",
+        "1 bath",
+        "746 sq ft",
+        "3095 Harding St, Carlsbad, CA 92008",
+        "Pets welcome \u2022 Walker's paradise \u2022 Some transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_22",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/82cd507d-87dc-4360-a74e-38507ed5289b/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82cd507d-87dc-4360-a74e-38507ed5289b/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82cd507d-87dc-4360-a74e-38507ed5289b/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82cd507d-87dc-4360-a74e-38507ed5289b/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/82cd507d-87dc-4360-a74e-38507ed5289b/islphoto/genIsl.4_2.jpg"
+    ]
+}

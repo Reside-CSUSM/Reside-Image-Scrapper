@@ -1,0 +1,61 @@
+{
+    "Address": "943 Teatro Cir",
+    "Price": "$3,800/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$3,800/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,975 sq ft",
+        "943 Teatro Cir, El Cajon, CA 92021",
+        " Condo",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_125",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.0_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.1_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.5_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.6_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.7_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.8_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.9_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.10_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.11_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.12_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.13_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.14_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ef059f5d-3b1f-4e18-9c4e-704800ed2435/islphoto/genIsl.15_6.jpg"
+    ]
+}

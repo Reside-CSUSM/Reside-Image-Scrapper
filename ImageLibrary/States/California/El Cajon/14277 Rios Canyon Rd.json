@@ -1,0 +1,64 @@
+{
+    "Address": "14277 Rios Canyon Rd",
+    "Price": "$2,995/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$2,995/mo",
+        "3 beds",
+        "2 baths",
+        "1,100 sq ft",
+        "14277 Rios Canyon Rd, El Cajon, CA 92021",
+        " Apartment",
+        "Request a tour",
+        "(619) 289-9775"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_140",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/299ed7b1-b679-442f-87e7-0d06c51b5f5a/islphoto/genIsl.17_2.jpg"
+    ]
+}

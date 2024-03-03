@@ -11,12 +11,12 @@
         "1.5 baths",
         "1,037 sq ft",
         "2364 Calle Sabroso #33, Chula Vista, CA 91914",
-        " Condo",
+        "Laundry in unit \u2022 A/C \u2022 Somewhat walkable",
         "Request a tour",
-        "(844) 302-2543"
+        "(833) 992-0602"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_24",
+    "WebElementID": "MapHomeCard_19",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",
@@ -43,14 +43,14 @@
     },
     "Images": [
         "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.0_1.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.1_1.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.2_1.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.3_1.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.4_1.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.5_1.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.6_1.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.7_1.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.8_1.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.9_1.jpg"
+        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f270063f-8d2b-4386-a1aa-4c6224f99d55/islphoto/genIsl.9_2.jpg"
     ]
 }

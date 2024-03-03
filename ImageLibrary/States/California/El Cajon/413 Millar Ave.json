@@ -1,0 +1,57 @@
+{
+    "Address": "413 Millar Ave",
+    "Price": "$2,800/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$2,800/mo",
+        "3 beds",
+        "2 baths",
+        "800 sq ft",
+        "413 Millar Ave, El Cajon, CA 92020",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_33",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/386f4a0b-e5db-4b0d-a808-00e21a871a06/islphoto/genIsl.11_2.jpg"
+    ]
+}

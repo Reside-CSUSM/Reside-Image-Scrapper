@@ -1,0 +1,54 @@
+{
+    "Address": "2024 Bravo Loop",
+    "Price": "$2,200/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$2,200/mo",
+        "1 bed",
+        "1 bath",
+        "500 sq ft",
+        "2024 Bravo Loop, Chula Vista, CA 91915",
+        "Laundry in unit \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_123",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e3da6669-dae0-41ad-ad81-94644e66bdd6/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3da6669-dae0-41ad-ad81-94644e66bdd6/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3da6669-dae0-41ad-ad81-94644e66bdd6/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3da6669-dae0-41ad-ad81-94644e66bdd6/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3da6669-dae0-41ad-ad81-94644e66bdd6/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3da6669-dae0-41ad-ad81-94644e66bdd6/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3da6669-dae0-41ad-ad81-94644e66bdd6/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3da6669-dae0-41ad-ad81-94644e66bdd6/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e3da6669-dae0-41ad-ad81-94644e66bdd6/islphoto/genIsl.8_1.jpg"
+    ]
+}

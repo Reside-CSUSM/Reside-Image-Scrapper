@@ -1,0 +1,62 @@
+{
+    "Address": "429 Smoky Cir",
+    "Price": "$5,800/mo",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$5,800/mo",
+        "3 beds",
+        "2 baths",
+        "1,654 sq ft",
+        "429 Smoky Cir, Chula Vista, CA 91910",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_32",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2d3582b5-99a9-4378-a619-db768445ebcf/islphoto/genIsl.16_1.jpg"
+    ]
+}

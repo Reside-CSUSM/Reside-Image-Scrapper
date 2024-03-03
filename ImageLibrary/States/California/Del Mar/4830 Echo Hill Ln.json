@@ -1,0 +1,51 @@
+{
+    "Address": "4830 Echo Hill Ln",
+    "Price": "$15,000/mo",
+    "State": "CA",
+    "City": "Del Mar",
+    "ZipCode": "92014",
+    "Street": "",
+    "Stats": [
+        "$15,000/mo",
+        "3 beds",
+        "2 baths",
+        "2,000 sq ft",
+        "4830 Echo Hill Ln, Del Mar, CA 92014",
+        "Pets welcome \u2022 Laundry in unit \u2022 Parking",
+        "Request a tour",
+        "(858) 876-5329"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_43",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/7be42006-8c52-4a9e-9c5a-0af01382383b/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7be42006-8c52-4a9e-9c5a-0af01382383b/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7be42006-8c52-4a9e-9c5a-0af01382383b/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7be42006-8c52-4a9e-9c5a-0af01382383b/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7be42006-8c52-4a9e-9c5a-0af01382383b/islphoto/genIsl.4_1.jpg"
+    ]
+}

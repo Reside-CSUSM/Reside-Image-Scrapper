@@ -1,0 +1,57 @@
+{
+    "Address": "2582 Del Mar Heights Rd #12",
+    "Price": "$2,795/mo",
+    "State": "CA",
+    "City": "Del Mar",
+    "ZipCode": "92014",
+    "Street": "",
+    "Stats": [
+        "$2,795/mo",
+        "2 beds",
+        "1.5 baths",
+        "860 sq ft",
+        "2582 Del Mar Heights Rd #12, Del Mar, CA 92014",
+        "Somewhat walkable \u2022 Swimming Pool \u2022 Minimal transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_45",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/beb2030c-fd45-416e-8b96-f05bd07682b3/islphoto/genIsl.11_2.jpg"
+    ]
+}

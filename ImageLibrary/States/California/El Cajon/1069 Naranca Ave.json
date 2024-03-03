@@ -1,0 +1,62 @@
+{
+    "Address": "1069 Naranca Ave",
+    "Price": "$2,500/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$2,500/mo",
+        "2 beds",
+        "2 baths",
+        "\u2014 sq ft",
+        "1069 Naranca Ave, El Cajon, CA 92021",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_29",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c520acf9-0a83-42ab-aada-46ef54b547fa/islphoto/genIsl.16_1.jpg"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "Address": "6217 Alverton Dr",
+    "Price": "$6,995/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92009",
+    "Street": "",
+    "Stats": [
+        "$6,995/mo",
+        "4 beds",
+        "3.5 baths",
+        "3,480 sq ft",
+        "6217 Alverton Dr, Carlsbad, CA 92009",
+        "Pets welcome \u2022 Dishwasher \u2022 Somewhat walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_90",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/05ed2166-70be-4a42-845a-1833e5c7a7de/islphoto/genIsl.30_1.jpg"
+    ]
+}

@@ -11,12 +11,11 @@
         "1 bath",
         "560 sq ft",
         "423 Church Ave, Chula Vista, CA 91910",
-        " Apartment \u2022 1 unit available",
-        "Request a tour",
-        "(844) 763-6272"
+        "Pets welcome \u2022 Laundry in unit \u2022 Very walkable",
+        "Request a tour"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_16",
+    "WebElementID": "MapHomeCard_141",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",
@@ -42,14 +41,14 @@
         }
     },
     "Images": [
-        "https://ssl.cdn-redfin.com/photo/rent/63114e58-438d-423c-bbfc-9fb66bb808a5/islphoto/genIsl.0_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/63114e58-438d-423c-bbfc-9fb66bb808a5/islphoto/genIsl.1_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/63114e58-438d-423c-bbfc-9fb66bb808a5/islphoto/genIsl.2_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/63114e58-438d-423c-bbfc-9fb66bb808a5/islphoto/genIsl.3_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/63114e58-438d-423c-bbfc-9fb66bb808a5/islphoto/genIsl.4_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/63114e58-438d-423c-bbfc-9fb66bb808a5/islphoto/genIsl.5_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/63114e58-438d-423c-bbfc-9fb66bb808a5/islphoto/genIsl.6_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/63114e58-438d-423c-bbfc-9fb66bb808a5/islphoto/genIsl.7_1.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/63114e58-438d-423c-bbfc-9fb66bb808a5/islphoto/genIsl.8_1.jpg"
+        "https://ssl.cdn-redfin.com/photo/rent/de4a75e5-f77c-48a2-96d5-f8d384743eb6/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de4a75e5-f77c-48a2-96d5-f8d384743eb6/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de4a75e5-f77c-48a2-96d5-f8d384743eb6/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de4a75e5-f77c-48a2-96d5-f8d384743eb6/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de4a75e5-f77c-48a2-96d5-f8d384743eb6/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de4a75e5-f77c-48a2-96d5-f8d384743eb6/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de4a75e5-f77c-48a2-96d5-f8d384743eb6/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de4a75e5-f77c-48a2-96d5-f8d384743eb6/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de4a75e5-f77c-48a2-96d5-f8d384743eb6/islphoto/genIsl.8_1.jpg"
     ]
 }

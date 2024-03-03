@@ -1,0 +1,56 @@
+{
+    "Address": "1362 E Main St",
+    "Price": "$1,695/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$1,695/mo",
+        "1 bed",
+        "1 bath",
+        "625 sq ft",
+        "1362 E Main St, El Cajon, CA 92021",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_73",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/633a2c37-6268-48be-b5eb-cb43bd42e645/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/633a2c37-6268-48be-b5eb-cb43bd42e645/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/633a2c37-6268-48be-b5eb-cb43bd42e645/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/633a2c37-6268-48be-b5eb-cb43bd42e645/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/633a2c37-6268-48be-b5eb-cb43bd42e645/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/633a2c37-6268-48be-b5eb-cb43bd42e645/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/633a2c37-6268-48be-b5eb-cb43bd42e645/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/633a2c37-6268-48be-b5eb-cb43bd42e645/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/633a2c37-6268-48be-b5eb-cb43bd42e645/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/633a2c37-6268-48be-b5eb-cb43bd42e645/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/633a2c37-6268-48be-b5eb-cb43bd42e645/islphoto/genIsl.10_1.jpg"
+    ]
+}

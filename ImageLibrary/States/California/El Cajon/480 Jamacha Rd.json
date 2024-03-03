@@ -1,0 +1,48 @@
+{
+    "Address": "480 Jamacha Rd",
+    "Price": "$2,714/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$2,714/mo",
+        "2 beds",
+        "2 baths",
+        "913 sq ft",
+        "480 Jamacha Rd, El Cajon, CA 92019",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_109",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b4d2a9e1-8b73-4b3a-87ef-db9bf293793d/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b4d2a9e1-8b73-4b3a-87ef-db9bf293793d/islphoto/genIsl.1_1.jpg"
+    ]
+}

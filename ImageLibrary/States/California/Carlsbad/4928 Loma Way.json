@@ -1,0 +1,64 @@
+{
+    "Address": "4928 Loma Way",
+    "Price": "$4,800/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$4,800/mo",
+        "4 beds",
+        "3 baths",
+        "2,413 sq ft",
+        "4928 Loma Way, Carlsbad, CA 92008",
+        "Pets welcome \u2022 Dishwasher \u2022 Car-dependent",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_46",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d23074fb-f3c2-4b19-9c1a-29d69d3f6cb1/islphoto/genIsl.18_3.jpg"
+    ]
+}

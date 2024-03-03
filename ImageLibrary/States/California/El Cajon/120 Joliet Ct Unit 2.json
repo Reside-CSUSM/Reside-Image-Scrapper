@@ -1,0 +1,50 @@
+{
+    "Address": "120 Joliet Ct Unit 2",
+    "Price": "$1,000/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$1,000/mo",
+        "1 bed",
+        "1 bath",
+        "1,400 sq ft",
+        "120 Joliet Ct Unit 2, El Cajon, CA 92019",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(619) 992-4792"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_66",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/9860ad5b-c756-4a8a-ae9d-b81b8aade9e6/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9860ad5b-c756-4a8a-ae9d-b81b8aade9e6/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9860ad5b-c756-4a8a-ae9d-b81b8aade9e6/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9860ad5b-c756-4a8a-ae9d-b81b8aade9e6/islphoto/genIsl.3_1.jpg"
+    ]
+}

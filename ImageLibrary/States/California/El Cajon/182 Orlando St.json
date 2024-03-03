@@ -1,0 +1,71 @@
+{
+    "Address": "182 Orlando St",
+    "Price": "$1,725/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$1,725/mo",
+        "1 bed",
+        "1 bath",
+        "700 sq ft",
+        "182 Orlando St, El Cajon, CA 92021",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_70",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c3085026-71dd-4205-8079-1268b2d0bd45/islphoto/genIsl.25_2.jpg"
+    ]
+}

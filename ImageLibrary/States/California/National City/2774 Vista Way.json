@@ -1,0 +1,53 @@
+{
+    "Address": "2774 Vista Way",
+    "Price": "$2,400/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$2,400/mo",
+        "2 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "2774 Vista Way, National City, CA 91950",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(858) 220-9017"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_26",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/96ad2f96-498e-4d25-8058-ab95b02908db/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96ad2f96-498e-4d25-8058-ab95b02908db/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96ad2f96-498e-4d25-8058-ab95b02908db/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96ad2f96-498e-4d25-8058-ab95b02908db/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96ad2f96-498e-4d25-8058-ab95b02908db/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96ad2f96-498e-4d25-8058-ab95b02908db/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96ad2f96-498e-4d25-8058-ab95b02908db/islphoto/genIsl.6_1.jpg"
+    ]
+}

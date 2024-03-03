@@ -1,0 +1,57 @@
+{
+    "Address": "853 Cherrywood Way Unit 9",
+    "Price": "$1,700/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$1,700/mo",
+        "1 bed",
+        "1 bath",
+        "731 sq ft",
+        "853 Cherrywood Way Unit 9, El Cajon, CA 92021",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(858) 281-8402"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_63",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fd4a1ee4-da78-42c7-a3b4-1b956602c55a/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd4a1ee4-da78-42c7-a3b4-1b956602c55a/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd4a1ee4-da78-42c7-a3b4-1b956602c55a/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd4a1ee4-da78-42c7-a3b4-1b956602c55a/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd4a1ee4-da78-42c7-a3b4-1b956602c55a/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd4a1ee4-da78-42c7-a3b4-1b956602c55a/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd4a1ee4-da78-42c7-a3b4-1b956602c55a/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd4a1ee4-da78-42c7-a3b4-1b956602c55a/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd4a1ee4-da78-42c7-a3b4-1b956602c55a/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd4a1ee4-da78-42c7-a3b4-1b956602c55a/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fd4a1ee4-da78-42c7-a3b4-1b956602c55a/islphoto/genIsl.10_1.jpg"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Address": "1170 Sumner Ave Unit STUDIO",
+    "Price": "$1,625/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$1,625/mo",
+        "0 beds",
+        "1 bath",
+        "220 sq ft",
+        "1170 Sumner Ave Unit STUDIO, El Cajon, CA 92021",
+        " Apartment \u2022 1 unit available",
+        "Request a tour",
+        "(619) 202-0425"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_64",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/eca7bcf6-674f-4308-bec8-7f7172cf52e7/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca7bcf6-674f-4308-bec8-7f7172cf52e7/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca7bcf6-674f-4308-bec8-7f7172cf52e7/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca7bcf6-674f-4308-bec8-7f7172cf52e7/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca7bcf6-674f-4308-bec8-7f7172cf52e7/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca7bcf6-674f-4308-bec8-7f7172cf52e7/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca7bcf6-674f-4308-bec8-7f7172cf52e7/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca7bcf6-674f-4308-bec8-7f7172cf52e7/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/eca7bcf6-674f-4308-bec8-7f7172cf52e7/islphoto/genIsl.8_3.jpg"
+    ]
+}

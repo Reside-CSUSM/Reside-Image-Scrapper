@@ -1,0 +1,53 @@
+{
+    "Address": "7448 Alicante Rd",
+    "Price": "$5,295/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92009",
+    "Street": "",
+    "Stats": [
+        "$5,295/mo",
+        "3 beds",
+        "4 baths",
+        "2,000 sq ft",
+        "7448 Alicante Rd, Carlsbad, CA 92009",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_51",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/88565a74-b056-4e2a-9ca3-9ddd3a5ab5dc/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88565a74-b056-4e2a-9ca3-9ddd3a5ab5dc/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88565a74-b056-4e2a-9ca3-9ddd3a5ab5dc/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88565a74-b056-4e2a-9ca3-9ddd3a5ab5dc/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88565a74-b056-4e2a-9ca3-9ddd3a5ab5dc/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88565a74-b056-4e2a-9ca3-9ddd3a5ab5dc/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88565a74-b056-4e2a-9ca3-9ddd3a5ab5dc/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/88565a74-b056-4e2a-9ca3-9ddd3a5ab5dc/islphoto/genIsl.7_1.jpg"
+    ]
+}

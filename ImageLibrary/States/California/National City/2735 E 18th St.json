@@ -1,0 +1,59 @@
+{
+    "Address": "2735 E 18th St",
+    "Price": "$3,675/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$3,675/mo",
+        "4 beds",
+        "2 baths",
+        "\u2014 sq ft",
+        "2735 E 18th St, National City, CA 91950",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_42",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fced1676-b3cf-44dc-90bd-ba6a9461f80b/islphoto/genIsl.13_1.jpg"
+    ]
+}

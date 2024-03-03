@@ -1,0 +1,62 @@
+{
+    "Address": "1403 F Ave",
+    "Price": "$1,795/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$1,795/mo",
+        "1 bed",
+        "1 bath",
+        "650 sq ft",
+        "1403 F Ave, National City, CA 91950",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_18",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a99a207-0351-49de-a074-d1086861bc63/islphoto/genIsl.16_1.jpg"
+    ]
+}

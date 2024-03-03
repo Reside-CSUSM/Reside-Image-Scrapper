@@ -1,21 +1,21 @@
 {
     "Address": "1052 Mountain Ash Ave",
-    "Price": "$6,000/mo",
+    "Price": "$6,500/mo",
     "State": "CA",
     "City": "Chula Vista",
     "ZipCode": "91914",
     "Street": "",
     "Stats": [
-        "$6,000/mo",
+        "$6,500/mo",
         "4 beds",
         "3.5 baths",
         "3,162 sq ft",
         "1052 Mountain Ash Ave, Chula Vista, CA 91914",
-        " House",
+        "Parking \u2022 A/C \u2022 Car-dependent",
         "Request a tour"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_93",
+    "WebElementID": "MapHomeCard_88",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

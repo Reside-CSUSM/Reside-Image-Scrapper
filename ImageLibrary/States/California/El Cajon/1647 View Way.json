@@ -1,0 +1,60 @@
+{
+    "Address": "1647 View Way",
+    "Price": "$4,200/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$4,200/mo",
+        "4 beds",
+        "2 baths",
+        "2,039 sq ft",
+        "1647 View Way, El Cajon, CA 92020",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_30",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/38523218-2f74-456c-a1c6-06401de5d2b1/islphoto/genIsl.14_3.jpg"
+    ]
+}

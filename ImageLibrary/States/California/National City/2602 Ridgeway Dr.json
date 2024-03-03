@@ -1,0 +1,70 @@
+{
+    "Address": "2602 Ridgeway Dr",
+    "Price": "$3,495/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$3,495/mo",
+        "3 beds",
+        "2 baths",
+        "1,134 sq ft",
+        "2602 Ridgeway Dr, National City, CA 91950",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_40",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/89e53044-9db8-4468-a2df-a3cccf52692d/islphoto/genIsl.24_1.jpg"
+    ]
+}

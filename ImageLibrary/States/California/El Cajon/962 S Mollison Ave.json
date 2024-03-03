@@ -1,0 +1,57 @@
+{
+    "Address": "962 S Mollison Ave",
+    "Price": "$1,995/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$1,995/mo",
+        "2 beds",
+        "1 bath",
+        "806 sq ft",
+        "962 S Mollison Ave, El Cajon, CA 92020",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_133",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/131f97b8-fc76-48a7-b0d6-014af8a9eb8e/islphoto/genIsl.11_1.jpg"
+    ]
+}

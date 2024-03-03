@@ -1,0 +1,51 @@
+{
+    "Address": "126 Laurel Ave",
+    "Price": "$2,200/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$2,200/mo",
+        "2 beds",
+        "1 bath",
+        "740 sq ft",
+        "126 Laurel Ave, National City, CA 91950",
+        " Apartment \u2022 1 unit available",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_28",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/7a1182a8-0ac2-4599-b3a5-2658069c7f73/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a1182a8-0ac2-4599-b3a5-2658069c7f73/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a1182a8-0ac2-4599-b3a5-2658069c7f73/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a1182a8-0ac2-4599-b3a5-2658069c7f73/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a1182a8-0ac2-4599-b3a5-2658069c7f73/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7a1182a8-0ac2-4599-b3a5-2658069c7f73/islphoto/genIsl.5_1.jpg"
+    ]
+}

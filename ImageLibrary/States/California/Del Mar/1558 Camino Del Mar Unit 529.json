@@ -1,0 +1,58 @@
+{
+    "Address": "1558 Camino Del Mar Unit 529",
+    "Price": "$5,500/mo",
+    "State": "CA",
+    "City": "Del Mar",
+    "ZipCode": "92014",
+    "Street": "",
+    "Stats": [
+        "$5,500/mo",
+        "1 bed",
+        "2 baths",
+        "900 sq ft",
+        "1558 Camino Del Mar Unit 529, Del Mar, CA 92014",
+        "Pets welcome \u2022 Parking \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_62",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.9_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.10_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.11_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f3f07693-9e16-4800-9324-6fabb33aa291/islphoto/genIsl.12_5.jpg"
+    ]
+}

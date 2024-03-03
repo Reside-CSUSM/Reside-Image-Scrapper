@@ -1,0 +1,75 @@
+{
+    "Address": "2304 E 14th St",
+    "Price": "$7,400/mo",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$7,400/mo",
+        "4 beds",
+        "2 baths",
+        "1,600 sq ft",
+        "2304 E 14th St, National City, CA 91950",
+        " House",
+        "Request a tour",
+        "(669) 273-5354"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_33",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.13_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.14_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.15_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.16_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.17_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.18_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.19_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.20_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.21_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.22_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.23_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.24_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.25_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.26_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.27_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1adae8ec-4319-4c80-bb15-5be4bae02752/islphoto/genIsl.28_3.jpg"
+    ]
+}

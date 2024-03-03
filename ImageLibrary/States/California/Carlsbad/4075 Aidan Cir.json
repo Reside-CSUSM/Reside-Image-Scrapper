@@ -1,0 +1,71 @@
+{
+    "Address": "4075 Aidan Cir",
+    "Price": "$5,950/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$5,950/mo",
+        "3 beds",
+        "2.5 baths",
+        "2,800 sq ft",
+        "4075 Aidan Cir, Carlsbad, CA 92008",
+        "Laundry in unit \u2022 A/C \u2022 Dishwasher",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_93",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/77ec5b76-7c55-445a-9098-817825486bfd/islphoto/genIsl.25_1.jpg"
+    ]
+}
