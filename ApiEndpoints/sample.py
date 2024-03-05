@@ -73,9 +73,9 @@ def console():
             print("Posted request for searching all areas.......")
             try:
                 val = image_api.search_area()
-                if(val > 400):
-                    print("search request failed for atleast one time or more")
-                elif(val < 400 and val > 0):
+                if(val > 0 and val < 200):
+                    print("search request failed for atleast one time or more", " count = ", val)
+                elif(val < 400 and val > 200):
                     print("search successfull on all area queries")
                 else:
                     print("internal api error")
