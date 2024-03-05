@@ -1,5 +1,5 @@
 import sys 
-sys.path.insert(0, r'C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper')
+sys.path.insert(0, r'C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper')
 from Router import RoutingTable
 import copy
 import json
@@ -29,7 +29,6 @@ class AvailableServices():
 class AutomationService():
 
     def __init__(self):
-        self.router = RoutingTable()
         self.path = ""
         self.responses = []
 
@@ -45,8 +44,8 @@ class AutomationService():
         decoded_data = urllib.parse.unquote(string)
         decoded_data = decoded_data.replace("'", '"')
         print("Decoded DATA:", decoded_data)
-        #parsed_data = json.loads(decoded_data)
-            #print("After parsing:", parsed_data)
+        parsed_data = json.loads(decoded_data)
+        print("After parsing:", parsed_data)
         #return parsed_data
         try:
             parsed_data = json.loads(decoded_data)

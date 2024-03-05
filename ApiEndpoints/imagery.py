@@ -181,6 +181,8 @@ class ImagingAPI():
         for area in self.area_list["client_request_data"]["listing_requested"]["area"]:
             print("area:", area, " filters:", filters)
 
+
+
 #API requests have to be asynchronous, not blocking code. 
 #API has to be able to send 'STOP' commands to automations running
 
