@@ -26,7 +26,6 @@ class RequestHandler(BaseHTTPRequestHandler):
 
         super().__init__(*args, **kwargs)
 
-
     def root(self):
         value = {
             'response:':"<h3>Root Endpoint Not available</h3>"
@@ -112,6 +111,8 @@ class RequestHandler(BaseHTTPRequestHandler):
     def do_DELETE(self):
         #DELETING SPECIFIC LISTINGS OR DELETING ENTIRE CITIES
         pass
+
+
 
 class HttpServer():
 
