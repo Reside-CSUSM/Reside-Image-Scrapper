@@ -96,6 +96,9 @@ class CharGradient():
             print("First i = ", self.first_index)
             print("Second i = ", self.last_index)
 
+
+            #It kinda works for the first gradient but when number is set to 2 or higher it doesn't work
+            #Need to fix it
     def set_length(self, amount):
         newstr = ""
         for i in range(0, amount):
