@@ -1,6 +1,6 @@
 import json
 import os
-
+import copy
 
 project_root = os.getcwd() 
 project_root = r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper"
@@ -64,6 +64,104 @@ STATE_ABBREVIATION = {
     'WY':'Wyoming'
 }
 
+class CharGradient():
+    def __init__(self, string, character, gradient_number=1):
+        #NOTE: A gradient is particular section in string that is made up of single character
+        #Example:  'Yaaashaswiiiiaaaaaa' here the gradient is 'aaaa' which can be manipulated in original string
+        #Gradient number is a number that represents different section of gradient in same string
+        self.string = string
+        self.character = character
+        self.gradient_number = gradient_number
+        self.gradient = ""
+        self.first_index = 0
+        self.last_index = 0
+        
+        for j in range(0, self.gradient_number):
+            #These two lines below only repeat if gradient_number > 1
+            self.first_index = self.last_index
+
+            self.gradient = ""
+
+            #First index of gradient
+            self.first_index = self.string[self.first_index:].find(self.character)
+            self.last_index = None
+
+            #Get the last index where the gradient ends
+            for i in range(self.first_index, len(self.string)):
+                if(self.string[i] != self.character):
+                    self.last_index = i
+                    break 
+                self.gradient += self.character
+            
+            print("First i = ", self.first_index)
+            print("Second i = ", self.last_index)
+
+    def set_length(self, amount):
+        newstr = ""
+        for i in range(0, amount):
+            newstr += self.character
+        self.string = self.string.replace(self.gradient, newstr)
+
+    def get_length(self):
+        return len(self.gradient)
+
+    def get(self):
+        return self.gradient
+
+def string_filter(name_org):
+        name = copy.copy(name_org)
+        unwanted_characters = ["#", "|", "*", "(", ")", "&", "^", "%", "$", "@", "!", "[", "]", "{", "}", ";", ">", "<", "?", "/", "\\", "'", "~", "-", "+", "."]
+        for character in unwanted_characters:
+            if(character in name):
+                print("Replaced Unwanted Charcter:", character)
+                name = name.replace(character, "")
+                    
+
+        #Try to look for white spaces on the ends
+        rindex = name.rfind(" ")
+        lindex = name.find(" ")
+
+        #Find where do text characters appear
+        global Ralphaindex, Lalphaindex
+        if(lindex != -1):
+            for i in range(0, len(name)):
+                if((name[i] > "A" and name[i] < "z") or (name[i] >= "1" and name[i] <= "9")):
+                    Lalphaindex = i
+                    print("Alphabet found from Right at:", Lalphaindex)
+                    break
+
+            for i in range(len(name)-1, 0, -1):
+                if((name[i] > "A" and name[i] < "z") or (name[i] >= "1" and name[i] <= "9")):
+                    Ralphaindex = i
+                    print("Alphabet found from Left at:", Ralphaindex)
+                    break
+                
+            #Ralpa > rindex   (should be ideally)   if opposite then there's a white space between 0th index and nth text chharcter
+            #Lalpha < lindex   (should be ideally)  if opposite then there's a white space between last index and nth text chharcter
+
+            Rspace = (Ralphaindex < rindex)
+            Lspace = (Lalphaindex > lindex)
+
+            if(Rspace == True):
+                print("(" + name + ") There's white space in the back, BAD FORMAT WARNING")
+                name = name[0:Ralphaindex+1]
+                print("After popping the right space (" + name + ")")
+
+            if(Lspace == True):
+                print("(" + name + ") There's a white space infront, BAD FORMAT WARNING")
+                name = name[Lalphaindex-1:]
+                print("After popping the left space (" + name + ")")
+                print("Final content of Name (" + name + ")")
+
+            #Now reduce the spaces in between of properly formatter address line
+            gradient = CharGradient(name, " ", 2)
+            gradient.set_length(1)
+            print("Gradient: '" +  gradient.get() + "'")
+            print(" Modified string", name)
+
+        return name
+
+
 class ListingHandler():
 
     def __init__(self):
@@ -108,9 +206,17 @@ class ListingHandler():
         try:
             index = self.listing_path.rfind("\\")
             string = self.listing_path[index+1:len(self.listing_path)]
+            string += ".json"
             dirs = os.listdir(self.listing_path[0:index])
+
             if(string in dirs):
-                return True
+                city_path = self.listing_path[0:index] + "\\" + self.current_listing + ".json"
+                try:
+                    file = open(city_path)
+                    value = json.load(file)
+                    return value
+                except Exception as error:
+                    return False
             else:
                 return False
         except Exception as error:
@@ -121,30 +227,37 @@ class ListingHandler():
         try:
             file = open(self.listing_path, "w")
             file.write(json.dumps(content, indent=4))
-            return True
-        except Exception as error:
-            return False
-    
-    def Create(self, json_data=None):
-        #NEED TO CHECK IF THE FILE ALREADY EXISTS
-        #IF IT DOES THEN DON'T CREATE IT
-        try:
-            #If file already exists then return false
-            file = open(self.listing_path+".json", "w")
-            file = open(self.listing_path+".json", "w")
-            if(json_data != None):file.write(json.dumps(json_data, indent=4))
             file.close()
             return True
         except Exception as error:
-            #If the file doesn't exist then we have to create it
+            print(error, " putData() library.py")
+            return False
+    
+    def Create(self, data=None):
+        #NEED TO CHECK IF THE FILE ALREADY EXISTS
+        #IF IT DOES THEN DON'T CREATE IT
+        try:
+            #If file already exists then update it and return true or else create it
+            file = open(self.listing_path+".json", "w")
+            if(data != None):file.write(json.dumps(data, indent=4))
+            file.close()
+            return True
+        except Exception as error:
+            print(error)
+            #If some exceptino occurs return false
             return False
         
     def Listing(self, name=None):
+
         if(name == None):
             self.current_listing = ""
             pass
         else:
+            
+            name = string_filter(name)
             self.current_listing = name
+            pass
+       
         return self
 
     def GetAll(self):
@@ -179,6 +292,11 @@ class CityHandler():
     def Create(self):
         #CREATE A CITY FOLDER
         #OPEN UP FILE PATH
+        unwanted_characters = ["#", "|", "*", "(", ")", "&", "^", "%", "$", "@", "!", "[", "]", "{", "}", ";", ">", "<", "?", "/", "\\", "'", "~", "-", "+", "."]
+        
+        for character in unwanted_characters:
+            if(character in self.current_city):
+                self.current_city.replace(character, "")
         try:
             os.mkdir(self.city_path)
             return True
@@ -214,7 +332,7 @@ class CityHandler():
         if(city == None):
             self.current_city = ""
         else:
-            self.current_city = city
+            self.current_city = string_filter(city)
         print("VALL", self.current_city)
         return self
     
@@ -262,6 +380,10 @@ class StateHandler():
     def Create(self):
         #CREATE FOLDER
         #OPEN UP THE PATH
+        unwanted_characters = ["#", "|", "*", "(", ")", "&", "^", "%", "$", "@", "!", "[", "]", "{", "}", ";", ">", "<", "?", "/", "\\", "'", "~", "-", "+", "."]
+        for character in unwanted_characters:
+            if(character in self.current_state):
+                self.current_state.replace(character, "")
         try:
             os.mkdir(self.state_path)
             return True
@@ -297,8 +419,7 @@ class StateHandler():
         if(name == None):
             self.current_state = ""
         else:
-            self.current_state = name
-        
+            self.current_state = string_filter(name)
         self.update_path()
         return self
 
@@ -394,6 +515,10 @@ class ImagingLibraryManager():
         return self.state_handler
 
 
+
+
+#storage = ImagingLibraryManager()
+#storage.directory().State("Califo!!rnia").City("San Marcos").Listing("150 Gosnell Way")
 """ 
 GENERAL IDEA:
 Directory():

@@ -132,7 +132,7 @@ class ImagingAPI():
         headers = {'Content-Type': 'application/json'}
         req = ""
         try:
-            req = requests.post(url, headers=headers)
+            req = requests.post(url, data=string, headers=headers)
             print(req, "  status=", req.status_code)
         except Exception as error:
             print(error)
@@ -177,10 +177,9 @@ class ImagingAPI():
     
     def print_areas(self):
         print("Added areas....")
-        filters = self.area_payload["client_request_data"]["filters"]
-        for area in self.area_payload["client_request_data"]["listing_requested"]["area"]:
+        filters = self.area_list["client_request_data"]["filters"]
+        for area in self.area_list["client_request_data"]["listing_requested"]["area"]:
             print("area:", area, " filters:", filters)
-
 
 
 #API requests have to be asynchronous, not blocking code. 

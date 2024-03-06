@@ -3,7 +3,7 @@ import os, sys
 dir_path = os.path.dirname(os.path.realpath(__file__))
 parent_dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
 sys.path.insert(0, parent_dir_path)
-from imagery import *
+from imagery2 import *
 image_api = ImagingAPI()
 image_api.initialize('38.56.138.77', 8888)
 #image_api.add_areas("Otay Mesa, CA").add_areas("Poway, CA").add_areas("San Diego, CA").add_areas("La Mesa, CA").search_area()
@@ -67,6 +67,7 @@ def console():
         elif (val == "show areas"):
             print("\n\n/show areas> ", end="")
             image_api.print_areas()
+            input()
 
         elif(val == "run search"):
             print("\n\n/run search> ", end="")

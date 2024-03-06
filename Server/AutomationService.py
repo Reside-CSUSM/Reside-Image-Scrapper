@@ -1,5 +1,8 @@
-import sys 
-sys.path.insert(0, r'C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper')
+import sys, os
+#sys.path.insert(0, r'C:\Users\yasha\Visual Studio Code Workspaces\SystemX\ResideImageScrapper')
+dir_path = os.path.dirname(os.path.realpath(__file__))
+parent_dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
+sys.path.insert(0, parent_dir_path)
 from Router import RoutingTable
 import copy
 import json
@@ -36,7 +39,7 @@ class AutomationService():
         self.path = path
         if(("/query=" in self.path) == False):
             print("\x1b[34m/QUERY=NOT FOUND\x1b[0m")
-            return
+            return False
         
         print("\x1b[34m/QUERY=FOUND!!\x1b[0m")
         string = copy.copy(self.path).replace("/query=","")
@@ -73,6 +76,8 @@ class AutomationService():
 
     def __POST(self):
         response = self.__decode(self.path)
+        if(response == False):
+            return False
         #Check Service Type
         if(response["service_type"] == "image_collection"):
 
@@ -139,10 +144,9 @@ class AutomationService():
         #DECODE THE JSON DATA RECIEVED
         self.path = path
         if(TYPE == 'POST'):
-            try:
-                self.__POST()
-            except Exception as error:
-                print("POST ERROR:", error)
+            value = self.__POST()
+            if(value == False):
+             print("POST ERROR:", "error")
         
         elif(TYPE == 'GET'):
             self.__GET()

@@ -253,6 +253,7 @@ class Listing():
             """#EXTRACTING STATE, CITY, AND ZIP FROM THE ADDRESS"""
             string = copy.copy(self.address)
             values = string.split(", ")
+            #What happens if split() doesn't find ', ' ?
             self.data['Address'] = values[0]
             self.data['City'] = values[1]
             self.data['State'] = values[2]
@@ -266,7 +267,7 @@ class Listing():
                 print("STATE:", self.data['State'])
                 print("CITY:", self.data['City'])
                 print("ZIPCODE", self.data['ZipCode'])
-
+            
         except Exception as error:
             has_address.set_false()
             if(self.detail_flag.check()):
