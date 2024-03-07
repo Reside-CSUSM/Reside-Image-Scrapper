@@ -1,0 +1,91 @@
+{
+    "Address": "312 Woodland Ln",
+    "Price": "$1,100,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$1,100,000",
+        "4 beds",
+        "2.5 baths",
+        "2,502 sq ft",
+        "312 Woodland Ln, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_69",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_33_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_34_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_35_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_36_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_37_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_38_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_39_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_40_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_41_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_42_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_43_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_44_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_45_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_46_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/190/genIslnoResize.240004190_47_2.jpg"
+    ]
+}

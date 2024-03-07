@@ -1,0 +1,67 @@
+{
+    "Address": "1571 Cliffdale Rd",
+    "Price": "$849,900",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$849,900",
+        "3 beds",
+        "2 baths",
+        "1,980 sq ft",
+        "8,100 sq ft (lot)",
+        "1571 Cliffdale Rd, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_10",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/854/genIslnoResize.240004854_22_1.jpg"
+    ]
+}

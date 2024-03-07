@@ -1,0 +1,57 @@
+{
+    "Address": "1250 El Cajon Blvd",
+    "Price": "$1,500/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$1,500/mo",
+        "0 beds",
+        "1 bath",
+        "217 sq ft",
+        "1250 El Cajon Blvd, El Cajon, CA 92020",
+        "Pets welcome \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_126",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66a3e898-5adf-4d38-822b-fc5674e100fe/islphoto/genIsl.11_3.jpg"
+    ]
+}

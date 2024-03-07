@@ -1,0 +1,75 @@
+{
+    "Address": "902 Bernita Rd",
+    "Price": "$879,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$879,000",
+        "0 beds",
+        "\u2014 baths",
+        "902 Bernita Rd, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_188",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/586/genIslnoResize.240003586_32_0.jpg"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Address": "751 E Bradley #43",
+    "Price": "$270,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$270,000",
+        "2 beds",
+        "2 baths",
+        "960 sq ft",
+        "751 E Bradley #43, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_128",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240001811_0.jpg"
+    ]
+}

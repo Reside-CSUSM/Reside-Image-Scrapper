@@ -1,0 +1,68 @@
+{
+    "Address": "1859 McDougal Ter",
+    "Price": "$850,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$850,000",
+        "4 beds",
+        "2.5 baths",
+        "1,767 sq ft",
+        "1859 McDougal Ter, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_63",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/271/genIslnoResize.240004271_24_0.jpg"
+    ]
+}

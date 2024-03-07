@@ -1,0 +1,75 @@
+{
+    "Address": "2262 Nielsen St",
+    "Price": "$1,050,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$1,050,000",
+        "3 beds",
+        "2 baths",
+        "2,002 sq ft",
+        "0.27 acre (lot)",
+        "2262 Nielsen St, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_18",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/783/genIslnoResize.240004783_30_0.jpg"
+    ]
+}

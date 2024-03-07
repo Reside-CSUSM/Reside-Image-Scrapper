@@ -1,0 +1,49 @@
+{
+    "Address": "Viewside Ln",
+    "Price": "$69,988",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$69,988",
+        "0 beds",
+        "\u2014 baths",
+        "0.63 acre (lot)",
+        "Viewside Ln, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_190",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/484/genIslnoResize.240003484_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/484/genIslnoResize.240003484_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/484/genIslnoResize.240003484_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/484/genIslnoResize.240003484_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/484/genIslnoResize.240003484_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/484/genIslnoResize.240003484_5_0.jpg"
+    ]
+}

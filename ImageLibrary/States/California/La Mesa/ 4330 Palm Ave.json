@@ -1,0 +1,83 @@
+{
+    "Address": " | 4330 Palm Ave",
+    "Price": "$2,295+/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$2,295+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "581-803 sq ft",
+        "The Quarry Apartments",
+        " | 4330 Palm Ave, La Mesa, CA 91941",
+        "Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(619) 343-2688"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_72",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.0_42.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.1_41.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.2_40.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.3_38.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.4_40.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.5_40.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.6_35.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.7_34.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.8_33.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.9_32.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.10_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.11_28.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.12_28.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.13_26.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.14_23.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.15_23.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.16_20.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.17_18.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.18_17.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.19_17.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.20_15.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.21_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.22_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.23_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.24_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.25_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.26_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.27_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.28_11.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.29_11.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.30_10.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.31_10.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.32_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.33_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.34_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34749e36-2e9e-4934-929f-ba5d946a957e/islphoto/genIsl.35_8.jpg"
+    ]
+}

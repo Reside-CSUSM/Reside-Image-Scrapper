@@ -1,0 +1,56 @@
+{
+    "Address": " | 1360 E Madison Ave",
+    "Price": "$2,305/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$2,305/mo",
+        "2 beds",
+        "1 bath",
+        "650 sq ft",
+        "The Madison",
+        " | 1360 E Madison Ave, El Cajon, CA 92021",
+        "9 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(858) 769-0556"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_4",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1b023e53-426e-44a2-87ae-017c0167aa50/islphoto/genIsl.0_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1b023e53-426e-44a2-87ae-017c0167aa50/islphoto/genIsl.1_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1b023e53-426e-44a2-87ae-017c0167aa50/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1b023e53-426e-44a2-87ae-017c0167aa50/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1b023e53-426e-44a2-87ae-017c0167aa50/islphoto/genIsl.4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1b023e53-426e-44a2-87ae-017c0167aa50/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1b023e53-426e-44a2-87ae-017c0167aa50/islphoto/genIsl.6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1b023e53-426e-44a2-87ae-017c0167aa50/islphoto/genIsl.7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1b023e53-426e-44a2-87ae-017c0167aa50/islphoto/genIsl.8_7.jpg"
+    ]
+}

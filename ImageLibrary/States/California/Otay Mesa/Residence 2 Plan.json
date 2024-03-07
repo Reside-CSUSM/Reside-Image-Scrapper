@@ -1,12 +1,12 @@
 {
     "Address": "Residence 2 Plan",
-    "Price": "$533,900",
+    "Price": "$538,900",
     "State": "CA",
     "City": "San Diego",
     "ZipCode": "92154",
     "Street": "",
     "Stats": [
-        "$533,900",
+        "$538,900",
         "2 beds",
         "2.5 baths",
         "1,153 sq ft",
@@ -14,7 +14,7 @@
         "Listing provided by Zillow"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_29",
+    "WebElementID": "MapHomeCard_30",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

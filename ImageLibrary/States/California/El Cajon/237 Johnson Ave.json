@@ -1,0 +1,44 @@
+{
+    "Address": "237 Johnson Ave",
+    "Price": "$713,056",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$713,056",
+        "3 beds",
+        "3 baths",
+        "1,448 sq ft",
+        "237 Johnson Ave, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_174",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/834/genIslnoResize.NDP2308834_0.jpg"
+    ]
+}

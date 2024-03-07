@@ -1,0 +1,45 @@
+{
+    "Address": "560 La Sombra Dr",
+    "Price": "$799,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$799,000",
+        "3 beds",
+        "2 baths",
+        "1,392 sq ft",
+        "9,100 sq ft (lot)",
+        "560 La Sombra Dr, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_46",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/494/genIslnoResize.240004494_0.jpg"
+    ]
+}

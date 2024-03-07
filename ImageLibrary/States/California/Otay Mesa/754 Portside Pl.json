@@ -1,0 +1,78 @@
+{
+    "Address": "754 Portside Pl",
+    "Price": "$569,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$569,000",
+        "2 beds",
+        "2.5 baths",
+        "1,240 sq ft",
+        "1.58 acres (lot)",
+        "754 Portside Pl, San Diego, CA 92154"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_0",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_31_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_32_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/859/genIslnoResize.240004859_33_1.jpg"
+    ]
+}

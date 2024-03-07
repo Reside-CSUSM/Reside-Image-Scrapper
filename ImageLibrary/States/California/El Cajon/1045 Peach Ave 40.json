@@ -1,0 +1,55 @@
+{
+    "Address": "1045 Peach Ave #40",
+    "Price": "$2,495/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$2,495/mo",
+        "2 beds",
+        "1.5 baths",
+        "1,100 sq ft",
+        "1045 Peach Ave #40, El Cajon, CA 92021",
+        "Dishwasher \u2022 Very walkable \u2022 Patio/Balcony",
+        "Request a tour",
+        "(619) 730-9015"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_55",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/62d34e8e-8f25-499c-a6cb-ec83acc13bb5/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/62d34e8e-8f25-499c-a6cb-ec83acc13bb5/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/62d34e8e-8f25-499c-a6cb-ec83acc13bb5/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/62d34e8e-8f25-499c-a6cb-ec83acc13bb5/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/62d34e8e-8f25-499c-a6cb-ec83acc13bb5/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/62d34e8e-8f25-499c-a6cb-ec83acc13bb5/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/62d34e8e-8f25-499c-a6cb-ec83acc13bb5/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/62d34e8e-8f25-499c-a6cb-ec83acc13bb5/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/62d34e8e-8f25-499c-a6cb-ec83acc13bb5/islphoto/genIsl.8_1.jpg"
+    ]
+}

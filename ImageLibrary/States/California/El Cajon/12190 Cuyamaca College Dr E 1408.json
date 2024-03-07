@@ -1,0 +1,55 @@
+{
+    "Address": "12190 Cuyamaca College Dr E #1408",
+    "Price": "$417,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$417,000",
+        "1 bed",
+        "1 bath",
+        "636 sq ft",
+        "12190 Cuyamaca College Dr E #1408, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_175",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230021805_11_0.jpg"
+    ]
+}

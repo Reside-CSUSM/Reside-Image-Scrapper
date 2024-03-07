@@ -1,0 +1,48 @@
+{
+    "Address": "No Address",
+    "Price": "$150,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$150,000",
+        "\u2014 beds",
+        "\u2014 baths",
+        "0.84 acre (lot)",
+        "No Address, San Diego, CA 92154"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_40",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.PTP2401014_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.PTP2401014_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.PTP2401014_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.PTP2401014_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.PTP2401014_4_0.jpg"
+    ]
+}

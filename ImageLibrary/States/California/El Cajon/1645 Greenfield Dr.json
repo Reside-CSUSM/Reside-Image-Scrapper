@@ -1,0 +1,69 @@
+{
+    "Address": "1645 Greenfield Dr",
+    "Price": "$860,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$860,000",
+        "3 beds",
+        "2 baths",
+        "1,725 sq ft",
+        "1645 Greenfield Dr, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_72",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_13_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_14_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_15_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_16_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_17_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_18_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_19_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_20_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_21_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_22_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_23_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_24_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/010/genIslnoResize.240003010_25_1.jpg"
+    ]
+}

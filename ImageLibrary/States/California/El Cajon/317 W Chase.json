@@ -1,0 +1,74 @@
+{
+    "Address": "317 W Chase",
+    "Price": "$899,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$899,000",
+        "3 beds",
+        "2 baths",
+        "1,155 sq ft",
+        "317 W Chase, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_7",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/891/genIslnoResize.240004891_30_1.jpg"
+    ]
+}

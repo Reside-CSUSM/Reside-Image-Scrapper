@@ -1,0 +1,52 @@
+{
+    "Address": "1205 Calle Seabass #50",
+    "Price": "$1,080/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$1,080/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "1205 Calle Seabass #50, San Diego, CA 92154",
+        "Laundry in unit \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(619) 669-8311"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_7",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ce3d0f22-0d55-4a06-821e-20abd300a49e/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ce3d0f22-0d55-4a06-821e-20abd300a49e/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ce3d0f22-0d55-4a06-821e-20abd300a49e/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ce3d0f22-0d55-4a06-821e-20abd300a49e/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ce3d0f22-0d55-4a06-821e-20abd300a49e/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ce3d0f22-0d55-4a06-821e-20abd300a49e/islphoto/genIsl.5_1.jpg"
+    ]
+}

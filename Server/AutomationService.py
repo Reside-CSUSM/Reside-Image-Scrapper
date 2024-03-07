@@ -34,6 +34,7 @@ class AutomationService():
     def __init__(self):
         self.path = ""
         self.responses = []
+        self.data = None
 
     def __decode(self, path):
         self.path = path
@@ -50,6 +51,7 @@ class AutomationService():
         parsed_data = json.loads(decoded_data)
         print("After parsing:", parsed_data)
         #return parsed_data
+
         try:
             parsed_data = json.loads(decoded_data)
             #print("After parsing:", parsed_data)
@@ -72,7 +74,6 @@ class AutomationService():
         self.path = path
         response = self.__decode(path)
         print(response)
-
 
     def __POST(self):
         response = self.__decode(self.path)
@@ -131,6 +132,65 @@ class AutomationService():
                 return self.responses
         pass
     
+    def __POST2(self):
+        response = self.data
+        if(response == None):
+            return False
+        
+        #Check Service Type
+        if(response["service_type"] == "image_collection"):
+
+            if(response["service_name"] == "redfin"):
+                listing_requested = response["client_request_data"]["listing_requested"]
+                type = listing_requested["type"]
+
+                if(type == "housings"):
+                    addresses = listing_requested["addresses"]
+                    storage = listing_requested["storage"]
+                    self.responses = []
+                    for address in addresses:
+                        print("/x1b[31mProcessing address....\x1b[0m", address)
+                        RedfinInterface.create_bot()
+                        RedfinInterface.activate()
+                        RedfinInterface.type("specific")
+                        self.responses.append(RedfinInterface.search_images(address))
+                        RedfinInterface.close_bot()
+                    return self.responses
+
+                elif(type == "city&state"):
+                    filters = response["client_request_data"]["filters"]
+                    areas = listing_requested["area"]
+                    error_count = None
+                    for area in areas:
+                        RedfinInterface.create_bot()
+                        RedfinInterface.activate()
+                        RedfinInterface.type("general")
+                        RedfinInterface.apply_filters(filters)
+                        self.responses.append(RedfinInterface.search_images(area))
+                        RedfinInterface.close_bot()
+                    
+                    for response in self.responses:
+                        if(response in REDFIN_ERROR_CODES):
+                            if(error_count == None):
+                                error_count = 0
+                            error_count += 1
+                    
+                    if(error_count != None):
+                        if(error_count > 0):
+                            return self.responses
+                    
+                    #self.responses = True
+                    return True
+            
+            elif(response["service_name"] == "zillow"):
+                self.responses = "No Automation Service Available For Zillow"
+                return self.responses
+
+            elif(response["service_name"] == "compass"):
+                self.responses = "No Automation Service Available For Compass"
+                return self.responses
+        pass
+    
     def __PUT(self):
         pass
 
@@ -139,7 +199,7 @@ class AutomationService():
 
     def __DELETE(self):
         pass
-
+    
     def handle(self, path, TYPE):
         #DECODE THE JSON DATA RECIEVED
         self.path = path
@@ -157,5 +217,21 @@ class AutomationService():
         elif(TYPE == 'DELETE'):
             self.__DELETE()
 
+    def handle2(self, data, TYPE):
+        #DECODE THE JSON DATA RECIEVED
+        if(TYPE == 'POST'):
+            self.data = data
+            value = self.__POST2()
+            if(value == False):
+             print("POST ERROR:", "error")
+        
+        elif(TYPE == 'GET'):
+            self.__GET()
+        
+        elif(TYPE == 'PUT'):
+            self.__PUT()
+        
+        elif(TYPE == 'DELETE'):
+            self.__DELETE()
 
 #NOTE SPECIFIC SEARCH THROUGH IMAGERY.PY NOT WORKING THROWS AN ERRO, ALSO HAVE TO TEST SPECIFIC SEARCH FUNCTION IF IT PUTS THINGS IN FILE

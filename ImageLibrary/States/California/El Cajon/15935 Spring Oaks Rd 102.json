@@ -1,0 +1,63 @@
+{
+    "Address": "15935 Spring Oaks Rd #102",
+    "Price": "$370,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$370,000",
+        "3 beds",
+        "2 baths",
+        "1,245 sq ft",
+        "4,335 sq ft (lot)",
+        "15935 Spring Oaks Rd #102, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_138",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/303/genIslnoResize.PTP2400303_18_0.jpg"
+    ]
+}

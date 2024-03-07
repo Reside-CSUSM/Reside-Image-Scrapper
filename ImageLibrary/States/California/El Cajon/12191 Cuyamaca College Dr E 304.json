@@ -1,0 +1,68 @@
+{
+    "Address": "12191 Cuyamaca College Dr E #304",
+    "Price": "$519,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$519,000",
+        "2 beds",
+        "2 baths",
+        "850 sq ft",
+        "12191 Cuyamaca College Dr E #304, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_95",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/447/genIslnoResize.240003447_24_1.jpg"
+    ]
+}

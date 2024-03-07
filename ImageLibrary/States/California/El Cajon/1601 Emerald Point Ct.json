@@ -1,0 +1,76 @@
+{
+    "Address": "1601 Emerald Point Ct",
+    "Price": "$1,399,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$1,399,000",
+        "4 beds",
+        "3.5 baths",
+        "2,646 sq ft",
+        "0.29 acre (lot)",
+        "1601 Emerald Point Ct, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_103",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/663/genIslnoResize.PTP2400663_31_0.jpg"
+    ]
+}

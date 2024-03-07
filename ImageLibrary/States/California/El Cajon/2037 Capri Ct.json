@@ -1,0 +1,58 @@
+{
+    "Address": "2037 Capri Ct",
+    "Price": "$849,999",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$849,999",
+        "3 beds",
+        "2 baths",
+        "1,251 sq ft",
+        "0.31 acre (lot)",
+        "2037 Capri Ct, El Cajon, CA 92019",
+        "eXp Realty of California, Inc."
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_15",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/837/genIslnoResize.NDP2401837_12_0.jpg"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Address": "564 S Sunshine Ave",
+    "Price": "$3,495/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$3,495/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,391 sq ft",
+        "564 S Sunshine Ave, El Cajon, CA 92020",
+        "Dogs welcome \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour",
+        "(844) 436-6282"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_107",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/9c6d2c13-938c-4ea0-901d-4215a1c37da0/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9c6d2c13-938c-4ea0-901d-4215a1c37da0/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9c6d2c13-938c-4ea0-901d-4215a1c37da0/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9c6d2c13-938c-4ea0-901d-4215a1c37da0/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9c6d2c13-938c-4ea0-901d-4215a1c37da0/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9c6d2c13-938c-4ea0-901d-4215a1c37da0/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9c6d2c13-938c-4ea0-901d-4215a1c37da0/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9c6d2c13-938c-4ea0-901d-4215a1c37da0/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9c6d2c13-938c-4ea0-901d-4215a1c37da0/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9c6d2c13-938c-4ea0-901d-4215a1c37da0/islphoto/genIsl.9_1.jpg"
+    ]
+}

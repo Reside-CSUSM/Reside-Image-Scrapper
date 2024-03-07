@@ -1,0 +1,68 @@
+{
+    "Address": "150 Mildred Way",
+    "Price": "$699,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$699,000",
+        "3 beds",
+        "2.5 baths",
+        "1,132 sq ft",
+        "150 Mildred Way, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_32",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/453/genIslnoResize.240003453_24_1.jpg"
+    ]
+}

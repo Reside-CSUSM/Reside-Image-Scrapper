@@ -1,0 +1,58 @@
+{
+    "Address": "12089 Calle de Montana #225",
+    "Price": "$3,295/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$3,295/mo",
+        "2 beds",
+        "2.5 baths",
+        "1,139 sq ft",
+        "12089 Calle de Montana #225, El Cajon, CA 92019",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_11",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7972d759-8a3e-4a9a-8a77-98bb95210604/islphoto/genIsl.12_1.jpg"
+    ]
+}

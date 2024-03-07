@@ -1,0 +1,65 @@
+{
+    "Address": "508 Terra Ln",
+    "Price": "$840,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$840,000",
+        "4 beds",
+        "2 baths",
+        "1,508 sq ft",
+        "6,600 sq ft (lot)",
+        "508 Terra Ln, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_58",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/059/genIslnoResize.PTP2401059_20_1.jpg"
+    ]
+}

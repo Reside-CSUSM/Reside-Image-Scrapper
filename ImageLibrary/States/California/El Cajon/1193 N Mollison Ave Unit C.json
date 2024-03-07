@@ -1,0 +1,74 @@
+{
+    "Address": "1193 N Mollison Ave Unit C",
+    "Price": "$520,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$520,000",
+        "3 beds",
+        "1.5 baths",
+        "1,323 sq ft",
+        "1193 N Mollison Ave Unit C, El Cajon, CA 92021",
+        "eXp Realty of California, Inc."
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_44",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/158/genIslnoResize.PTP2401158_29_0.jpg"
+    ]
+}

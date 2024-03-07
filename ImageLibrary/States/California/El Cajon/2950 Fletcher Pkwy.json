@@ -1,0 +1,60 @@
+{
+    "Address": "2950 Fletcher Pkwy",
+    "Price": "$2,174/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$2,174/mo",
+        "1 bed",
+        "1 bath",
+        "680 sq ft",
+        "2950 Fletcher Pkwy, El Cajon, CA 92020",
+        "Pets welcome \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_27",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d5d91e0-f0c4-4ab7-9086-751a9719e525/islphoto/genIsl.13_1.jpg"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Address": "294 Chambers St #39",
+    "Price": "$315,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$315,000",
+        "1 bed",
+        "1 bath",
+        "722 sq ft",
+        "294 Chambers St #39, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_151",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/593/genIslnoResize.240000593_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/593/genIslnoResize.240000593_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/593/genIslnoResize.240000593_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/593/genIslnoResize.240000593_3_0.jpg"
+    ]
+}

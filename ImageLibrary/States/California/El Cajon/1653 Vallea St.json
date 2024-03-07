@@ -1,0 +1,71 @@
+{
+    "Address": "1653 Vallea St",
+    "Price": "$790,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$790,000",
+        "4 beds",
+        "2 baths",
+        "1,436 sq ft",
+        "9,400 sq ft (lot)",
+        "1653 Vallea St, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_42",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/236/genIslnoResize.PTP2400236_26_0.jpg"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "Address": "1160 E Washington Ave #5",
+    "Price": "$445,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$445,000",
+        "2 beds",
+        "2 baths",
+        "834 sq ft",
+        "0.48 acre (lot)",
+        "1160 E Washington Ave #5, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_64",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/266/genIslnoResize.240004266_21_0.jpg"
+    ]
+}

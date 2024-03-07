@@ -1,0 +1,64 @@
+{
+    "Address": " | 5500 Morro Way",
+    "Price": "$1,895/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$1,895/mo",
+        "1 bed",
+        "1 bath",
+        "725 sq ft",
+        "Village Apartments",
+        " | 5500 Morro Way, La Mesa, CA 91942",
+        "Somewhat walkable \u2022 Some transit",
+        "Request a tour",
+        "(760) 853-1723"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_86",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.0_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.1_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.2_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.3_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.4_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.5_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.6_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.7_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.8_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.9_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.10_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.11_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.12_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.13_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.14_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.15_10.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d064bbac-1b6a-4c49-bd62-1641560a84dd/islphoto/genIsl.16_8.jpg"
+    ]
+}

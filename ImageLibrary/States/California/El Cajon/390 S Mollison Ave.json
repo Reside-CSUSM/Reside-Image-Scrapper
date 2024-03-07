@@ -1,0 +1,53 @@
+{
+    "Address": "390 S Mollison Ave",
+    "Price": "$2,050/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$2,050/mo",
+        "2 beds",
+        "1 bath",
+        "850 sq ft",
+        "390 S Mollison Ave, El Cajon, CA 92020",
+        "Somewhat walkable \u2022 Swimming Pool \u2022 Patio/Balcony",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_113",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a580a3b1-4462-424a-b842-608592ed1e17/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a580a3b1-4462-424a-b842-608592ed1e17/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a580a3b1-4462-424a-b842-608592ed1e17/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a580a3b1-4462-424a-b842-608592ed1e17/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a580a3b1-4462-424a-b842-608592ed1e17/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a580a3b1-4462-424a-b842-608592ed1e17/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a580a3b1-4462-424a-b842-608592ed1e17/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a580a3b1-4462-424a-b842-608592ed1e17/islphoto/genIsl.7_1.jpg"
+    ]
+}

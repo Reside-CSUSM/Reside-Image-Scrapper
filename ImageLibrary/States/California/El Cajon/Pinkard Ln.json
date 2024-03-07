@@ -1,0 +1,53 @@
+{
+    "Address": "Pinkard Ln",
+    "Price": "$1,999,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$1,999,000",
+        "0 beds",
+        "\u2014 baths",
+        "4.83 acres (lot)",
+        "Pinkard Ln, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_214",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/397/genIslnoResize.220022397_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/397/genIslnoResize.220022397_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/397/genIslnoResize.220022397_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/397/genIslnoResize.220022397_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/397/genIslnoResize.220022397_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/397/genIslnoResize.220022397_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/397/genIslnoResize.220022397_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/397/genIslnoResize.220022397_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/397/genIslnoResize.220022397_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/397/genIslnoResize.220022397_9_1.jpg"
+    ]
+}

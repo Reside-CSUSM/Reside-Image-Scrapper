@@ -1,0 +1,59 @@
+{
+    "Address": " | 163 Ballantyne St",
+    "Price": "$1,825/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$1,825/mo",
+        "1 bed",
+        "1 bath",
+        "574 sq ft",
+        "Trade Winds Apartments",
+        " | 163 Ballantyne St, El Cajon, CA 92020",
+        "Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(619) 750-0493"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_40",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.0_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.1_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.2_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.3_15.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.4_15.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.5_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.6_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.7_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.8_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.9_11.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.10_11.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96d2ae59-44dc-4c94-bec7-32f04914b374/islphoto/genIsl.11_11.jpg"
+    ]
+}

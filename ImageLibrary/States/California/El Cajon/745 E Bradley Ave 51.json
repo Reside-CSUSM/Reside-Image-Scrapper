@@ -1,0 +1,67 @@
+{
+    "Address": "745 E Bradley Ave #51",
+    "Price": "$350,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$350,000",
+        "1 bed",
+        "1 bath",
+        "568 sq ft",
+        "745 E Bradley Ave #51, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_2",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/251/genIslnoResize.PTP2401251_23_0.jpg"
+    ]
+}

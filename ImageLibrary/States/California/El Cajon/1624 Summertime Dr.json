@@ -1,0 +1,62 @@
+{
+    "Address": "1624 Summertime Dr",
+    "Price": "$394,900",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$394,900",
+        "2 beds",
+        "1 bath",
+        "893 sq ft",
+        "1624 Summertime Dr, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_33",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/767/genIslnoResize.NDP2401767_18_0.jpg"
+    ]
+}

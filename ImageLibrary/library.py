@@ -157,10 +157,10 @@ def string_filter(name_org):
                 print("Final content of Name (" + name + ")")
 
             #Now reduce the spaces in between of properly formatter address line
-            gradient = CharGradient(name, " ", 2)
-            gradient.set_length(1)
-            print("Gradient: '" +  gradient.get() + "'")
-            print(" Modified string", name)
+            #gradient = CharGradient(name, " ", 2)
+            #gradient.set_length(1)
+            #print("Gradient: '" +  gradient.get() + "'")
+            #print(" Modified string", name)
 
         return name
 
@@ -214,11 +214,14 @@ class ListingHandler():
 
             if(string in dirs):
                 city_path = self.listing_path[0:index] + "\\" + self.current_listing + ".json"
+                print("CITY PATH: ", city_path)
                 try:
                     file = open(city_path)
                     value = json.load(file)
+                    print("Found data")
                     return value
                 except Exception as error:
+                    print("Search() Not found!")
                     return False
             else:
                 return False
@@ -256,7 +259,6 @@ class ListingHandler():
             self.current_listing = ""
             pass
         else:
-            
             name = string_filter(name)
             self.current_listing = name
             pass

@@ -1,0 +1,46 @@
+{
+    "Address": "159-65 W Park Ave",
+    "Price": "$1,199,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$1,199,000",
+        "4 beds",
+        "4 baths",
+        "2,200 sq ft",
+        "4,407 sq ft (lot)",
+        "159-65 W Park Ave, El Cajon, CA 92020",
+        "Casa Advisors"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_169",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/789/genIslnoResize.PTP2305789_0.jpg"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "Address": "13801 Pinkard Way #6",
+    "Price": "$580,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$580,000",
+        "3 beds",
+        "3 baths",
+        "1,555 sq ft",
+        "13801 Pinkard Way #6, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_17",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/795/genIslnoResize.240004795_28_1.jpg"
+    ]
+}

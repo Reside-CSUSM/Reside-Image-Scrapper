@@ -11,11 +11,12 @@
         "2 baths",
         "970 sq ft",
         "411 W Chase Ave, El Cajon, CA 92020",
-        " Apartment \u2022 1 unit available",
-        "Request a tour"
+        "Somewhat walkable \u2022 Some transit",
+        "Request a tour",
+        "(619) 354-1329"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_88",
+    "WebElementID": "MapHomeCard_7",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",
@@ -41,18 +42,18 @@
         }
     },
     "Images": [
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.0_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.1_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.2_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.3_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.4_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.5_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.6_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.7_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.8_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.9_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.10_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.11_3.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/8e89c4af-41a3-4c0d-ae2a-c5df227e0d3a/islphoto/genIsl.12_3.jpg"
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f9972d2e-b7a3-43c1-826e-2691cf00ddcf/islphoto/genIsl.12_1.jpg"
     ]
 }

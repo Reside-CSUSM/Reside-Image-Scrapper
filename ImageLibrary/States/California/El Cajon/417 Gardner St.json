@@ -1,0 +1,52 @@
+{
+    "Address": "417 Gardner St",
+    "Price": "$683,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$683,000",
+        "4 beds",
+        "1 bath",
+        "1,147 sq ft",
+        "6,900 sq ft (lot)",
+        "417 Gardner St, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_8",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/823/genIslnoResize.SDC0000823_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/823/genIslnoResize.SDC0000823_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/823/genIslnoResize.SDC0000823_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/823/genIslnoResize.SDC0000823_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/823/genIslnoResize.SDC0000823_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/823/genIslnoResize.SDC0000823_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/823/genIslnoResize.SDC0000823_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/823/genIslnoResize.SDC0000823_7_0.jpg"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Address": "410 S 1st #44",
+    "Price": "$254,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$254,000",
+        "2 beds",
+        "2 baths",
+        "880 sq ft",
+        "410 S 1st #44, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_182",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/242/genIslnoResize.230018242_16_3.jpg"
+    ]
+}

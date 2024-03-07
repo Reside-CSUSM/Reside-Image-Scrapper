@@ -1,0 +1,57 @@
+{
+    "Address": "964 Teatro Cir",
+    "Price": "$799,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$799,000",
+        "4 beds",
+        "2.5 baths",
+        "1,975 sq ft",
+        "964 Teatro Cir, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_111",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/895/genIslnoResize.240002895_13_0.jpg"
+    ]
+}

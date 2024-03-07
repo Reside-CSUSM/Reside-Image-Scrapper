@@ -1,0 +1,58 @@
+{
+    "Address": "1425 E Madison Ave #42",
+    "Price": "$119,900",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$119,900",
+        "1 bed",
+        "1.5 baths",
+        "\u2014 sq ft",
+        "1425 E Madison Ave #42, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_183",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/021/genIslnoResize.OC23171021_14_0.jpg"
+    ]
+}

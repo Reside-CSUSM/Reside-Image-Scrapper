@@ -1,0 +1,61 @@
+{
+    "Address": "5310 Seacliff Pl #11",
+    "Price": "$650,979",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$650,979",
+        "3 beds",
+        "2.5 baths",
+        "1,702 sq ft",
+        "5310 Seacliff Pl #11, San Diego, CA 92154",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/868/genIslnoResize.6DEC037C1868_16_0.jpg"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "Address": "519 Shady Ln Unit D",
+    "Price": "$560,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$560,000",
+        "3 beds",
+        "2 baths",
+        "1,280 sq ft",
+        "519 Shady Ln Unit D, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_145",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_1_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_5_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_6_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_7_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_8_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_9_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_10_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_11_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_12_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_13_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_14_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_15_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_16_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_17_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_18_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_19_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_20_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/091/genIslnoResize.240001091_21_3.jpg"
+    ]
+}

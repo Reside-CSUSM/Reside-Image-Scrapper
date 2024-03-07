@@ -1,22 +1,22 @@
 {
     "Address": "723 S Anza St Unit 1",
-    "Price": "$2,495/mo",
+    "Price": "$2,395/mo",
     "State": "CA",
     "City": "El Cajon",
     "ZipCode": "92019",
     "Street": "",
     "Stats": [
-        "$2,495/mo",
+        "$2,395/mo",
         "2 beds",
         "2 baths",
         "952 sq ft",
         "723 S Anza St Unit 1, El Cajon, CA 92019",
-        " Townhome",
+        "Laundry in unit \u2022 A/C \u2022 Somewhat walkable",
         "Request a tour",
         "(619) 730-9015"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_136",
+    "WebElementID": "MapHomeCard_134",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

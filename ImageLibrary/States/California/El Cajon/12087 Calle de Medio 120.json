@@ -1,0 +1,54 @@
+{
+    "Address": "12087 Calle de Medio #120",
+    "Price": "$570,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$570,000",
+        "2 beds",
+        "2.5 baths",
+        "1,139 sq ft",
+        "12087 Calle de Medio #120, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_49",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/129/genIslnoResize.PTP2401129_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/129/genIslnoResize.PTP2401129_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/129/genIslnoResize.PTP2401129_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/129/genIslnoResize.PTP2401129_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/129/genIslnoResize.PTP2401129_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/129/genIslnoResize.PTP2401129_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/129/genIslnoResize.PTP2401129_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/129/genIslnoResize.PTP2401129_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/129/genIslnoResize.PTP2401129_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/129/genIslnoResize.PTP2401129_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/129/genIslnoResize.PTP2401129_10_1.jpg"
+    ]
+}

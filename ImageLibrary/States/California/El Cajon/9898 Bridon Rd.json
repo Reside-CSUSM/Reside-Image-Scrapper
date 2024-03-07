@@ -1,0 +1,69 @@
+{
+    "Address": "9898 Bridon Rd",
+    "Price": "$1,300,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$1,300,000",
+        "3 beds",
+        "2.5 baths",
+        "3,483 sq ft",
+        "6.09 acres (lot)",
+        "9898 Bridon Rd, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_99",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/286/genIslnoResize.240003286_24_2.jpg"
+    ]
+}

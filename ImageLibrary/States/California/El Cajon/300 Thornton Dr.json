@@ -1,0 +1,62 @@
+{
+    "Address": "300 Thornton Dr",
+    "Price": "$265,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$265,000",
+        "3 beds",
+        "2 baths",
+        "1,056 sq ft",
+        "16.13 acres (lot)",
+        "300 Thornton Dr, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_67",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/575/genIslnoResize.PTP2400575_17_0.jpg"
+    ]
+}

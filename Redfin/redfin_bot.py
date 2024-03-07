@@ -978,9 +978,9 @@ class RedfinBot():
                 self.bot.wait(1)
                 pass
             
-            close_val = '/html/body/div[2]/div[2]/div/div[2]/button'
-            close_cookies = self.bot.search_element(By.XPATH, close_val).get_element()
-            close_cookies.click()
+            #close_val = '/html/body/div[2]/div[2]/div/div[2]/button'
+            #close_cookies = self.bot.search_element(By.XPATH, close_val).get_element()
+            #close_cookies.click()
             
             val = '/html/body/div[5]/div/div[2]/div/div/div/div[2]/div/div/div/div[1]/div/div/form/div/div[1]/div/span/span/div/input'
             el = self.bot.search_element(By.XPATH, val).get_element()
@@ -1001,11 +1001,20 @@ class RedfinBot():
             print("Error= ", error)
             return LOGIN_ERROR_CODE
 
+    def close_misc(self):
+        self.bot.wait(1.4)
+        close_val = '/html/body/div[2]/div[2]/div/div[2]/button'
+        close_cookies = self.bot.search_element(By.XPATH, close_val).get_element()
+        close_cookies.click()
+        
 
     def get_response(self):
+        #CLOSE UNWANTED
+        self.close_misc()
+        
         #LOGIN
-        value = self.login_to_website(credentials=('yashaswi.kul@gmail.com', 'yashema@E494murlipura2'))
-        if(value == LOGIN_ERROR_CODE): return LOGIN_ERROR_CODE
+        #value = self.login_to_website(credentials=('yashaswi.kul@gmail.com', 'yashema@E494murlipura2'))
+        #if(value == LOGIN_ERROR_CODE): return LOGIN_ERROR_CODE
         
         #SEARCHING
         self.redfin_search.set_location_address(self._address)

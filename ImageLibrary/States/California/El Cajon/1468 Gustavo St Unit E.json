@@ -1,0 +1,52 @@
+{
+    "Address": "1468 Gustavo St Unit E",
+    "Price": "$475,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$475,000",
+        "1 bed",
+        "1 bath",
+        "899 sq ft",
+        "1468 Gustavo St Unit E, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_120",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/929/genIslnoResize.PW24021929_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/929/genIslnoResize.PW24021929_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/929/genIslnoResize.PW24021929_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/929/genIslnoResize.PW24021929_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/929/genIslnoResize.PW24021929_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/929/genIslnoResize.PW24021929_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/929/genIslnoResize.PW24021929_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/929/genIslnoResize.PW24021929_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/929/genIslnoResize.PW24021929_8_0.jpg"
+    ]
+}

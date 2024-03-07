@@ -1,0 +1,50 @@
+{
+    "Address": "8000 University Ave #403",
+    "Price": "$2,250/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$2,250/mo",
+        "2 beds",
+        "2 baths",
+        "943 sq ft",
+        "8000 University Ave #403, La Mesa, CA 91942",
+        "Walker's paradise \u2022 Some transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_26",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/95fe4b8e-4653-42da-b5d7-ae56977c976c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95fe4b8e-4653-42da-b5d7-ae56977c976c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95fe4b8e-4653-42da-b5d7-ae56977c976c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95fe4b8e-4653-42da-b5d7-ae56977c976c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/95fe4b8e-4653-42da-b5d7-ae56977c976c/islphoto/genIsl.4_1.jpg"
+    ]
+}

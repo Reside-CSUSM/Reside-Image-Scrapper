@@ -1,0 +1,65 @@
+{
+    "Address": "15634 Broad Oaks Rd",
+    "Price": "$540,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$540,000",
+        "0 beds",
+        "\u2014 baths",
+        "4.00 acres (lot)",
+        "15634 Broad Oaks Rd, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_205",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.230018837_21_0.jpg"
+    ]
+}

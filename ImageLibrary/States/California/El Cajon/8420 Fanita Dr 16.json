@@ -1,0 +1,73 @@
+{
+    "Address": "8420 Fanita Dr #16",
+    "Price": "$550,000",
+    "State": "CA",
+    "City": "Santee",
+    "ZipCode": "92071",
+    "Street": "",
+    "Stats": [
+        "$550,000",
+        "2 beds",
+        "2 baths",
+        "1,056 sq ft",
+        "8420 Fanita Dr #16, Santee, CA 92071"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_85",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/819/genIslnoResize.240003819_29_1.jpg"
+    ]
+}

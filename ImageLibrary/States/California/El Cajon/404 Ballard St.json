@@ -1,0 +1,62 @@
+{
+    "Address": "404 Ballard St",
+    "Price": "$830,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$830,000",
+        "3 beds",
+        "2 baths",
+        "1,158 sq ft",
+        "404 Ballard St, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_97",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/821/genIslnoResize.240002821_18_0.jpg"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "Address": "13431 - 13469 Hwy 8 business",
+    "Price": "$1,148,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$1,148,000",
+        "5 beds",
+        "4 baths",
+        "2,837 sq ft",
+        "1.14 acres (lot)",
+        "13431 - 13469 Hwy 8 business, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_185",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/610/genIslnoResize.230014610_31_0.jpg"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Address": "118 La Cresta Trl",
+    "Price": "$750,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$750,000",
+        "3 beds",
+        "2 baths",
+        "1,912 sq ft",
+        "9,363 sq ft (lot)",
+        "118 La Cresta Trl, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_135",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_33_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_34_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_35_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/869/genIslnoResize.240000869_36_2.jpg"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "Address": "314 Travelodge Dr",
+    "Price": "$575,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$575,000",
+        "2 beds",
+        "2.5 baths",
+        "1,392 sq ft",
+        "314 Travelodge Dr, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_56",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/118/genIslnoResize.PTP2401118_25_0.jpg"
+    ]
+}

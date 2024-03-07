@@ -1,0 +1,68 @@
+{
+    "Address": "1321 Oakdale Ave",
+    "Price": "$470,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$470,000",
+        "2 beds",
+        "1.5 baths",
+        "1,024 sq ft",
+        "0.94 acre (lot)",
+        "1321 Oakdale Ave, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_21",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/221/genIslnoResize.PTP2401221_23_0.jpg"
+    ]
+}

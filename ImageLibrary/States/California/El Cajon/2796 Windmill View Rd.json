@@ -1,0 +1,71 @@
+{
+    "Address": "2796 Windmill View Rd",
+    "Price": "$1,224,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$1,224,000",
+        "4 beds",
+        "2 baths",
+        "2,004 sq ft",
+        "0.29 acre (lot)",
+        "2796 Windmill View Rd, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_112",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_C.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_1_C.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_2_C.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_3_C.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_4_C.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_5_B.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_6_B.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_7_B.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_8_B.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_9_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_10_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_11_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_12_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_13_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_14_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_15_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_16_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_17_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_18_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_19_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_20_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_21_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_22_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_23_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_24_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_25_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/851/genIslnoResize.240002851_26_8.jpg"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "Address": "450 E Bradley Ave #112",
+    "Price": "$140,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$140,000",
+        "3 beds",
+        "2 baths",
+        "1,152 sq ft",
+        "3,500 sq ft (lot)",
+        "450 E Bradley Ave #112, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_164",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_N.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_1_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_2_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_3_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_4_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_5_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_6_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_7_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_8_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_9_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_10_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_11_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_12_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_13_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_14_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_15_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_16_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_17_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_18_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_19_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_20_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_21_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_22_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_23_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_24_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_25_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_26_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_27_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_28_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_29_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_30_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_31_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_32_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_33_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_34_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/282/genIslnoResize.NDP2309282_35_L.jpg"
+    ]
+}

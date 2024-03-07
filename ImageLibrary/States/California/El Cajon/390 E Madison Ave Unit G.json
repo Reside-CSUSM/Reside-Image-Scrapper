@@ -1,0 +1,55 @@
+{
+    "Address": "390 E Madison Ave Unit G",
+    "Price": "$365,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$365,000",
+        "2 beds",
+        "2 baths",
+        "1,104 sq ft",
+        "390 E Madison Ave Unit G, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_176",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/627/genIslnoResize.230019627_11_0.jpg"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "Address": "12970 Highway 8 Business #61",
+    "Price": "$270,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$270,000",
+        "3 beds",
+        "2 baths",
+        "1,350 sq ft",
+        "12970 Highway 8 Business #61, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_181",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/757/genIslnoResize.IV23175757_26_0.jpg"
+    ]
+}

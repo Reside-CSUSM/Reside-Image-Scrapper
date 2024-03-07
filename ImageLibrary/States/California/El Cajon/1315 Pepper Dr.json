@@ -1,0 +1,61 @@
+{
+    "Address": "1315 Pepper Dr",
+    "Price": "$244,500",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$244,500",
+        "2 beds",
+        "2 baths",
+        "960 sq ft",
+        "1315 Pepper Dr, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_131",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240001802_17_1.jpg"
+    ]
+}

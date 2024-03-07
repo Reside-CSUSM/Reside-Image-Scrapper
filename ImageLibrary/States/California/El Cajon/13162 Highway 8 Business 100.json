@@ -1,0 +1,60 @@
+{
+    "Address": "13162 Highway 8 Business #100",
+    "Price": "$100,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$100,000",
+        "2 beds",
+        "2 baths",
+        "960 sq ft",
+        "13162 Highway 8 Business #100, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_102",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/168/genIslnoResize.240003168_16_0.jpg"
+    ]
+}

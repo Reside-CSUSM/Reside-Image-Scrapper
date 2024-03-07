@@ -1,0 +1,58 @@
+{
+    "Address": " | 12367 Calle Albara",
+    "Price": "$2,265+/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$2,265+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "710-990 sq ft",
+        "Rancho Hillside",
+        " | 12367 Calle Albara, El Cajon, CA 92019",
+        "9 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(858) 727-1067"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_0",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3ec0e80c-6c38-46ff-ad0e-07214335dd78/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ec0e80c-6c38-46ff-ad0e-07214335dd78/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ec0e80c-6c38-46ff-ad0e-07214335dd78/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ec0e80c-6c38-46ff-ad0e-07214335dd78/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ec0e80c-6c38-46ff-ad0e-07214335dd78/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ec0e80c-6c38-46ff-ad0e-07214335dd78/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ec0e80c-6c38-46ff-ad0e-07214335dd78/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ec0e80c-6c38-46ff-ad0e-07214335dd78/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ec0e80c-6c38-46ff-ad0e-07214335dd78/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ec0e80c-6c38-46ff-ad0e-07214335dd78/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3ec0e80c-6c38-46ff-ad0e-07214335dd78/islphoto/genIsl.10_1.jpg"
+    ]
+}

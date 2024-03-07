@@ -1,0 +1,61 @@
+{
+    "Address": "5212 Sunset Wave Dr #79",
+    "Price": "$672,794",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$672,794",
+        "3 beds",
+        "2.5 baths",
+        "1,687 sq ft",
+        "5212 Sunset Wave Dr #79, San Diego, CA 92154",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_12",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/76C/genIslnoResize.F083C898A76C_16_0.jpg"
+    ]
+}

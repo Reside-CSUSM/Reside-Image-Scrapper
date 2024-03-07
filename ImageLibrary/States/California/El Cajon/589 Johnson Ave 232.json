@@ -1,0 +1,65 @@
+{
+    "Address": "589 Johnson Ave #232",
+    "Price": "$464,999",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$464,999",
+        "3 beds",
+        "2 baths",
+        "1,114 sq ft",
+        "589 Johnson Ave #232, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_123",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/158/genIslnoResize.240002158_21_1.jpg"
+    ]
+}

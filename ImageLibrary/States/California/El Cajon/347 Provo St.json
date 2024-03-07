@@ -1,0 +1,69 @@
+{
+    "Address": "347 Provo St",
+    "Price": "$890,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$890,000",
+        "4 beds",
+        "3 baths",
+        "1,050 sq ft",
+        "347 Provo St, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_50",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.240004430_25_1.jpg"
+    ]
+}

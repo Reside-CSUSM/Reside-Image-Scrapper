@@ -1,0 +1,80 @@
+{
+    "Address": "1840 Diesel Dr",
+    "Price": "$1,250,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$1,250,000",
+        "4 beds",
+        "3 baths",
+        "3,061 sq ft",
+        "0.40 acre (lot)",
+        "1840 Diesel Dr, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_165",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_31_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_32_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_33_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_34_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/427/genIslnoResize.230023427_35_1.jpg"
+    ]
+}

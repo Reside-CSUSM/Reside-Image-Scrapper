@@ -1,0 +1,68 @@
+{
+    "Address": "902 S Sunshine",
+    "Price": "$899,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$899,000",
+        "4 beds",
+        "3 baths",
+        "1,886 sq ft",
+        "902 S Sunshine, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_51",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240004412_24_0.jpg"
+    ]
+}

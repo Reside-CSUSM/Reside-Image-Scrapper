@@ -1,0 +1,77 @@
+{
+    "Address": "1380 E Washington Ave Unit 47 W",
+    "Price": "$524,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$524,000",
+        "2 beds",
+        "2.5 baths",
+        "1,268 sq ft",
+        "1380 E Washington Ave Unit 47 W, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_110",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/072/genIslnoResize.NDP2401072_33_0.jpg"
+    ]
+}

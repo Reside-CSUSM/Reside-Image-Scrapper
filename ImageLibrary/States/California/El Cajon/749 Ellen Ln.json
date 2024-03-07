@@ -1,0 +1,65 @@
+{
+    "Address": "749 Ellen Ln",
+    "Price": "$769,999",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$769,999",
+        "3 beds",
+        "2 baths",
+        "1,638 sq ft",
+        "6,300 sq ft (lot)",
+        "749 Ellen Ln, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_22",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/057/genIslnoResize.OC24043057_20_0.jpg"
+    ]
+}

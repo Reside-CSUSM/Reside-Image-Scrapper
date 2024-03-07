@@ -1,0 +1,62 @@
+{
+    "Address": "3231 Dehesa Rd #34",
+    "Price": "$677,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$677,000",
+        "3 beds",
+        "2 baths",
+        "1,448 sq ft",
+        "3231 Dehesa Rd #34, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_71",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/058/genIslnoResize.PTP2401058_18_0.jpg"
+    ]
+}

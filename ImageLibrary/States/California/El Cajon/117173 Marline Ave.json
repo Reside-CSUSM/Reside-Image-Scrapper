@@ -1,0 +1,52 @@
+{
+    "Address": "1171-73 Marline Ave",
+    "Price": "$1,199,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$1,199,000",
+        "5 beds",
+        "4.5 baths",
+        "\u2014 sq ft",
+        "1171-73 Marline Ave, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_186",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/892/genIslnoResize.230006892_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/892/genIslnoResize.230006892_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/892/genIslnoResize.230006892_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/892/genIslnoResize.230006892_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/892/genIslnoResize.230006892_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/892/genIslnoResize.230006892_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/892/genIslnoResize.230006892_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/892/genIslnoResize.230006892_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/892/genIslnoResize.230006892_8_0.jpg"
+    ]
+}

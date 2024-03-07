@@ -1,0 +1,85 @@
+{
+    "Address": "10016 Pandora Dr",
+    "Price": "$1,299,999",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$1,299,999",
+        "3 beds",
+        "2 baths",
+        "1,740 sq ft",
+        "0.42 acre (lot)",
+        "10016 Pandora Dr, La Mesa, CA 91941"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_24",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_31_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_32_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_33_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_34_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_35_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_36_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_37_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_38_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_39_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/159/genIslnoResize.240004159_40_1.jpg"
+    ]
+}

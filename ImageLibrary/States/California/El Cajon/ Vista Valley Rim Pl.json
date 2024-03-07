@@ -1,0 +1,68 @@
+{
+    "Address": "0 Vista Valley Rim Pl",
+    "Price": "$118,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$118,000",
+        "\u2014 beds",
+        "\u2014 baths",
+        "1.53 acres (lot)",
+        "0 Vista Valley Rim Pl, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_215",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_9_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_14_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_15_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_16_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_17_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_18_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_20_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_21_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_22_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/692/genIslnoResize.180055692_24_6.jpg"
+    ]
+}

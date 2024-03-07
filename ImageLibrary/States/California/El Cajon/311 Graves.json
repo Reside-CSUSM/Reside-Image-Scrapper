@@ -1,0 +1,66 @@
+{
+    "Address": "311 Graves",
+    "Price": "$499,999",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$499,999",
+        "3 beds",
+        "1.5 baths",
+        "1,136 sq ft",
+        "311 Graves, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_61",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/243/genIslnoResize.240004243_22_0.jpg"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Address": "Plan 1709 Modeled Plan",
+    "Price": "$749,990",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$749,990",
+        "4 beds",
+        "4 baths",
+        "1,709 sq ft",
+        "Plan 1709 Modeled Plan, El Cajon, CA 92020",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_168",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/DE3/genIslnoResize.96CE518E7DE3_14_0.jpg"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "Address": "234 S Pierce St",
+    "Price": "$525,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$525,000",
+        "2 beds",
+        "1.5 baths",
+        "1,064 sq ft",
+        "3.92 acres (lot)",
+        "234 S Pierce St, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_4",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/961/genIslnoResize.240004961_28_1.jpg"
+    ]
+}

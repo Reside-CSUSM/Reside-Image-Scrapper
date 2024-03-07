@@ -1,0 +1,119 @@
+{
+    "Address": "836 Camelot Pkwy",
+    "Price": "$4,100,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$4,100,000",
+        "4 beds",
+        "3.5 baths",
+        "4,552 sq ft",
+        "0.68 acre (lot)",
+        "836 Camelot Pkwy, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_82",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_35_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_36_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_37_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_38_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_39_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_40_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_41_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_42_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_43_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_44_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_45_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_46_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_47_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_48_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_49_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_50_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_51_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_52_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_53_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_54_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_55_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_56_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_57_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_58_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_59_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_60_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_61_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_62_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_63_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_64_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_65_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_66_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_67_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_68_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_69_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_70_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_71_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_72_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_73_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/917/genIslnoResize.240003917_74_0.jpg"
+    ]
+}

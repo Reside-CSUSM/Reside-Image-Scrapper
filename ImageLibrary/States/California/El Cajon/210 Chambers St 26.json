@@ -1,0 +1,55 @@
+{
+    "Address": "210 Chambers St #26",
+    "Price": "$385,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$385,000",
+        "1 bed",
+        "1 bath",
+        "732 sq ft",
+        "210 Chambers St #26, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_26",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/734/genIslnoResize.240004734_11_0.jpg"
+    ]
+}

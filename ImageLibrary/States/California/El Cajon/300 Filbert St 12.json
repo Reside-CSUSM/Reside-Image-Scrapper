@@ -1,0 +1,63 @@
+{
+    "Address": "300 Filbert St #12",
+    "Price": "$465,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$465,000",
+        "3 beds",
+        "2 baths",
+        "968 sq ft",
+        "300 Filbert St #12, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_162",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_9_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_10_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_11_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_12_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_13_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_14_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_15_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_16_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_17_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/702/genIslnoResize.230023702_19_2.jpg"
+    ]
+}

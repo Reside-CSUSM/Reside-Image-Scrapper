@@ -1,0 +1,67 @@
+{
+    "Address": "1361 Partridge Ave",
+    "Price": "$499,900",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$499,900",
+        "2 beds",
+        "1.5 baths",
+        "1,024 sq ft",
+        "1361 Partridge Ave, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_70",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240004183_23_0.jpg"
+    ]
+}

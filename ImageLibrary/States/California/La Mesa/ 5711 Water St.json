@@ -1,0 +1,77 @@
+{
+    "Address": " | 5711 Water St",
+    "Price": "$2,815/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$2,815/mo",
+        "3 beds",
+        "2 baths",
+        "1,189 sq ft",
+        "Grossmont Bluffs",
+        " | 5711 Water St, La Mesa, CA 91942",
+        "8 units available \u2022 Cats welcome \u2022 Laundry facility",
+        "Request a tour",
+        "(858) 727-1127"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_102",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.0_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.1_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.2_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.3_13.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.4_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.5_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.6_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.7_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.8_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.9_14.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.10_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.11_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.12_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.13_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.14_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.15_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.16_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.17_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.18_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.19_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.20_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.21_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.22_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.23_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.24_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.25_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.26_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.27_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.28_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1e1dc1b6-859a-43bc-a19f-403733f68ed6/islphoto/genIsl.29_16.jpg"
+    ]
+}

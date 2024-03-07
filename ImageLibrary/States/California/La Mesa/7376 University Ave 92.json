@@ -1,0 +1,55 @@
+{
+    "Address": "7376 University Ave #92",
+    "Price": "$2,195/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$2,195/mo",
+        "2 beds",
+        "1 bath",
+        "690 sq ft",
+        "7376 University Ave #92, La Mesa, CA 91942",
+        "Very walkable \u2022 Some transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_41",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b709ad1f-e7f3-46d5-9987-29a8a697d967/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b709ad1f-e7f3-46d5-9987-29a8a697d967/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b709ad1f-e7f3-46d5-9987-29a8a697d967/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b709ad1f-e7f3-46d5-9987-29a8a697d967/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b709ad1f-e7f3-46d5-9987-29a8a697d967/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b709ad1f-e7f3-46d5-9987-29a8a697d967/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b709ad1f-e7f3-46d5-9987-29a8a697d967/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b709ad1f-e7f3-46d5-9987-29a8a697d967/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b709ad1f-e7f3-46d5-9987-29a8a697d967/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b709ad1f-e7f3-46d5-9987-29a8a697d967/islphoto/genIsl.9_1.jpg"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Address": "449 S Lincoln Ave",
+    "Price": "$450,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$450,000",
+        "2 beds",
+        "1.5 baths",
+        "928 sq ft",
+        "449 S Lincoln Ave, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_152",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240000412_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240000412_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240000412_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240000412_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240000412_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/412/genIslnoResize.240000412_5_0.jpg"
+    ]
+}

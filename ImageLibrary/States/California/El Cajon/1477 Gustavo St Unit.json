@@ -1,0 +1,76 @@
+{
+    "Address": "1477 Gustavo St Unit A",
+    "Price": "$595,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$595,000",
+        "3 beds",
+        "2.5 baths",
+        "1,386 sq ft",
+        "1477 Gustavo St Unit A, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_54",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_26_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_27_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_28_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_29_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_30_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_31_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/407/genIslnoResize.240004407_32_3.jpg"
+    ]
+}

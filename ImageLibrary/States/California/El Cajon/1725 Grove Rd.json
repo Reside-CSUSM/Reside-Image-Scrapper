@@ -1,0 +1,54 @@
+{
+    "Address": "1725 Grove Rd",
+    "Price": "$625,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$625,000",
+        "\u2014 beds",
+        "\u2014 baths",
+        "1.00 acre (lot)",
+        "1725 Grove Rd, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_193",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/705/genIslnoResize.PTP2400705_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/705/genIslnoResize.PTP2400705_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/705/genIslnoResize.PTP2400705_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/705/genIslnoResize.PTP2400705_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/705/genIslnoResize.PTP2400705_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/705/genIslnoResize.PTP2400705_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/705/genIslnoResize.PTP2400705_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/705/genIslnoResize.PTP2400705_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/705/genIslnoResize.PTP2400705_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/705/genIslnoResize.PTP2400705_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/705/genIslnoResize.PTP2400705_10_0.jpg"
+    ]
+}

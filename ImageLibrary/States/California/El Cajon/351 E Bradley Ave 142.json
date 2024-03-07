@@ -1,0 +1,50 @@
+{
+    "Address": "351 E Bradley Ave #142",
+    "Price": "$115,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$115,000",
+        "2 beds",
+        "1 bath",
+        "1,000 sq ft",
+        "17.42 acres (lot)",
+        "351 E Bradley Ave #142, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_122",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/558/genIslnoResize.PTP2400558_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/558/genIslnoResize.PTP2400558_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/558/genIslnoResize.PTP2400558_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/558/genIslnoResize.PTP2400558_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/558/genIslnoResize.PTP2400558_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/558/genIslnoResize.PTP2400558_5_0.jpg"
+    ]
+}

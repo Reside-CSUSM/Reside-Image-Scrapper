@@ -1,0 +1,67 @@
+{
+    "Address": "1601 Danny Way",
+    "Price": "$825,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$825,000",
+        "4 beds",
+        "2 baths",
+        "1,746 sq ft",
+        "6,500 sq ft (lot)",
+        "1601 Danny Way, El Cajon, CA 92021",
+        "Coldwell Banker West"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_1",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/284/genIslnoResize.PTP2401284_21_0.jpg"
+    ]
+}

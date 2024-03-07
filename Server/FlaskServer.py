@@ -15,6 +15,7 @@ class FlaskServer():
 
     @app.route("/automations/query=<value>", methods=["POST","GET"])
     def AutomationEndpoint(value):
+        #Implement it using request body
         FlaskServer.automation_service.handle("/query="+value, 'POST')
         response = FlaskServer.automation_service.get_response()
         print("Automation route works")
@@ -22,20 +23,42 @@ class FlaskServer():
             return str(response)    
         return response
     
-    @app.route("/ListingImages", methods=["POST", "GET"])
+    @app.route("/Automations", methods=["POST", "GET"])
+    def AutomationEndpoint2():
+        if(request.is_json == False):
+            return "Data wasn't json"
+        response = FlaskServer.automation_service.handle2(request.get_json(), 'POST')
+        return str(response)
+
+
+    @app.route("/ResideLibrary/Images", methods=["POST", "GET"])
     def ListingImagesEndpoint():
+        #Implement it using request body
         responses = []
-        
-        array = request.get_json()["Listing"]
-        print(len(array), " length")
-        for element in array:
-            responses.append(FlaskServer.listing_images_service.fetch(element))
-            #response = FlaskServer.listing_images_service.fetch(request.get_json()["Listing"])
-       
-        if(len(responses) == 0):
-            return "None"
-        else:
+        print("inside route")
+        if(request.is_json == True):
+            try:
+                array = request.get_json()["Listings"]
+                if(len(array) == 0):
+                    return "No Images when listings are not given"
+            except KeyError as error:
+                print("'Listing' key is  missing in json data")
+                return "'Listing' key not found in recieved array"
+            
+            print(len(array), " length")
+            for element in array:
+                print("element array")
+                responses.append(FlaskServer.listing_images_service.fetch(element))
+            
             return str(responses)
+        
+        else:
+                return "Data is not json"    
+
+
+
+        
+    
     
     @app.route("/endpoint", methods=["POST", "GET", "PUT"])
     def endpoint():
@@ -71,3 +94,14 @@ server.run()
 
 #Then maybe creating plug and play based automation folder uploads. 
 #Fix specific search feature
+
+
+#TASKS NOW:
+#1) Finish the /library
+#2) Finish and test error codes
+#3) Fix the parsing problem
+
+
+#Need to fix, source and destinatino file names area same
+#Need to fix the parsing problem in ListinService,oy  half way there tbh
+#Need to make we collect all the cities required

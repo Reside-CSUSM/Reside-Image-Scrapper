@@ -1,0 +1,74 @@
+{
+    "Address": " | 1110-1140 Petree St",
+    "Price": "Contact for Price",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "Contact for Price",
+        "1-2 bed",
+        "1 bath",
+        "594-946 sq ft",
+        "The Timbers El Cajon",
+        " | 1110-1140 Petree St, El Cajon, CA 92020",
+        "3 units available \u2022 Pets welcome \u2022 Laundry facility",
+        "Request a tour",
+        "(619) 750-0529"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_1",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e02b4991-70c5-4433-8343-1d331dc26ffa/islphoto/genIsl.26_3.jpg"
+    ]
+}

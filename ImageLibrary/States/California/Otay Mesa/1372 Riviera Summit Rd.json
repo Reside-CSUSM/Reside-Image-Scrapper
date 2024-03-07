@@ -1,0 +1,50 @@
+{
+    "Address": "1372 Riviera Summit Rd",
+    "Price": "$1,099,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$1,099,000",
+        "5 beds",
+        "3 baths",
+        "2,665 sq ft",
+        "1372 Riviera Summit Rd, San Diego, CA 92154"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_1",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/857/genIslnoResize.240004857_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/857/genIslnoResize.240004857_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/857/genIslnoResize.240004857_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/857/genIslnoResize.240004857_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/857/genIslnoResize.240004857_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/857/genIslnoResize.240004857_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/857/genIslnoResize.240004857_6_0.jpg"
+    ]
+}

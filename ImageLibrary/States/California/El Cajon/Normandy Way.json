@@ -1,0 +1,62 @@
+{
+    "Address": "Normandy Way",
+    "Price": "$172,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$172,000",
+        "0 beds",
+        "\u2014 baths",
+        "0.98 acre (lot)",
+        "Normandy Way, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_203",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.230022282_18_1.jpg"
+    ]
+}

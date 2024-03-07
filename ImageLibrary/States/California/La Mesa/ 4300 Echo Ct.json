@@ -1,0 +1,63 @@
+{
+    "Address": " | 4300 Echo Ct",
+    "Price": "$2,599+/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$2,599+/mo",
+        "2-3 beds",
+        "2 baths",
+        "950-1,200 sq ft",
+        "Echo Pointe",
+        " | 4300 Echo Ct, La Mesa, CA 91941",
+        "4 units available \u2022 Pets welcome \u2022 Parking",
+        "Request a tour",
+        "(858) 477-8496"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_6",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fc17dbe8-099b-4a90-9f2f-7c99f4608332/islphoto/genIsl.15_1.jpg"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Address": "1267 Buttonbrush Ln",
+    "Price": "$3,550/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$3,550/mo",
+        "2 beds",
+        "2 baths",
+        "1,351 sq ft",
+        "1267 Buttonbrush Ln, El Cajon, CA 92019",
+        "Laundry in unit \u2022 Car-dependent \u2022 Swimming Pool",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_98",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/87da6017-c25c-439d-8496-0cb41e2bcb7d/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87da6017-c25c-439d-8496-0cb41e2bcb7d/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87da6017-c25c-439d-8496-0cb41e2bcb7d/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87da6017-c25c-439d-8496-0cb41e2bcb7d/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87da6017-c25c-439d-8496-0cb41e2bcb7d/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/87da6017-c25c-439d-8496-0cb41e2bcb7d/islphoto/genIsl.5_1.jpg"
+    ]
+}

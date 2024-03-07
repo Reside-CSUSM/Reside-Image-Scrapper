@@ -1,0 +1,70 @@
+{
+    "Address": "12081 Calle De Medio #114",
+    "Price": "$545,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$545,000",
+        "2 beds",
+        "1 bath",
+        "913 sq ft",
+        "12081 Calle De Medio #114, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_101",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/183/genIslnoResize.240003183_26_3.jpg"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Address": "11634 Avenida Anacapa",
+    "Price": "$4,295/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$4,295/mo",
+        "4 beds",
+        "3 baths",
+        "1,894 sq ft",
+        "11634 Avenida Anacapa, El Cajon, CA 92019",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_3",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b237dbec-858f-4c68-8772-03bb3bb95c9a/islphoto/genIsl.25_2.jpg"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Address": "Sign in for address",
+    "Price": "$7,500,000",
+    "State": "CA",
+    "City": "Lakeside",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$7,500,000",
+        "0 beds",
+        "\u2014 baths",
+        "253.12 acres (lot)",
+        "Sign in for address, Lakeside, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_201",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.230023430_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.230023430_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.230023430_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.230023430_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.230023430_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.230023430_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.230023430_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.230023430_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.230023430_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.230023430_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/430/genIslnoResize.230023430_10_0.jpg"
+    ]
+}

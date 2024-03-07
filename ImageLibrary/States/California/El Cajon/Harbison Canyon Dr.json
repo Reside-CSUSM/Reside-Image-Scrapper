@@ -1,0 +1,47 @@
+{
+    "Address": "Harbison Canyon Dr",
+    "Price": "$950,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$950,000",
+        "0 beds",
+        "\u2014 baths",
+        "89.00 acres (lot)",
+        "Harbison Canyon Dr, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_212",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/742/genIslnoResize.230008742_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/742/genIslnoResize.230008742_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/742/genIslnoResize.230008742_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/742/genIslnoResize.230008742_3_1.jpg"
+    ]
+}

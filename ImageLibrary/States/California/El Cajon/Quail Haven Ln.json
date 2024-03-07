@@ -1,0 +1,51 @@
+{
+    "Address": "Quail Haven Ln",
+    "Price": "$499,900",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$499,900",
+        "0 beds",
+        "\u2014 baths",
+        "22.79 acres (lot)",
+        "Quail Haven Ln, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_206",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/632/genIslnoResize.230013632_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/632/genIslnoResize.230013632_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/632/genIslnoResize.230013632_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/632/genIslnoResize.230013632_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/632/genIslnoResize.230013632_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/632/genIslnoResize.230013632_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/632/genIslnoResize.230013632_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/632/genIslnoResize.230013632_7_0.jpg"
+    ]
+}

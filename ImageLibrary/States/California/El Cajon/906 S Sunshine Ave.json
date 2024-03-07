@@ -1,0 +1,51 @@
+{
+    "Address": "906 S Sunshine Ave",
+    "Price": "$2,200/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$2,200/mo",
+        "2 beds",
+        "1 bath",
+        "850 sq ft",
+        "906 S Sunshine Ave, El Cajon, CA 92020",
+        "Laundry in unit \u2022 Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(619) 244-2379"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_64",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b5bd7413-4139-4c43-bbc2-7833f84c53d9/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b5bd7413-4139-4c43-bbc2-7833f84c53d9/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b5bd7413-4139-4c43-bbc2-7833f84c53d9/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b5bd7413-4139-4c43-bbc2-7833f84c53d9/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b5bd7413-4139-4c43-bbc2-7833f84c53d9/islphoto/genIsl.4_1.jpg"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "Address": "0 Hillsdale",
+    "Price": "$3,000,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$3,000,000",
+        "\u2014 beds",
+        "\u2014 baths",
+        "5.57 acres (lot)",
+        "0 Hillsdale, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_202",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/899/genIslnoResize.PTP2305899_29_0.jpg"
+    ]
+}

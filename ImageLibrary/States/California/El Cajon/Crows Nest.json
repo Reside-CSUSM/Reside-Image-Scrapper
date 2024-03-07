@@ -1,0 +1,49 @@
+{
+    "Address": "Crows Nest",
+    "Price": "$269,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92019",
+    "Street": "",
+    "Stats": [
+        "$269,000",
+        "0 beds",
+        "\u2014 baths",
+        "13.00 acres (lot)",
+        "Crows Nest, El Cajon, CA 92019"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_204",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230019805_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230019805_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230019805_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230019805_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230019805_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/805/genIslnoResize.230019805_5_1.jpg"
+    ]
+}

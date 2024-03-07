@@ -1,0 +1,72 @@
+{
+    "Address": "1250 E Madison Ave Unit A",
+    "Price": "$499,999",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$499,999",
+        "2 beds",
+        "2 baths",
+        "1,088 sq ft",
+        "1250 E Madison Ave Unit A, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_29",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/207/genIslnoResize.PTP2401207_28_0.jpg"
+    ]
+}

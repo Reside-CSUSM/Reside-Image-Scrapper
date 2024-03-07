@@ -1,0 +1,67 @@
+{
+    "Address": "13217 Aurora Dr #28",
+    "Price": "$360,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$360,000",
+        "3 beds",
+        "2 baths",
+        "1,294 sq ft",
+        "13217 Aurora Dr #28, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_139",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/599/genIslnoResize.240001599_23_1.jpg"
+    ]
+}

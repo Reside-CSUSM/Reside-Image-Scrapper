@@ -1,0 +1,52 @@
+{
+    "Address": "Rios Canyon Rd",
+    "Price": "$370,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$370,000",
+        "0 beds",
+        "\u2014 baths",
+        "4.89 acres (lot)",
+        "Rios Canyon Rd, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_207",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/419/genIslnoResize.230013419_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/419/genIslnoResize.230013419_1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/419/genIslnoResize.230013419_2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/419/genIslnoResize.230013419_3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/419/genIslnoResize.230013419_4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/419/genIslnoResize.230013419_5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/419/genIslnoResize.230013419_6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/419/genIslnoResize.230013419_7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/419/genIslnoResize.230013419_8_4.jpg"
+    ]
+}

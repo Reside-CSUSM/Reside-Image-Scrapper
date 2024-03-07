@@ -1,0 +1,86 @@
+{
+    "Address": "5361 Calle Rockfish St #65",
+    "Price": "$649,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92154",
+    "Street": "",
+    "Stats": [
+        "$649,000",
+        "3 beds",
+        "2.5 baths",
+        "1,600 sq ft",
+        "5361 Calle Rockfish St #65, San Diego, CA 92154"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_7",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_35_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_36_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_37_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_38_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_39_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_40_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_41_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/126/genIslnoResize.PTP2401126_42_0.jpg"
+    ]
+}

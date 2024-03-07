@@ -1,0 +1,76 @@
+{
+    "Address": "846 Pearl Pl",
+    "Price": "$774,900",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$774,900",
+        "3 beds",
+        "1.5 baths",
+        "1,392 sq ft",
+        "7,800 sq ft (lot)",
+        "846 Pearl Pl, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_134",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/449/genIslnoResize.PTP2400449_31_1.jpg"
+    ]
+}

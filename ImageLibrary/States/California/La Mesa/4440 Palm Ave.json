@@ -1,0 +1,48 @@
+{
+    "Address": "4440 Palm Ave",
+    "Price": "$3,095/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$3,095/mo",
+        "2 beds",
+        "1 bath",
+        "900 sq ft",
+        "4440 Palm Ave, La Mesa, CA 91941",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_19",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/0911406f-a1a9-43ab-ad30-540701ba3f37/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0911406f-a1a9-43ab-ad30-540701ba3f37/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0911406f-a1a9-43ab-ad30-540701ba3f37/islphoto/genIsl.2_1.jpg"
+    ]
+}

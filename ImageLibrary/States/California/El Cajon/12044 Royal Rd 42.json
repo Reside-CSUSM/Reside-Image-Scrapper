@@ -1,0 +1,45 @@
+{
+    "Address": "12044 Royal Rd. #42",
+    "Price": "$165,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$165,000",
+        "2 beds",
+        "1 bath",
+        "800 sq ft",
+        "12044 Royal Rd. #42, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_80",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/878/genIslnoResize.PTP2400878_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/878/genIslnoResize.PTP2400878_1_1.jpg"
+    ]
+}

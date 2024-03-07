@@ -1,0 +1,59 @@
+{
+    "Address": "7623 Rainswept Ln",
+    "Price": "$799,000",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92119",
+    "Street": "",
+    "Stats": [
+        "$799,000",
+        "3 beds",
+        "3 baths",
+        "1,620 sq ft",
+        "7623 Rainswept Ln, San Diego, CA 92119"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_180",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/203/genIslnoResize.230019203_15_1.jpg"
+    ]
+}

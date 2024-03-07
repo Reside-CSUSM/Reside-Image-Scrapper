@@ -1,0 +1,54 @@
+{
+    "Address": "1369 Main",
+    "Price": "$139,950",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$139,950",
+        "2 beds",
+        "1 bath",
+        "800 sq ft",
+        "1369 Main, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_153",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/209/genIslnoResize.230024209_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/209/genIslnoResize.230024209_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/209/genIslnoResize.230024209_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/209/genIslnoResize.230024209_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/209/genIslnoResize.230024209_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/209/genIslnoResize.230024209_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/209/genIslnoResize.230024209_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/209/genIslnoResize.230024209_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/209/genIslnoResize.230024209_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/209/genIslnoResize.230024209_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/209/genIslnoResize.230024209_10_0.jpg"
+    ]
+}

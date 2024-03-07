@@ -1,0 +1,72 @@
+{
+    "Address": "467 Ballantyne St #47",
+    "Price": "$350,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$350,000",
+        "1 bed",
+        "1 bath",
+        "710 sq ft",
+        "467 Ballantyne St #47, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_62",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/276/genIslnoResize.240004276_28_0.jpg"
+    ]
+}

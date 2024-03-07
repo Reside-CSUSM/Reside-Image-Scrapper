@@ -1,0 +1,63 @@
+{
+    "Address": "641 S Sunshine Ave",
+    "Price": "$3,000/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$3,000/mo",
+        "2 beds",
+        "1 bath",
+        "850 sq ft",
+        "641 S Sunshine Ave, El Cajon, CA 92020",
+        "Laundry in unit \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(619) 884-3266"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_67",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5cbbdbfb-9b8f-45a9-80dd-d703870f24cd/islphoto/genIsl.16_1.jpg"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "Address": "10644 Quail Canyon Rd",
+    "Price": "$2,350,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$2,350,000",
+        "3 beds",
+        "3.5 baths",
+        "4,574 sq ft",
+        "2.00 acres (lot)",
+        "10644 Quail Canyon Rd, El Cajon, CA 92021",
+        "Keller Williams Realty"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_28",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/224/genIslnoResize.PTP2401224_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/224/genIslnoResize.PTP2401224_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/224/genIslnoResize.PTP2401224_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/224/genIslnoResize.PTP2401224_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/224/genIslnoResize.PTP2401224_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/224/genIslnoResize.PTP2401224_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/224/genIslnoResize.PTP2401224_6_0.jpg"
+    ]
+}

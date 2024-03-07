@@ -1,0 +1,67 @@
+{
+    "Address": "8442 Angila Dr",
+    "Price": "$749,900",
+    "State": "CA",
+    "City": "Santee",
+    "ZipCode": "92071",
+    "Street": "",
+    "Stats": [
+        "$749,900",
+        "3 beds",
+        "2 baths",
+        "1,063 sq ft",
+        "7,405 sq ft (lot)",
+        "8442 Angila Dr, Santee, CA 92071"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_40",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/555/genIslnoResize.240004555_22_0.jpg"
+    ]
+}

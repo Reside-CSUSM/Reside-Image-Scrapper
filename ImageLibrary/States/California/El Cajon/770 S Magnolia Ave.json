@@ -1,0 +1,65 @@
+{
+    "Address": "770 S Magnolia Ave",
+    "Price": "$1,895/mo",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$1,895/mo",
+        "2 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "770 S Magnolia Ave, El Cajon, CA 92020",
+        "Laundry in unit \u2022 A/C \u2022 Very walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_62",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.0_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.1_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.2_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.5_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.6_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.7_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.8_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.9_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.10_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.11_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.12_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.13_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.14_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.15_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.16_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.17_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.18_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6416c566-722b-4a5d-9446-c0405a78cc73/islphoto/genIsl.19_6.jpg"
+    ]
+}

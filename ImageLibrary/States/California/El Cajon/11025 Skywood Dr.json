@@ -1,0 +1,59 @@
+{
+    "Address": "11025 Skywood Dr",
+    "Price": "$429,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92020",
+    "Street": "",
+    "Stats": [
+        "$429,000",
+        "0 beds",
+        "\u2014 baths",
+        "11025 Skywood Dr, El Cajon, CA 92020"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_200",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.230023630_16_1.jpg"
+    ]
+}

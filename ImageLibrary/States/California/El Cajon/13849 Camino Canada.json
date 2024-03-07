@@ -1,0 +1,66 @@
+{
+    "Address": "13849 Camino Canada",
+    "Price": "$949,000",
+    "State": "CA",
+    "City": "El Cajon",
+    "ZipCode": "92021",
+    "Street": "",
+    "Stats": [
+        "$949,000",
+        "5 beds",
+        "2 baths",
+        "2,253 sq ft",
+        "13849 Camino Canada, El Cajon, CA 92021"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_81",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/897/genIslnoResize.240003897_22_1.jpg"
+    ]
+}
