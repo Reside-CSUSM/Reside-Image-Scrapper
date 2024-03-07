@@ -1,0 +1,48 @@
+{
+    "Address": "Residence 2 Plan",
+    "Price": "$815,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$815,900",
+        "4 beds",
+        "3.5 baths",
+        "2,514 sq ft",
+        "Residence 2 Plan, Chula Vista, CA 91913",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_152",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/98E/genIslnoResize.CB94E223198E_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/98E/genIslnoResize.CB94E223198E_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/98E/genIslnoResize.CB94E223198E_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/98E/genIslnoResize.CB94E223198E_3_0.jpg"
+    ]
+}

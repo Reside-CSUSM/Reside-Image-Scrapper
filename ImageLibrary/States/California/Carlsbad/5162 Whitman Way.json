@@ -1,0 +1,60 @@
+{
+    "Address": " | 5162 Whitman Way",
+    "Price": "$2,830+/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$2,830+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "662-1,198 sq ft",
+        "Pacific View Apartment Homes",
+        " | 5162 Whitman Way, Carlsbad, CA 92008",
+        "17 units available \u2022 Pets welcome \u2022 A/C",
+        "Schedule a tour",
+        "(760) 968-0312"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_2",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/10ef4d28-fae8-41dc-917d-f7c56fab3699/islphoto/genIsl.12_1.jpg"
+    ]
+}

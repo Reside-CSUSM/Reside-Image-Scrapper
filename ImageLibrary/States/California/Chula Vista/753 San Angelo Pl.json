@@ -1,0 +1,45 @@
+{
+    "Address": "753 San Angelo Pl",
+    "Price": "$979,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91914",
+    "Street": "",
+    "Stats": [
+        "$979,000",
+        "4 beds",
+        "3 baths",
+        "1,936 sq ft",
+        "5,973 sq ft (lot)",
+        "753 San Angelo Pl, Chula Vista, CA 91914"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_85",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/013/genIslnoResize.PTP2401013_1.jpg"
+    ]
+}

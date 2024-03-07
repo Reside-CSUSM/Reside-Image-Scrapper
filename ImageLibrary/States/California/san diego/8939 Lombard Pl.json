@@ -1,0 +1,59 @@
+{
+    "Address": " | 8939 Lombard Pl",
+    "Price": "$2,300/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92122",
+    "Street": "",
+    "Stats": [
+        "$2,300/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "Torrey Pines Village",
+        " | 8939 Lombard Pl, San Diego, CA 92122",
+        "1 unit available \u2022 Cats welcome \u2022 Laundry facility",
+        "Schedule a tour",
+        "(619) 837-8292"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_105",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f40ff7a9-1a81-44ca-adb8-18b3caea3a8f/islphoto/genIsl.11_2.jpg"
+    ]
+}

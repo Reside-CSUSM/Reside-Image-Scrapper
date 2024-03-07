@@ -1,0 +1,49 @@
+{
+    "Address": "279 Moss #13",
+    "Price": "$375,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$375,000",
+        "1 bed",
+        "1 bath",
+        "621 sq ft",
+        "279 Moss #13, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_141",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/298/genIslnoResize.PTP2400298_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/298/genIslnoResize.PTP2400298_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/298/genIslnoResize.PTP2400298_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/298/genIslnoResize.PTP2400298_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/298/genIslnoResize.PTP2400298_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/298/genIslnoResize.PTP2400298_5_0.jpg"
+    ]
+}

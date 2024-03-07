@@ -1,12 +1,12 @@
 {
     "Address": "1642 Via La Plaza",
-    "Price": "$11,000/mo",
+    "Price": "$9,500/mo",
     "State": "CA",
     "City": "San Marcos",
     "ZipCode": "92078",
     "Street": "",
     "Stats": [
-        "$11,000/mo",
+        "$9,500/mo",
         "4 beds",
         "3 baths",
         "2,735 sq ft",
@@ -15,7 +15,7 @@
         "Request a tour"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_23",
+    "WebElementID": "MapHomeCard_14",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

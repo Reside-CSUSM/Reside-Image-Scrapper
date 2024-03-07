@@ -1,0 +1,72 @@
+{
+    "Address": "522 Palomar St",
+    "Price": "$847,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$847,000",
+        "4 beds",
+        "2 baths",
+        "1,460 sq ft",
+        "9,544 sq ft (lot)",
+        "522 Palomar St, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_81",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/028/genIslnoResize.PTP2401028_27_0.jpg"
+    ]
+}

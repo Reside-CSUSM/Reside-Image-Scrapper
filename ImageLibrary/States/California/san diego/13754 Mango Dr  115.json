@@ -1,0 +1,65 @@
+{
+    "Address": "13754 Mango Dr #115",
+    "Price": "$2,695/mo",
+    "State": "CA",
+    "City": "Del Mar",
+    "ZipCode": "92014",
+    "Street": "",
+    "Stats": [
+        "$2,695/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "13754 Mango Dr #115, Del Mar, CA 92014",
+        "Pets welcome \u2022 Dishwasher \u2022 Somewhat walkable",
+        "Request a tour",
+        "(858) 877-6565"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_337",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4537a98b-782c-47ae-9e75-281452819e83/islphoto/genIsl.18_1.jpg"
+    ]
+}

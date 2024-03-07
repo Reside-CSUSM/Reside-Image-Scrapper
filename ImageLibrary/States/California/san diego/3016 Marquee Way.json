@@ -1,0 +1,68 @@
+{
+    "Address": "3016 Marquee Way",
+    "Price": "$4,888/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92108",
+    "Street": "",
+    "Stats": [
+        "$4,888/mo",
+        "2 beds",
+        "2.5 baths",
+        "1,570 sq ft",
+        "3016 Marquee Way, San Diego, CA 92108",
+        "Laundry in unit \u2022 Car-dependent \u2022 Some transit",
+        "Request a tour",
+        "(844) 303-6757"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_134",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f2c7e1dc-1b16-44e5-a045-4618683f685a/islphoto/genIsl.21_2.jpg"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Address": "13592 Portofino Dr",
+    "Price": "$6,095/mo",
+    "State": "CA",
+    "City": "Del Mar",
+    "ZipCode": "92014",
+    "Street": "",
+    "Stats": [
+        "$6,095/mo",
+        "3 beds",
+        "2 baths",
+        "1,527 sq ft",
+        "13592 Portofino Dr, Del Mar, CA 92014",
+        "Pets welcome \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_214",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/693ef32f-8782-498e-a824-f5fb3eea157b/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/693ef32f-8782-498e-a824-f5fb3eea157b/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/693ef32f-8782-498e-a824-f5fb3eea157b/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/693ef32f-8782-498e-a824-f5fb3eea157b/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/693ef32f-8782-498e-a824-f5fb3eea157b/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/693ef32f-8782-498e-a824-f5fb3eea157b/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/693ef32f-8782-498e-a824-f5fb3eea157b/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/693ef32f-8782-498e-a824-f5fb3eea157b/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/693ef32f-8782-498e-a824-f5fb3eea157b/islphoto/genIsl.8_2.jpg"
+    ]
+}

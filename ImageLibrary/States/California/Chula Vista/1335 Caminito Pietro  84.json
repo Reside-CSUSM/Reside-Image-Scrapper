@@ -1,0 +1,70 @@
+{
+    "Address": "1335 Caminito Pietro #84",
+    "Price": "$675,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$675,000",
+        "3 beds",
+        "3 baths",
+        "1,336 sq ft",
+        "1335 Caminito Pietro #84, Chula Vista, CA 91915"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_133",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/043/genIslnoResize.240002043_26_1.jpg"
+    ]
+}

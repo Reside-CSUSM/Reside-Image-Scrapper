@@ -1,0 +1,65 @@
+{
+    "Address": " | 4070 Huerfano Ave",
+    "Price": "$1,955/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92117",
+    "Street": "",
+    "Stats": [
+        "$1,955/mo",
+        "0 beds",
+        "1 bath",
+        "475 sq ft",
+        "Pacific Bay Club",
+        " | 4070 Huerfano Ave, San Diego, CA 92117",
+        "1 unit available \u2022 Cats welcome \u2022 Laundry facility",
+        "Request a tour",
+        "(858) 477-8169"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_4",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/42bdce43-8ccb-451f-a6aa-5d5da6bb7839/islphoto/genIsl.17_1.jpg"
+    ]
+}

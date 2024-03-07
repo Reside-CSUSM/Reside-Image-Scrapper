@@ -1,0 +1,73 @@
+{
+    "Address": "2814 RAMBLING VISTA Rd",
+    "Price": "$1,499,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$1,499,000",
+        "5 beds",
+        "4.5 baths",
+        "3,404 sq ft",
+        "7,668 sq ft (lot)",
+        "2814 RAMBLING VISTA Rd, Chula Vista, CA 91915"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_58",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/063/genIslnoResize.PTP2401063_28_0.jpg"
+    ]
+}

@@ -1,5 +1,5 @@
 {
-    "Address": "1141 N Escondido Blvd",
+    "Address": " | 1141 N Escondido Blvd",
     "Price": "$2,695/mo",
     "State": "CA",
     "City": "Escondido",
@@ -10,9 +10,11 @@
         "2 beds",
         "2.5 baths",
         "1,050 sq ft",
-        "1141 N Escondido Blvd, Escondido, CA 92026",
-        " Apartment \u2022 1 unit available",
-        "Request a tour"
+        "Hidden Valley Villas",
+        " | 1141 N Escondido Blvd, Escondido, CA 92026",
+        "Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(760) 678-6962"
     ],
     "ListingNumber": "",
     "WebElementID": "MapHomeCard_10",
@@ -41,15 +43,26 @@
         }
     },
     "Images": [
-        "https://ssl.cdn-redfin.com/photo/rent/859d7747-e596-4a0e-9b15-b9bd2c1af603/islphoto/genIsl.0_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/859d7747-e596-4a0e-9b15-b9bd2c1af603/islphoto/genIsl.1_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/859d7747-e596-4a0e-9b15-b9bd2c1af603/islphoto/genIsl.2_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/859d7747-e596-4a0e-9b15-b9bd2c1af603/islphoto/genIsl.3_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/859d7747-e596-4a0e-9b15-b9bd2c1af603/islphoto/genIsl.4_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/859d7747-e596-4a0e-9b15-b9bd2c1af603/islphoto/genIsl.5_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/859d7747-e596-4a0e-9b15-b9bd2c1af603/islphoto/genIsl.6_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/859d7747-e596-4a0e-9b15-b9bd2c1af603/islphoto/genIsl.7_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/859d7747-e596-4a0e-9b15-b9bd2c1af603/islphoto/genIsl.8_2.jpg",
-        "https://ssl.cdn-redfin.com/photo/rent/859d7747-e596-4a0e-9b15-b9bd2c1af603/islphoto/genIsl.9_2.jpg"
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.0_20.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.1_17.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.2_20.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.3_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.4_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.5_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.6_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.7_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.8_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.9_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.10_15.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.11_12.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.12_10.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.13_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.14_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.15_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.16_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6edc11d5-cf99-4662-8967-57360c1493f6/islphoto/genIsl.20_2.jpg"
     ]
 }

@@ -1,0 +1,64 @@
+{
+    "Address": "820 Makani St #2",
+    "Price": "$547,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$547,900",
+        "2 beds",
+        "2.5 baths",
+        "1,143 sq ft",
+        "820 Makani St #2, Chula Vista, CA 91911",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_3",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/26C/genIslnoResize.4A42098C826C_19_0.jpg"
+    ]
+}

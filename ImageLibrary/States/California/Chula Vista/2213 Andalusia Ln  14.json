@@ -1,0 +1,73 @@
+{
+    "Address": "2213 Andalusia Ln #14",
+    "Price": "$740,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$740,000",
+        "3 beds",
+        "3 baths",
+        "1,788 sq ft",
+        "2213 Andalusia Ln #14, Chula Vista, CA 91915"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_126",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_13_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_14_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_15_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_16_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_17_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_18_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_19_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_20_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_21_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_22_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_23_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_24_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_25_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_26_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_27_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_28_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/870/genIslnoResize.NDP2400870_29_5.jpg"
+    ]
+}

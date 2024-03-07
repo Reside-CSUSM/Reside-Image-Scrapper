@@ -1,0 +1,45 @@
+{
+    "Address": "1665 Oleander Ave",
+    "Price": "$785,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$785,000",
+        "3 beds",
+        "2 baths",
+        "1,941 sq ft",
+        "7,400 sq ft (lot)",
+        "1665 Oleander Ave, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_7",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.240004919_0.jpg"
+    ]
+}

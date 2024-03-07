@@ -1,0 +1,47 @@
+{
+    "Address": "1582 Calle Mayfair",
+    "Price": "$1,361,054",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$1,361,054",
+        "5 beds",
+        "4.5 baths",
+        "3,577 sq ft",
+        "1582 Calle Mayfair, Chula Vista, CA 91913",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_121",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/AFF/genIslnoResize.F7E28035BAFF_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/AFF/genIslnoResize.F7E28035BAFF_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/AFF/genIslnoResize.F7E28035BAFF_2_0.jpg"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Address": "3965 Hamilton St",
+    "Price": "$2,150/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92104",
+    "Street": "",
+    "Stats": [
+        "$2,150/mo",
+        "1 bed",
+        "1 bath",
+        "450 sq ft",
+        "3965 Hamilton St, San Diego, CA 92104",
+        "Available 04/18 \u2022 Pets welcome \u2022 A/C",
+        "Request a tour",
+        "(877) 461-3211"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_347",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c914b2f3-2b2b-4d6d-a704-6323947ad734/islphoto/genIsl.0_11.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c914b2f3-2b2b-4d6d-a704-6323947ad734/islphoto/genIsl.1_10.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c914b2f3-2b2b-4d6d-a704-6323947ad734/islphoto/genIsl.2_10.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c914b2f3-2b2b-4d6d-a704-6323947ad734/islphoto/genIsl.3_10.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c914b2f3-2b2b-4d6d-a704-6323947ad734/islphoto/genIsl.4_10.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c914b2f3-2b2b-4d6d-a704-6323947ad734/islphoto/genIsl.5_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c914b2f3-2b2b-4d6d-a704-6323947ad734/islphoto/genIsl.6_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c914b2f3-2b2b-4d6d-a704-6323947ad734/islphoto/genIsl.7_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c914b2f3-2b2b-4d6d-a704-6323947ad734/islphoto/genIsl.8_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c914b2f3-2b2b-4d6d-a704-6323947ad734/islphoto/genIsl.9_6.jpg"
+    ]
+}

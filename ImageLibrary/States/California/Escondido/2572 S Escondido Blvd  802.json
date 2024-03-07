@@ -1,0 +1,67 @@
+{
+    "Address": "2572 S Escondido Blvd #802",
+    "Price": "$3,500/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92025",
+    "Street": "",
+    "Stats": [
+        "$3,500/mo",
+        "3 beds",
+        "3.5 baths",
+        "1,600 sq ft",
+        "2572 S Escondido Blvd #802, Escondido, CA 92025",
+        "Laundry in unit \u2022 Dishwasher \u2022 Car-dependent",
+        "Request a tour",
+        "(855) 857-2575"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_5",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cca44181-9e5c-4b2a-b62f-156ffd6fe191/islphoto/genIsl.20_1.jpg"
+    ]
+}

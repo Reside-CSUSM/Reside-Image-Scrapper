@@ -1,0 +1,61 @@
+{
+    "Address": " | 3510 Garfield St #12",
+    "Price": "$3,950/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$3,950/mo",
+        "2 beds",
+        "1 bath",
+        "1,100 sq ft",
+        "Beautiful Corner Lot where you walk to the Ocean and Dine in Downtown!",
+        " | 3510 Garfield St #12, Carlsbad, CA 92008",
+        "Pets welcome \u2022 Somewhat walkable \u2022 Some transit",
+        "Request a tour",
+        "(760) 678-6866"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_32",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8d580731-75de-4511-a689-5b7c8fd0b7d5/islphoto/genIsl.13_2.jpg"
+    ]
+}

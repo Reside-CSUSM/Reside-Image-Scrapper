@@ -1,0 +1,73 @@
+{
+    "Address": "2829 Echo Ridge Pl",
+    "Price": "$1,749,950",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$1,749,950",
+        "5 beds",
+        "4.5 baths",
+        "4,278 sq ft",
+        "0.24 acre (lot)",
+        "2829 Echo Ridge Pl, Chula Vista, CA 91915"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_57",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_26_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_27_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/402/genIslnoResize.240004402_28_3.jpg"
+    ]
+}

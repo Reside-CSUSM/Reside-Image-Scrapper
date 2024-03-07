@@ -1,0 +1,57 @@
+{
+    "Address": "2790 Madison St Unit D",
+    "Price": "$2,750/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$2,750/mo",
+        "2 beds",
+        "1 bath",
+        "830 sq ft",
+        "2790 Madison St Unit D, Carlsbad, CA 92008",
+        "Patio/Balcony",
+        "Request a tour",
+        "(760) 889-4343"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_130",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/687c4ad2-9e04-4993-865d-fbc067b1fd11/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/687c4ad2-9e04-4993-865d-fbc067b1fd11/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/687c4ad2-9e04-4993-865d-fbc067b1fd11/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/687c4ad2-9e04-4993-865d-fbc067b1fd11/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/687c4ad2-9e04-4993-865d-fbc067b1fd11/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/687c4ad2-9e04-4993-865d-fbc067b1fd11/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/687c4ad2-9e04-4993-865d-fbc067b1fd11/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/687c4ad2-9e04-4993-865d-fbc067b1fd11/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/687c4ad2-9e04-4993-865d-fbc067b1fd11/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/687c4ad2-9e04-4993-865d-fbc067b1fd11/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/687c4ad2-9e04-4993-865d-fbc067b1fd11/islphoto/genIsl.10_2.jpg"
+    ]
+}

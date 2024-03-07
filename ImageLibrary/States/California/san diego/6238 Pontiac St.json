@@ -1,0 +1,53 @@
+{
+    "Address": "6238 Pontiac St",
+    "Price": "$8,200/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92115",
+    "Street": "",
+    "Stats": [
+        "$8,200/mo",
+        "6 beds",
+        "3 baths",
+        "1,540 sq ft",
+        "6238 Pontiac St, San Diego, CA 92115",
+        "Pets welcome \u2022 Dishwasher \u2022 Very walkable",
+        "Request a tour",
+        "(317) 371-1321"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_327",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b49ad2ef-4486-4403-b511-8f2470512a40/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b49ad2ef-4486-4403-b511-8f2470512a40/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b49ad2ef-4486-4403-b511-8f2470512a40/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b49ad2ef-4486-4403-b511-8f2470512a40/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b49ad2ef-4486-4403-b511-8f2470512a40/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b49ad2ef-4486-4403-b511-8f2470512a40/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b49ad2ef-4486-4403-b511-8f2470512a40/islphoto/genIsl.6_1.jpg"
+    ]
+}

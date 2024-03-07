@@ -1,0 +1,68 @@
+{
+    "Address": "1408 La Plaza Dr",
+    "Price": "$5,700/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$5,700/mo",
+        "3 beds",
+        "2 baths",
+        "2,060 sq ft",
+        "1408 La Plaza Dr, San Marcos, CA 92078",
+        "Pets welcome \u2022 Laundry in unit \u2022 Parking",
+        "Request a tour",
+        "(858) 588-3043"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_8",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1762ef1f-3a5f-4ca9-9fc2-817ae2c956ad/islphoto/genIsl.21_1.jpg"
+    ]
+}

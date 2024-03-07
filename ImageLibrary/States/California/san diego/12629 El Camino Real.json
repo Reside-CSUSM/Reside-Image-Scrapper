@@ -1,0 +1,73 @@
+{
+    "Address": " | 12629 El Camino Real",
+    "Price": "$3,318+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92130",
+    "Street": "",
+    "Stats": [
+        "$3,318+/mo",
+        "1-3 bed",
+        "1-2 bath",
+        "894-1,425 sq ft",
+        "Del Mar Ridge",
+        " | 12629 El Camino Real, San Diego, CA 92130",
+        "8 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Schedule a tour",
+        "(619) 798-4002"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_65",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.7_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.8_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.9_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.10_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.11_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.12_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.13_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.14_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.15_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.16_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.17_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.18_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.19_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.20_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.21_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6a7e8c3f-d9ec-447d-abe2-7af70c8b3f40/islphoto/genIsl.25_1.jpg"
+    ]
+}

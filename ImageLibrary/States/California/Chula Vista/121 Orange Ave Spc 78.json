@@ -1,0 +1,46 @@
+{
+    "Address": "121 Orange Ave Spc 78",
+    "Price": "$265,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$265,000",
+        "3 beds",
+        "2 baths",
+        "1,404 sq ft",
+        "14.00 acres (lot)",
+        "121 Orange Ave Spc 78, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_171",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/574/genIslnoResize.PTP2304574_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/574/genIslnoResize.PTP2304574_1_0.jpg"
+    ]
+}

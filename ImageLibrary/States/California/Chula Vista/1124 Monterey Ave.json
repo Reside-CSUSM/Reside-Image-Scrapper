@@ -1,0 +1,64 @@
+{
+    "Address": "1124 Monterey Ave",
+    "Price": "$799,999",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$799,999",
+        "4 beds",
+        "2 baths",
+        "1,757 sq ft",
+        "8,400 sq ft (lot)",
+        "1124 Monterey Ave, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_163",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/306/genIslnoResize.230021306_19_1.jpg"
+    ]
+}

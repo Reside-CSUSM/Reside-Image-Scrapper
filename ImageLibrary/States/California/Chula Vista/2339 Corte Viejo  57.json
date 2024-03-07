@@ -1,0 +1,72 @@
+{
+    "Address": "2339 Corte Viejo #57",
+    "Price": "$649,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91914",
+    "Street": "",
+    "Stats": [
+        "$649,000",
+        "3 beds",
+        "3 baths",
+        "1,285 sq ft",
+        "2339 Corte Viejo #57, Chula Vista, CA 91914"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_91",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/843/genIslnoResize.240003843_28_1.jpg"
+    ]
+}

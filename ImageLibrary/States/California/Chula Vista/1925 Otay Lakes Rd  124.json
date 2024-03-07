@@ -1,0 +1,80 @@
+{
+    "Address": "1925 Otay Lakes Rd #124",
+    "Price": "$199,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$199,000",
+        "2 beds",
+        "2 baths",
+        "1,440 sq ft",
+        "29.62 acres (lot)",
+        "1925 Otay Lakes Rd #124, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_149",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_21_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_22_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_23_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_24_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_25_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_26_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_27_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_28_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_29_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_30_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_31_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_32_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_33_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_34_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/798/genIslnoResize.PTP2305798_35_3.jpg"
+    ]
+}

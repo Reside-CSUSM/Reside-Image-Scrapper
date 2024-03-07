@@ -1,0 +1,44 @@
+{
+    "Address": "4751 Beachwood Ct",
+    "Price": "$2,000,000",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$2,000,000",
+        "3 beds",
+        "3 baths",
+        "2,352 sq ft",
+        "4751 Beachwood Ct, Carlsbad, CA 92008"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/416/genIslnoResize.OC24036416_0.jpg"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Address": "1100 Industrial Ave Unit J-30",
+    "Price": "$49,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$49,000",
+        "2 beds",
+        "1 bath",
+        "648 sq ft",
+        "13.00 acres (lot)",
+        "1100 Industrial Ave Unit J-30, Chula Vista, CA 91911",
+        "Shopping SD Houses"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_54",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/133/genIslnoResize.PTP2401133_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/133/genIslnoResize.PTP2401133_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/133/genIslnoResize.PTP2401133_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/133/genIslnoResize.PTP2401133_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/133/genIslnoResize.PTP2401133_4_0.jpg"
+    ]
+}

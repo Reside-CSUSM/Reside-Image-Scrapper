@@ -1,0 +1,74 @@
+{
+    "Address": "835 Colorado",
+    "Price": "$895,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$895,000",
+        "3 beds",
+        "3 baths",
+        "1,257 sq ft",
+        "5,600 sq ft (lot)",
+        "835 Colorado, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_166",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_26_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_27_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_28_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/954/genIslnoResize.PTP2302954_29_3.jpg"
+    ]
+}

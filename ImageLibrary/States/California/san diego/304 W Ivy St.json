@@ -1,0 +1,67 @@
+{
+    "Address": " | 304 W Ivy St",
+    "Price": "$1,795+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92101",
+    "Street": "",
+    "Stats": [
+        "$1,795+/mo",
+        "0 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "La Morada Apartments",
+        " | 304 W Ivy St, San Diego, CA 92101",
+        "Walker's paradise \u2022 Good transit",
+        "Request a tour",
+        "(858) 437-9793"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_171",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.0_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.1_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.2_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.3_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.4_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.5_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.6_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.7_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.8_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.9_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.10_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.11_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.12_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1beee57f-b048-4d41-bdb2-a4e8c6267109/islphoto/genIsl.19_2.jpg"
+    ]
+}

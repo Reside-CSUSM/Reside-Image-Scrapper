@@ -1,0 +1,69 @@
+{
+    "Address": "8860 Villa La Jolla Dr #305",
+    "Price": "$4,295/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$4,295/mo",
+        "2 beds",
+        "2 baths",
+        "1,080 sq ft",
+        "8860 Villa La Jolla Dr #305, La Jolla, CA 92037",
+        "Pets welcome \u2022 Laundry in unit \u2022 Very walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_206",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.0_31.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.1_25.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.2_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.3_22.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.4_30.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.5_28.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.6_26.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.7_25.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.8_21.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.9_20.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.10_20.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.11_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.12_17.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.13_15.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.14_16.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.15_18.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.16_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.17_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.18_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.19_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.20_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.21_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.22_18.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/813ee981-5580-4be4-832d-bf45b54c2196/islphoto/genIsl.23_18.jpg"
+    ]
+}

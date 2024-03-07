@@ -1,0 +1,56 @@
+{
+    "Address": "311 Rancho Dr Unit C",
+    "Price": "$524,999",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$524,999",
+        "2 beds",
+        "1 bath",
+        "930 sq ft",
+        "1,244 sq ft (lot)",
+        "311 Rancho Dr Unit C, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_103",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.TR24031631_11_0.jpg"
+    ]
+}

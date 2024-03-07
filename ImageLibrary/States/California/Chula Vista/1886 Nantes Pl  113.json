@@ -1,0 +1,68 @@
+{
+    "Address": "1886 Nantes Pl #113",
+    "Price": "$685,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$685,000",
+        "3 beds",
+        "2 baths",
+        "1,478 sq ft",
+        "1886 Nantes Pl #113, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_83",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/025/genIslnoResize.PTP2401025_24_0.jpg"
+    ]
+}

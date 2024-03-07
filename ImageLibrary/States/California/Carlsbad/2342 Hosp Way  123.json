@@ -1,0 +1,47 @@
+{
+    "Address": "2342 Hosp Way #123",
+    "Price": "$2,995/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$2,995/mo",
+        "2 beds",
+        "2 baths",
+        "1,029 sq ft",
+        "2342 Hosp Way #123, Carlsbad, CA 92008",
+        "Available 04/14 \u2022 Laundry in unit \u2022 Dishwasher",
+        "Request a tour",
+        "(877) 674-0036"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_10",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/aed10087-0545-4f82-bc5f-8adc2f684707/islphoto/genIsl.0_1.jpg"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Address": "111 Cedar Ave",
+    "Price": "$1,350,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$1,350,000",
+        "6 beds",
+        "5 baths",
+        "\u2014 sq ft",
+        "6,722 sq ft (lot)",
+        "111 Cedar Ave, Chula Vista, CA 91910"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_112",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/991/genIslnoResize.240002991_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/991/genIslnoResize.240002991_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/991/genIslnoResize.240002991_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/991/genIslnoResize.240002991_3_0.jpg"
+    ]
+}

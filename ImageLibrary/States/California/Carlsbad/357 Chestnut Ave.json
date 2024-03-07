@@ -1,0 +1,67 @@
+{
+    "Address": "357 Chestnut Ave",
+    "Price": "$2,475+/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$2,475+/mo",
+        "0-2 beds",
+        "1-2 bath",
+        "415-900 sq ft",
+        "357 Chestnut Ave, Carlsbad, CA 92008",
+        "Pets welcome \u2022 Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(760) 678-6370"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_85",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.16_46.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.17_68.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.18_67.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.19_68.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.20_67.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.21_69.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.22_69.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.23_65.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.24_66.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.25_66.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.26_64.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.27_65.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.28_65.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.29_67.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.30_71.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.31_68.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.32_68.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.33_68.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.34_68.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.35_67.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3970f27b-03eb-4788-88f6-0c62f47a5cb3/islphoto/genIsl.36_69.jpg"
+    ]
+}

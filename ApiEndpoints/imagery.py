@@ -102,6 +102,7 @@ class ImagingAPI():
                     }
                 }
             }
+    
         #"san diego, CA", "Austin, TX", "Sacramento, CA"
     def initialize(self, ip, port):
         self.server_ip = ip
@@ -120,7 +121,16 @@ class ImagingAPI():
     def add_housings(self, address):
         self.housing_payload["client_request_data"]["listing_requested"]["addresses"].append(address)
         return self
-
+    
+    def search_housings(self):
+        url = self.proto + self.server_ip + ":"+str(self.server_port) + "/automations/query="
+        string = str(self.housing_payload)
+        url += string
+        headers = {'Content-Type': 'application/json'}
+        req = requests.post(url, headers=headers)
+        print(req)
+        return self 
+    
     def add_areas(self, area):
         self.area_payload["client_request_data"]["listing_requested"]["area"].append(area)
         return self
@@ -149,15 +159,6 @@ class ImagingAPI():
       
         return req.status_code
 
-    def search_housings(self):
-        url = self.proto + self.server_ip + ":"+str(self.server_port) + "/automations/query="
-        string = str(self.housing_payload)
-        url += string
-        headers = {'Content-Type': 'application/json'}
-        req = requests.post(url, headers=headers)
-        print(req)
-        return self 
-    
     def delete_area(self, area):
         areas = self.area_payload["client_request_data"]["listing_requested"]["area"]
 

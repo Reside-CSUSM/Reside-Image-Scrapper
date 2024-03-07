@@ -1,0 +1,53 @@
+{
+    "Address": "343 Autumn Dr",
+    "Price": "$2,550/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$2,550/mo",
+        "2 beds",
+        "1 bath",
+        "826 sq ft",
+        "343 Autumn Dr, San Marcos, CA 92069",
+        "Pets welcome \u2022 Very walkable",
+        "Request a tour",
+        "(760) 678-1187"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_46",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5079f830-90e2-4c1e-9956-418af904124b/islphoto/genIsl.0_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5079f830-90e2-4c1e-9956-418af904124b/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5079f830-90e2-4c1e-9956-418af904124b/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5079f830-90e2-4c1e-9956-418af904124b/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5079f830-90e2-4c1e-9956-418af904124b/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5079f830-90e2-4c1e-9956-418af904124b/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5079f830-90e2-4c1e-9956-418af904124b/islphoto/genIsl.6_4.jpg"
+    ]
+}

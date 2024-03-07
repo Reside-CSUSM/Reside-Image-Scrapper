@@ -1,0 +1,71 @@
+{
+    "Address": "11022 Alonda Ct",
+    "Price": "$9,000/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92126",
+    "Street": "",
+    "Stats": [
+        "$9,000/mo",
+        "4 beds",
+        "3 baths",
+        "1,871 sq ft",
+        "11022 Alonda Ct, San Diego, CA 92126",
+        "Parking \u2022 A/C \u2022 Car-dependent",
+        "Request a tour",
+        "(408) 207-8058"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_218",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/af7d627b-d703-49b2-9ba5-d7336d65dbdc/islphoto/genIsl.24_1.jpg"
+    ]
+}

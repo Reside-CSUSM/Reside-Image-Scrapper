@@ -1,0 +1,64 @@
+{
+    "Address": "7301 Linbrook Pl",
+    "Price": "$4,800/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92111",
+    "Street": "",
+    "Stats": [
+        "$4,800/mo",
+        "4 beds",
+        "2 baths",
+        "1,624 sq ft",
+        "7301 Linbrook Pl, San Diego, CA 92111",
+        "Pets welcome \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour",
+        "(888) 834-0282"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_150",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4ca4ddf1-5c27-4074-b85d-b7a4c75f3fdd/islphoto/genIsl.17_1.jpg"
+    ]
+}

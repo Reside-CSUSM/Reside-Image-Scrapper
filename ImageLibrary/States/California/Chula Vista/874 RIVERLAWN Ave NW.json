@@ -1,0 +1,57 @@
+{
+    "Address": "874 RIVERLAWN Ave NW",
+    "Price": "$910,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$910,000",
+        "1 bed",
+        "1 bath",
+        "1,668 sq ft",
+        "6,035 sq ft (lot)",
+        "874 RIVERLAWN Ave NW, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_165",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/276/genIslnoResize.PTP2305276_12_1.jpg"
+    ]
+}

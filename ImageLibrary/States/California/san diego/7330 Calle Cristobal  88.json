@@ -1,0 +1,54 @@
+{
+    "Address": "7330 Calle Cristobal #88",
+    "Price": "$3,150/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92126",
+    "Street": "",
+    "Stats": [
+        "$3,150/mo",
+        "2 beds",
+        "2 baths",
+        "1,114 sq ft",
+        "7330 Calle Cristobal #88, San Diego, CA 92126",
+        "Pets welcome \u2022 Laundry in unit \u2022 Parking",
+        "Request a tour",
+        "(619) 540-9906"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_213",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/642e53cb-146f-42d8-9bcb-452d98c7b416/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/642e53cb-146f-42d8-9bcb-452d98c7b416/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/642e53cb-146f-42d8-9bcb-452d98c7b416/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/642e53cb-146f-42d8-9bcb-452d98c7b416/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/642e53cb-146f-42d8-9bcb-452d98c7b416/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/642e53cb-146f-42d8-9bcb-452d98c7b416/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/642e53cb-146f-42d8-9bcb-452d98c7b416/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/642e53cb-146f-42d8-9bcb-452d98c7b416/islphoto/genIsl.7_1.jpg"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Address": "1370 SANTA VICTORIA #8",
+    "Price": "$699,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$699,000",
+        "3 beds",
+        "2.5 baths",
+        "1,635 sq ft",
+        "1370 SANTA VICTORIA #8, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_128",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_35_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_36_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_37_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_38_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/282/genIslnoResize.240002282_39_0.jpg"
+    ]
+}

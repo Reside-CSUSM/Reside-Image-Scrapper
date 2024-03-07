@@ -1,0 +1,72 @@
+{
+    "Address": "2315 Eastridge Loop",
+    "Price": "$900,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$900,000",
+        "3 beds",
+        "2 baths",
+        "1,657 sq ft",
+        "4,884 sq ft (lot)",
+        "2315 Eastridge Loop, Chula Vista, CA 91915"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_18",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/259/genIslnoResize.PTP2401259_27_1.jpg"
+    ]
+}

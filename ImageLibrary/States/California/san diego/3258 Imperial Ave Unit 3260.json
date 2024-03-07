@@ -1,0 +1,55 @@
+{
+    "Address": "3258 Imperial Ave Unit 3260",
+    "Price": "$3,350/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92102",
+    "Street": "",
+    "Stats": [
+        "$3,350/mo",
+        "3 beds",
+        "2.5 baths",
+        "\u2014 sq ft",
+        "3258 Imperial Ave Unit 3260, San Diego, CA 92102",
+        "Available 04/01 \u2022 Pets welcome",
+        "Request a tour",
+        "(877) 672-1016"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_181",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6287b173-5b25-477a-91a1-45ae9198553e/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6287b173-5b25-477a-91a1-45ae9198553e/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6287b173-5b25-477a-91a1-45ae9198553e/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6287b173-5b25-477a-91a1-45ae9198553e/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6287b173-5b25-477a-91a1-45ae9198553e/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6287b173-5b25-477a-91a1-45ae9198553e/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6287b173-5b25-477a-91a1-45ae9198553e/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6287b173-5b25-477a-91a1-45ae9198553e/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6287b173-5b25-477a-91a1-45ae9198553e/islphoto/genIsl.8_1.jpg"
+    ]
+}

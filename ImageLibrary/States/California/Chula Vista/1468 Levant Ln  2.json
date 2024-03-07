@@ -1,0 +1,71 @@
+{
+    "Address": "1468 Levant Ln #2",
+    "Price": "$645,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$645,000",
+        "3 beds",
+        "2.5 baths",
+        "1,372 sq ft",
+        "5.59 acres (lot)",
+        "1468 Levant Ln #2, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_136",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/570/genIslnoResize.240001570_26_1.jpg"
+    ]
+}

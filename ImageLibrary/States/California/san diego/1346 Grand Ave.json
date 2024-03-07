@@ -1,0 +1,50 @@
+{
+    "Address": " | 1346 Grand Ave",
+    "Price": "$2,795/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92109",
+    "Street": "",
+    "Stats": [
+        "$2,795/mo",
+        "2 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "Ocean Palms Apartments",
+        " | 1346 Grand Ave, San Diego, CA 92109",
+        "Dogs welcome",
+        "Request a tour",
+        "(619) 768-7393"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_187",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/105f4ffe-978c-4799-9def-a35344b12500/islphoto/genIsl.0_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/105f4ffe-978c-4799-9def-a35344b12500/islphoto/genIsl.1_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/105f4ffe-978c-4799-9def-a35344b12500/islphoto/genIsl.2_7.jpg"
+    ]
+}

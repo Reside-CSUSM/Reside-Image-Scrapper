@@ -1,0 +1,63 @@
+{
+    "Address": "3326 Rancho Famosa",
+    "Price": "$5,495/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92009",
+    "Street": "",
+    "Stats": [
+        "$5,495/mo",
+        "2 beds",
+        "2.5 baths",
+        "2,300 sq ft",
+        "3326 Rancho Famosa, Carlsbad, CA 92009",
+        "Parking \u2022 Dishwasher \u2022 Car-dependent",
+        "Request a tour",
+        "(619) 578-4013"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_82",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b28bff54-a546-4022-bd9a-d9393dad1c93/islphoto/genIsl.16_1.jpg"
+    ]
+}

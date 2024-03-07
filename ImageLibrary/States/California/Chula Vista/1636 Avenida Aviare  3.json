@@ -1,0 +1,45 @@
+{
+    "Address": "1636 Avenida Aviare #3",
+    "Price": "$749,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$749,000",
+        "5 beds",
+        "3.5 baths",
+        "1,882 sq ft",
+        "1636 Avenida Aviare #3, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_48",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/601/genIslnoResize.240004601_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/601/genIslnoResize.240004601_1_1.jpg"
+    ]
+}

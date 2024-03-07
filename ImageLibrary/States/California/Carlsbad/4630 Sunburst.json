@@ -1,0 +1,45 @@
+{
+    "Address": "4630 Sunburst",
+    "Price": "$1,950,000",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$1,950,000",
+        "4 beds",
+        "2.5 baths",
+        "2,258 sq ft",
+        "9,846 sq ft (lot)",
+        "4630 Sunburst, Carlsbad, CA 92008"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_6",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/909/genIslnoResize.NDP2401909_0.jpg"
+    ]
+}

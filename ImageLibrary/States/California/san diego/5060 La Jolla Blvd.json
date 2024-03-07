@@ -1,0 +1,65 @@
+{
+    "Address": " | 5060 La Jolla Blvd",
+    "Price": "$4,550/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92109",
+    "Street": "",
+    "Stats": [
+        "$4,550/mo",
+        "2 beds",
+        "2 baths",
+        "\u2014 sq ft",
+        "Casas By The Sea",
+        " | 5060 La Jolla Blvd, San Diego, CA 92109",
+        "1 unit available \u2022 Laundry facility \u2022 Parking",
+        "Request a tour",
+        "(619) 984-1063"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_61",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3488831-30d3-47c1-a70f-ff144efda80b/islphoto/genIsl.17_2.jpg"
+    ]
+}

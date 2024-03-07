@@ -1,0 +1,49 @@
+{
+    "Address": "16951 Meadowlark Ridge Rd #1",
+    "Price": "$3,290/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92127",
+    "Street": "",
+    "Stats": [
+        "$3,290/mo",
+        "2 beds",
+        "2 baths",
+        "977 sq ft",
+        "16951 Meadowlark Ridge Rd #1, San Diego, CA 92127",
+        "Available 04/01 \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour",
+        "(855) 977-6180"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_148",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/170f8de2-5135-475d-a530-3e9f2160e5ff/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/170f8de2-5135-475d-a530-3e9f2160e5ff/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/170f8de2-5135-475d-a530-3e9f2160e5ff/islphoto/genIsl.2_1.jpg"
+    ]
+}

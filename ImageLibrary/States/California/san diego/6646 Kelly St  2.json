@@ -1,0 +1,57 @@
+{
+    "Address": "6646 Kelly St #2",
+    "Price": "$2,550/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92111",
+    "Street": "",
+    "Stats": [
+        "$2,550/mo",
+        "2 beds",
+        "2 baths",
+        "1,000 sq ft",
+        "6646 Kelly St #2, San Diego, CA 92111",
+        "Laundry in unit \u2022 Dishwasher \u2022 Somewhat walkable",
+        "Request a tour",
+        "(715) 225-9276"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_191",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/cd68294f-4f3b-404c-88f9-7820bc3247fb/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd68294f-4f3b-404c-88f9-7820bc3247fb/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd68294f-4f3b-404c-88f9-7820bc3247fb/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd68294f-4f3b-404c-88f9-7820bc3247fb/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd68294f-4f3b-404c-88f9-7820bc3247fb/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd68294f-4f3b-404c-88f9-7820bc3247fb/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd68294f-4f3b-404c-88f9-7820bc3247fb/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd68294f-4f3b-404c-88f9-7820bc3247fb/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd68294f-4f3b-404c-88f9-7820bc3247fb/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd68294f-4f3b-404c-88f9-7820bc3247fb/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd68294f-4f3b-404c-88f9-7820bc3247fb/islphoto/genIsl.10_1.jpg"
+    ]
+}

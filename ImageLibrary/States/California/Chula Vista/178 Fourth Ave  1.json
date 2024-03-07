@@ -1,0 +1,56 @@
+{
+    "Address": "178 Fourth Ave #1",
+    "Price": "$489,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$489,000",
+        "2 beds",
+        "2 baths",
+        "936 sq ft",
+        "178 Fourth Ave #1, Chula Vista, CA 91910"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_27",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/788/genIslnoResize.240004788_12_1.jpg"
+    ]
+}

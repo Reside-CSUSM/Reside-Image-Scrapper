@@ -1,0 +1,58 @@
+{
+    "Address": "121 Orange Ave #50",
+    "Price": "$265,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$265,000",
+        "3 beds",
+        "2 baths",
+        "1,162 sq ft",
+        "1,364 sq ft (lot)",
+        "121 Orange Ave #50, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_129",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/595/genIslnoResize.PTP2400595_13_0.jpg"
+    ]
+}

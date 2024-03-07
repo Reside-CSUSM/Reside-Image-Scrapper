@@ -1,0 +1,79 @@
+{
+    "Address": " | 939 16th St",
+    "Price": "$2,489+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92101",
+    "Street": "",
+    "Stats": [
+        "$2,489+/mo",
+        "0-2 beds",
+        "1-2.5 bath",
+        "550-1,784 sq ft",
+        "The Artisan",
+        " | 939 16th St, San Diego, CA 92101",
+        "33 units available \u2022 Pets welcome \u2022 Parking",
+        "Request a tour",
+        "(858) 321-6286"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_27",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/774416f9-d5b1-484c-96bd-92a1bdc0b68d/islphoto/genIsl.31_1.jpg"
+    ]
+}

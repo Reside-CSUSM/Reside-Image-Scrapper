@@ -1,0 +1,58 @@
+{
+    "Address": " | 4392 W Point Loma Blvd",
+    "Price": "$2,189+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92107",
+    "Street": "",
+    "Stats": [
+        "$2,189+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "595-828 sq ft",
+        "Mariner's Cove Apartments",
+        " | 4392 W Point Loma Blvd, San Diego, CA 92107",
+        "26 units available \u2022 Pets welcome \u2022 Parking",
+        "Request a tour",
+        "(858) 800-2328"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_60",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e96f7532-8676-4b41-b75e-73515b08a874/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e96f7532-8676-4b41-b75e-73515b08a874/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e96f7532-8676-4b41-b75e-73515b08a874/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e96f7532-8676-4b41-b75e-73515b08a874/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e96f7532-8676-4b41-b75e-73515b08a874/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e96f7532-8676-4b41-b75e-73515b08a874/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e96f7532-8676-4b41-b75e-73515b08a874/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e96f7532-8676-4b41-b75e-73515b08a874/islphoto/genIsl.7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e96f7532-8676-4b41-b75e-73515b08a874/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e96f7532-8676-4b41-b75e-73515b08a874/islphoto/genIsl.9_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e96f7532-8676-4b41-b75e-73515b08a874/islphoto/genIsl.10_5.jpg"
+    ]
+}

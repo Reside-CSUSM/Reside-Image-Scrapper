@@ -1,0 +1,70 @@
+{
+    "Address": " | 3187 Cowley Way",
+    "Price": "$2,416+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92117",
+    "Street": "",
+    "Stats": [
+        "$2,416+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "650-950 sq ft",
+        "Canyon Ridge",
+        " | 3187 Cowley Way, San Diego, CA 92117",
+        "5 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Schedule a tour",
+        "(619) 908-1598"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_70",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5764a12e-be77-46aa-8d30-feac592f4b13/islphoto/genIsl.22_2.jpg"
+    ]
+}

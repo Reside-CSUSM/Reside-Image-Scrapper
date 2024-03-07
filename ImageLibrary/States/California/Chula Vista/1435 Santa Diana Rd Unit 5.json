@@ -1,0 +1,60 @@
+{
+    "Address": "1435 Santa Diana Rd Unit 5",
+    "Price": "$950,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$950,000",
+        "4 beds",
+        "3.5 baths",
+        "2,366 sq ft",
+        "1435 Santa Diana Rd Unit 5, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_127",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/304/genIslnoResize.240002304_16_0.jpg"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Address": " | 2145 Honey Dr",
+    "Price": "$1,925/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92139",
+    "Street": "",
+    "Stats": [
+        "$1,925/mo",
+        "1 bed",
+        "1 bath",
+        "700 sq ft",
+        "Bonita Heights",
+        " | 2145 Honey Dr, San Diego, CA 92139",
+        "2 units available \u2022 Laundry facility \u2022 A/C",
+        "Request a tour",
+        "(619) 837-8779"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_139",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0de57bc-b304-4338-b30b-c92713acd85f/islphoto/genIsl.13_1.jpg"
+    ]
+}

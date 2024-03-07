@@ -1,0 +1,85 @@
+{
+    "Address": "1141 Quinto Creek Pl",
+    "Price": "$975,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$975,000",
+        "4 beds",
+        "3 baths",
+        "2,215 sq ft",
+        "5,034 sq ft (lot)",
+        "1141 Quinto Creek Pl, Chula Vista, CA 91913",
+        "Coldwell Banker West"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_33",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_35_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_36_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_37_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_38_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/219/genIslnoResize.PTP2401219_39_0.jpg"
+    ]
+}

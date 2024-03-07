@@ -1,0 +1,62 @@
+{
+    "Address": "Haddington at C\u00f4ta Vera Plan 3 Plan",
+    "Price": "$817,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$817,900",
+        "3 beds",
+        "2 baths",
+        "1,789 sq ft",
+        "Haddington at C\u00f4ta Vera Plan 3 Plan, Chula Vista, CA 91913",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_147",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/31B/genIslnoResize.341EC797931B_17_0.jpg"
+    ]
+}

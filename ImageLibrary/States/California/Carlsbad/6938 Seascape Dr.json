@@ -1,0 +1,57 @@
+{
+    "Address": " | 6938 Seascape Dr",
+    "Price": "$2,775+/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92011",
+    "Street": "",
+    "Stats": [
+        "$2,775+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "670-950 sq ft",
+        "Seascape Apartment Homes",
+        " | 6938 Seascape Dr, Carlsbad, CA 92011",
+        "12 units available \u2022 Pets welcome \u2022 Parking",
+        "Schedule a tour",
+        "(760) 507-4487"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_4",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c654d887-b495-4026-b16d-75156a23e328/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c654d887-b495-4026-b16d-75156a23e328/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c654d887-b495-4026-b16d-75156a23e328/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c654d887-b495-4026-b16d-75156a23e328/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c654d887-b495-4026-b16d-75156a23e328/islphoto/genIsl.4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c654d887-b495-4026-b16d-75156a23e328/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c654d887-b495-4026-b16d-75156a23e328/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c654d887-b495-4026-b16d-75156a23e328/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c654d887-b495-4026-b16d-75156a23e328/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c654d887-b495-4026-b16d-75156a23e328/islphoto/genIsl.9_4.jpg"
+    ]
+}

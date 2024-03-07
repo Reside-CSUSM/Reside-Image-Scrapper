@@ -1,0 +1,61 @@
+{
+    "Address": "2650 B St",
+    "Price": "$2,850+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92102",
+    "Street": "",
+    "Stats": [
+        "$2,850+/mo",
+        "1-2 bed",
+        "1.5-2 baths",
+        "621-732 sq ft",
+        "2650 B St, San Diego, CA 92102",
+        "Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(619) 752-0113"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_179",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5464b66b-0ada-4545-872b-35e9dec72205/islphoto/genIsl.14_1.jpg"
+    ]
+}

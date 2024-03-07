@@ -1,0 +1,86 @@
+{
+    "Address": "6453 El Camino del Teatro",
+    "Price": "$25,000/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$25,000/mo",
+        "4 beds",
+        "4.5 baths",
+        "2,116 sq ft",
+        "6453 El Camino del Teatro, La Jolla, CA 92037",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_293",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.33_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.34_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.35_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.36_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.37_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.38_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.39_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5c00f520-74e4-4188-b82b-aa657a9a05a0/islphoto/genIsl.40_2.jpg"
+    ]
+}

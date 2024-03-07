@@ -1,0 +1,68 @@
+{
+    "Address": " | 715 N Broadway",
+    "Price": "$1,860+/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92025",
+    "Street": "",
+    "Stats": [
+        "$1,860+/mo",
+        "1-2 bed",
+        "1 bath",
+        "617-950 sq ft",
+        "Casa Escondida 55+",
+        " | 715 N Broadway, Escondido, CA 92025",
+        "4 units available \u2022 Pets welcome \u2022 Laundry facility",
+        "Request a tour",
+        "(442) 383-9737"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_0",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.0_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.9_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.10_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.11_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.12_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.13_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.14_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.15_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.16_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.17_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.18_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.19_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a69c5a44-d907-48b3-9d56-842d3e41e77a/islphoto/genIsl.20_5.jpg"
+    ]
+}

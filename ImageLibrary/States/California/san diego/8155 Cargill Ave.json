@@ -1,0 +1,57 @@
+{
+    "Address": " | 8155 Cargill Ave",
+    "Price": "$3,025/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92122",
+    "Street": "",
+    "Stats": [
+        "$3,025/mo",
+        "2 beds",
+        "1 bath",
+        "900 sq ft",
+        "Village View",
+        " | 8155 Cargill Ave, San Diego, CA 92122",
+        "2 units available \u2022 Pets welcome \u2022 Laundry facility",
+        "Request a tour",
+        "(858) 727-1243"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_97",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/7d7ad5a6-14fe-4c46-94be-cdc7257da9d5/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7d7ad5a6-14fe-4c46-94be-cdc7257da9d5/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7d7ad5a6-14fe-4c46-94be-cdc7257da9d5/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7d7ad5a6-14fe-4c46-94be-cdc7257da9d5/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7d7ad5a6-14fe-4c46-94be-cdc7257da9d5/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7d7ad5a6-14fe-4c46-94be-cdc7257da9d5/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7d7ad5a6-14fe-4c46-94be-cdc7257da9d5/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7d7ad5a6-14fe-4c46-94be-cdc7257da9d5/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7d7ad5a6-14fe-4c46-94be-cdc7257da9d5/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7d7ad5a6-14fe-4c46-94be-cdc7257da9d5/islphoto/genIsl.9_1.jpg"
+    ]
+}

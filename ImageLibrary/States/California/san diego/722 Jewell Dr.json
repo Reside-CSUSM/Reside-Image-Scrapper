@@ -1,0 +1,57 @@
+{
+    "Address": "722 Jewell Dr",
+    "Price": "$1,795/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92113",
+    "Street": "",
+    "Stats": [
+        "$1,795/mo",
+        "1 bed",
+        "1 bath",
+        "700 sq ft",
+        "722 Jewell Dr, San Diego, CA 92113",
+        " House",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_311",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c91af0df-1243-44e5-b56a-b2af259417d4/islphoto/genIsl.11_1.jpg"
+    ]
+}

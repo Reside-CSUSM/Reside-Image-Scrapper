@@ -1,0 +1,50 @@
+{
+    "Address": "550 Park Way #04",
+    "Price": "$525,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$525,000",
+        "2 beds",
+        "1.5 baths",
+        "1,144 sq ft",
+        "550 Park Way #04, Chula Vista, CA 91910"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_9",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240004927_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240004927_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240004927_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240004927_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240004927_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240004927_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/927/genIslnoResize.240004927_6_1.jpg"
+    ]
+}

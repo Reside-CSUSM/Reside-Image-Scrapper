@@ -1,0 +1,78 @@
+{
+    "Address": "2164 Dutchman Ct #81",
+    "Price": "$679,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$679,000",
+        "3 beds",
+        "2.5 baths",
+        "1,464 sq ft",
+        "2164 Dutchman Ct #81, Chula Vista, CA 91915",
+        "Realty ONE Group Pacific"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_2",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/287/genIslnoResize.PTP2401287_33_0.jpg"
+    ]
+}

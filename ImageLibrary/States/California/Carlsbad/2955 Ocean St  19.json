@@ -1,0 +1,75 @@
+{
+    "Address": "2955 Ocean St #19",
+    "Price": "$12,000/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$12,000/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,364 sq ft",
+        "2955 Ocean St #19, Carlsbad, CA 92008",
+        "Laundry in unit \u2022 Walker's paradise \u2022 Patio/Balcony",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_20",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/275c852b-9c35-4361-b3c7-881419681414/islphoto/genIsl.29_2.jpg"
+    ]
+}

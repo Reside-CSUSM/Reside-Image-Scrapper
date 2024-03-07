@@ -1,0 +1,74 @@
+{
+    "Address": "2711 White Pine Ct",
+    "Price": "$735,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$735,000",
+        "4 beds",
+        "4 baths",
+        "1,851 sq ft",
+        "2711 White Pine Ct, Chula Vista, CA 91915"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_153",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_10_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_11_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_12_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_13_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_14_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_15_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_16_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_17_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_18_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_19_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_20_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_21_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_22_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_23_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_24_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_25_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_26_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_27_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/024/genIslnoResize.PTP2306024_30_2.jpg"
+    ]
+}

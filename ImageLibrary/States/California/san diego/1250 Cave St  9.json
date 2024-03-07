@@ -1,0 +1,61 @@
+{
+    "Address": "1250 Cave St #9",
+    "Price": "$6,000/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$6,000/mo",
+        "2 beds",
+        "2 baths",
+        "1,164 sq ft",
+        "1250 Cave St #9, La Jolla, CA 92037",
+        "Dishwasher \u2022 Very walkable \u2022 Some transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_342",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.0_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d6749f47-9f23-4918-a916-8b4669d29e99/islphoto/genIsl.15_2.jpg"
+    ]
+}

@@ -55,19 +55,20 @@ class SpecificSearchPayload():
     def send_calls(self):
         response = None
         try:
-            #headers =  {'Content-Type': 'application/json'}
-            #response = requests.get(self.endpoint_url, json=self.payload, headers=headers)
-            #return response.json()
-            pass
+            headers =  {'Content-Type': 'application/json'}
+            response = requests.get(self.endpoint_url, json=self.payload, headers=headers)
+            return response.json()
+    
         except Exception as error:
             print("Error:", error, response.status_code)
+            return response.status_code
         
-        headers =  {'Content-Type': 'application/json'}
-        response = requests.get(self.endpoint_url, json=self.payload, headers=headers)
-        return response.text
+        #headers =  {'Content-Type': 'application/json'}
+        #response = requests.get(self.endpoint_url, json=self.payload, headers=headers)
+        #return response.text
         pass
 
-    
+
 class GeneralSearchPayload():
     #LAUNCHES THE BOT ON SERVER TO CACHE THE IMAGES
     def __init__(self, endpoint_url):
@@ -100,12 +101,24 @@ class GeneralSearchPayload():
         self.payload["client_request_data"]["filters"].append(filter)
         return self
     
+    def remove_filter(self, filter):
+        list = self.payload["client_request_data"]["filters"]
+        try:
+            for i in range(len(list), 0, -1):
+                if(list[i] == filter):
+                    self.payload["client_request_data"]["filters"].pop(i)
+        except Exception as error:
+            print("\x1b[31mError: remove_filter() ResideImageryAPI\x1b[0m")
+        return self
+    
     def delete_area(self, area):
         if(isinstance(area, str) == False):
             return None
         
         area_list = self.payload["client_request_data"]["listing_requested"]["area"]
-        area_list.remove(area)
+        
+        try:area_list.remove(area)
+        except Exception as error: print(error)
         return self
     
     def delete_all(self):
@@ -119,11 +132,15 @@ class GeneralSearchPayload():
     def get_area(self, area):
         pass
 
-    def print_area(self):
+    def print_area(self, type):
         area_list = self.payload["client_request_data"]["listing_requested"]["area"]
 
-        for area in area_list:
-            print("Area:", area)
+        if(type == 'all'):
+            for area in area_list:
+                print("All Area:", area)
+        else:
+            for area in area_list:
+                print("Area found:", area)
         return self
 
     def send_calls(self):
@@ -136,7 +153,7 @@ class GeneralSearchPayload():
             print("Error:", error)
 
 
-class ResideImageryApi():
+class ResideImageryAPI():
 
     def __init__(self):
         self.automation_endpoint_url = "http://localhost:5000/Automations"
@@ -156,16 +173,18 @@ class ResideImageryApi():
     def housing(self):
         return self.specific_search
 
-
+"""
 api = ResideImageryApi()
 api.area().add_filters("For rent")
 val = api.area().add_area("El Cajon, CA").send_calls()
 
-
 api.area().add_filters("For sale")
 val = api.area().add_area("El Cajon, CA").send_calls()
 
-#print(">>")
-#api.area().add_area("La Mesa, CA").delete_all().print_area()
-#val = api.housing().add_housing("5210 Rain Creek Pkwy, Austin, TX").add_housing(" 4210 Spring St, La Mesa, CA").add_housing("105 Via de la Valle, Del Mar, CA").send_calls()
-#print(val)
+print(">>")
+api.area().add_area("La Mesa, CA").delete_all().print_area()
+val = api.housing().add_housing("5210 Rain Creek Pkwy, Austin, TX").add_housing(" 4210 Spring St, La Mesa, CA").add_housing("105 Via de la Valle, Del Mar, CA").send_calls()
+
+val = api.housing().add_housing("411 W Chase Ave, El Cajon, CA").send_calls()
+print(val)
+"""

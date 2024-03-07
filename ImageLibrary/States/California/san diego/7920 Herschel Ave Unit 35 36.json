@@ -1,0 +1,66 @@
+{
+    "Address": "7920 Herschel Ave Unit 35/36",
+    "Price": "$7,600/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$7,600/mo",
+        "2 beds",
+        "2.5 baths",
+        "3,000 sq ft",
+        "7920 Herschel Ave Unit 35/36, La Jolla, CA 92037",
+        "Pets welcome \u2022 Parking \u2022 Dishwasher",
+        "Request a tour",
+        "(858) 583-3011"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_207",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbda597a-4cdb-4636-912b-e98e94bd9058/islphoto/genIsl.19_1.jpg"
+    ]
+}

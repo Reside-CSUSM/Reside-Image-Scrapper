@@ -1,0 +1,51 @@
+{
+    "Address": "565 Moss #2",
+    "Price": "$450,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$450,000",
+        "2 beds",
+        "1 bath",
+        "785 sq ft",
+        "565 Moss #2, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_130",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/569/genIslnoResize.PTP2400569_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/569/genIslnoResize.PTP2400569_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/569/genIslnoResize.PTP2400569_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/569/genIslnoResize.PTP2400569_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/569/genIslnoResize.PTP2400569_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/569/genIslnoResize.PTP2400569_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/569/genIslnoResize.PTP2400569_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/569/genIslnoResize.PTP2400569_7_0.jpg"
+    ]
+}

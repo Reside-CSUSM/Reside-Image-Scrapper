@@ -1,0 +1,54 @@
+{
+    "Address": "1143 Granger St",
+    "Price": "$3,700/mo",
+    "State": "CA",
+    "City": "Imperial Beach",
+    "ZipCode": "91932",
+    "Street": "",
+    "Stats": [
+        "$3,700/mo",
+        "4 beds",
+        "2 baths",
+        "1,700 sq ft",
+        "1143 Granger St, Imperial Beach, CA 91932",
+        " House",
+        "Request a tour",
+        "(858) 220-9017"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_223",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/93dfbdb1-66de-4124-9cda-30daad6f2732/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93dfbdb1-66de-4124-9cda-30daad6f2732/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93dfbdb1-66de-4124-9cda-30daad6f2732/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93dfbdb1-66de-4124-9cda-30daad6f2732/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93dfbdb1-66de-4124-9cda-30daad6f2732/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93dfbdb1-66de-4124-9cda-30daad6f2732/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93dfbdb1-66de-4124-9cda-30daad6f2732/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/93dfbdb1-66de-4124-9cda-30daad6f2732/islphoto/genIsl.7_3.jpg"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Address": "16555 Caminito Vecinos #38",
+    "Price": "$1,500/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92128",
+    "Street": "",
+    "Stats": [
+        "$1,500/mo",
+        "0 beds",
+        "1 bath",
+        "\u2014 sq ft",
+        "16555 Caminito Vecinos #38, San Diego, CA 92128",
+        "Laundry in unit \u2022 Car-dependent \u2022 Minimal transit",
+        "Request a tour",
+        "(619) 754-4375"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_246",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8ab402c6-a8c6-428c-8d4a-10171779b519/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ab402c6-a8c6-428c-8d4a-10171779b519/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ab402c6-a8c6-428c-8d4a-10171779b519/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ab402c6-a8c6-428c-8d4a-10171779b519/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ab402c6-a8c6-428c-8d4a-10171779b519/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ab402c6-a8c6-428c-8d4a-10171779b519/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8ab402c6-a8c6-428c-8d4a-10171779b519/islphoto/genIsl.6_1.jpg"
+    ]
+}

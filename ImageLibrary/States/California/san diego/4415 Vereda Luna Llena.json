@@ -1,0 +1,60 @@
+{
+    "Address": "4415 Vereda Luna Llena",
+    "Price": "$5,500/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92130",
+    "Street": "",
+    "Stats": [
+        "$5,500/mo",
+        "3 beds",
+        "3 baths",
+        "2,222 sq ft",
+        "4415 Vereda Luna Llena, San Diego, CA 92130",
+        "Pets welcome \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_244",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6ecfcf2a-36a1-4468-8764-e35f938ca983/islphoto/genIsl.14_1.jpg"
+    ]
+}

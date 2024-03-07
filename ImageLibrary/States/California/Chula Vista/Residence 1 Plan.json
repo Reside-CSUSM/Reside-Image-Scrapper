@@ -1,0 +1,48 @@
+{
+    "Address": "Residence 1 Plan",
+    "Price": "$807,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$807,900",
+        "5 beds",
+        "4 baths",
+        "2,465 sq ft",
+        "Residence 1 Plan, Chula Vista, CA 91913",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_151",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/D02/genIslnoResize.7FBA124EAD02_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/D02/genIslnoResize.7FBA124EAD02_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/D02/genIslnoResize.7FBA124EAD02_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/D02/genIslnoResize.7FBA124EAD02_3_0.jpg"
+    ]
+}

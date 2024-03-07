@@ -1,0 +1,68 @@
+{
+    "Address": "111 Tamarack Ave #206",
+    "Price": "$9,000/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$9,000/mo",
+        "2 beds",
+        "2 baths",
+        "1,375 sq ft",
+        "111 Tamarack Ave #206, Carlsbad, CA 92008",
+        "Laundry in unit \u2022 A/C \u2022 Dishwasher",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_42",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6360ef04-143e-4752-98e8-80fed2e21817/islphoto/genIsl.22_2.jpg"
+    ]
+}

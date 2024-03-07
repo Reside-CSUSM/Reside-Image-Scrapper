@@ -1,0 +1,59 @@
+{
+    "Address": "12283 Carmel Vista Rd #116",
+    "Price": "$2,795/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92130",
+    "Street": "",
+    "Stats": [
+        "$2,795/mo",
+        "2 beds",
+        "2 baths",
+        "1,100 sq ft",
+        "12283 Carmel Vista Rd #116, San Diego, CA 92130",
+        "Pets welcome \u2022 Laundry in unit \u2022 Somewhat walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_336",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d866b157-26b8-49d3-9bfe-27638c6b1b96/islphoto/genIsl.13_2.jpg"
+    ]
+}

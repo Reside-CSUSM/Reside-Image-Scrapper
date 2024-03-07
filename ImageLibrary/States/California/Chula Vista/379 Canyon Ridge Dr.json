@@ -1,0 +1,100 @@
+{
+    "Address": "379 Canyon Ridge Dr",
+    "Price": "$1,995,000",
+    "State": "CA",
+    "City": "Bonita",
+    "ZipCode": "91902",
+    "Street": "",
+    "Stats": [
+        "$1,995,000",
+        "5 beds",
+        "4.5 baths",
+        "4,322 sq ft",
+        "379 Canyon Ridge Dr, Bonita, CA 91902"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_97",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_35_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_36_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_37_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_38_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_39_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_40_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_41_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_42_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_43_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_44_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_45_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_46_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_47_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_48_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_49_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_50_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_51_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_52_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_53_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_54_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_55_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240003413_56_0.jpg"
+    ]
+}

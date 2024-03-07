@@ -1,0 +1,52 @@
+{
+    "Address": "1748 HARVARD St",
+    "Price": "$899,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$899,900",
+        "4 beds",
+        "1.5 baths",
+        "1,468 sq ft",
+        "7,700 sq ft (lot)",
+        "1748 HARVARD St, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_19",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/254/genIslnoResize.PTP2401254_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/254/genIslnoResize.PTP2401254_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/254/genIslnoResize.PTP2401254_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/254/genIslnoResize.PTP2401254_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/254/genIslnoResize.PTP2401254_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/254/genIslnoResize.PTP2401254_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/254/genIslnoResize.PTP2401254_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/254/genIslnoResize.PTP2401254_7_0.jpg"
+    ]
+}

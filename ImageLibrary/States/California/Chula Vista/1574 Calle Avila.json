@@ -1,0 +1,65 @@
+{
+    "Address": "1574 Calle Avila",
+    "Price": "$815,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$815,000",
+        "4 beds",
+        "2.5 baths",
+        "1,694 sq ft",
+        "4.74 acres (lot)",
+        "1574 Calle Avila, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_134",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_13_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_14_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_15_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_16_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_17_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_18_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_19_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/715/genIslnoResize.24-349715_20_4.jpg"
+    ]
+}

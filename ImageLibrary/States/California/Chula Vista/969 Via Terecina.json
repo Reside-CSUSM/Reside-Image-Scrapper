@@ -1,0 +1,53 @@
+{
+    "Address": "969 Via Terecina",
+    "Price": "$769,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$769,000",
+        "4 beds",
+        "2.5 baths",
+        "1,827 sq ft",
+        "969 Via Terecina, Chula Vista, CA 91910"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_53",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/149/genIslnoResize.PTP2401149_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/149/genIslnoResize.PTP2401149_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/149/genIslnoResize.PTP2401149_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/149/genIslnoResize.PTP2401149_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/149/genIslnoResize.PTP2401149_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/149/genIslnoResize.PTP2401149_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/149/genIslnoResize.PTP2401149_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/149/genIslnoResize.PTP2401149_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/149/genIslnoResize.PTP2401149_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/149/genIslnoResize.PTP2401149_9_0.jpg"
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "Address": "1849 Santa Christina",
+    "Price": "$1,499,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$1,499,000",
+        "6 beds",
+        "3.5 baths",
+        "3,605 sq ft",
+        "1849 Santa Christina, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_32",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_35_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_36_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_37_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_38_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_39_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_40_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_41_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_42_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_43_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_44_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_45_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_46_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_47_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_48_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_49_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_50_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_51_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_52_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_53_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_54_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_55_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_56_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_57_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_58_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_59_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/737/genIslnoResize.240004737_60_0.jpg"
+    ]
+}

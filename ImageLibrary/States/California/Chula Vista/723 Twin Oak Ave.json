@@ -1,0 +1,118 @@
+{
+    "Address": "723 Twin Oak Ave",
+    "Price": "$1,750,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$1,750,000",
+        "7 beds",
+        "4 baths",
+        "2,794 sq ft",
+        "9,986 sq ft (lot)",
+        "723 Twin Oak Ave, Chula Vista, CA 91910"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_145",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_35_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_36_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_37_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_38_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_39_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_40_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_41_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_42_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_43_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_44_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_45_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_46_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_47_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_48_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_49_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_50_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_51_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_52_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_53_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_54_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_55_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_56_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_57_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_58_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_59_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_60_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_61_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_62_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_63_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_64_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_65_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_66_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_67_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_68_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_69_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_70_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_71_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_72_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/052/genIslnoResize.PTP2400052_73_0.jpg"
+    ]
+}

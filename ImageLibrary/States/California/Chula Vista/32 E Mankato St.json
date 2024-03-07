@@ -1,0 +1,74 @@
+{
+    "Address": "32 E Mankato St",
+    "Price": "$889,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$889,900",
+        "4 beds",
+        "2 baths",
+        "1,490 sq ft",
+        "7,700 sq ft (lot)",
+        "32 E Mankato St, Chula Vista, CA 91910"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_143",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/244/genIslnoResize.PTP2400244_29_0.jpg"
+    ]
+}

@@ -1,12 +1,12 @@
 {
     "Address": "445 Arenas St",
-    "Price": "$8,000/mo",
+    "Price": "$7,500/mo",
     "State": "CA",
     "City": "La Jolla",
     "ZipCode": "92037",
     "Street": "",
     "Stats": [
-        "$8,000/mo",
+        "$7,500/mo",
         "3 beds",
         "3 baths",
         "1,876 sq ft",
@@ -16,7 +16,7 @@
         "(858) 229-8120"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_288",
+    "WebElementID": "MapHomeCard_268",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

@@ -1,0 +1,58 @@
+{
+    "Address": "5964 Baja Dr",
+    "Price": "$9,500/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92115",
+    "Street": "",
+    "Stats": [
+        "$9,500/mo",
+        "7 beds",
+        "3 baths",
+        "1,750 sq ft",
+        "5964 Baja Dr, San Diego, CA 92115",
+        "Laundry in unit \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(317) 371-1321"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_291",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/769006d5-63ad-4194-991f-f8fe5af6da2a/islphoto/genIsl.11_1.jpg"
+    ]
+}

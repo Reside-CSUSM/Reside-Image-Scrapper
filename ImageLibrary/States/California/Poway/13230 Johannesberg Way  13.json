@@ -1,0 +1,48 @@
+{
+    "Address": "13230 Johannesberg Way #13",
+    "Price": "$3,500/mo",
+    "State": "CA",
+    "City": "Poway",
+    "ZipCode": "92064",
+    "Street": "",
+    "Stats": [
+        "$3,500/mo",
+        "2 beds",
+        "3 baths",
+        "1,200 sq ft",
+        "13230 Johannesberg Way #13, Poway, CA 92064",
+        "Laundry in unit \u2022 Dishwasher \u2022 Very walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/786eda3e-3a64-4ada-9a2f-435b56bdf4eb/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/786eda3e-3a64-4ada-9a2f-435b56bdf4eb/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/786eda3e-3a64-4ada-9a2f-435b56bdf4eb/islphoto/genIsl.2_1.jpg"
+    ]
+}

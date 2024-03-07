@@ -1,0 +1,60 @@
+{
+    "Address": " | 8506 Villa La Jolla Dr",
+    "Price": "$2,755+/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$2,755+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "620-1,020 sq ft",
+        "Solazzo Apartment Homes",
+        " | 8506 Villa La Jolla Dr, La Jolla, CA 92037",
+        "21 units available \u2022 Pets welcome \u2022 Parking",
+        "Schedule a tour",
+        "(858) 800-4272"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_46",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f49cde30-1c2e-4389-bd7e-8f0ee2869c18/islphoto/genIsl.12_1.jpg"
+    ]
+}

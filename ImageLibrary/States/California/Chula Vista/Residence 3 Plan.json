@@ -1,0 +1,48 @@
+{
+    "Address": "Residence 3 Plan",
+    "Price": "$843,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$843,900",
+        "4 beds",
+        "4 baths",
+        "2,652 sq ft",
+        "Residence 3 Plan, Chula Vista, CA 91913",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_150",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/467/genIslnoResize.91E6B20DA467_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/467/genIslnoResize.91E6B20DA467_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/467/genIslnoResize.91E6B20DA467_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/467/genIslnoResize.91E6B20DA467_3_0.jpg"
+    ]
+}

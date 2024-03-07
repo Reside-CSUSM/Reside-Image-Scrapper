@@ -1,0 +1,60 @@
+{
+    "Address": "744 Eastshore Ter #102",
+    "Price": "$547,500",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$547,500",
+        "1 bed",
+        "1.5 baths",
+        "669 sq ft",
+        "744 Eastshore Ter #102, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_92",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_14_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_15_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/968/genIslnoResize.PTP2400968_16_1.jpg"
+    ]
+}

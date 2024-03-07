@@ -1,0 +1,68 @@
+{
+    "Address": "789 Vada St #5",
+    "Price": "$668,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$668,900",
+        "4 beds",
+        "3.5 baths",
+        "1,810 sq ft",
+        "789 Vada St #5, Chula Vista, CA 91911",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_4",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B5/genIslnoResize.FB53FC6D39B5_23_1.jpg"
+    ]
+}

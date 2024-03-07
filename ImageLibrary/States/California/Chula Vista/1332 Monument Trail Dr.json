@@ -1,0 +1,65 @@
+{
+    "Address": "1332 Monument Trail Dr",
+    "Price": "$660,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$660,000",
+        "2 beds",
+        "2 baths",
+        "1,039 sq ft",
+        "1332 Monument Trail Dr, Chula Vista, CA 91915"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_24",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/802/genIslnoResize.240004802_21_2.jpg"
+    ]
+}

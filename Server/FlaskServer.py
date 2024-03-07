@@ -14,7 +14,7 @@ class FlaskServer():
         return "Root"
 
     @app.route("/automations/query=<value>", methods=["POST","GET"])
-    def AutomationEndpoint(value):
+    def SecondaryAutomationEndpoint(value):
         #Implement it using request body
         FlaskServer.automation_service.handle("/query="+value, 'POST')
         response = FlaskServer.automation_service.get_response()
@@ -24,7 +24,7 @@ class FlaskServer():
         return response
     
     @app.route("/Automations", methods=["POST", "GET"])
-    def AutomationEndpoint2():
+    def PrimaryAutomationEndpoint():
         if(request.is_json == False):
             return "Data wasn't json"
         response = FlaskServer.automation_service.handle2(request.get_json(), 'POST')
@@ -49,16 +49,10 @@ class FlaskServer():
             for element in array:
                 print("element array")
                 responses.append(FlaskServer.listing_images_service.fetch(element))
-            
             return str(responses)
         
         else:
                 return "Data is not json"    
-
-
-
-        
-    
     
     @app.route("/endpoint", methods=["POST", "GET", "PUT"])
     def endpoint():
@@ -97,7 +91,7 @@ server.run()
 
 
 #TASKS NOW:
-#1) Finish the /library
+#1) Finish the /library    
 #2) Finish and test error codes
 #3) Fix the parsing problem
 
@@ -105,3 +99,8 @@ server.run()
 #Need to fix, source and destinatino file names area same
 #Need to fix the parsing problem in ListinService,oy  half way there tbh
 #Need to make we collect all the cities required
+
+
+#Need to test /Library route
+#Need to test /Automations
+#Implement error codes finally

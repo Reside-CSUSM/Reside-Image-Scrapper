@@ -1,0 +1,60 @@
+{
+    "Address": "362 San Antonio Ave #4",
+    "Price": "$3,800/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92106",
+    "Street": "",
+    "Stats": [
+        "$3,800/mo",
+        "2 beds",
+        "2 baths",
+        "1,088 sq ft",
+        "362 San Antonio Ave #4, San Diego, CA 92106",
+        "Available 04/15 \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(844) 346-7098"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_63",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da22b8a3-415d-4abe-8db6-44647222d71c/islphoto/genIsl.13_1.jpg"
+    ]
+}

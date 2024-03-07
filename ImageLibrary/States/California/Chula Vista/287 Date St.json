@@ -1,0 +1,46 @@
+{
+    "Address": "287 Date St",
+    "Price": "$799,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$799,000",
+        "3 beds",
+        "2 baths",
+        "1,075 sq ft",
+        "0.27 acre (lot)",
+        "287 Date St, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_173",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/167/genIslnoResize.PTP2303167_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/167/genIslnoResize.PTP2303167_1_1.jpg"
+    ]
+}

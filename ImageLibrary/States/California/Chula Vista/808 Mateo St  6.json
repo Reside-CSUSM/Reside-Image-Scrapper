@@ -1,0 +1,67 @@
+{
+    "Address": "808 Mateo St #6",
+    "Price": "$661,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$661,900",
+        "4 beds",
+        "2.5 baths",
+        "1,623 sq ft",
+        "808 Mateo St #6, Chula Vista, CA 91911",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_5",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/022/genIslnoResize.1058E1FB5022_22_0.jpg"
+    ]
+}

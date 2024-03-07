@@ -1,0 +1,51 @@
+{
+    "Address": "2498 Briarwood Ct",
+    "Price": "$1,000/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92025",
+    "Street": "",
+    "Stats": [
+        "$1,000/mo",
+        "0 beds",
+        "1 bath",
+        "400 sq ft",
+        "2498 Briarwood Ct, Escondido, CA 92025",
+        "Car-dependent",
+        "Request a tour",
+        "(888) 489-0982"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_3",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e399a821-49f6-48a4-8e90-3ee27af296f2/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e399a821-49f6-48a4-8e90-3ee27af296f2/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e399a821-49f6-48a4-8e90-3ee27af296f2/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e399a821-49f6-48a4-8e90-3ee27af296f2/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e399a821-49f6-48a4-8e90-3ee27af296f2/islphoto/genIsl.4_1.jpg"
+    ]
+}

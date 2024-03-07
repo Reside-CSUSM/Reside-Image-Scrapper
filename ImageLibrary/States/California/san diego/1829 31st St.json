@@ -1,0 +1,47 @@
+{
+    "Address": "1829 31st St",
+    "Price": "$2,900/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92102",
+    "Street": "",
+    "Stats": [
+        "$2,900/mo",
+        "2 beds",
+        "1 bath",
+        "750 sq ft",
+        "1829 31st St, San Diego, CA 92102",
+        "Pets welcome \u2022 Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(619) 315-6963"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_135",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/182eb90a-20e0-416a-80d3-8f024bc92eeb/islphoto/genIsl.0_1.jpg"
+    ]
+}

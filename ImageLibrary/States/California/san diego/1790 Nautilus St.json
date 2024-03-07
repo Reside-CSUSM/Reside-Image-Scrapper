@@ -1,0 +1,57 @@
+{
+    "Address": "1790 Nautilus St",
+    "Price": "$9,000/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$9,000/mo",
+        "5 beds",
+        "5 baths",
+        "3,190 sq ft",
+        "1790 Nautilus St, La Jolla, CA 92037",
+        "Parking \u2022 A/C \u2022 Car-dependent",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_294",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/29dcbe37-cc7b-4e88-aea1-ef81b905ddcc/islphoto/genIsl.11_1.jpg"
+    ]
+}

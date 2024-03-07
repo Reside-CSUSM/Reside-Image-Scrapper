@@ -1,0 +1,54 @@
+{
+    "Address": "945 Pine Ave",
+    "Price": "$2,495/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$2,495/mo",
+        "1 bed",
+        "1 bath",
+        "575 sq ft",
+        "945 Pine Ave, Carlsbad, CA 92008",
+        "Pets welcome \u2022 Laundry in unit \u2022 Dishwasher",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_127",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d32834d3-ddaa-485f-a9b0-f3be9b97f111/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d32834d3-ddaa-485f-a9b0-f3be9b97f111/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d32834d3-ddaa-485f-a9b0-f3be9b97f111/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d32834d3-ddaa-485f-a9b0-f3be9b97f111/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d32834d3-ddaa-485f-a9b0-f3be9b97f111/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d32834d3-ddaa-485f-a9b0-f3be9b97f111/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d32834d3-ddaa-485f-a9b0-f3be9b97f111/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d32834d3-ddaa-485f-a9b0-f3be9b97f111/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d32834d3-ddaa-485f-a9b0-f3be9b97f111/islphoto/genIsl.8_1.jpg"
+    ]
+}

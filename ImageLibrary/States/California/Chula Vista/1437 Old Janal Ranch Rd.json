@@ -1,0 +1,55 @@
+{
+    "Address": "1437 Old Janal Ranch Rd",
+    "Price": "$1,499,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$1,499,000",
+        "5 beds",
+        "4 baths",
+        "3,534 sq ft",
+        "0.23 acre (lot)",
+        "1437 Old Janal Ranch Rd, Chula Vista, CA 91915"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_8",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/279/genIslnoResize.PTP2401279_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/279/genIslnoResize.PTP2401279_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/279/genIslnoResize.PTP2401279_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/279/genIslnoResize.PTP2401279_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/279/genIslnoResize.PTP2401279_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/279/genIslnoResize.PTP2401279_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/279/genIslnoResize.PTP2401279_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/279/genIslnoResize.PTP2401279_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/279/genIslnoResize.PTP2401279_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/279/genIslnoResize.PTP2401279_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/279/genIslnoResize.PTP2401279_10_2.jpg"
+    ]
+}

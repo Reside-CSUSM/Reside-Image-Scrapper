@@ -1,0 +1,50 @@
+{
+    "Address": "260 Rancho Dr Unit D",
+    "Price": "$609,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$609,000",
+        "4 beds",
+        "2 baths",
+        "1,613 sq ft",
+        "260 Rancho Dr Unit D, Chula Vista, CA 91911",
+        "Brennan & Associates Inc"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_139",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/324/genIslnoResize.PTP2400324_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/324/genIslnoResize.PTP2400324_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/324/genIslnoResize.PTP2400324_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/324/genIslnoResize.PTP2400324_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/324/genIslnoResize.PTP2400324_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/324/genIslnoResize.PTP2400324_5_0.jpg"
+    ]
+}

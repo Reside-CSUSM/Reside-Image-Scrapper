@@ -1,0 +1,70 @@
+{
+    "Address": "9570 Easter Way",
+    "Price": "$4,000/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92121",
+    "Street": "",
+    "Stats": [
+        "$4,000/mo",
+        "3 beds",
+        "1.5 baths",
+        "1,113 sq ft",
+        "9570 Easter Way, San Diego, CA 92121",
+        "Laundry in unit \u2022 Dishwasher \u2022 Car-dependent",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_220",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a048407-9536-4c7a-99bf-3ce8a2ddcc9e/islphoto/genIsl.24_2.jpg"
+    ]
+}

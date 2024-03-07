@@ -1,0 +1,59 @@
+{
+    "Address": "3289 Mckinley St Unit 3289",
+    "Price": "$2,395/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92104",
+    "Street": "",
+    "Stats": [
+        "$2,395/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "3289 Mckinley St Unit 3289, San Diego, CA 92104",
+        "Laundry in unit \u2022 Patio/Balcony",
+        "Request a tour",
+        "(619) 784-1004"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_123",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f70ddbf0-6e24-4c63-a592-d9fc11604397/islphoto/genIsl.12_1.jpg"
+    ]
+}

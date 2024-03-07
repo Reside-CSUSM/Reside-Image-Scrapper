@@ -1,0 +1,72 @@
+{
+    "Address": "1619 Marl Ave",
+    "Price": "$800,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$800,000",
+        "4 beds",
+        "2 baths",
+        "1,611 sq ft",
+        "0.43 acre (lot)",
+        "1619 Marl Ave, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_14",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/264/genIslnoResize.PTP2401264_27_1.jpg"
+    ]
+}

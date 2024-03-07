@@ -1,0 +1,69 @@
+{
+    "Address": " | 3950 Leland St",
+    "Price": "$2,505+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92106",
+    "Street": "",
+    "Stats": [
+        "$2,505+/mo",
+        "1 bed",
+        "1 bath",
+        "670 sq ft",
+        "The Summit At Point Loma",
+        " | 3950 Leland St, San Diego, CA 92106",
+        "3 units available \u2022 Pets welcome \u2022 Laundry facility",
+        "Request a tour",
+        "(858) 769-0133"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_53",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.13_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.14_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.15_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.16_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.17_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.18_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.19_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.20_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3209bad0-1cb0-470f-8b39-40a0886dd99e/islphoto/genIsl.21_4.jpg"
+    ]
+}

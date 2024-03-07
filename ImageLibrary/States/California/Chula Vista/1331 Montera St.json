@@ -1,0 +1,71 @@
+{
+    "Address": "1331 Montera St",
+    "Price": "$860,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$860,000",
+        "3 beds",
+        "2.5 baths",
+        "1,549 sq ft",
+        "4,760 sq ft (lot)",
+        "1331 Montera St, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_96",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/940/genIslnoResize.PTP2400940_26_0.jpg"
+    ]
+}

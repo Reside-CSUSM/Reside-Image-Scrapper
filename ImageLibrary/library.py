@@ -117,7 +117,7 @@ def string_filter(name_org):
         for character in unwanted_characters:
             if(character in name):
                 print("Replaced Unwanted Charcter:", character)
-                name = name.replace(character, "")
+                name = name.replace(character, " ")
                     
 
         #Try to look for white spaces on the ends
@@ -128,15 +128,17 @@ def string_filter(name_org):
         global Ralphaindex, Lalphaindex
         if(lindex != -1):
             for i in range(0, len(name)):
-                if((name[i] > "A" and name[i] < "z") or (name[i] >= "1" and name[i] <= "9")):
+                if((name[i] >= "A" and name[i] <= "z") or (name[i] >= "1" and name[i] <= "9")):
                     Lalphaindex = i
-                    print("Alphabet found from Right at:", Lalphaindex)
+                    print("Alphabet found from Left at:", Lalphaindex)
                     break
+            
 
             for i in range(len(name)-1, 0, -1):
-                if((name[i] > "A" and name[i] < "z") or (name[i] >= "1" and name[i] <= "9")):
+                print("ralpa index itr:", i)
+                if((name[i] >= "A" and name[i] <= "z") or (name[i] >= "1" and name[i] <= "9")):
                     Ralphaindex = i
-                    print("Alphabet found from Left at:", Ralphaindex)
+                    print("Alphabet found from Right at:", Ralphaindex)
                     break
                 
             #Ralpa > rindex   (should be ideally)   if opposite then there's a white space between 0th index and nth text chharcter
@@ -152,7 +154,7 @@ def string_filter(name_org):
 
             if(Lspace == True):
                 print("(" + name + ") There's a white space infront, BAD FORMAT WARNING")
-                name = name[Lalphaindex-1:]
+                name = name[Lalphaindex:]
                 print("After popping the left space (" + name + ")")
                 print("Final content of Name (" + name + ")")
 

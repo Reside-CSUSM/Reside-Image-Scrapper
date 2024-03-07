@@ -1,0 +1,72 @@
+{
+    "Address": " | 10024 Paseo Montril",
+    "Price": "$2,460+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92129",
+    "Street": "",
+    "Stats": [
+        "$2,460+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "625-1,000 sq ft",
+        "eaves Rancho Penasquitos",
+        " | 10024 Paseo Montril, San Diego, CA 92129",
+        "12 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(858) 727-1069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_108",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.0_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.1_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.5_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.6_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.7_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.8_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.9_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.10_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.11_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.12_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.13_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.14_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.15_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.16_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.17_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.18_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.19_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.20_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.21_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.22_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e0ed3cbb-55d5-407e-8fe3-7aa52767834e/islphoto/genIsl.24_2.jpg"
+    ]
+}

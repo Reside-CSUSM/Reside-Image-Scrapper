@@ -123,10 +123,5 @@ class ListingService():
                     return self.response
 
 
-image = ListingService()
-
-#Need to finish up the gradient part 
-val = image.fetch("4515 3rd St, apt6, jhgjg&^,La Mesa, CA")
-print(val)
     
 

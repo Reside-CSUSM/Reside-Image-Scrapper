@@ -1,0 +1,68 @@
+{
+    "Address": "1064 Camino Cantera",
+    "Price": "$1,475,999",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91913",
+    "Street": "",
+    "Stats": [
+        "$1,475,999",
+        "6 beds",
+        "4.5 baths",
+        "3,704 sq ft",
+        "1064 Camino Cantera, Chula Vista, CA 91913"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_167",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/919/genIslnoResize.230017919_24_0.jpg"
+    ]
+}

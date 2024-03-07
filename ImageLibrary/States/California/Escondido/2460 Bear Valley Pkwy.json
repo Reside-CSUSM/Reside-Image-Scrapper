@@ -1,0 +1,61 @@
+{
+    "Address": " | 2460 Bear Valley Pkwy",
+    "Price": "$2,910/mo",
+    "State": "CA",
+    "City": "Escondido",
+    "ZipCode": "92027",
+    "Street": "",
+    "Stats": [
+        "$2,910/mo",
+        "2 beds",
+        "2 baths",
+        "999 sq ft",
+        "The Willows",
+        " | 2460 Bear Valley Pkwy, Escondido, CA 92027",
+        "1 unit available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(760) 968-0573"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_1",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/34be1dda-0880-4ad5-a44c-561ff21701cb/islphoto/genIsl.13_3.jpg"
+    ]
+}

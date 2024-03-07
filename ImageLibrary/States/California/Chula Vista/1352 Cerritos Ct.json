@@ -1,0 +1,50 @@
+{
+    "Address": "1352 Cerritos Ct",
+    "Price": "$823,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$823,900",
+        "3 beds",
+        "2 baths",
+        "1,272 sq ft",
+        "5,500 sq ft (lot)",
+        "1352 Cerritos Ct, Chula Vista, CA 91910"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_17",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/10/islphoto/901/genIslnoResize.41051901_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/10/islphoto/901/genIslnoResize.41051901_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/10/islphoto/901/genIslnoResize.41051901_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/10/islphoto/901/genIslnoResize.41051901_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/10/islphoto/901/genIslnoResize.41051901_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/10/islphoto/901/genIslnoResize.41051901_5_0.jpg"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Address": "Residence 4 Plan",
+    "Price": "$576,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$576,900",
+        "3 beds",
+        "2.5 baths",
+        "1,449 sq ft",
+        "Residence 4 Plan, Chula Vista, CA 91911",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_69",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/9B9/genIslnoResize.BC114D5449B9_26_0.jpg"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "Address": "501 Anita St #141",
+    "Price": "$340,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$340,000",
+        "3 beds",
+        "2 baths",
+        "1,493 sq ft",
+        "13.38 acres (lot)",
+        "501 Anita St #141, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_144",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/818/genIslnoResize.240000818_12_0.jpg"
+    ]
+}

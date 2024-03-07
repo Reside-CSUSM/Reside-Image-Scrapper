@@ -1,0 +1,57 @@
+{
+    "Address": " | 2946 La Costa Ave",
+    "Price": "$3,900/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92009",
+    "Street": "",
+    "Stats": [
+        "$3,900/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,550 sq ft",
+        "La Costa Bluffs",
+        " | 2946 La Costa Ave, Carlsbad, CA 92009",
+        "1 unit available \u2022 Pets welcome \u2022 Laundry hookups",
+        "Request a tour",
+        "(760) 968-0825"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_71",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a2aba271-84a3-4d0f-ac4d-e7005a49104c/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2aba271-84a3-4d0f-ac4d-e7005a49104c/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2aba271-84a3-4d0f-ac4d-e7005a49104c/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2aba271-84a3-4d0f-ac4d-e7005a49104c/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2aba271-84a3-4d0f-ac4d-e7005a49104c/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2aba271-84a3-4d0f-ac4d-e7005a49104c/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2aba271-84a3-4d0f-ac4d-e7005a49104c/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2aba271-84a3-4d0f-ac4d-e7005a49104c/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2aba271-84a3-4d0f-ac4d-e7005a49104c/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a2aba271-84a3-4d0f-ac4d-e7005a49104c/islphoto/genIsl.9_2.jpg"
+    ]
+}

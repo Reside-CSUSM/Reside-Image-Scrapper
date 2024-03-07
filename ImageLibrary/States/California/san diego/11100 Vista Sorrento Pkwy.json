@@ -1,0 +1,68 @@
+{
+    "Address": " | 11100 Vista Sorrento Pkwy",
+    "Price": "$3,015+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92130",
+    "Street": "",
+    "Stats": [
+        "$3,015+/mo",
+        "1-3 bed",
+        "1-2 bath",
+        "1,059-1,454 sq ft",
+        "Torrey Villas",
+        " | 11100 Vista Sorrento Pkwy, San Diego, CA 92130",
+        "23 units available \u2022 Pets welcome \u2022 A/C",
+        "Schedule a tour",
+        "(858) 633-6899"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_49",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f7892c91-ebd6-4613-ab4d-18409759eec6/islphoto/genIsl.20_2.jpg"
+    ]
+}

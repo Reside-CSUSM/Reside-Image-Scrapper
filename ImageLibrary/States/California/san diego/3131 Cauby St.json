@@ -1,0 +1,91 @@
+{
+    "Address": " | 3131 Cauby St",
+    "Price": "$2,050/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92110",
+    "Street": "",
+    "Stats": [
+        "$2,050/mo",
+        "1 bed",
+        "1 bath",
+        "660 sq ft",
+        "Loma Portal",
+        " | 3131 Cauby St, San Diego, CA 92110",
+        "1 unit available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(858) 321-6225"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_88",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.33_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.34_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.35_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.36_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.37_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.38_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.39_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.40_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.41_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.42_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4f3d1ef9-d35f-4f5b-9597-6d7e113543a1/islphoto/genIsl.43_1.jpg"
+    ]
+}

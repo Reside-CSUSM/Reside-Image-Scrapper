@@ -1,0 +1,79 @@
+{
+    "Address": "265 Rancho Ct Unit C",
+    "Price": "$579,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$579,900",
+        "3 beds",
+        "1.5 baths",
+        "1,274 sq ft",
+        "265 Rancho Ct Unit C, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_10",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/273/genIslnoResize.PTP2401273_35_0.jpg"
+    ]
+}

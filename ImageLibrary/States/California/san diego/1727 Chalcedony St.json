@@ -1,0 +1,50 @@
+{
+    "Address": " | 1727 Chalcedony St",
+    "Price": "$3,895/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92109",
+    "Street": "",
+    "Stats": [
+        "$3,895/mo",
+        "2 beds",
+        "2 baths",
+        "959 sq ft",
+        "Drift Pacific Beach",
+        " | 1727 Chalcedony St, San Diego, CA 92109",
+        "3 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(619) 984-1005"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_0",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a0586f61-1e7b-450c-af76-791986a6a527/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0586f61-1e7b-450c-af76-791986a6a527/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a0586f61-1e7b-450c-af76-791986a6a527/islphoto/genIsl.2_2.jpg"
+    ]
+}

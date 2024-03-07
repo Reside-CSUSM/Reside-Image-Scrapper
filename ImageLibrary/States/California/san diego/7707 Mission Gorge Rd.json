@@ -1,0 +1,67 @@
+{
+    "Address": " | 7707 Mission Gorge Rd",
+    "Price": "$2,285/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92120",
+    "Street": "",
+    "Stats": [
+        "$2,285/mo",
+        "1 bed",
+        "1 bath",
+        "665 sq ft",
+        "Terra at Mission Trails",
+        " | 7707 Mission Gorge Rd, San Diego, CA 92120",
+        "9 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(858) 769-0627"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_89",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.0_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.1_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.2_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.3_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.4_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.5_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.6_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.7_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.8_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.9_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.10_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.11_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.12_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.13_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.14_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.15_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.16_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.17_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.18_27.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5b96b43a-5e7c-478f-be97-4472fd271bde/islphoto/genIsl.19_29.jpg"
+    ]
+}

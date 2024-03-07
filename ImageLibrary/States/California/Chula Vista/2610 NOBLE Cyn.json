@@ -1,0 +1,60 @@
+{
+    "Address": "2610 NOBLE Cyn",
+    "Price": "$995,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91915",
+    "Street": "",
+    "Stats": [
+        "$995,000",
+        "4 beds",
+        "2.5 baths",
+        "2,392 sq ft",
+        "2610 NOBLE Cyn, Chula Vista, CA 91915"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_23",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/837/genIslnoResize.240004837_16_1.jpg"
+    ]
+}

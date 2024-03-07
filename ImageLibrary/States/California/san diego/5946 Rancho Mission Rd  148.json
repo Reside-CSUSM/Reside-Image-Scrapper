@@ -1,0 +1,66 @@
+{
+    "Address": "5946 Rancho Mission Rd #148",
+    "Price": "$2,495/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92108",
+    "Street": "",
+    "Stats": [
+        "$2,495/mo",
+        "1 bed",
+        "1 bath",
+        "604 sq ft",
+        "5946 Rancho Mission Rd #148, San Diego, CA 92108",
+        "Pets welcome \u2022 Parking \u2022 Dishwasher",
+        "Request a tour",
+        "(619) 838-9307"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_271",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b792779c-db7a-4765-9ad6-86ce28969f7c/islphoto/genIsl.19_1.jpg"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Address": "1575 Mendocino Dr #189",
+    "Price": "$509,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$509,000",
+        "3 beds",
+        "1.5 baths",
+        "1,180 sq ft",
+        "1,351 sq ft (lot)",
+        "1575 Mendocino Dr #189, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_174",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/091/genIslnoResize.PTP2207091_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/091/genIslnoResize.PTP2207091_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/091/genIslnoResize.PTP2207091_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/091/genIslnoResize.PTP2207091_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/091/genIslnoResize.PTP2207091_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/091/genIslnoResize.PTP2207091_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/091/genIslnoResize.PTP2207091_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/091/genIslnoResize.PTP2207091_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/091/genIslnoResize.PTP2207091_8_0.jpg"
+    ]
+}

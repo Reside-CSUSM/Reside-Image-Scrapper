@@ -1,0 +1,72 @@
+{
+    "Address": " | 3534 5th Ave",
+    "Price": "$2,695+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92103",
+    "Street": "",
+    "Stats": [
+        "$2,695+/mo",
+        "0-1 beds",
+        "1 bath",
+        "602-774 sq ft",
+        "Strauss on Fifth",
+        " | 3534 5th Ave, San Diego, CA 92103",
+        "11 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(760) 853-1378"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_96",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.0_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.5_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.6_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.7_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.8_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.9_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.10_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.11_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.12_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.13_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.14_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.15_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.16_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.17_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.18_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.19_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.20_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.21_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.22_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.23_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6d0adfb6-f5cb-44f1-acbd-2fe2d37313c4/islphoto/genIsl.24_4.jpg"
+    ]
+}

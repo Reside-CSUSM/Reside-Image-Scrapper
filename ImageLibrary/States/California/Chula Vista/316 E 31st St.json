@@ -1,0 +1,53 @@
+{
+    "Address": "316 E 31st St",
+    "Price": "$1,405,000",
+    "State": "CA",
+    "City": "National City",
+    "ZipCode": "91950",
+    "Street": "",
+    "Stats": [
+        "$1,405,000",
+        "\u2014 beds",
+        "\u2014 baths",
+        "8,700 sq ft (lot)",
+        "316 E 31st St, National City, CA 91950",
+        "Top Gun CRE"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_177",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/750/genIslnoResize.PTP2304750_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/750/genIslnoResize.PTP2304750_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/750/genIslnoResize.PTP2304750_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/750/genIslnoResize.PTP2304750_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/750/genIslnoResize.PTP2304750_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/750/genIslnoResize.PTP2304750_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/750/genIslnoResize.PTP2304750_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/750/genIslnoResize.PTP2304750_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/750/genIslnoResize.PTP2304750_8_1.jpg"
+    ]
+}

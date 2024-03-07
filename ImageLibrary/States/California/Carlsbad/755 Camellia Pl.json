@@ -1,0 +1,45 @@
+{
+    "Address": "755 Camellia Pl",
+    "Price": "$999,000",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92008",
+    "Street": "",
+    "Stats": [
+        "$999,000",
+        "2 beds",
+        "1 bath",
+        "894 sq ft",
+        "7,095 sq ft (lot)",
+        "755 Camellia Pl, Carlsbad, CA 92008"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_4",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/918/genIslnoResize.NDP2401918_0.jpg"
+    ]
+}

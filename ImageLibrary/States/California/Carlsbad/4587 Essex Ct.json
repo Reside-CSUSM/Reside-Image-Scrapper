@@ -1,0 +1,47 @@
+{
+    "Address": "4587 Essex Ct",
+    "Price": "$4,040/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92010",
+    "Street": "",
+    "Stats": [
+        "$4,040/mo",
+        "2 beds",
+        "2 baths",
+        "1,348 sq ft",
+        "4587 Essex Ct, Carlsbad, CA 92010",
+        "Pets welcome \u2022 Laundry in unit \u2022 Dishwasher",
+        "Request a tour",
+        "(858) 289-0839"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_15",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ca1f12dd-7ec7-4395-8719-df8eb4223bc1/islphoto/genIsl.0_1.jpg"
+    ]
+}

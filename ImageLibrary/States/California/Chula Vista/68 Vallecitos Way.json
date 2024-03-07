@@ -1,0 +1,72 @@
+{
+    "Address": "68 Vallecitos Way",
+    "Price": "$775,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$775,000",
+        "3 beds",
+        "2 baths",
+        "1,250 sq ft",
+        "68 Vallecitos Way, Chula Vista, CA 91910"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_47",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/606/genIslnoResize.240004606_28_1.jpg"
+    ]
+}

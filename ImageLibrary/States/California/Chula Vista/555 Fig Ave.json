@@ -1,0 +1,57 @@
+{
+    "Address": "555 Fig Ave",
+    "Price": "$749,900",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$749,900",
+        "3 beds",
+        "2 baths",
+        "1,112 sq ft",
+        "6,000 sq ft (lot)",
+        "555 Fig Ave, Chula Vista, CA 91910",
+        "Berkshire Hathaway HomeServices California Properties"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_51",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/722/genIslnoResize.NDP2401722_11_0.jpg"
+    ]
+}

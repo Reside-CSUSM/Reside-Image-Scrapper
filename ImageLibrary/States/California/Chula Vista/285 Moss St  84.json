@@ -1,0 +1,59 @@
+{
+    "Address": "285 Moss St #84",
+    "Price": "$450,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$450,000",
+        "2 beds",
+        "1 bath",
+        "785 sq ft",
+        "285 Moss St #84, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_146",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/083/genIslnoResize.240000083_15_1.jpg"
+    ]
+}

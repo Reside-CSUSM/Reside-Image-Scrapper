@@ -1,0 +1,54 @@
+{
+    "Address": "1934 Via Casa Alta",
+    "Price": "$60,000/mo",
+    "State": "CA",
+    "City": "La Jolla",
+    "ZipCode": "92037",
+    "Street": "",
+    "Stats": [
+        "$60,000/mo",
+        "7 beds",
+        "7.5 baths",
+        "5,161 sq ft",
+        "1934 Via Casa Alta, La Jolla, CA 92037",
+        "Parking \u2022 A/C \u2022 Car-dependent",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_296",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/618aef32-5fe3-4dd5-a179-f3e9bd75f6f9/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/618aef32-5fe3-4dd5-a179-f3e9bd75f6f9/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/618aef32-5fe3-4dd5-a179-f3e9bd75f6f9/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/618aef32-5fe3-4dd5-a179-f3e9bd75f6f9/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/618aef32-5fe3-4dd5-a179-f3e9bd75f6f9/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/618aef32-5fe3-4dd5-a179-f3e9bd75f6f9/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/618aef32-5fe3-4dd5-a179-f3e9bd75f6f9/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/618aef32-5fe3-4dd5-a179-f3e9bd75f6f9/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/618aef32-5fe3-4dd5-a179-f3e9bd75f6f9/islphoto/genIsl.8_1.jpg"
+    ]
+}

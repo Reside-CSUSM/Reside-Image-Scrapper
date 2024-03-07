@@ -1,0 +1,54 @@
+{
+    "Address": " | 2669 Mission Village Dr",
+    "Price": "$2,295/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92123",
+    "Street": "",
+    "Stats": [
+        "$2,295/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "McMission Village Apartments",
+        " | 2669 Mission Village Dr, San Diego, CA 92123",
+        "Car-dependent \u2022 Minimal transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_43",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ad224f9a-64a2-43b8-bb18-6f90d6fd74a9/islphoto/genIsl.0_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ad224f9a-64a2-43b8-bb18-6f90d6fd74a9/islphoto/genIsl.1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ad224f9a-64a2-43b8-bb18-6f90d6fd74a9/islphoto/genIsl.2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ad224f9a-64a2-43b8-bb18-6f90d6fd74a9/islphoto/genIsl.3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ad224f9a-64a2-43b8-bb18-6f90d6fd74a9/islphoto/genIsl.4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ad224f9a-64a2-43b8-bb18-6f90d6fd74a9/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ad224f9a-64a2-43b8-bb18-6f90d6fd74a9/islphoto/genIsl.6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ad224f9a-64a2-43b8-bb18-6f90d6fd74a9/islphoto/genIsl.7_4.jpg"
+    ]
+}

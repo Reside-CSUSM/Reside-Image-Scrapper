@@ -1,0 +1,71 @@
+{
+    "Address": "716 G St Unit D",
+    "Price": "$449,999",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$449,999",
+        "3 beds",
+        "2 baths",
+        "1,024 sq ft",
+        "716 G St Unit D, Chula Vista, CA 91910"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_59",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/232/genIslnoResize.240004232_27_0.jpg"
+    ]
+}

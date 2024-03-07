@@ -1,0 +1,70 @@
+{
+    "Address": " | 2799 Adrian St",
+    "Price": "$2,615+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92110",
+    "Street": "",
+    "Stats": [
+        "$2,615+/mo",
+        "2-3 beds",
+        "1-1.5 bath",
+        "950-1,200 sq ft",
+        "Loma Palisades Apartments",
+        " | 2799 Adrian St, San Diego, CA 92110",
+        "11 units available \u2022 Pets welcome \u2022 Laundry facility",
+        "Request a tour",
+        "(619) 752-0042"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_82",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.0_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.1_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.2_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.3_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.4_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.5_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.6_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.7_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.8_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.9_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.10_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.11_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.12_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.13_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.14_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.15_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.16_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.17_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.18_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.19_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.20_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.21_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/449fdb66-1977-4947-a9d1-ed55a02aae1f/islphoto/genIsl.22_4.jpg"
+    ]
+}

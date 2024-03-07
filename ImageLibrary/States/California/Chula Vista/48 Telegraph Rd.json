@@ -1,0 +1,97 @@
+{
+    "Address": "48 Telegraph Rd",
+    "Price": "$959,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91910",
+    "Street": "",
+    "Stats": [
+        "$959,000",
+        "3 beds",
+        "2.5 baths",
+        "1,978 sq ft",
+        "0.27 acre (lot)",
+        "48 Telegraph Rd, Chula Vista, CA 91910"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_25",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_35_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_36_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_37_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_38_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_39_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_40_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_41_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_42_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_43_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_44_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_45_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_46_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_47_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_48_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_49_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_50_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_51_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/242/genIslnoResize.PTP2401242_52_0.jpg"
+    ]
+}

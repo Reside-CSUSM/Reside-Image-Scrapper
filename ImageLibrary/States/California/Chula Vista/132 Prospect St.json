@@ -1,0 +1,56 @@
+{
+    "Address": "132 Prospect St",
+    "Price": "$825,000",
+    "State": "CA",
+    "City": "Chula Vista",
+    "ZipCode": "91911",
+    "Street": "",
+    "Stats": [
+        "$825,000",
+        "3 beds",
+        "2.5 baths",
+        "1,152 sq ft",
+        "7,100 sq ft (lot)",
+        "132 Prospect St, Chula Vista, CA 91911"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_11",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/631/genIslnoResize.FR24045631_11_0.jpg"
+    ]
+}

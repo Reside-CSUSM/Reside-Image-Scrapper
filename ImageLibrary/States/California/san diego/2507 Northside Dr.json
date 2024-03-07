@@ -1,0 +1,61 @@
+{
+    "Address": " | 2507 Northside Dr",
+    "Price": "$2,665+/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92108",
+    "Street": "",
+    "Stats": [
+        "$2,665+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "646-1,437 sq ft",
+        "Monte Vista",
+        " | 2507 Northside Dr, San Diego, CA 92108",
+        "17 units available \u2022 Pets welcome \u2022 A/C",
+        "Schedule a tour",
+        "(619) 752-0046"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_50",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d0277901-606c-4d7c-bfbd-58e43c10a1df/islphoto/genIsl.13_1.jpg"
+    ]
+}

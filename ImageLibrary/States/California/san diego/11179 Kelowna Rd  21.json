@@ -1,0 +1,59 @@
+{
+    "Address": "11179 Kelowna Rd #21",
+    "Price": "$2,885/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92126",
+    "Street": "",
+    "Stats": [
+        "$2,885/mo",
+        "2 beds",
+        "1 bath",
+        "698 sq ft",
+        "11179 Kelowna Rd #21, San Diego, CA 92126",
+        "Somewhat walkable \u2022 Patio/Balcony \u2022 Minimal transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_222",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/9eb27951-a90c-490d-9ecd-e2ab1b53a424/islphoto/genIsl.13_2.jpg"
+    ]
+}
