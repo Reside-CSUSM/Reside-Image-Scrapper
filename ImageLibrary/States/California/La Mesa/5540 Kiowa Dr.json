@@ -1,0 +1,55 @@
+{
+    "Address": "5540 Kiowa Dr",
+    "Price": "$1,995/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$1,995/mo",
+        "1 bed",
+        "1 bath",
+        "700 sq ft",
+        "5540 Kiowa Dr, La Mesa, CA 91942",
+        "Pets welcome \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_71",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/bafc4c64-e2c4-4a86-b68f-2319c93956db/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bafc4c64-e2c4-4a86-b68f-2319c93956db/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bafc4c64-e2c4-4a86-b68f-2319c93956db/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bafc4c64-e2c4-4a86-b68f-2319c93956db/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bafc4c64-e2c4-4a86-b68f-2319c93956db/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bafc4c64-e2c4-4a86-b68f-2319c93956db/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bafc4c64-e2c4-4a86-b68f-2319c93956db/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bafc4c64-e2c4-4a86-b68f-2319c93956db/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bafc4c64-e2c4-4a86-b68f-2319c93956db/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bafc4c64-e2c4-4a86-b68f-2319c93956db/islphoto/genIsl.10_1.jpg"
+    ]
+}

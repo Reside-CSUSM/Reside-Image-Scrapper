@@ -76,12 +76,7 @@ def console():
             print("Posted request for searching all areas.......")
             try:
                 val = image_api.search_area()
-                if(val > 0 and val < 200):
-                    print("search request failed for atleast one time or more", " count = ", val)
-                elif(val < 400 and val > 200):
-                    print("search successfull on all area queries")
-                else:
-                    print("internal api error")
+                print(val)
             except Exception as error:
                 print(error)
                 print("\x1b[31mConnection closed or host in correct,  use 'set host' to set ip and port\x1b[0m")

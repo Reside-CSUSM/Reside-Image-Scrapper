@@ -1,0 +1,61 @@
+{
+    "Address": "4025 Casita Way",
+    "Price": "$1,595/mo",
+    "State": "CA",
+    "City": "San Diego",
+    "ZipCode": "92115",
+    "Street": "",
+    "Stats": [
+        "$1,595/mo",
+        "0 beds",
+        "1 bath",
+        "525 sq ft",
+        "4025 Casita Way, San Diego, CA 92115",
+        "A/C \u2022 Somewhat walkable \u2022 Swimming Pool",
+        "Request a tour",
+        "(619) 678-1244"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_29",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e633b809-ec80-40ea-9723-8d36b14fe26b/islphoto/genIsl.14_1.jpg"
+    ]
+}

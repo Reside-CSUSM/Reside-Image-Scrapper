@@ -1,0 +1,56 @@
+{
+    "Address": "3706 King St",
+    "Price": "$1,795/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$1,795/mo",
+        "1 bed",
+        "1 bath",
+        "650 sq ft",
+        "3706 King St, La Mesa, CA 91941",
+        "Pets welcome \u2022 Dishwasher \u2022 Somewhat walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_30",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1bd1a4f6-0961-4778-9750-786d062c2e61/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1bd1a4f6-0961-4778-9750-786d062c2e61/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1bd1a4f6-0961-4778-9750-786d062c2e61/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1bd1a4f6-0961-4778-9750-786d062c2e61/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1bd1a4f6-0961-4778-9750-786d062c2e61/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1bd1a4f6-0961-4778-9750-786d062c2e61/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1bd1a4f6-0961-4778-9750-786d062c2e61/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1bd1a4f6-0961-4778-9750-786d062c2e61/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1bd1a4f6-0961-4778-9750-786d062c2e61/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1bd1a4f6-0961-4778-9750-786d062c2e61/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1bd1a4f6-0961-4778-9750-786d062c2e61/islphoto/genIsl.10_1.jpg"
+    ]
+}

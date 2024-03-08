@@ -205,7 +205,7 @@ class ListingHandler():
             return False
 
 
-    def Search(self):
+    def Search2(self):
         print("INSIDE SEARCH")
         if(self.current_listing == ""): return False
         try:
@@ -231,6 +231,39 @@ class ListingHandler():
             print(error)
             return False
 
+    def Search(self):
+        print("INSIDE SEARCH")
+        if(self.current_listing == ""): return False
+        try:
+            index = self.listing_path.rfind("\\")
+            string = self.listing_path[index+1:len(self.listing_path)]
+            string += ".json"
+            #dirs = os.listdir(self.listing_path[0:index])
+
+            city_path = self.listing_path[0:index] + "\\" + self.current_listing + ".json"
+            print("CITY PATH: ", city_path)
+            try:
+                file = open(city_path)
+                value = json.load(file)
+                print("Found data")
+                return value
+            except Exception as error:
+                print("Search() Not found!")
+                try:
+                    city_path = self.listing_path[0:index] + "\\" + " " + self.current_listing + ".json"
+                    file = open(city_path)
+                    value = json.load(file)
+                    print("Found data")
+                    return value
+                except Exception as error:
+                    return False
+                return False
+            else:
+                return False
+        except Exception as error:
+            print(error)
+            return False
+        pass
     def PutData(self, content):
         try:
             file = open(self.listing_path, "w")
@@ -525,7 +558,8 @@ class ImagingLibraryManager():
 
 
 #storage = ImagingLibraryManager()
-#storage.directory().State("Califo!!rnia").City("San Marcos").Listing("150 Gosnell Way")
+#val = storage.directory().State("California").City("El Cajon").Listing(" Vista Valley Rim Pl").Search()
+#print(val)
 """ 
 GENERAL IDEA:
 Directory():

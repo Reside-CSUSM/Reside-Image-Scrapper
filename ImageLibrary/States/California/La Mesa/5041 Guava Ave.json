@@ -1,0 +1,70 @@
+{
+    "Address": " | 5041 Guava Ave",
+    "Price": "$1,400+/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91942",
+    "Street": "",
+    "Stats": [
+        "$1,400+/mo",
+        "0-1 beds",
+        "1 bath",
+        "400-500 sq ft",
+        "Guava Gardens - Senior Housing 62+",
+        " | 5041 Guava Ave, La Mesa, CA 91942",
+        "4 units available \u2022 Laundry facility \u2022 A/C",
+        "Request a tour",
+        "(858) 477-8197"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_102",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b55b975-10e0-4cd9-835a-3092e6136df3/islphoto/genIsl.22_2.jpg"
+    ]
+}

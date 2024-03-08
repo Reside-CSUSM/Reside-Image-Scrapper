@@ -3,16 +3,15 @@ import sys, os
 dir_path = os.path.dirname(os.path.realpath(__file__))
 parent_dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
 sys.path.insert(0, parent_dir_path)
-from Router import RoutingTable
 import copy
 import json
 import urllib.parse
-import time
 
 #AUTOMATION MODULES
 from Redfin.interface import *
 from Redfin.redfind_errors import *
 
+AUTOMATIONS_ERROR_CODES = []
 class AutomationsHandler():
 
     def __init__(self):
@@ -168,7 +167,7 @@ class AutomationService():
                         RedfinInterface.apply_filters(filters)
                         self.responses.append(RedfinInterface.search_images(area))
                         RedfinInterface.close_bot()
-                    
+
                     for response in self.responses:
                         if(response in REDFIN_ERROR_CODES):
                             if(error_count == None):
@@ -221,9 +220,12 @@ class AutomationService():
         #DECODE THE JSON DATA RECIEVED
         if(TYPE == 'POST'):
             self.data = data
-            value = self.__POST2()
-            if(value == False):
-             print("POST ERROR:", "error")
+            try:
+                value = self.__POST2()
+                if(value == False):
+                    print("POST ERROR:", "error")
+            except Exception as error:
+                print("POST ERROR EXCEPTION:", error)
         
         elif(TYPE == 'GET'):
             self.__GET()
@@ -233,5 +235,5 @@ class AutomationService():
         
         elif(TYPE == 'DELETE'):
             self.__DELETE()
-
+        return self
 #NOTE SPECIFIC SEARCH THROUGH IMAGERY.PY NOT WORKING THROWS AN ERRO, ALSO HAVE TO TEST SPECIFIC SEARCH FUNCTION IF IT PUTS THINGS IN FILE

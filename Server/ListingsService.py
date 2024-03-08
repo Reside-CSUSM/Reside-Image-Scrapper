@@ -40,12 +40,12 @@ class ListingService():
 
         else:
             print("ERROR: State, City or Address component missing")
-            return False
+            return None
 
 
         if(len(list[2]) < 2):
             print("Invalid State Abbreviation Extracted: ", state_abbreviation)
-            return False
+            return None
         
         elif(len(list[2]) > 2):
             state_abbreviation  = state_abbreviation.replace(" ", "")
@@ -62,10 +62,16 @@ class ListingService():
 
         else:
             val = self.storage.directory().State(state).City(city).Listing(address_line).Search()
+            #print(val, " ListingService inside action path")
             if(val == False):
                 return None
             else:
-                self.response = val["Images"]
+                self.response = {
+                    'ListingIdentifier':address,
+                    'MatchedWith':val['Address'],
+                    'Images':val['Images']
+                }
+                #self.response = val["Images"]
                 return self.response
             
 
@@ -112,7 +118,6 @@ class ListingService():
                 print("Address      = ", address_line, "     len = " + str(len(address_line)))
             except Exception as error:
                 print("THERE'S NO SUCH STATE", state_abbreviation)
-
 
             else:
                 val = self.storage.directory().State(state).City(city).Listing(address_line).Search()

@@ -17,38 +17,7 @@ import time
 import re
 from ImageLibrary.library import *
 from Redfin.redfind_errors import *
-"""
-Tasks based:
-    - Search and load location
-    - Managing Filters
-    - Finding Images and Text data
-    
-"""
 
-"""
-Part based:
-    - Search Component
-    - Filter component
-    - Image Component
-    - Text Component
-"""
-
-
-"""
-Tasks based:
-    - Search and load location
-    - Managing Filters
-    - Finding Images and Text data
-    
-"""
-
-"""
-Part based:
-    - Search Component
-    - Filter component
-    - Image Component
-    - Text Component
-"""
 
 
 INIT_URL = 'https://www.redfin.com/'
@@ -63,6 +32,36 @@ CURRENT_SESSION_ADDRESS = ""
 image_library = ImagingLibraryManager()
 
 #In future, elements references can be chained kind of like action chains
+class Response():
+
+    def __init__(self):
+        
+        self.payload = {
+            'ListingData':None,
+            'Errors':False,
+            'ErrorLog':[]
+        }
+    
+    def put_payload(self, payload):
+        self.payload['ListingData'] = payload
+    
+    def get(self, field=None):
+        if(field == None):
+            return str(self.payload)
+        else:
+            try:
+                return self.payload[field]
+            except Exception as error:
+                return None
+    
+    def set_error(self, val):
+        if(isinstance(val, bool) == False):
+            raise "\x1b[31m ServerResponse: Error Flag Not Boolean!!\x1b[0m"
+        self.payload['Errors'] = val
+    
+    def put_error_log(self, log):
+        self.payload['ErrorLog'].append(log)
+
 class ElementReference():
 
     def __init__(self, tag, value):
@@ -1007,8 +1006,70 @@ class RedfinBot():
         close_cookies = self.bot.search_element(By.XPATH, close_val).get_element()
         close_cookies.click()
         
-
     def get_response(self):
+        response = Response()
+        #CLOSE UNWANTED
+        self.close_misc()
+        
+        #LOGIN
+        """
+        value = self.login_to_website(credentials=('yashaswi.kul@gmail.com', 'yashema@E494murlipura2'))
+        if(value == LOGIN_ERROR_CODE): 
+            response.set_error(True)
+            response.put_error_log(LOGIN_ERROR_CODE)
+            return response.get()
+            #return LOGIN_ERROR_CODE
+        """
+        #SEARCHING
+        self.redfin_search.set_location_address(self._address)
+        value = self.redfin_search.perform()
+        if(value == SEARCHING_ERROR_CODE): 
+            response.set_error(True)
+            response.put_error_log(SEARCHING_ERROR_CODE)
+            return response.get()
+            #return SEARCHING_ERROR_CODE
+
+        #FETCHING
+        if(self.listing_type == 'general'):
+            #APPLYING FILTERS
+            try:
+                self.__apply_filters()
+                self.bot.wait(2)
+            except Exception as error:
+                print("\x1b[FILTERS!! ERROR\x1b[0m", error)
+            
+            filters = self.redfin_filter.export_settings('json')
+            #filters = self.redfin_filter.export_settings('value')
+            self.general_fetcher.address(self._address, self.listing_type)
+            self.general_fetcher.save_filters(filters)
+            self.listing_response = self.general_fetcher.fetch_listing_data()
+            if(self.listing_response == DATA_FETCHING_ERROR_CODE): 
+                response.set_error(True)
+                response.put_error_log(DATA_FETCHING_ERROR_CODE)
+                return response.get()
+                #return DATA_FETCHING_ERROR_CODE
+            else:
+                response.set_error(False)
+                response.put_payload('Listings Added')
+                return response.get()
+        
+        elif(self.listing_type == 'specific'):
+            self.specific_fetcher.address(self._address, self.listing_type)
+            self.listing_response = self.specific_fetcher.fetch_listing_data()
+            if(self.listing_response == DATA_FETCHING_ERROR_CODE): 
+                response.set_error(True)
+                response.put_error_log(DATA_FETCHING_ERROR_CODE)
+                return response.get()
+                #return DATA_FETCHING_ERROR_CODE
+            else:
+                response.set_error(False)
+                response.put_payload(self.listing_response)
+        #return self.listing_response
+        print(response.get(), "  bot!")
+        return response.get()
+        
+
+    def get_response2(self):
         #CLOSE UNWANTED
         self.close_misc()
         

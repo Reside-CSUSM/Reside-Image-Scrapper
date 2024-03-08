@@ -10,8 +10,8 @@ class ResideImageryAdapter(ResideImageryAPI):
         ResideImageryAPI.__init__(self)
     
     def initialize(self, IP, PORT):
-        IP = 'localhost'
-        PORT = 5000
+        IP = IP
+        PORT = PORT
         self.set_host(IP, PORT)
 
     def add_areas(self, area):

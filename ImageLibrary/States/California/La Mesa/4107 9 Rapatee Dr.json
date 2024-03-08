@@ -1,0 +1,55 @@
+{
+    "Address": "4107-9 Rapatee Dr",
+    "Price": "$4,600/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$4,600/mo",
+        "3 beds",
+        "3 baths",
+        "1,600 sq ft",
+        "4107-9 Rapatee Dr, La Mesa, CA 91941",
+        "A/C \u2022 Patio/Balcony",
+        "Request a tour",
+        "(888) 244-6696"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_3",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c31383e4-086d-407e-9755-e46f620c7295/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c31383e4-086d-407e-9755-e46f620c7295/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c31383e4-086d-407e-9755-e46f620c7295/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c31383e4-086d-407e-9755-e46f620c7295/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c31383e4-086d-407e-9755-e46f620c7295/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c31383e4-086d-407e-9755-e46f620c7295/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c31383e4-086d-407e-9755-e46f620c7295/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c31383e4-086d-407e-9755-e46f620c7295/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c31383e4-086d-407e-9755-e46f620c7295/islphoto/genIsl.8_1.jpg"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "Address": "6985 Waite Dr",
+    "Price": "$1,795/mo",
+    "State": "CA",
+    "City": "La Mesa",
+    "ZipCode": "91941",
+    "Street": "",
+    "Stats": [
+        "$1,795/mo",
+        "1 bed",
+        "1 bath",
+        "400 sq ft",
+        "6985 Waite Dr, La Mesa, CA 91941",
+        "Pets welcome \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_69",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d96bfa1d-86c9-4c4e-8026-af43249b9d8e/islphoto/genIsl.24_1.jpg"
+    ]
+}
