@@ -4,7 +4,9 @@ import copy
 
 project_root = os.getcwd() 
 project_root = r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper"
+project_root = r"C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper"
 CACHE_ROOT_DIRECTORY = project_root + r"\ImageLibrary\States"
+
 STATE_ABBREVIATION = {
     'AL':'Alabama',
     'AK':'Alaska',
@@ -555,11 +557,10 @@ class ImagingLibraryManager():
         return self.state_handler
 
 
-
-
 #storage = ImagingLibraryManager()
 #val = storage.directory().State("California").City("El Cajon").Listing(" Vista Valley Rim Pl").Search()
 #print(val)
+
 """ 
 GENERAL IDEA:
 Directory():

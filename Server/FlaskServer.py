@@ -1,7 +1,10 @@
+import sys
+print(sys.path)
+sys.path.insert(0, r"C:\Users\kulsh001\AppData\Local\Programs\Python\Python311\Lib\site-packages")
 from flask import Flask, redirect, url_for, render_template, request, Response
 from AutomationService import *
 from ListingsService import *
-
+import socket
 
 app = Flask(__name__)
 
@@ -75,7 +78,7 @@ class FlaskServer():
         #Implement it using request body
         responses = []
         response = ServerResponse()
-
+        
         print("inside route")
         if(request.is_json == True):
             try:
@@ -131,8 +134,11 @@ class FlaskServer():
         PORT = FlaskServer._PORT
         app.run(IP, port=PORT, debug=False)
 
+
+hostname = socket.gethostname()
+IPAddr = socket.gethostbyname(hostname)
 server = FlaskServer()
-server.host_with("192.168.1.222", 9999)
+server.host_with(IPAddr, 9999)
 server.run()
 
 #Need to fix error checking from API

@@ -1,7 +1,10 @@
+import sys
+print(sys.path)
+sys.path.insert(0, r"C:\Users\kulsh001\AppData\Local\Programs\Python\Python311\Lib\site-packages")
 import requests
 import copy
 import json
-
+import socket
 
 
 class SpecificSearchPayload():
@@ -21,13 +24,11 @@ class SpecificSearchPayload():
         self.payload["Listings"].append(housing)
         return self
 
-
     def delete_housing(self, housing):
         if(isinstance(housing, str) == False):
             return None
         self.payload["Listings"].remove(housing)
         return self
-
 
     def delete_all(self):
         housing_list = self.payload["Listings"]
@@ -187,7 +188,9 @@ print(">>")
 api.area().add_area("La Mesa, CA").delete_all().print_area()
 val = api.housing().add_housing("5210 Rain Creek Pkwy, Austin, TX").add_housing(" 4210 Spring St, La Mesa, CA").add_housing("105 Via de la Valle, Del Mar, CA").send_calls()
 """
-api = ResideImageryAPI()
-api.set_host("38.56.138.77", 8888)
-val = api.housing().add_housing("310 E Bradley Ave, El Cajon, CA").add_housing("asdkasd").send_calls()
-print(val)
+#api = ResideImageryAPI()
+#hostname = socket.gethostname()
+#IPAddr = socket.gethostbyname(hostname)
+#api.set_host(IPAddr, 9999)
+#val = api.housing().add_housing("310 E Bradley Ave, El Cajon, CA").add_housing("asdkasd").send_calls()
+#print(val)
