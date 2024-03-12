@@ -131,9 +131,7 @@ class FlaskServer():
         PORT = FlaskServer._PORT
         app.run(IP, port=PORT, debug=False)
 
-server = FlaskServer()
-server.host_with("192.168.1.222", 9999)
-server.run()
+
 
 #Need to fix error checking from API
 #Use good address parsing and searching techniques  almost done
