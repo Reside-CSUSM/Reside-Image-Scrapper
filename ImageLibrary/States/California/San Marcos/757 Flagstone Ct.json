@@ -1,0 +1,60 @@
+{
+    "Address": "757 Flagstone Ct",
+    "Price": "$999,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$999,000",
+        "4 beds",
+        "3 baths",
+        "2,300 sq ft",
+        "0.38 acre (lot)",
+        "757 Flagstone Ct, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_18",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/310/genIslnoResize.PTP2401310_15_0.jpg"
+    ]
+}

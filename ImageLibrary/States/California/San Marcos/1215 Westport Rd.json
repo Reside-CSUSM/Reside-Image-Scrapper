@@ -1,0 +1,72 @@
+{
+    "Address": "1215 Westport Rd",
+    "Price": "$999,999",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$999,999",
+        "4 beds",
+        "2.5 baths",
+        "1,871 sq ft",
+        "3,500 sq ft (lot)",
+        "1215 Westport Rd, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_16",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.PTP2401314_27_0.jpg"
+    ]
+}

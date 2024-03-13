@@ -1,0 +1,77 @@
+{
+    "Address": "155 Las Flores Dr #77",
+    "Price": "$369,900",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$369,900",
+        "3 beds",
+        "2 baths",
+        "1,356 sq ft",
+        "2,700 sq ft (lot)",
+        "155 Las Flores Dr #77, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_97",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/369/genIslnoResize.NDP2309369_32_0.jpg"
+    ]
+}

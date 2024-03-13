@@ -1,0 +1,45 @@
+{
+    "Address": "947 Visalia Pl",
+    "Price": "$1,994,990",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$1,994,990",
+        "5 beds",
+        "3.5 baths",
+        "2,926 sq ft",
+        "6,263 sq ft (lot)",
+        "947 Visalia Pl, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_62",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/155/genIslnoResize.NDP2401155_0.jpg"
+    ]
+}

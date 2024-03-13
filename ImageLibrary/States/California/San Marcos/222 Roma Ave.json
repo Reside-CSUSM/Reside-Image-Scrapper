@@ -1,0 +1,78 @@
+{
+    "Address": "222 Roma Ave",
+    "Price": "$675,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$675,000",
+        "3 beds",
+        "2 baths",
+        "1,200 sq ft",
+        "3,327 sq ft (lot)",
+        "222 Roma Ave, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_28",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/513/genIslnoResize.240004513_33_0.jpg"
+    ]
+}

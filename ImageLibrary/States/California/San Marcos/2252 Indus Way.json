@@ -1,0 +1,65 @@
+{
+    "Address": "2252 Indus Way",
+    "Price": "$779,900",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$779,900",
+        "3 beds",
+        "2.5 baths",
+        "1,201 sq ft",
+        "0.30 acre (lot)",
+        "2252 Indus Way, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_40",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/630/genIslnoResize.NDP2401630_20_3.jpg"
+    ]
+}

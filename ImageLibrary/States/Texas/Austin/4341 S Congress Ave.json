@@ -1,0 +1,58 @@
+{
+    "Address": " | 4341 S Congress Ave",
+    "Price": "$1,655+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$1,655+/mo",
+        "0-2 beds",
+        "1-2 bath",
+        "510-1,441 sq ft",
+        "Bishop Momo",
+        " | 4341 S Congress Ave, Austin, TX 78745",
+        "50 units available \u2022 Pets welcome \u2022 Parking",
+        "Schedule a tour",
+        "(737) 204-9912"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_11",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/11557c07-44c9-4078-9865-ffb4302e0c09/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11557c07-44c9-4078-9865-ffb4302e0c09/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11557c07-44c9-4078-9865-ffb4302e0c09/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11557c07-44c9-4078-9865-ffb4302e0c09/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11557c07-44c9-4078-9865-ffb4302e0c09/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11557c07-44c9-4078-9865-ffb4302e0c09/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11557c07-44c9-4078-9865-ffb4302e0c09/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11557c07-44c9-4078-9865-ffb4302e0c09/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11557c07-44c9-4078-9865-ffb4302e0c09/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11557c07-44c9-4078-9865-ffb4302e0c09/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/11557c07-44c9-4078-9865-ffb4302e0c09/islphoto/genIsl.10_2.jpg"
+    ]
+}

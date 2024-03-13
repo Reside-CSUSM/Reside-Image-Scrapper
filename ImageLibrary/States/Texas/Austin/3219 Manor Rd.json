@@ -1,0 +1,58 @@
+{
+    "Address": " | 3219 Manor Rd",
+    "Price": "$1,697+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78723",
+    "Street": "",
+    "Stats": [
+        "$1,697+/mo",
+        "0-2 beds",
+        "1-2 bath",
+        "543-1,198 sq ft",
+        "The Emma Browning",
+        " | 3219 Manor Rd, Austin, TX 78723",
+        "30 units available \u2022 Pets welcome \u2022 Parking",
+        "Request a tour",
+        "(512) 599-9385"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_7",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ac29d359-3561-4185-9eb3-9ed7dfe40786/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac29d359-3561-4185-9eb3-9ed7dfe40786/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac29d359-3561-4185-9eb3-9ed7dfe40786/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac29d359-3561-4185-9eb3-9ed7dfe40786/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac29d359-3561-4185-9eb3-9ed7dfe40786/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac29d359-3561-4185-9eb3-9ed7dfe40786/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac29d359-3561-4185-9eb3-9ed7dfe40786/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac29d359-3561-4185-9eb3-9ed7dfe40786/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac29d359-3561-4185-9eb3-9ed7dfe40786/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac29d359-3561-4185-9eb3-9ed7dfe40786/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ac29d359-3561-4185-9eb3-9ed7dfe40786/islphoto/genIsl.10_1.jpg"
+    ]
+}

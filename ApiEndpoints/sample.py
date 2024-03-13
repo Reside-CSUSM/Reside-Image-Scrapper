@@ -23,11 +23,78 @@ def search_area(area, webfilters):
     print("\x1b[33mAdded area:\x1b[0m", area, "filters =", filters)
 
 
+
+class AreaUpdate(ResideImageryAdapter):
+
+    def __init__(self, city, state):
+        self._city = city
+        self._state = state
+        self.filter1 = 'For rent'
+        self.filter2 = 'For sale'
+
+    def run(self):
+        print("["+self._city+", " + self._state +"]", "\x1b[32mUPDATING.....\x1b[0m")
+        self.add_general_search_filter(self.filter2)
+        self.add_areas(self._city + ", " + self._state)
+        try:
+            val = self.search_area()
+            print(val)
+        except Exception as error:
+            print("\x1b[31m Update 'For sale' Failed!\x1b[0m")
+            #print(error)
+            #print("\x1b[31mConnection closed or host in correct,  use 'set host' to set ip and port\x1b[0m")
+
+        self.add_general_search_filter(self.filter1)
+        self.add_areas(self._city + ", " + self._state)
+
+        try:
+            val = self.search_area()
+            print(val)
+        except Exception as error:
+            print("\x1b[31m Update 'For rent' Failed!\x1b[0m")
+            #print(error)
+            #print("\x1b[31mConnection closed or host in correct,  use 'set host' to set ip and port\x1b[0m")
+        
+        print("Update Finished.....\n\n\n")
+
+class CacheUpdates():
+    
+    def __init__(self):
+        self.list = []
+
+    def run(self):
+        for list in self.list:
+            list.run()
+    
+    def append(self, update):
+        if(isinstance(update, AreaUpdate) == False):
+            return False
+        self.list.append(update)
+    
 def console():
+    cache_updates = CacheUpdates()
     while(True):
         os.system('cls')
-        print("Select Options: [add, set host, run search, exit, show areas, delete]")
+        print("Select Options: [add, set host, run search, exit, show areas, delete, update area]")
         val = input()
+
+        if(val == "update areas"):
+            while(True):
+                print("\n/update> ", end="")
+                print("Enter the name of (State) ", end="")
+                state = input()
+                
+                if(state == "exit"):break
+                elif(state == "none"):continue
+
+                print("Enter the name of (City) ", end="")
+                city = input()
+                if(city == "exit"):break
+                elif(city == "none"):continue
+                cache_updates.append(AreaUpdate(city, state))
+
+        if(val == "start updates"):
+            cache_updates.run()
 
         if(val == "add"):
 

@@ -1,0 +1,53 @@
+{
+    "Address": " | 3401 W Parmer Ln",
+    "Price": "$1,190+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78727",
+    "Street": "",
+    "Stats": [
+        "$1,190+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "650-1,041 sq ft",
+        "Bridge at Waters Park",
+        " | 3401 W Parmer Ln, Austin, TX 78727",
+        "38 units available \u2022 Pets welcome \u2022 Laundry hookups",
+        "Request a tour",
+        "(737) 497-0586"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_9",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/50136a70-b482-490e-b3b3-34c915b3eb43/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50136a70-b482-490e-b3b3-34c915b3eb43/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50136a70-b482-490e-b3b3-34c915b3eb43/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50136a70-b482-490e-b3b3-34c915b3eb43/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50136a70-b482-490e-b3b3-34c915b3eb43/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/50136a70-b482-490e-b3b3-34c915b3eb43/islphoto/genIsl.5_2.jpg"
+    ]
+}

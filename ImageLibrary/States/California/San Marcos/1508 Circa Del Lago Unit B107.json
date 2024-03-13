@@ -1,0 +1,70 @@
+{
+    "Address": "1508 Circa Del Lago Unit B107",
+    "Price": "$335,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$335,000",
+        "2 beds",
+        "2 baths",
+        "962 sq ft",
+        "1508 Circa Del Lago Unit B107, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_87",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/198/genIslnoResize.OC24011198_26_0.jpg"
+    ]
+}

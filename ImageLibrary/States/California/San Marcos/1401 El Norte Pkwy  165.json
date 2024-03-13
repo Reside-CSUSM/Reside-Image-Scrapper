@@ -1,0 +1,57 @@
+{
+    "Address": "1401 El Norte Pkwy #165",
+    "Price": "$499,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$499,000",
+        "2 beds",
+        "2 baths",
+        "1,550 sq ft",
+        "1401 El Norte Pkwy #165, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_92",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_9_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_10_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_11_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_12_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/751/genIslnoResize.240000751_13_5.jpg"
+    ]
+}

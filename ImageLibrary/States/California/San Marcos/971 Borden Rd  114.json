@@ -1,0 +1,65 @@
+{
+    "Address": "971 Borden Rd #114",
+    "Price": "$219,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$219,000",
+        "2 beds",
+        "2 baths",
+        "1,440 sq ft",
+        "28.76 acres (lot)",
+        "971 Borden Rd #114, San Marcos, CA 92069",
+        "Vista Ridge Investment Group"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_73",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/977/genIslnoResize.NDP2400977_19_0.jpg"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Address": "410 E Olive St",
+    "Price": "$4,500,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$4,500,000",
+        "\u2014 beds",
+        "\u2014 baths",
+        "3.24 acres (lot)",
+        "410 E Olive St, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_127",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/40/islphoto/313/genIslnoResize.23-299313_14_0.jpg"
+    ]
+}

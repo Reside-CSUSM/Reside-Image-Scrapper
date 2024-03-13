@@ -1,0 +1,65 @@
+{
+    "Address": "1097 Pinto Ct",
+    "Price": "$789,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$789,000",
+        "4 beds",
+        "2 baths",
+        "1,406 sq ft",
+        "9,965 sq ft (lot)",
+        "1097 Pinto Ct, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_10",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/188/genIslnoResize.240005188_20_2.jpg"
+    ]
+}

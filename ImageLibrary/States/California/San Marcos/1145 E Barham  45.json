@@ -1,0 +1,73 @@
+{
+    "Address": "1145 E Barham #45",
+    "Price": "$299,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$299,000",
+        "3 beds",
+        "2 baths",
+        "1,564 sq ft",
+        "1145 E Barham #45, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_25",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/811/genIslnoResize.240004811_29_0.jpg"
+    ]
+}

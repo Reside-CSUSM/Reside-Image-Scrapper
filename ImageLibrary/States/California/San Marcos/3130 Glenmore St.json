@@ -1,0 +1,61 @@
+{
+    "Address": "3130 Glenmore St",
+    "Price": "$779,900",
+    "State": "CA",
+    "City": "Vista",
+    "ZipCode": "92081",
+    "Street": "",
+    "Stats": [
+        "$779,900",
+        "3 beds",
+        "2.5 baths",
+        "1,679 sq ft",
+        "3130 Glenmore St, Vista, CA 92081"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_60",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/290/genIslnoResize.NDP2401290_17_0.jpg"
+    ]
+}

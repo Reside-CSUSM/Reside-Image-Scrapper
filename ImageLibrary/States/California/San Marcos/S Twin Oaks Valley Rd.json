@@ -1,0 +1,74 @@
+{
+    "Address": "S Twin Oaks Valley Rd",
+    "Price": "$575,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$575,000",
+        "0 beds",
+        "\u2014 baths",
+        "10.64 acres (lot)",
+        "S Twin Oaks Valley Rd, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_123",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_1_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_2_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_3_L.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_4_K.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_5_K.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_6_K.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_7_J.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_8_J.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_9_J.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_10_J.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_11_J.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_12_J.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_13_I.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_14_E.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_15_B.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_16_B.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_17_A.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_18_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_19_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_20_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_21_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_22_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_23_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_24_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/956/genIslnoResize.230020956_30_1.jpg"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "Address": "1930 W San Marcos Blvd Unit 168A",
+    "Price": "$503,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$503,000",
+        "2 beds",
+        "2 baths",
+        "2,160 sq ft",
+        "1930 W San Marcos Blvd Unit 168A, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_54",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/716/genIslnoResize.240003716_29_0.jpg"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "Address": "647 Maybritt Cir",
+    "Price": "$820,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$820,000",
+        "3 beds",
+        "2 baths",
+        "1,220 sq ft",
+        "5,016 sq ft (lot)",
+        "647 Maybritt Cir, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_1",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/331/genIslnoResize.240005331_30_0.jpg"
+    ]
+}

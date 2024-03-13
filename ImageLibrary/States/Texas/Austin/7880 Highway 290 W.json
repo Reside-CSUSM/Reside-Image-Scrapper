@@ -1,0 +1,73 @@
+{
+    "Address": " | 7880 Highway 290 W",
+    "Price": "$1,258+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78736",
+    "Street": "",
+    "Stats": [
+        "$1,258+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "632-1,177 sq ft",
+        "Palo Verde",
+        " | 7880 Highway 290 W, Austin, TX 78736",
+        "29 units available \u2022 Pets welcome \u2022 Parking",
+        "Schedule a tour",
+        "(737) 437-3483"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_6",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.0_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.1_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.2_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.4_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.9_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.10_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.11_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.12_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.13_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.14_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.15_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.16_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.17_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.18_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.19_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.20_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.21_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.22_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.23_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.24_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/afffd842-fced-438b-b8bc-c8e52e9faae5/islphoto/genIsl.25_6.jpg"
+    ]
+}

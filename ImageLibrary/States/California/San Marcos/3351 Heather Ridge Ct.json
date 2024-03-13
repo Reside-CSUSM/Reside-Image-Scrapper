@@ -1,0 +1,80 @@
+{
+    "Address": "3351 Heather Ridge Ct",
+    "Price": "$899,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$899,000",
+        "3 beds",
+        "2.5 baths",
+        "1,586 sq ft",
+        "5,738 sq ft (lot)",
+        "3351 Heather Ridge Ct, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_70",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/988/genIslnoResize.NDP2400988_35_0.jpg"
+    ]
+}

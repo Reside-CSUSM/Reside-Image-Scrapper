@@ -1,0 +1,49 @@
+{
+    "Address": "1340 Chaparral Dr",
+    "Price": "$1,395,990",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$1,395,990",
+        "5 beds",
+        "3.5 baths",
+        "2,641 sq ft",
+        "6,348 sq ft (lot)",
+        "1340 Chaparral Dr, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_27",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/830/genIslnoResize.NDP2401830_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/830/genIslnoResize.NDP2401830_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/830/genIslnoResize.NDP2401830_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/830/genIslnoResize.NDP2401830_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/830/genIslnoResize.NDP2401830_4_0.jpg"
+    ]
+}

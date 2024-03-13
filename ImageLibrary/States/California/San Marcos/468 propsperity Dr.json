@@ -1,0 +1,69 @@
+{
+    "Address": "468 propsperity Dr",
+    "Price": "$840,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$840,000",
+        "4 beds",
+        "3 baths",
+        "1,891 sq ft",
+        "468 propsperity Dr, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_96",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/736/genIslnoResize.OC23218736_25_0.jpg"
+    ]
+}

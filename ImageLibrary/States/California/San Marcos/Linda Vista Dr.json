@@ -1,0 +1,53 @@
+{
+    "Address": "0 Linda Vista Dr",
+    "Price": "$1,200,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$1,200,000",
+        "\u2014 beds",
+        "\u2014 baths",
+        "2.06 acres (lot)",
+        "0 Linda Vista Dr, San Marcos, CA 92078",
+        "eXp Realty of Southern CA"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_121",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.NDP2309314_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.NDP2309314_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.NDP2309314_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.NDP2309314_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.NDP2309314_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.NDP2309314_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.NDP2309314_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.NDP2309314_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/314/genIslnoResize.NDP2309314_8_0.jpg"
+    ]
+}

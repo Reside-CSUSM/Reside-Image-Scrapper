@@ -1,0 +1,70 @@
+{
+    "Address": "1401 El Norte Pkwy #76",
+    "Price": "$289,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$289,000",
+        "2 beds",
+        "2 baths",
+        "1,440 sq ft",
+        "1401 El Norte Pkwy #76, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_31",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/630/genIslnoResize.240004630_26_1.jpg"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "Address": " | 9201 Cameron Rd",
+    "Price": "$1,455+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78754",
+    "Street": "",
+    "Stats": [
+        "$1,455+/mo",
+        "2-3 beds",
+        "1-2 bath",
+        "961-1,317 sq ft",
+        "Bridge at Cameron",
+        " | 9201 Cameron Rd, Austin, TX 78754",
+        "6 units available \u2022 Pets welcome \u2022 Controlled access",
+        "Schedule a tour",
+        "(737) 313-5845"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_3",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/7906188f-98ed-4b55-86cf-242f9af0fecb/islphoto/genIsl.19_2.jpg"
+    ]
+}

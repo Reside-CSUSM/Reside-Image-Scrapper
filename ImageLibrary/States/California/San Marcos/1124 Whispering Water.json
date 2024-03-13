@@ -1,0 +1,46 @@
+{
+    "Address": "1124 Whispering Water",
+    "Price": "$850,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$850,000",
+        "3 beds",
+        "2 baths",
+        "1,487 sq ft",
+        "4,318 sq ft (lot)",
+        "1124 Whispering Water, San Marcos, CA 92078",
+        "eXp Realty of California, Inc."
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_32",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/165/genIslnoResize.PTP2401165_0.jpg"
+    ]
+}

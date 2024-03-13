@@ -1,0 +1,62 @@
+{
+    "Address": "1388 Corte Lira",
+    "Price": "$835,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$835,000",
+        "3 beds",
+        "2.5 baths",
+        "1,554 sq ft",
+        "5,021 sq ft (lot)",
+        "1388 Corte Lira, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_33",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_1_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/710/genIslnoResize.NDP2401710_17_2.jpg"
+    ]
+}

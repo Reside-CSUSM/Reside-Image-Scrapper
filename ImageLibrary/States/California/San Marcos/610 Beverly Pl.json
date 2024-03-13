@@ -1,0 +1,46 @@
+{
+    "Address": "610 Beverly Pl",
+    "Price": "$525,000",
+    "State": "CA",
+    "City": "Out Of Area",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$525,000",
+        "3 beds",
+        "2 baths",
+        "1,082 sq ft",
+        "610 Beverly Pl, Out Of Area, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_91",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/123/islphoto/774/genIslnoResize.606774_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/123/islphoto/774/genIslnoResize.606774_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/123/islphoto/774/genIslnoResize.606774_2_0.jpg"
+    ]
+}

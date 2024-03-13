@@ -1,0 +1,63 @@
+{
+    "Address": "1558 Copper Ct",
+    "Price": "$1,499,700",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$1,499,700",
+        "4 beds",
+        "3 baths",
+        "2,774 sq ft",
+        "5,107 sq ft (lot)",
+        "1558 Copper Ct, San Marcos, CA 92078",
+        "Keller Williams Realty"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_5",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/014/genIslnoResize.NDP2402014_17_1.jpg"
+    ]
+}

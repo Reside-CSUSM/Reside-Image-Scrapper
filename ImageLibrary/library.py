@@ -241,14 +241,41 @@ class ListingHandler():
             string = self.listing_path[index+1:len(self.listing_path)]
             string += ".json"
 
-            #Check if something exists with a match
+    
             dirs = os.listdir(self.listing_path[0:index])
             print("available dirs:", dirs)
+
+            #_________________________________________________________________________________
+            #Search for correct street name and address number first  
+            #if house number is empty produce False
+            #if street address is empty produce False 
+            #Parse out the "Unit" if mentinoed in address
+            address = copy.copy(self.current_listing)
+            list = address.split(" ") #0 is number, 1...n is street to etc
+            house_num = list[0]
+            Street = ""
+            Unit = ""
+            for i  in range(0, len(list)):
+                if(list[i] == "unit" or list[i] == "Unit"):
+                    Unit
+                    Unit = list[i]
+                    try:Unit += list[i+1]
+                    except Exception as error: pass
+                    break  
+                try: Street += list[i+1] + " "
+                except Exception as error: pass
+            
+            print("house_num = " + house_num)
+            print("street = " + Street)
+            if(Street == "" or (house_num < "0" and house_num > "99999999")): return False
+            #___________________________________________________________________________________
+
+            #Check if something exists with a match
             for dir in dirs:
                 if(self.current_listing in dir or dir in self.current_listing):
                     self.current_listing = copy.copy(dir).replace(".json", "")
                     pass
-
+            
             city_path = self.listing_path[0:index] + "\\" + self.current_listing + ".json"
             print("CITY PATH: ", city_path)
             try:
@@ -273,6 +300,7 @@ class ListingHandler():
             print(error)
             return False
         pass
+
     def PutData(self, content):
         try:
             file = open(self.listing_path, "w")

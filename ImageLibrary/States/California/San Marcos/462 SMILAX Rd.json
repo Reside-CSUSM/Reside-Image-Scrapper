@@ -1,0 +1,48 @@
+{
+    "Address": "462 SMILAX Rd",
+    "Price": "$1,900,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$1,900,000",
+        "3 beds",
+        "1 bath",
+        "1,058 sq ft",
+        "2.43 acres (lot)",
+        "462 SMILAX Rd, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_105",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/861/genIslnoResize.230020861_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/861/genIslnoResize.230020861_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/861/genIslnoResize.230020861_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/861/genIslnoResize.230020861_3_0.jpg"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Address": "1550 La Plaza Dr",
+    "Price": "$940,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$940,000",
+        "\u2014 beds",
+        "\u2014 baths",
+        "4.12 acres (lot)",
+        "1550 La Plaza Dr, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_120",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/293/genIslnoResize.NDP2400293_16_0.jpg"
+    ]
+}

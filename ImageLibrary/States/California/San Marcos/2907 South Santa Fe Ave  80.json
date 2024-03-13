@@ -1,0 +1,73 @@
+{
+    "Address": "2907 South Santa Fe Ave #80",
+    "Price": "$199,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$199,000",
+        "2 beds",
+        "2 baths",
+        "1,152 sq ft",
+        "2907 South Santa Fe Ave #80, San Marcos, CA 92069",
+        "Balboa Real Estate, Inc"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_53",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/002/genIslnoResize.PT24035002_28_0.jpg"
+    ]
+}

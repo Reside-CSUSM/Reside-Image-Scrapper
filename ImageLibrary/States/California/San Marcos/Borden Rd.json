@@ -1,0 +1,53 @@
+{
+    "Address": "Borden Rd",
+    "Price": "$320,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$320,000",
+        "0 beds",
+        "\u2014 baths",
+        "18.60 acres (lot)",
+        "Borden Rd, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_113",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/815/genIslnoResize.SDC0000815_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/815/genIslnoResize.SDC0000815_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/815/genIslnoResize.SDC0000815_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/815/genIslnoResize.SDC0000815_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/815/genIslnoResize.SDC0000815_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/815/genIslnoResize.SDC0000815_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/815/genIslnoResize.SDC0000815_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/815/genIslnoResize.SDC0000815_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/815/genIslnoResize.SDC0000815_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/815/genIslnoResize.SDC0000815_9_0.jpg"
+    ]
+}

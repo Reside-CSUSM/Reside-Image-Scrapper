@@ -1,0 +1,67 @@
+{
+    "Address": "1560 Rock Springs Rd",
+    "Price": "$925,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$925,000",
+        "4 beds",
+        "2 baths",
+        "1,334 sq ft",
+        "7,500 sq ft (lot)",
+        "1560 Rock Springs Rd, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_90",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/501/genIslnoResize.TR24008501_22_0.jpg"
+    ]
+}

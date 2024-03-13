@@ -776,11 +776,38 @@ class GeneralLocation():
         #EXPORT THE LISTINGS TO A JSON FILE
         #self.export_to_file(r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper\ImageLibrary\san_diego.json")
 
+    def __capitalize_first_char(self, city):
+        print(" recieved city ", city)
+        city = city.split(" ")
+        print(" after spliting ", city)
+
+        if(len(city) == 1):
+            city = city[0][0].capitalize() + city[0][1:]
+            print("len 1: (" + city + ")")
+            pass
+
+        elif(len(city) > 1):
+            string = ""
+            for part in city:
+                if(part == city[-1]):
+                    string += part[0].capitalize() + part[1:]
+                    break
+                string += part[0].capitalize() + part[1:] + " "
+        
+            city = string
+            print("len 2: (" + city + ")")
+        
+        return city
+    
     def get_listings_on_page(self):
         #PARSE THE DATA OUT
         list = self.location_address.split(", ")
         state = list[1]
         city = list[0]
+        
+        #________________________________________
+        city = self.__capitalize_first_char(city)
+        #________________________________________
 
         print("ABBREVIATIONS: ", STATE_ABBREVIATION[state])
         state_exists = image_library.directory().State(STATE_ABBREVIATION[state]).Search()
@@ -946,7 +973,7 @@ class RedfinBot():
 
     def __init__(self):
         options = webdriver.ChromeOptions()
-        options.page_load_strategy = 'normal'
+        options.page_load_strategy = 'eager'
         self.driver = webdriver.Chrome(options=options)
         self.bot = Bot(INIT_URL, self.driver)
         self.tasks = Tasks()

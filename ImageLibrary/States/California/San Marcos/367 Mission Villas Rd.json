@@ -1,0 +1,75 @@
+{
+    "Address": "367 Mission Villas Rd",
+    "Price": "$734,900",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$734,900",
+        "3 beds",
+        "2.5 baths",
+        "1,331 sq ft",
+        "367 Mission Villas Rd, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_21",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/320/genIslnoResize.ND24042320_31_0.jpg"
+    ]
+}
