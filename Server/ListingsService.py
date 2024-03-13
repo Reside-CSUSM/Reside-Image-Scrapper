@@ -29,13 +29,18 @@ class ListingService():
         if(len(first_list) >= 3):
             address_line = first_list[0]
             city = string_filter(first_list[-2])
-            state_abbreviation = string_filter(first_list[-1])
+            #print("STATE ABR0", first_list[-1])
+            state_abbreviation = copy.copy(first_list)[-1].split(" ")[1]
+            print("STATE ABR", state_abbreviation)
             list = first_list
 
         elif(len(second_list) >= 3):
             address_line = second_list[0]
             city = string_filter(second_list[-2])
-            state_abbreviation =  string_filter(copy.copy(second_list[-1]))
+            print("STATE ABBR prev:", second_list[-1])
+            #state_abbreviation =  string_filter(copy.copy(second_list[-1].split(" ")[0]))
+            state_abbreviation = second_list[-1].split(" ")[0]
+            print("STATE ABR", state_abbreviation)
             list = second_list
 
         else:
