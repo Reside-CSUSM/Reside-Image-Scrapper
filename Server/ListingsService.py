@@ -57,10 +57,10 @@ class ListingService():
 
         try:
             state = STATE_ABBREVIATION[state_abbreviation]
-            print("State Abbr   = ", state_abbreviation, "     len = " + str(len(state_abbreviation)))
-            print("State        = ", state, "     len = " + str(len(state)))
-            print("City         = ", city, "     len = " + str(len(city)))
-            print("Address      = ", address_line, "     len = " + str(len(address_line)))
+            print("State Abbr   = (" + state_abbreviation, "     len = " + str(len(state_abbreviation)))
+            print("State        = (" + state, "     len = " + str(len(state)))
+            print("City         = (" + city, "     len = " + str(len(city)))
+            print("Address      = (", address_line, "     len = " + str(len(address_line)))
         except Exception as error:
             print("THERE'S NO SUCH STATE", state_abbreviation)
 

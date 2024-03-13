@@ -4,7 +4,7 @@ import copy
 
 project_root = os.getcwd() 
 project_root = r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper"
-project_root = r"C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper"
+#project_root = r"C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper"
 CACHE_ROOT_DIRECTORY = project_root + r"\ImageLibrary\States"
 
 STATE_ABBREVIATION = {
@@ -240,7 +240,14 @@ class ListingHandler():
             index = self.listing_path.rfind("\\")
             string = self.listing_path[index+1:len(self.listing_path)]
             string += ".json"
-            #dirs = os.listdir(self.listing_path[0:index])
+
+            #Check if something exists with a match
+            dirs = os.listdir(self.listing_path[0:index])
+            print("available dirs:", dirs)
+            for dir in dirs:
+                if(self.current_listing in dir or dir in self.current_listing):
+                    self.current_listing = copy.copy(dir).replace(".json", "")
+                    pass
 
             city_path = self.listing_path[0:index] + "\\" + self.current_listing + ".json"
             print("CITY PATH: ", city_path)
