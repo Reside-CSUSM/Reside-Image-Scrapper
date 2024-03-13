@@ -1,0 +1,76 @@
+{
+    "Address": "2212 S 3rd St",
+    "Price": "$2,890,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$2,890,000",
+        "5 beds",
+        "4.5 baths",
+        "3,650 sq ft",
+        "0.23 acre (lot)",
+        "2212 S 3rd St, Austin, TX 78704"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_60",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/728/genIslnoResize.1410728_31_0.jpg"
+    ]
+}

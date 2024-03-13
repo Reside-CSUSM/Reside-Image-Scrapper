@@ -1,0 +1,55 @@
+{
+    "Address": "3800 Tower View Ct",
+    "Price": "$671,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78723",
+    "Street": "",
+    "Stats": [
+        "$671,000",
+        "3 beds",
+        "2 baths",
+        "1,430 sq ft",
+        "8,150 sq ft (lot)",
+        "3800 Tower View Ct, Austin, TX 78723"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_96",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/933/genIslnoResize.7580933_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/933/genIslnoResize.7580933_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/933/genIslnoResize.7580933_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/933/genIslnoResize.7580933_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/933/genIslnoResize.7580933_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/933/genIslnoResize.7580933_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/933/genIslnoResize.7580933_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/933/genIslnoResize.7580933_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/933/genIslnoResize.7580933_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/933/genIslnoResize.7580933_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/933/genIslnoResize.7580933_10_0.jpg"
+    ]
+}

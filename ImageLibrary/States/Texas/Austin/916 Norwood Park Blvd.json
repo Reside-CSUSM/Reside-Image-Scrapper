@@ -1,0 +1,55 @@
+{
+    "Address": " | 916 Norwood Park Blvd",
+    "Price": "$1,457+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$1,457+/mo",
+        "2-3 beds",
+        "2 baths",
+        "1,094-1,262 sq ft",
+        "Estates at Norwood",
+        " | 916 Norwood Park Blvd, Austin, TX 78753",
+        "4 units available \u2022 Pets welcome \u2022 Laundry hookups",
+        "Request a tour",
+        "(512) 518-2465"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_88",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/0db883b4-2188-4256-b3ef-d8a4ab990e5b/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0db883b4-2188-4256-b3ef-d8a4ab990e5b/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0db883b4-2188-4256-b3ef-d8a4ab990e5b/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0db883b4-2188-4256-b3ef-d8a4ab990e5b/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0db883b4-2188-4256-b3ef-d8a4ab990e5b/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0db883b4-2188-4256-b3ef-d8a4ab990e5b/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0db883b4-2188-4256-b3ef-d8a4ab990e5b/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0db883b4-2188-4256-b3ef-d8a4ab990e5b/islphoto/genIsl.7_1.jpg"
+    ]
+}

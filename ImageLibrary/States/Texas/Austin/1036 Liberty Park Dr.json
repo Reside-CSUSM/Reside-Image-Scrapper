@@ -1,0 +1,69 @@
+{
+    "Address": "1036 Liberty Park Dr",
+    "Price": "$1,500,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78746",
+    "Street": "",
+    "Stats": [
+        "$1,500,000",
+        "4 beds",
+        "3.5 baths",
+        "3,294 sq ft",
+        "0.24 acre (lot)",
+        "1036 Liberty Park Dr, Austin, TX 78746"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_94",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/335/genIslnoResize.1364335_24_2.jpg"
+    ]
+}

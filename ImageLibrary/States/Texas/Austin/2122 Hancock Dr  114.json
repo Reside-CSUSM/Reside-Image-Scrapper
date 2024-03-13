@@ -1,0 +1,58 @@
+{
+    "Address": "2122 Hancock Dr #114",
+    "Price": "$315,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78756",
+    "Street": "",
+    "Stats": [
+        "$315,000",
+        "2 beds",
+        "1.5 baths",
+        "847 sq ft",
+        "2122 Hancock Dr #114, Austin, TX 78756"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_290",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.9049248_14_1.jpg"
+    ]
+}

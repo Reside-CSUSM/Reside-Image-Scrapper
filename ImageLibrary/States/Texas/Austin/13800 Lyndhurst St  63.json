@@ -1,0 +1,76 @@
+{
+    "Address": "13800 Lyndhurst St #63",
+    "Price": "$420,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78717",
+    "Street": "",
+    "Stats": [
+        "$420,000",
+        "3 beds",
+        "2.5 baths",
+        "1,779 sq ft",
+        "13800 Lyndhurst St #63, Austin, TX 78717"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_83",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/474/genIslnoResize.5448474_32_0.jpg"
+    ]
+}

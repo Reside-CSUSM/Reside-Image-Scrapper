@@ -1,0 +1,55 @@
+{
+    "Address": "2713 Cascade Dr",
+    "Price": "$750,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78757",
+    "Street": "",
+    "Stats": [
+        "$750,000",
+        "4 beds",
+        "3 baths",
+        "2,528 sq ft",
+        "9,308 sq ft (lot)",
+        "2713 Cascade Dr, Austin, TX 78757"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_105",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/004/genIslnoResize.2577004_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/004/genIslnoResize.2577004_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/004/genIslnoResize.2577004_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/004/genIslnoResize.2577004_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/004/genIslnoResize.2577004_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/004/genIslnoResize.2577004_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/004/genIslnoResize.2577004_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/004/genIslnoResize.2577004_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/004/genIslnoResize.2577004_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/004/genIslnoResize.2577004_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/004/genIslnoResize.2577004_10_0.jpg"
+    ]
+}

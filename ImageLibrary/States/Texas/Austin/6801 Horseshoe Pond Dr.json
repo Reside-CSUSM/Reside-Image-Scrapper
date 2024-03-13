@@ -1,0 +1,69 @@
+{
+    "Address": "6801 Horseshoe Pond Dr",
+    "Price": "$330,000",
+    "State": "TX",
+    "City": "Del Valle",
+    "ZipCode": "78617",
+    "Street": "",
+    "Stats": [
+        "$330,000",
+        "3 beds",
+        "2 baths",
+        "1,577 sq ft",
+        "4,948 sq ft (lot)",
+        "6801 Horseshoe Pond Dr, Del Valle, TX 78617"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_181",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.4804945_24_0.jpg"
+    ]
+}

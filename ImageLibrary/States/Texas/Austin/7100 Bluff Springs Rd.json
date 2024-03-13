@@ -1,0 +1,68 @@
+{
+    "Address": " | 7100 Bluff Springs Rd",
+    "Price": "$1,499/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78744",
+    "Street": "",
+    "Stats": [
+        "$1,499/mo",
+        "2 beds",
+        "2 baths",
+        "994-1,004 sq ft",
+        "Bluff Springs Townhomes",
+        " | 7100 Bluff Springs Rd, Austin, TX 78744",
+        "10 units available \u2022 Pets welcome \u2022 Parking",
+        "Schedule a tour",
+        "(737) 313-8857"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_128",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6134193-2233-44cb-b6e1-35ba134ca8e4/islphoto/genIsl.20_3.jpg"
+    ]
+}

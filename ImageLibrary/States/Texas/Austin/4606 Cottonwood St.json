@@ -1,0 +1,75 @@
+{
+    "Address": "4606 Cottonwood St",
+    "Price": "$475,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78744",
+    "Street": "",
+    "Stats": [
+        "$475,000",
+        "3 beds",
+        "2.5 baths",
+        "2,234 sq ft",
+        "7,470 sq ft (lot)",
+        "4606 Cottonwood St, Austin, TX 78744"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_286",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/826/genIslnoResize.6048826_30_1.jpg"
+    ]
+}

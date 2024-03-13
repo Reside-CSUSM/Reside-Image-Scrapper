@@ -1,0 +1,66 @@
+{
+    "Address": " | 715 W Slaughter Ln",
+    "Price": "$1,229+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78748",
+    "Street": "",
+    "Stats": [
+        "$1,229+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "582-1,160 sq ft",
+        "Bridge at Southpark Meadows",
+        " | 715 W Slaughter Ln, Austin, TX 78748",
+        "73 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(737) 358-9036"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_132",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cd7da544-5a32-4e82-9543-4f1850cdd694/islphoto/genIsl.18_2.jpg"
+    ]
+}

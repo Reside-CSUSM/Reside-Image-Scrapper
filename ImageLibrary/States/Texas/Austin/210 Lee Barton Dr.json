@@ -1,0 +1,51 @@
+{
+    "Address": "210 Lee Barton Dr",
+    "Price": "$940/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$940/mo",
+        "1 bed",
+        "1 bath",
+        "650 sq ft",
+        "210 Lee Barton Dr, Austin, TX 78704",
+        "Pets welcome \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour",
+        "(844) 881-8332"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_208",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ad9515b9-fb39-47b3-bf36-127a86e7248b/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ad9515b9-fb39-47b3-bf36-127a86e7248b/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ad9515b9-fb39-47b3-bf36-127a86e7248b/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ad9515b9-fb39-47b3-bf36-127a86e7248b/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ad9515b9-fb39-47b3-bf36-127a86e7248b/islphoto/genIsl.4_2.jpg"
+    ]
+}

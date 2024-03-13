@@ -1,0 +1,61 @@
+{
+    "Address": "1605 Berene Ave",
+    "Price": "$495,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78721",
+    "Street": "",
+    "Stats": [
+        "$495,000",
+        "2 beds",
+        "2 baths",
+        "1,044 sq ft",
+        "6,534 sq ft (lot)",
+        "1605 Berene Ave, Austin, TX 78721"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_87",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/588/genIslnoResize.7369588_16_0.jpg"
+    ]
+}

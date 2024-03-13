@@ -1,0 +1,69 @@
+{
+    "Address": "4005 Clawson Condo Rd Unit A/B",
+    "Price": "$1,400,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$1,400,000",
+        "6 beds",
+        "3 baths",
+        "3,531 sq ft",
+        "4,312 sq ft (lot)",
+        "4005 Clawson Condo Rd Unit A/B, Austin, TX 78704"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_250",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/486/genIslnoResize.6298486_24_0.jpg"
+    ]
+}

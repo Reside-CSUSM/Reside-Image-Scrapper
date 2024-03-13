@@ -1,0 +1,76 @@
+{
+    "Address": "2624 Deerfoot Trl",
+    "Price": "$4,995,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$4,995,000",
+        "4 beds",
+        "3.5 baths",
+        "4,313 sq ft",
+        "0.28 acre (lot)",
+        "2624 Deerfoot Trl, Austin, TX 78704"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_137",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/290/genIslnoResize.7594290_31_1.jpg"
+    ]
+}

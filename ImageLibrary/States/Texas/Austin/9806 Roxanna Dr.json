@@ -1,0 +1,58 @@
+{
+    "Address": "9806 Roxanna Dr",
+    "Price": "$1,325/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78748",
+    "Street": "",
+    "Stats": [
+        "$1,325/mo",
+        "2 beds",
+        "1 bath",
+        "748 sq ft",
+        "9806 Roxanna Dr, Austin, TX 78748",
+        "Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(512) 398-5527"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_127",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a46f95ab-87b9-4a49-8706-187ce58e96ac/islphoto/genIsl.17_3.jpg"
+    ]
+}

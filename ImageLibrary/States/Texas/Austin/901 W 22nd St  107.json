@@ -1,0 +1,58 @@
+{
+    "Address": "901 W 22nd St #107",
+    "Price": "$1,375/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$1,375/mo",
+        "1 bed",
+        "1 bath",
+        "438 sq ft",
+        "901 W 22nd St #107, Austin, TX 78705",
+        "Cats welcome \u2022 Laundry in unit \u2022 Walker's paradise",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_346",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/32851220-857f-42ce-bc02-96a0e05d9f7a/islphoto/genIsl.12_1.jpg"
+    ]
+}

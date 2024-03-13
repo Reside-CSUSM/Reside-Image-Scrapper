@@ -1,0 +1,75 @@
+{
+    "Address": "15801 Crissom Ln #17",
+    "Price": "$509,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78728",
+    "Street": "",
+    "Stats": [
+        "$509,000",
+        "3 beds",
+        "2.5 baths",
+        "2,023 sq ft",
+        "15801 Crissom Ln #17, Austin, TX 78728"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_252",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/149/genIslnoResize.1980149_31_0.jpg"
+    ]
+}

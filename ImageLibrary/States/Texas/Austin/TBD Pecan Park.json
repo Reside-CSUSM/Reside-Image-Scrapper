@@ -1,0 +1,46 @@
+{
+    "Address": "TBD Pecan Park",
+    "Price": "$115,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78750",
+    "Street": "",
+    "Stats": [
+        "$115,000",
+        "0 beds",
+        "\u2014 baths",
+        "1.25 acres (lot)",
+        "TBD Pecan Park, Austin, TX 78750"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_347",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/172/genIslnoResize.3768172_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/172/genIslnoResize.3768172_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/172/genIslnoResize.3768172_2_0.jpg"
+    ]
+}

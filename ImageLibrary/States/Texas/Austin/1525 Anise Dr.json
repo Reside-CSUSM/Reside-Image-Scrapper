@@ -1,0 +1,71 @@
+{
+    "Address": "1525 Anise Dr",
+    "Price": "$2,500/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$2,500/mo",
+        "4 beds",
+        "2 baths",
+        "1,586 sq ft",
+        "1525 Anise Dr, Austin, TX 78741",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(512) 743-9427"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_232",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3a9ff958-e2f2-4f71-b2f6-256af5fb254a/islphoto/genIsl.24_2.jpg"
+    ]
+}

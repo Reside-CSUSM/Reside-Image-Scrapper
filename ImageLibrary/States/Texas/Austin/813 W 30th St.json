@@ -1,0 +1,55 @@
+{
+    "Address": "813 W 30th St",
+    "Price": "$2,800/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$2,800/mo",
+        "2 beds",
+        "1 bath",
+        "1,007 sq ft",
+        "813 W 30th St, Austin, TX 78705",
+        "Parking \u2022 Walker's paradise \u2022 Good transit",
+        "Request a tour",
+        "(512) 921-8640"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_287",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f33c2c14-ee77-44d4-a2a5-3421bb945c96/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f33c2c14-ee77-44d4-a2a5-3421bb945c96/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f33c2c14-ee77-44d4-a2a5-3421bb945c96/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f33c2c14-ee77-44d4-a2a5-3421bb945c96/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f33c2c14-ee77-44d4-a2a5-3421bb945c96/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f33c2c14-ee77-44d4-a2a5-3421bb945c96/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f33c2c14-ee77-44d4-a2a5-3421bb945c96/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f33c2c14-ee77-44d4-a2a5-3421bb945c96/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f33c2c14-ee77-44d4-a2a5-3421bb945c96/islphoto/genIsl.8_1.jpg"
+    ]
+}

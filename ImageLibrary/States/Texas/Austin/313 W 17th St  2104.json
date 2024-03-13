@@ -1,0 +1,51 @@
+{
+    "Address": "313 W 17th St #2104",
+    "Price": "$1,895,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78701",
+    "Street": "",
+    "Stats": [
+        "$1,895,000",
+        "2 beds",
+        "2 baths",
+        "1,583 sq ft",
+        "313 W 17th St #2104, Austin, TX 78701"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_101",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/990/genIslnoResize.3663990_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/990/genIslnoResize.3663990_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/990/genIslnoResize.3663990_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/990/genIslnoResize.3663990_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/990/genIslnoResize.3663990_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/990/genIslnoResize.3663990_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/990/genIslnoResize.3663990_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/990/genIslnoResize.3663990_7_0.jpg"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Address": " | 305 E Yager Ln",
+    "Price": "$1,260/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$1,260/mo",
+        "1 bed",
+        "1 bath",
+        "755 sq ft",
+        "Oxford at Tech Ridge",
+        " | 305 E Yager Ln, Austin, TX 78753",
+        "3 units available \u2022 Pets welcome \u2022 Laundry hookups",
+        "Schedule a tour",
+        "(737) 637-2655"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_146",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/871bb2d6-df3c-4c0e-bf46-c62e0debf088/islphoto/genIsl.11_2.jpg"
+    ]
+}

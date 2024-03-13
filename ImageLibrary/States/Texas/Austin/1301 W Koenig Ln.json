@@ -1,0 +1,87 @@
+{
+    "Address": " | 1301 W Koenig Ln",
+    "Price": "$1,336+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78756",
+    "Street": "",
+    "Stats": [
+        "$1,336+/mo",
+        "0-2 beds",
+        "1-2 bath",
+        "452-1,091 sq ft",
+        "The Pearl",
+        " | 1301 W Koenig Ln, Austin, TX 78756",
+        "57 units available \u2022 Pets welcome \u2022 Controlled access",
+        "Request a tour",
+        "(737) 309-3432"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_28",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.31_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.32_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.33_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.34_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.35_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.36_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.37_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.38_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/927bba25-8b29-4469-bddf-1bcbcceeefbe/islphoto/genIsl.39_1.jpg"
+    ]
+}

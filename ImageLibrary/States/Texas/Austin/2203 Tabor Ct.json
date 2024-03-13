@@ -1,0 +1,56 @@
+{
+    "Address": "2203 Tabor Ct",
+    "Price": "$1,025/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78748",
+    "Street": "",
+    "Stats": [
+        "$1,025/mo",
+        "2 beds",
+        "1 bath",
+        "900 sq ft",
+        "2203 Tabor Ct, Austin, TX 78748",
+        "Pets welcome \u2022 Somewhat walkable \u2022 Some transit",
+        "Request a tour",
+        "(877) 318-8160"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_168",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3b0453d9-9956-495b-ac45-65a43553cc18/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b0453d9-9956-495b-ac45-65a43553cc18/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b0453d9-9956-495b-ac45-65a43553cc18/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b0453d9-9956-495b-ac45-65a43553cc18/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b0453d9-9956-495b-ac45-65a43553cc18/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b0453d9-9956-495b-ac45-65a43553cc18/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b0453d9-9956-495b-ac45-65a43553cc18/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b0453d9-9956-495b-ac45-65a43553cc18/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b0453d9-9956-495b-ac45-65a43553cc18/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b0453d9-9956-495b-ac45-65a43553cc18/islphoto/genIsl.9_1.jpg"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Address": "6400 Zadock Woods Dr",
+    "Price": "$799,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78749",
+    "Street": "",
+    "Stats": [
+        "$799,000",
+        "3 beds",
+        "2.5 baths",
+        "2,939 sq ft",
+        "8,115 sq ft (lot)",
+        "6400 Zadock Woods Dr, Austin, TX 78749"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_310",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_1.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_68.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_66.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_8.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_10.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_11.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_14.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_15.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_16.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_17.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_18.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_19.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_20.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_21.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_29.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_22.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_71.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_24.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_25.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_28.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_27.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_30.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_64.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_69.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_70.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_65.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_34.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_37.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_40.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_43.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_44.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_45.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_47.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_4.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_49.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_51.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_56.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_55.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/897012_JPG/genDesktopMapHomeCardUrl/item_63.jpg"
+    ]
+}

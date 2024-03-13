@@ -1,0 +1,77 @@
+{
+    "Address": "4811 Timberline Dr",
+    "Price": "$6,300,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78746",
+    "Street": "",
+    "Stats": [
+        "$6,300,000",
+        "4 beds",
+        "5 baths",
+        "6,172 sq ft",
+        "0.33 acre (lot)",
+        "4811 Timberline Dr, Austin, TX 78746"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_65",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_31_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/298/genIslnoResize.8892298_32_1.jpg"
+    ]
+}

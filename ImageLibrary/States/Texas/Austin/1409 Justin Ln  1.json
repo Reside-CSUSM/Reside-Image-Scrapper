@@ -1,0 +1,60 @@
+{
+    "Address": "1409 Justin Ln #1",
+    "Price": "$565,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78757",
+    "Street": "",
+    "Stats": [
+        "$565,000",
+        "2 beds",
+        "1 bath",
+        "1,128 sq ft",
+        "8,942 sq ft (lot)",
+        "1409 Justin Ln #1, Austin, TX 78757"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_19",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/093/genIslnoResize.6947093_15_0.jpg"
+    ]
+}

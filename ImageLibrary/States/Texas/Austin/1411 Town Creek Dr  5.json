@@ -1,0 +1,78 @@
+{
+    "Address": "1411 Town Creek Dr #5",
+    "Price": "$975,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$975,000",
+        "4 beds",
+        "4.5 baths",
+        "2,552 sq ft",
+        "1411 Town Creek Dr #5, Austin, TX 78741"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_219",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/115/genIslnoResize.7790115_34_0.jpg"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Address": "601 Nelray Blvd #10",
+    "Price": "$1,200/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78751",
+    "Street": "",
+    "Stats": [
+        "$1,200/mo",
+        "1 bed",
+        "1 bath",
+        "390 sq ft",
+        "601 Nelray Blvd #10, Austin, TX 78751",
+        "Pets welcome \u2022 Laundry in unit \u2022 Parking",
+        "Request a tour",
+        "(512) 460-0145"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_259",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1a78a79e-c7c3-40d9-a3e6-e5376ff87a79/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1a78a79e-c7c3-40d9-a3e6-e5376ff87a79/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1a78a79e-c7c3-40d9-a3e6-e5376ff87a79/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1a78a79e-c7c3-40d9-a3e6-e5376ff87a79/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1a78a79e-c7c3-40d9-a3e6-e5376ff87a79/islphoto/genIsl.4_1.jpg"
+    ]
+}

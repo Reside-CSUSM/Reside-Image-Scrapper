@@ -1,0 +1,69 @@
+{
+    "Address": "3115 Helms St St #216",
+    "Price": "$315,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$315,000",
+        "2 beds",
+        "2 baths",
+        "887 sq ft",
+        "3115 Helms St St #216, Austin, TX 78705"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_112",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/316/genIslnoResize.1866316_25_1.jpg"
+    ]
+}

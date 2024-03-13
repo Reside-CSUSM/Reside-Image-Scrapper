@@ -1,0 +1,58 @@
+{
+    "Address": " | 6936 E Ben White Blvd",
+    "Price": "$1,287+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$1,287+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "851-1,094 sq ft",
+        "The Oaks at Ben White",
+        " | 6936 E Ben White Blvd, Austin, TX 78741",
+        "6 units available \u2022 Pets welcome \u2022 Car-dependent",
+        "Schedule a tour",
+        "(737) 787-5776"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_80",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/bbea0001-0daa-41a2-866e-d9aadc3edf8d/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bbea0001-0daa-41a2-866e-d9aadc3edf8d/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bbea0001-0daa-41a2-866e-d9aadc3edf8d/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bbea0001-0daa-41a2-866e-d9aadc3edf8d/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bbea0001-0daa-41a2-866e-d9aadc3edf8d/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bbea0001-0daa-41a2-866e-d9aadc3edf8d/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bbea0001-0daa-41a2-866e-d9aadc3edf8d/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bbea0001-0daa-41a2-866e-d9aadc3edf8d/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bbea0001-0daa-41a2-866e-d9aadc3edf8d/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bbea0001-0daa-41a2-866e-d9aadc3edf8d/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bbea0001-0daa-41a2-866e-d9aadc3edf8d/islphoto/genIsl.10_1.jpg"
+    ]
+}

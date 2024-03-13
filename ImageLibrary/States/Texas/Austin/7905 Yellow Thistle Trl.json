@@ -1,0 +1,70 @@
+{
+    "Address": "7905 Yellow Thistle Trl",
+    "Price": "$735,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78735",
+    "Street": "",
+    "Stats": [
+        "$735,000",
+        "3 beds",
+        "3 baths",
+        "1,931 sq ft",
+        "9,256 sq ft (lot)",
+        "7905 Yellow Thistle Trl, Austin, TX 78735"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_104",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/919/genIslnoResize.9551919_25_0.jpg"
+    ]
+}

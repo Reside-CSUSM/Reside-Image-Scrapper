@@ -1,0 +1,57 @@
+{
+    "Address": "1608 Pease Rd",
+    "Price": "$1,925,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78703",
+    "Street": "",
+    "Stats": [
+        "$1,925,000",
+        "0 beds",
+        "\u2014 baths",
+        "8,245 sq ft (lot)",
+        "1608 Pease Rd, Austin, TX 78703"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_334",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/579/genIslnoResize.8180579_13_0.jpg"
+    ]
+}

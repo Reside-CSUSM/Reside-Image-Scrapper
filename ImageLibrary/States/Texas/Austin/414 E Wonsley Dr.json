@@ -1,0 +1,77 @@
+{
+    "Address": " | 414 E Wonsley Dr",
+    "Price": "$1,171+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$1,171+/mo",
+        "0-2 beds",
+        "1-2 bath",
+        "510-900 sq ft",
+        "Bridge at Granada",
+        " | 414 E Wonsley Dr, Austin, TX 78753",
+        "37 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(737) 320-3176"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_69",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.0_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.7_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.8_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.9_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.10_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.11_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.12_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.13_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.14_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.15_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.16_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.26_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96a7de7c-9c24-4373-a917-88598dd0068f/islphoto/genIsl.29_2.jpg"
+    ]
+}

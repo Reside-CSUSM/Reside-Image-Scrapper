@@ -1,0 +1,81 @@
+{
+    "Address": "8705 Merion Cir",
+    "Price": "$349,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78754",
+    "Street": "",
+    "Stats": [
+        "$349,900",
+        "3 beds",
+        "2.5 baths",
+        "1,683 sq ft",
+        "2,570 sq ft (lot)",
+        "8705 Merion Cir, Austin, TX 78754"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_270",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_35_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/663/genIslnoResize.8905663_36_0.jpg"
+    ]
+}

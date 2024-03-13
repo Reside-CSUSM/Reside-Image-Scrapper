@@ -1,0 +1,74 @@
+{
+    "Address": "2918 Ranch Road 620 N Unit J160",
+    "Price": "$2,800/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78734",
+    "Street": "",
+    "Stats": [
+        "$2,800/mo",
+        "2 beds",
+        "2 baths",
+        "1,160 sq ft",
+        "2918 Ranch Road 620 N Unit J160, Austin, TX 78734",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(512) 200-2187"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_328",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/de8ffc24-2a95-42f7-a70d-7a6de9e41ffc/islphoto/genIsl.27_2.jpg"
+    ]
+}

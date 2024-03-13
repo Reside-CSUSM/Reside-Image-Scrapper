@@ -1,0 +1,66 @@
+{
+    "Address": " | 701 W Longspur Blvd",
+    "Price": "$951+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$951+/mo",
+        "0-2 beds",
+        "1-2 bath",
+        "451-1,006 sq ft",
+        "Longspur Crossing",
+        " | 701 W Longspur Blvd, Austin, TX 78753",
+        "Pets welcome \u2022 Laundry hookups \u2022 Parking",
+        "Request a tour",
+        "(737) 637-2262"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_64",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/45f56702-0f92-4e64-afa7-452e51d41f61/islphoto/genIsl.18_1.jpg"
+    ]
+}

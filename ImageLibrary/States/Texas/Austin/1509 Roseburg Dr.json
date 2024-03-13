@@ -1,0 +1,70 @@
+{
+    "Address": "1509 Roseburg Dr",
+    "Price": "$2,295/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78754",
+    "Street": "",
+    "Stats": [
+        "$2,295/mo",
+        "3 beds",
+        "2 baths",
+        "1,729 sq ft",
+        "1509 Roseburg Dr, Austin, TX 78754",
+        "Car-dependent \u2022 Minimal transit",
+        "Request a tour",
+        "(844) 359-9018"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_188",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/01cb176c-b364-4a1a-8966-e97876856c64/islphoto/genIsl.23_1.jpg"
+    ]
+}

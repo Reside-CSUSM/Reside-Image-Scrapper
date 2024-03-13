@@ -1,0 +1,75 @@
+{
+    "Address": "2524 Star Grass Cir",
+    "Price": "$500,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$500,000",
+        "3 beds",
+        "2.5 baths",
+        "1,984 sq ft",
+        "0.82 acre (lot)",
+        "2524 Star Grass Cir, Austin, TX 78745"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_256",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/336/genIslnoResize.5958336_30_0.jpg"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Address": "8311 Georgian Dr",
+    "Price": "$337,500",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$337,500",
+        "0 beds",
+        "\u2014 baths",
+        "\u2014 sq ft",
+        "9,286 sq ft (lot)",
+        "8311 Georgian Dr, Austin, TX 78753"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_308",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": []
+}

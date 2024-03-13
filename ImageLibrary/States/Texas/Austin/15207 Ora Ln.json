@@ -1,0 +1,72 @@
+{
+    "Address": "15207 Ora Ln",
+    "Price": "$1,995/mo",
+    "State": "TX",
+    "City": "Pflugerville",
+    "ZipCode": "78660",
+    "Street": "",
+    "Stats": [
+        "$1,995/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,822 sq ft",
+        "15207 Ora Ln, Pflugerville, TX 78660",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(737) 292-6961"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_345",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/51a6e506-b359-43e7-a120-fb22d7deabec/islphoto/genIsl.25_1.jpg"
+    ]
+}

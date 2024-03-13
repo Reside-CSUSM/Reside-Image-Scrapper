@@ -1,0 +1,69 @@
+{
+    "Address": "3909 Berryhill Way",
+    "Price": "$1,125,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78731",
+    "Street": "",
+    "Stats": [
+        "$1,125,000",
+        "4 beds",
+        "2.5 baths",
+        "2,619 sq ft",
+        "0.25 acre (lot)",
+        "3909 Berryhill Way, Austin, TX 78731"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_64",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/637/genIslnoResize.1914637_24_0.jpg"
+    ]
+}

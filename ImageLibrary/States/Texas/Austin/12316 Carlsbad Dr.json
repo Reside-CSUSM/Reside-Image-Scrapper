@@ -1,0 +1,77 @@
+{
+    "Address": "12316 Carlsbad Dr",
+    "Price": "$1,150,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78738",
+    "Street": "",
+    "Stats": [
+        "$1,150,000",
+        "4 beds",
+        "3.5 baths",
+        "3,353 sq ft",
+        "8,537 sq ft (lot)",
+        "12316 Carlsbad Dr, Austin, TX 78738"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_217",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/504/genIslnoResize.8385504_32_0.jpg"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "Address": "1313 Fort Branch Blvd Unit B",
+    "Price": "$2,275/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78721",
+    "Street": "",
+    "Stats": [
+        "$2,275/mo",
+        "2 beds",
+        "1 bath",
+        "940 sq ft",
+        "1313 Fort Branch Blvd Unit B, Austin, TX 78721",
+        "Car-dependent \u2022 Some transit",
+        "Request a tour",
+        "(866) 641-8250"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_192",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/032b009d-142b-4207-9dc6-769018a8820a/islphoto/genIsl.17_1.jpg"
+    ]
+}

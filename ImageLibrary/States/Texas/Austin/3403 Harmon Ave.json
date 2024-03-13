@@ -1,0 +1,56 @@
+{
+    "Address": " | 3403 Harmon Ave",
+    "Price": "$1,389+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$1,389+/mo",
+        "0-1 beds",
+        "1 bath",
+        "437-870 sq ft",
+        "Troubadour",
+        " | 3403 Harmon Ave, Austin, TX 78705",
+        "51 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(512) 254-5336"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_42",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/bba9f6a1-5678-4909-b20c-428319095135/islphoto/genIsl.0_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bba9f6a1-5678-4909-b20c-428319095135/islphoto/genIsl.1_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bba9f6a1-5678-4909-b20c-428319095135/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bba9f6a1-5678-4909-b20c-428319095135/islphoto/genIsl.3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bba9f6a1-5678-4909-b20c-428319095135/islphoto/genIsl.4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bba9f6a1-5678-4909-b20c-428319095135/islphoto/genIsl.5_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bba9f6a1-5678-4909-b20c-428319095135/islphoto/genIsl.6_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bba9f6a1-5678-4909-b20c-428319095135/islphoto/genIsl.7_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bba9f6a1-5678-4909-b20c-428319095135/islphoto/genIsl.8_6.jpg"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Address": "5002 Arax Cv",
+    "Price": "$400,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78731",
+    "Street": "",
+    "Stats": [
+        "$400,000",
+        "0 beds",
+        "\u2014 baths",
+        "0.58 acre (lot)",
+        "5002 Arax Cv, Austin, TX 78731"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_348",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": []
+}

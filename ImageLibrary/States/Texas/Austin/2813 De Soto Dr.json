@@ -1,0 +1,70 @@
+{
+    "Address": "2813 De Soto Dr",
+    "Price": "$1,095,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78733",
+    "Street": "",
+    "Stats": [
+        "$1,095,000",
+        "4 beds",
+        "2.5 baths",
+        "2,600 sq ft",
+        "0.24 acre (lot)",
+        "2813 De Soto Dr, Austin, TX 78733"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_127",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/509/genIslnoResize.4907509_25_3.jpg"
+    ]
+}

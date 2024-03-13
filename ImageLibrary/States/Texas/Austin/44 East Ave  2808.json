@@ -1,0 +1,56 @@
+{
+    "Address": "44 East Ave #2808",
+    "Price": "$785,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78701",
+    "Street": "",
+    "Stats": [
+        "$785,000",
+        "2 beds",
+        "2 baths",
+        "796 sq ft",
+        "44 East Ave #2808, Austin, TX 78701"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_170",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/356/genIslnoResize.2822356_12_0.jpg"
+    ]
+}

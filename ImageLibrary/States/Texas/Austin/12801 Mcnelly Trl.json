@@ -1,0 +1,63 @@
+{
+    "Address": "12801 Mcnelly Trl",
+    "Price": "$779,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78732",
+    "Street": "",
+    "Stats": [
+        "$779,000",
+        "3 beds",
+        "2.5 baths",
+        "2,770 sq ft",
+        "7,575 sq ft (lot)",
+        "12801 Mcnelly Trl, Austin, TX 78732"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_208",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/658/genIslnoResize.1526658_18_0.jpg"
+    ]
+}

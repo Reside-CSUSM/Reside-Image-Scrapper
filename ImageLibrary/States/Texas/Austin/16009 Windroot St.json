@@ -1,0 +1,76 @@
+{
+    "Address": "16009 Windroot St",
+    "Price": "$488,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78728",
+    "Street": "",
+    "Stats": [
+        "$488,900",
+        "3 beds",
+        "2.5 baths",
+        "1,732 sq ft",
+        "4,181 sq ft (lot)",
+        "16009 Windroot St, Austin, TX 78728"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_70",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/378/genIslnoResize.5270378_31_1.jpg"
+    ]
+}

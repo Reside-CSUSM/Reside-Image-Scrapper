@@ -1,0 +1,74 @@
+{
+    "Address": "7314 Shadywood Dr",
+    "Price": "$480,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$480,000",
+        "3 beds",
+        "2 baths",
+        "941 sq ft",
+        "7,143 sq ft (lot)",
+        "7314 Shadywood Dr, Austin, TX 78745"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_232",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/840/genIslnoResize.2349840_29_0.jpg"
+    ]
+}

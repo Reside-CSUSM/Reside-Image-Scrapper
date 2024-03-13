@@ -1,0 +1,54 @@
+{
+    "Address": "4508 Norwood Ln",
+    "Price": "$499,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78744",
+    "Street": "",
+    "Stats": [
+        "$499,000",
+        "3 beds",
+        "1 bath",
+        "1,092 sq ft",
+        "1.04 acres (lot)",
+        "4508 Norwood Ln, Austin, TX 78744"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_272",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/818/genIslnoResize.9605818_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/818/genIslnoResize.9605818_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/818/genIslnoResize.9605818_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/818/genIslnoResize.9605818_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/818/genIslnoResize.9605818_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/818/genIslnoResize.9605818_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/818/genIslnoResize.9605818_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/818/genIslnoResize.9605818_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/818/genIslnoResize.9605818_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/818/genIslnoResize.9605818_9_0.jpg"
+    ]
+}

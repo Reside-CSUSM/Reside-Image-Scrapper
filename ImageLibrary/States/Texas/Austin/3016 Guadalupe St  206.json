@@ -1,0 +1,49 @@
+{
+    "Address": "3016 Guadalupe St #206",
+    "Price": "$2,430/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$2,430/mo",
+        "2 beds",
+        "2 baths",
+        "1,053 sq ft",
+        "3016 Guadalupe St #206, Austin, TX 78705",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(512) 940-9634"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_337",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a3af83fe-350c-426f-9bf1-6e5645dff9e1/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3af83fe-350c-426f-9bf1-6e5645dff9e1/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a3af83fe-350c-426f-9bf1-6e5645dff9e1/islphoto/genIsl.2_1.jpg"
+    ]
+}

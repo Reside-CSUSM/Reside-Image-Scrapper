@@ -1,0 +1,72 @@
+{
+    "Address": "2605 Monarch Dr",
+    "Price": "$639,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78748",
+    "Street": "",
+    "Stats": [
+        "$639,900",
+        "3 beds",
+        "2 baths",
+        "1,753 sq ft",
+        "6,159 sq ft (lot)",
+        "2605 Monarch Dr, Austin, TX 78748"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_151",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/357/genIslnoResize.2005357_27_0.jpg"
+    ]
+}

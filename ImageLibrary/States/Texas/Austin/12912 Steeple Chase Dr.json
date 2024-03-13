@@ -1,0 +1,78 @@
+{
+    "Address": "12912 Steeple Chase Dr",
+    "Price": "$410,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78729",
+    "Street": "",
+    "Stats": [
+        "$410,000",
+        "3 beds",
+        "2.5 baths",
+        "1,660 sq ft",
+        "12912 Steeple Chase Dr, Austin, TX 78729"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_152",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/827/genIslnoResize.3552827_34_0.jpg"
+    ]
+}

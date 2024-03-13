@@ -1,0 +1,76 @@
+{
+    "Address": "501 West Ave #1406",
+    "Price": "$680,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78701",
+    "Street": "",
+    "Stats": [
+        "$680,000",
+        "1 bed",
+        "1 bath",
+        "652 sq ft",
+        "501 West Ave #1406, Austin, TX 78701"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_84",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_1_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_3_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_4_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_5_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_6_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_7_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_8_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_9_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_10_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_11_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_12_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_13_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_14_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_15_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_16_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_17_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_18_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_19_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_20_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_21_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_22_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_23_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_24_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_25_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_26_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_27_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_28_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_29_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_30_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_31_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/322/genIslnoResize.1595322_32_4.jpg"
+    ]
+}

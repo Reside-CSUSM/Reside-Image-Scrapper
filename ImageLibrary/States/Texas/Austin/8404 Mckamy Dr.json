@@ -1,0 +1,59 @@
+{
+    "Address": "8404 Mckamy Dr",
+    "Price": "$507,575",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78744",
+    "Street": "",
+    "Stats": [
+        "$507,575",
+        "4 beds",
+        "2.5 baths",
+        "2,274 sq ft",
+        "5,048 sq ft (lot)",
+        "8404 Mckamy Dr, Austin, TX 78744"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_265",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/111/genIslnoResize.3765111_14_0.jpg"
+    ]
+}

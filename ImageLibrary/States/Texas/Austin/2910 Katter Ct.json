@@ -1,0 +1,54 @@
+{
+    "Address": "2910 Katter Ct",
+    "Price": "$159,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78734",
+    "Street": "",
+    "Stats": [
+        "$159,000",
+        "0 beds",
+        "\u2014 baths",
+        "0.26 acre (lot)",
+        "2910 Katter Ct, Austin, TX 78734"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_349",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/system_files/media/874251_JPG/genDesktopMapHomeCardUrl/item_24.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/874251_JPG/genDesktopMapHomeCardUrl/item_25.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/874251_JPG/genDesktopMapHomeCardUrl/item_14.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/874251_JPG/genDesktopMapHomeCardUrl/item_12.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/874251_JPG/genDesktopMapHomeCardUrl/item_9.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/874251_JPG/genDesktopMapHomeCardUrl/item_18.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/874251_JPG/genDesktopMapHomeCardUrl/item_3.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/874251_JPG/genDesktopMapHomeCardUrl/item_5.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/874251_JPG/genDesktopMapHomeCardUrl/item_6.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/874251_JPG/genDesktopMapHomeCardUrl/item_7.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/874251_JPG/genDesktopMapHomeCardUrl/item_16.jpg"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Address": "9117 Indigo Sky Dr",
+    "Price": "$1,965/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78724",
+    "Street": "",
+    "Stats": [
+        "$1,965/mo",
+        "4 beds",
+        "2 baths",
+        "1,429 sq ft",
+        "9117 Indigo Sky Dr, Austin, TX 78724",
+        "Pets welcome \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour",
+        "(844) 228-6504"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_209",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.13_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.14_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39067f8f-3b62-48e4-9dfa-444808966d93/islphoto/genIsl.15_4.jpg"
+    ]
+}

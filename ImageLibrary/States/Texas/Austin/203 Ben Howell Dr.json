@@ -1,0 +1,73 @@
+{
+    "Address": "203 Ben Howell Dr",
+    "Price": "$925,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$925,000",
+        "3 beds",
+        "3 baths",
+        "1,486 sq ft",
+        "6,403 sq ft (lot)",
+        "203 Ben Howell Dr, Austin, TX 78704"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_142",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/136/genIslnoResize.5283136_28_1.jpg"
+    ]
+}

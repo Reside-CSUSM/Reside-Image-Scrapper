@@ -1,0 +1,84 @@
+{
+    "Address": " | 16100 Lake Travis Dr",
+    "Price": "$1,450+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78734",
+    "Street": "",
+    "Stats": [
+        "$1,450+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "639-1,474 sq ft",
+        "The Hudson on Lake Travis",
+        " | 16100 Lake Travis Dr, Austin, TX 78734",
+        "7 units available \u2022 Pets welcome \u2022 Laundry hookups",
+        "Request a tour",
+        "(737) 358-6586"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_73",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.31_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.32_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.33_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.34_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.35_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/ab84c401-0192-4931-bb96-b9642eca94ca/islphoto/genIsl.36_1.jpg"
+    ]
+}

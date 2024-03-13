@@ -1,0 +1,59 @@
+{
+    "Address": "8315 Cottage Rose Dr",
+    "Price": "$510,362",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78744",
+    "Street": "",
+    "Stats": [
+        "$510,362",
+        "4 beds",
+        "2.5 baths",
+        "2,275 sq ft",
+        "4,395 sq ft (lot)",
+        "8315 Cottage Rose Dr, Austin, TX 78744"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/586/genIslnoResize.4072586_14_0.jpg"
+    ]
+}

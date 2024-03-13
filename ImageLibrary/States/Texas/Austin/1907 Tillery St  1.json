@@ -1,0 +1,54 @@
+{
+    "Address": "1907 Tillery St #1",
+    "Price": "$575,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78723",
+    "Street": "",
+    "Stats": [
+        "$575,000",
+        "3 beds",
+        "2 baths",
+        "1,252 sq ft",
+        "4,225 sq ft (lot)",
+        "1907 Tillery St #1, Austin, TX 78723"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_225",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/398/genIslnoResize.3870398_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/398/genIslnoResize.3870398_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/398/genIslnoResize.3870398_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/398/genIslnoResize.3870398_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/398/genIslnoResize.3870398_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/398/genIslnoResize.3870398_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/398/genIslnoResize.3870398_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/398/genIslnoResize.3870398_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/398/genIslnoResize.3870398_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/398/genIslnoResize.3870398_9_0.jpg"
+    ]
+}

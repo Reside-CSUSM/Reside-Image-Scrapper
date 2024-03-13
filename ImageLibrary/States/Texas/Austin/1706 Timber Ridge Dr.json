@@ -1,0 +1,67 @@
+{
+    "Address": "1706 Timber Ridge Dr",
+    "Price": "$325,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$325,000",
+        "3 beds",
+        "2.5 baths",
+        "1,531 sq ft",
+        "1706 Timber Ridge Dr, Austin, TX 78741"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_121",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/705/genIslnoResize.7659705_23_0.jpg"
+    ]
+}

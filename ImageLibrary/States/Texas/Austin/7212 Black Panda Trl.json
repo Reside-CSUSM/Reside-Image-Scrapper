@@ -1,0 +1,73 @@
+{
+    "Address": "7212 Black Panda Trl",
+    "Price": "$275,000",
+    "State": "TX",
+    "City": "Del Valle",
+    "ZipCode": "78617",
+    "Street": "",
+    "Stats": [
+        "$275,000",
+        "3 beds",
+        "2.5 baths",
+        "1,676 sq ft",
+        "6,054 sq ft (lot)",
+        "7212 Black Panda Trl, Del Valle, TX 78617"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_233",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/551/genIslnoResize.8573551_28_0.jpg"
+    ]
+}

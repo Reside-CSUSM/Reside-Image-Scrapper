@@ -1,0 +1,75 @@
+{
+    "Address": "11607 Robert Wooding Dr",
+    "Price": "$425,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78748",
+    "Street": "",
+    "Stats": [
+        "$425,000",
+        "3 beds",
+        "2.5 baths",
+        "1,590 sq ft",
+        "5,575 sq ft (lot)",
+        "11607 Robert Wooding Dr, Austin, TX 78748"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_63",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/700/genIslnoResize.2902700_30_0.jpg"
+    ]
+}

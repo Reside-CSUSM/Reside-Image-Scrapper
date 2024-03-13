@@ -1,0 +1,71 @@
+{
+    "Address": "5404 Bennett Ave Unit A",
+    "Price": "$649,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78751",
+    "Street": "",
+    "Stats": [
+        "$649,900",
+        "2 beds",
+        "2.5 baths",
+        "1,502 sq ft",
+        "5404 Bennett Ave Unit A, Austin, TX 78751"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_246",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/161/genIslnoResize.4025161_27_0.jpg"
+    ]
+}

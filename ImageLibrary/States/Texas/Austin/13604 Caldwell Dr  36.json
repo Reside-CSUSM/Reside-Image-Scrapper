@@ -1,0 +1,68 @@
+{
+    "Address": "13604 Caldwell Dr #36",
+    "Price": "$432,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78750",
+    "Street": "",
+    "Stats": [
+        "$432,000",
+        "3 beds",
+        "2 baths",
+        "1,356 sq ft",
+        "13604 Caldwell Dr #36, Austin, TX 78750"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_312",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_2.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_4.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_6.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_7.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_8.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_9.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_10.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_12.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_13.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_14.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_15.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_16.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_18.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_19.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_20.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_21.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_23.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_24.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_25.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_26.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_27.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_28.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_30.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_31.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895263_JPG/genDesktopMapHomeCardUrl/item_1.jpg"
+    ]
+}

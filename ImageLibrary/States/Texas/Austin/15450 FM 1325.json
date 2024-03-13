@@ -1,0 +1,64 @@
+{
+    "Address": " | 15450 FM 1325",
+    "Price": "$1,305+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78728",
+    "Street": "",
+    "Stats": [
+        "$1,305+/mo",
+        "1-3 bed",
+        "1-2 bath",
+        "692-1,436 sq ft",
+        "Preserve at Rolling Oaks",
+        " | 15450 FM 1325, Austin, TX 78728",
+        "100 units available \u2022 Pets welcome \u2022 Parking",
+        "Schedule a tour",
+        "(512) 333-0937"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_56",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/5d17c977-035d-4d79-a177-5b8b1eaddacf/islphoto/genIsl.16_3.jpg"
+    ]
+}

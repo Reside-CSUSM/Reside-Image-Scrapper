@@ -1,0 +1,73 @@
+{
+    "Address": "1601 Faro Dr #2103",
+    "Price": "$269,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$269,900",
+        "1 bed",
+        "1 bath",
+        "741 sq ft",
+        "1601 Faro Dr #2103, Austin, TX 78741"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_52",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6956677_29_0.jpg"
+    ]
+}

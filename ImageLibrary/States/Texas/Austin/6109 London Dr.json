@@ -1,0 +1,65 @@
+{
+    "Address": "6109 London Dr",
+    "Price": "$677,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$677,000",
+        "3 beds",
+        "2 baths",
+        "1,400 sq ft",
+        "6,490 sq ft (lot)",
+        "6109 London Dr, Austin, TX 78745"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_107",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.4400573_20_0.jpg"
+    ]
+}

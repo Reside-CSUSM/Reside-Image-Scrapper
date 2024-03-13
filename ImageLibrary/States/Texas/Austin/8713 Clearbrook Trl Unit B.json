@@ -1,0 +1,63 @@
+{
+    "Address": "8713 Clearbrook Trl Unit B",
+    "Price": "$335,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78729",
+    "Street": "",
+    "Stats": [
+        "$335,000",
+        "2 beds",
+        "2 baths",
+        "986 sq ft",
+        "8713 Clearbrook Trl Unit B, Austin, TX 78729"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_164",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/225/islphoto/539/genIslnoResize.536539_19_0.jpg"
+    ]
+}

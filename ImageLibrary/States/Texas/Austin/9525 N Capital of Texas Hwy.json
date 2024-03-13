@@ -1,0 +1,51 @@
+{
+    "Address": "9525 N Capital of Texas Hwy",
+    "Price": "$920/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78759",
+    "Street": "",
+    "Stats": [
+        "$920/mo",
+        "0 beds",
+        "1 bath",
+        "700 sq ft",
+        "9525 N Capital of Texas Hwy, Austin, TX 78759",
+        "Pets welcome \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour",
+        "(855) 577-1110"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_216",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/2ba17881-eb18-4392-b09f-46a7e1fa8ea3/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba17881-eb18-4392-b09f-46a7e1fa8ea3/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba17881-eb18-4392-b09f-46a7e1fa8ea3/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba17881-eb18-4392-b09f-46a7e1fa8ea3/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/2ba17881-eb18-4392-b09f-46a7e1fa8ea3/islphoto/genIsl.4_1.jpg"
+    ]
+}

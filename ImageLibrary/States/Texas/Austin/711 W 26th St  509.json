@@ -1,0 +1,54 @@
+{
+    "Address": "711 W 26th St #509",
+    "Price": "$2,375/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$2,375/mo",
+        "2 beds",
+        "2 baths",
+        "1,049 sq ft",
+        "711 W 26th St #509, Austin, TX 78705",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour",
+        "(512) 940-9634"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_253",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e389deef-ef12-4fd3-af00-290d41ba7d50/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e389deef-ef12-4fd3-af00-290d41ba7d50/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e389deef-ef12-4fd3-af00-290d41ba7d50/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e389deef-ef12-4fd3-af00-290d41ba7d50/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e389deef-ef12-4fd3-af00-290d41ba7d50/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e389deef-ef12-4fd3-af00-290d41ba7d50/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e389deef-ef12-4fd3-af00-290d41ba7d50/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e389deef-ef12-4fd3-af00-290d41ba7d50/islphoto/genIsl.7_1.jpg"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Address": "1004 E Solano Dr NE",
+    "Price": "$350,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78750",
+    "Street": "",
+    "Stats": [
+        "$350,000",
+        "3 beds",
+        "2 baths",
+        "1,474 sq ft",
+        "1004 E Solano Dr NE, Austin, TX 78750"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_303",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/531/genIslnoResize.1696531_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/531/genIslnoResize.1696531_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/531/genIslnoResize.1696531_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/531/genIslnoResize.1696531_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/531/genIslnoResize.1696531_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/531/genIslnoResize.1696531_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/531/genIslnoResize.1696531_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/531/genIslnoResize.1696531_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/531/genIslnoResize.1696531_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/531/genIslnoResize.1696531_9_0.jpg"
+    ]
+}

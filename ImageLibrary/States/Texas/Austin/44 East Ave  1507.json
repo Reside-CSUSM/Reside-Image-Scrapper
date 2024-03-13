@@ -1,0 +1,76 @@
+{
+    "Address": "44 East Ave #1507",
+    "Price": "$1,045,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78701",
+    "Street": "",
+    "Stats": [
+        "$1,045,000",
+        "2 beds",
+        "2 baths",
+        "1,221 sq ft",
+        "44 East Ave #1507, Austin, TX 78701"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_42",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/665/genIslnoResize.2969665_32_0.jpg"
+    ]
+}

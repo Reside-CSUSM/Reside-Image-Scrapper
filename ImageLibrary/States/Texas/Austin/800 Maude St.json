@@ -1,0 +1,56 @@
+{
+    "Address": "800 Maude St",
+    "Price": "$6,000/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78702",
+    "Street": "",
+    "Stats": [
+        "$6,000/mo",
+        "4 beds",
+        "3.5 baths",
+        "2,185 sq ft",
+        "800 Maude St, Austin, TX 78702",
+        "Pets welcome \u2022 Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(844) 888-3191"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_160",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f10369c3-8e4c-4b42-ac05-dac7f95afca4/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f10369c3-8e4c-4b42-ac05-dac7f95afca4/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f10369c3-8e4c-4b42-ac05-dac7f95afca4/islphoto/genIsl.2_18.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f10369c3-8e4c-4b42-ac05-dac7f95afca4/islphoto/genIsl.3_19.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f10369c3-8e4c-4b42-ac05-dac7f95afca4/islphoto/genIsl.4_38.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f10369c3-8e4c-4b42-ac05-dac7f95afca4/islphoto/genIsl.5_45.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f10369c3-8e4c-4b42-ac05-dac7f95afca4/islphoto/genIsl.6_52.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f10369c3-8e4c-4b42-ac05-dac7f95afca4/islphoto/genIsl.7_55.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f10369c3-8e4c-4b42-ac05-dac7f95afca4/islphoto/genIsl.8_60.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f10369c3-8e4c-4b42-ac05-dac7f95afca4/islphoto/genIsl.9_65.jpg"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Address": " | 1500 E Riverside Dr",
+    "Price": "$1,315+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$1,315+/mo",
+        "0-2 beds",
+        "1-2 bath",
+        "480-1,002 sq ft",
+        "The Breakers on the Lake",
+        " | 1500 E Riverside Dr, Austin, TX 78741",
+        "13 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Schedule a tour",
+        "(737) 637-2234"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_54",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3b08e6b2-8cc3-4b39-b8db-0c94cac0e875/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3b08e6b2-8cc3-4b39-b8db-0c94cac0e875/islphoto/genIsl.1_2.jpg"
+    ]
+}

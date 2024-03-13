@@ -1,0 +1,74 @@
+{
+    "Address": "3509 Savage Springs Dr",
+    "Price": "$349,990",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78754",
+    "Street": "",
+    "Stats": [
+        "$349,990",
+        "3 beds",
+        "2 baths",
+        "1,378 sq ft",
+        "4,748 sq ft (lot)",
+        "3509 Savage Springs Dr, Austin, TX 78754"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_49",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/122/genIslnoResize.2371122_29_0.jpg"
+    ]
+}

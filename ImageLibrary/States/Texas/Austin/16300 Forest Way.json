@@ -1,0 +1,47 @@
+{
+    "Address": "16300 Forest Way",
+    "Price": "$400,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78734",
+    "Street": "",
+    "Stats": [
+        "$400,000",
+        "0 beds",
+        "\u2014 baths",
+        "1.58 acres (lot)",
+        "16300 Forest Way, Austin, TX 78734"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_331",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/051/genIslnoResize.9361051_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/051/genIslnoResize.9361051_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/051/genIslnoResize.9361051_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/051/genIslnoResize.9361051_3_0.jpg"
+    ]
+}

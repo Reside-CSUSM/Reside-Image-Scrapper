@@ -1,0 +1,74 @@
+{
+    "Address": "6000 Shepherd Mountain Cv #2209",
+    "Price": "$299,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78730",
+    "Street": "",
+    "Stats": [
+        "$299,000",
+        "1 bed",
+        "1 bath",
+        "706 sq ft",
+        "6000 Shepherd Mountain Cv #2209, Austin, TX 78730"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_25",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/292/genIslnoResize.3206292_30_0.jpg"
+    ]
+}

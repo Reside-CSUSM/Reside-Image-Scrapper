@@ -1,0 +1,55 @@
+{
+    "Address": "6013 Wilcott Ct",
+    "Price": "$2,795/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$2,795/mo",
+        "3 beds",
+        "2 baths",
+        "1,702 sq ft",
+        "6013 Wilcott Ct, Austin, TX 78745",
+        "Pets welcome \u2022 Laundry in unit \u2022 Dishwasher",
+        "Request a tour",
+        "(855) 768-1885"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_164",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/72acbb04-223d-4b78-95c8-c24e606d9308/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/72acbb04-223d-4b78-95c8-c24e606d9308/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/72acbb04-223d-4b78-95c8-c24e606d9308/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/72acbb04-223d-4b78-95c8-c24e606d9308/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/72acbb04-223d-4b78-95c8-c24e606d9308/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/72acbb04-223d-4b78-95c8-c24e606d9308/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/72acbb04-223d-4b78-95c8-c24e606d9308/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/72acbb04-223d-4b78-95c8-c24e606d9308/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/72acbb04-223d-4b78-95c8-c24e606d9308/islphoto/genIsl.8_1.jpg"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Address": "7424 Cayenne Ln",
+    "Price": "$2,100/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$2,100/mo",
+        "4 beds",
+        "2 baths",
+        "1,586 sq ft",
+        "7424 Cayenne Ln, Austin, TX 78741",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour",
+        "(512) 800-4626"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_294",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.0_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.1_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.2_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.3_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.4_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.5_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.6_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.7_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.8_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.9_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.10_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.11_8.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e300f1ee-e504-43dc-9cb4-3496fafcfa19/islphoto/genIsl.12_8.jpg"
+    ]
+}

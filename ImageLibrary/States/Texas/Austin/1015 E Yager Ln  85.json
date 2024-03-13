@@ -1,0 +1,75 @@
+{
+    "Address": "1015 E Yager Ln #85",
+    "Price": "$264,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$264,000",
+        "2 beds",
+        "1.5 baths",
+        "1,049 sq ft",
+        "1015 E Yager Ln #85, Austin, TX 78753"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_177",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/099/genIslnoResize.3805099_31_0.jpg"
+    ]
+}

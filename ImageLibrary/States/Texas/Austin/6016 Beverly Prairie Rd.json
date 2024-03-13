@@ -1,0 +1,59 @@
+{
+    "Address": "6016 Beverly Prairie Rd",
+    "Price": "$461,755",
+    "State": "TX",
+    "City": "Del Valle",
+    "ZipCode": "78617",
+    "Street": "",
+    "Stats": [
+        "$461,755",
+        "5 beds",
+        "2.5 baths",
+        "2,616 sq ft",
+        "6,250 sq ft (lot)",
+        "6016 Beverly Prairie Rd, Del Valle, TX 78617"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_16",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/773/genIslnoResize.6120773_14_0.jpg"
+    ]
+}

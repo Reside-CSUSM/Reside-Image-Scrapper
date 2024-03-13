@@ -1,0 +1,75 @@
+{
+    "Address": "4124 Valley View Rd Unit 3B",
+    "Price": "$650,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$650,000",
+        "2 beds",
+        "2.5 baths",
+        "1,628 sq ft",
+        "4124 Valley View Rd Unit 3B, Austin, TX 78704"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_40",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/769/genIslnoResize.7951769_31_0.jpg"
+    ]
+}

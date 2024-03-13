@@ -1,0 +1,67 @@
+{
+    "Address": "5413 Falling Leaf Ln #64",
+    "Price": "$330,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78744",
+    "Street": "",
+    "Stats": [
+        "$330,000",
+        "3 beds",
+        "2.5 baths",
+        "1,476 sq ft",
+        "4,225 sq ft (lot)",
+        "5413 Falling Leaf Ln #64, Austin, TX 78744"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_97",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/932/genIslnoResize.4118932_22_0.jpg"
+    ]
+}

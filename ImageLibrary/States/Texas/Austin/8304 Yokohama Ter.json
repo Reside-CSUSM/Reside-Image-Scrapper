@@ -1,0 +1,77 @@
+{
+    "Address": "8304 Yokohama Ter",
+    "Price": "$625,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78744",
+    "Street": "",
+    "Stats": [
+        "$625,000",
+        "3 beds",
+        "2.5 baths",
+        "2,362 sq ft",
+        "6,028 sq ft (lot)",
+        "8304 Yokohama Ter, Austin, TX 78744"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_192",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/609/genIslnoResize.6185609_32_0.jpg"
+    ]
+}

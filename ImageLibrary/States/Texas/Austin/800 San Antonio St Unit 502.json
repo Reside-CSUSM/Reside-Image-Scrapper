@@ -1,0 +1,51 @@
+{
+    "Address": "800 San Antonio St Unit 502",
+    "Price": "$1,950/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78701",
+    "Street": "",
+    "Stats": [
+        "$1,950/mo",
+        "2 beds",
+        "1 bath",
+        "1,130 sq ft",
+        "800 San Antonio St Unit 502, Austin, TX 78701",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(512) 413-8762"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_163",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6278cdd2-41ca-44e4-aec9-a4f859a361a5/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6278cdd2-41ca-44e4-aec9-a4f859a361a5/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6278cdd2-41ca-44e4-aec9-a4f859a361a5/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6278cdd2-41ca-44e4-aec9-a4f859a361a5/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6278cdd2-41ca-44e4-aec9-a4f859a361a5/islphoto/genIsl.4_1.jpg"
+    ]
+}

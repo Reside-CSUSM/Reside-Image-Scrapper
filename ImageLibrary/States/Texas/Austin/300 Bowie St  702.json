@@ -1,0 +1,72 @@
+{
+    "Address": "300 Bowie St #702",
+    "Price": "$475,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78703",
+    "Street": "",
+    "Stats": [
+        "$475,000",
+        "1 bed",
+        "1 bath",
+        "565 sq ft",
+        "300 Bowie St #702, Austin, TX 78703"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_282",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/437/genIslnoResize.1201437_28_0.jpg"
+    ]
+}

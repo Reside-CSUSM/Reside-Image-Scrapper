@@ -1,0 +1,52 @@
+{
+    "Address": "4314 Gillis St Unit 211",
+    "Price": "$850/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$850/mo",
+        "0 beds",
+        "1 bath",
+        "500 sq ft",
+        "4314 Gillis St Unit 211, Austin, TX 78745",
+        "Parking",
+        "Request a tour",
+        "(512) 373-5608"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_175",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/86eeb115-7a39-4783-aa03-6d9f9ade3c90/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/86eeb115-7a39-4783-aa03-6d9f9ade3c90/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/86eeb115-7a39-4783-aa03-6d9f9ade3c90/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/86eeb115-7a39-4783-aa03-6d9f9ade3c90/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/86eeb115-7a39-4783-aa03-6d9f9ade3c90/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/86eeb115-7a39-4783-aa03-6d9f9ade3c90/islphoto/genIsl.5_1.jpg"
+    ]
+}

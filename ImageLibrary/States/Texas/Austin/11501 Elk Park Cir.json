@@ -1,0 +1,71 @@
+{
+    "Address": "11501 Elk Park Cir",
+    "Price": "$515,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78759",
+    "Street": "",
+    "Stats": [
+        "$515,000",
+        "3 beds",
+        "2 baths",
+        "1,600 sq ft",
+        "0.23 acre (lot)",
+        "11501 Elk Park Cir, Austin, TX 78759"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_206",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/500/genIslnoResize.3514500_26_0.jpg"
+    ]
+}

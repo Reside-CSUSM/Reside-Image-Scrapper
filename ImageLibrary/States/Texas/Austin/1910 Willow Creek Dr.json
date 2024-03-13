@@ -1,0 +1,68 @@
+{
+    "Address": " | 1910 Willow Creek Dr",
+    "Price": "$999+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$999+/mo",
+        "0-3 beds",
+        "1-2 bath",
+        "520-1,110 sq ft",
+        "Bridge Hollow / Point South",
+        " | 1910 Willow Creek Dr, Austin, TX 78741",
+        "12 units available \u2022 Pets welcome \u2022 Laundry facility",
+        "Request a tour",
+        "(737) 637-2686"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_108",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f6b3c8b2-abbf-431b-8dd8-d679ecfa70f7/islphoto/genIsl.20_2.jpg"
+    ]
+}

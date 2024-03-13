@@ -1,0 +1,53 @@
+{
+    "Address": "4405 Avenue A #20",
+    "Price": "$1,100/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78751",
+    "Street": "",
+    "Stats": [
+        "$1,100/mo",
+        "1 bed",
+        "1 bath",
+        "416 sq ft",
+        "4405 Avenue A #20, Austin, TX 78751",
+        "Parking \u2022 Very walkable \u2022 Good transit",
+        "Request a tour",
+        "(361) 688-6633"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_83",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/0dfc115b-3545-4454-8706-ec97069c909e/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0dfc115b-3545-4454-8706-ec97069c909e/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0dfc115b-3545-4454-8706-ec97069c909e/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0dfc115b-3545-4454-8706-ec97069c909e/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0dfc115b-3545-4454-8706-ec97069c909e/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0dfc115b-3545-4454-8706-ec97069c909e/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/0dfc115b-3545-4454-8706-ec97069c909e/islphoto/genIsl.6_4.jpg"
+    ]
+}

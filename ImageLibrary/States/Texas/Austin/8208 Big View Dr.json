@@ -1,0 +1,70 @@
+{
+    "Address": "8208 Big View Dr",
+    "Price": "$7,650,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78730",
+    "Street": "",
+    "Stats": [
+        "$7,650,000",
+        "6 beds",
+        "6.5 baths",
+        "6,729 sq ft",
+        "1.01 acres (lot)",
+        "8208 Big View Dr, Austin, TX 78730"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_106",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/90/islphoto/231/genIslnoResize.20556231_25_0.jpg"
+    ]
+}

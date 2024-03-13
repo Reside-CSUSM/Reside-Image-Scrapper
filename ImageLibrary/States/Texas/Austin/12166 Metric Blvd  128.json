@@ -1,0 +1,58 @@
+{
+    "Address": "12166 Metric Blvd #128",
+    "Price": "$1,250/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78758",
+    "Street": "",
+    "Stats": [
+        "$1,250/mo",
+        "1 bed",
+        "1 bath",
+        "516 sq ft",
+        "12166 Metric Blvd #128, Austin, TX 78758",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(512) 965-1932"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_269",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/684f105c-4bb9-463b-825d-90469e20808e/islphoto/genIsl.11_2.jpg"
+    ]
+}

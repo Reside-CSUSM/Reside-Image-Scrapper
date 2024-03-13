@@ -1,0 +1,61 @@
+{
+    "Address": "13913 Axel Johanson Dr",
+    "Price": "$475,090",
+    "State": "TX",
+    "City": "Del Valle",
+    "ZipCode": "78617",
+    "Street": "",
+    "Stats": [
+        "$475,090",
+        "5 beds",
+        "3 baths",
+        "2,722 sq ft",
+        "5,793 sq ft (lot)",
+        "13913 Axel Johanson Dr, Del Valle, TX 78617"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_28",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/680/genIslnoResize.7996680_16_0.jpg"
+    ]
+}

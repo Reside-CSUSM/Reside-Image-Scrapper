@@ -1,0 +1,72 @@
+{
+    "Address": "10218 Open Gate Dr",
+    "Price": "$844,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78726",
+    "Street": "",
+    "Stats": [
+        "$844,900",
+        "4 beds",
+        "2.5 baths",
+        "3,085 sq ft",
+        "0.23 acre (lot)",
+        "10218 Open Gate Dr, Austin, TX 78726"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_139",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/112/genIslnoResize.8018112_27_2.jpg"
+    ]
+}

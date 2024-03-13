@@ -1,0 +1,68 @@
+{
+    "Address": "2105 Rabb Rd",
+    "Price": "$4,950/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$4,950/mo",
+        "4 beds",
+        "2.5 baths",
+        "2,161 sq ft",
+        "2105 Rabb Rd, Austin, TX 78704",
+        "Parking \u2022 Somewhat walkable \u2022 Some transit",
+        "Request a tour",
+        "(512) 695-2176"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_59",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d8da553a-3b15-41fe-9ff3-03573c4535ec/islphoto/genIsl.21_1.jpg"
+    ]
+}

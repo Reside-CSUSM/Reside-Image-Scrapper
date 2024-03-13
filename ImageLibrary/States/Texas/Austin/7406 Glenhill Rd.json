@@ -1,0 +1,77 @@
+{
+    "Address": "7406 Glenhill Rd",
+    "Price": "$470,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78752",
+    "Street": "",
+    "Stats": [
+        "$470,000",
+        "3 beds",
+        "2 baths",
+        "1,495 sq ft",
+        "9,138 sq ft (lot)",
+        "7406 Glenhill Rd, Austin, TX 78752"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_211",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/064/genIslnoResize.4664064_32_0.jpg"
+    ]
+}

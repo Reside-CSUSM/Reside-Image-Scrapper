@@ -1,0 +1,84 @@
+{
+    "Address": "110 Reveille Rd",
+    "Price": "$4,475,000",
+    "State": "TX",
+    "City": "West Lake Hills",
+    "ZipCode": "78746",
+    "Street": "",
+    "Stats": [
+        "$4,475,000",
+        "6 beds",
+        "6.5 baths",
+        "5,051 sq ft",
+        "0.38 acre (lot)",
+        "110 Reveille Rd, West Lake Hills, TX 78746"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_309",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_15.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_61.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_21.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_6.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_38.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_37.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_8.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_17.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_16.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_71.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_40.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_83.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_45.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_13.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_89.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_63.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_81.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_68.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_92.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_96.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_77.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_14.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_102.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_107.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_109.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_110.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_113.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_87.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_115.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_66.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_67.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_123.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_125.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_126.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_131.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_130.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_134.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_136.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_22.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/895320_JPG/genDesktopMapHomeCardUrl/item_33.jpg"
+    ]
+}

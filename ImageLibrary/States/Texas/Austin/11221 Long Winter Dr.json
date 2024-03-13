@@ -1,0 +1,75 @@
+{
+    "Address": "11221 Long Winter Dr",
+    "Price": "$449,990",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78754",
+    "Street": "",
+    "Stats": [
+        "$449,990",
+        "4 beds",
+        "2.5 baths",
+        "2,580 sq ft",
+        "7,187 sq ft (lot)",
+        "11221 Long Winter Dr, Austin, TX 78754"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_249",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/477/genIslnoResize.1393477_30_0.jpg"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "Address": " | 3200 S 1st St",
+    "Price": "$1,125+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$1,125+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "\u2014 sq ft",
+        "Stoney Ridge",
+        " | 3200 S 1st St, Austin, TX 78704",
+        "10 units available \u2022 Pets welcome \u2022 Laundry hookups",
+        "Request a tour",
+        "(737) 270-7494"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_18",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/39c71959-d3c7-44c6-a293-7e7cb99b221a/islphoto/genIsl.24_2.jpg"
+    ]
+}

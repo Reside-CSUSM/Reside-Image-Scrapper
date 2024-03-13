@@ -1,0 +1,60 @@
+{
+    "Address": "2125 Independence Dr Unit A51",
+    "Price": "$600,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$600,000",
+        "4 beds",
+        "2.5 baths",
+        "2,074 sq ft",
+        "7,013 sq ft (lot)",
+        "2125 Independence Dr Unit A51, Austin, TX 78745"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_80",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/257/genIslnoResize.6908257_15_0.jpg"
+    ]
+}

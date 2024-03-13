@@ -1,0 +1,86 @@
+{
+    "Address": " | 16016 Bratton Ln",
+    "Price": "$1,255+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78728",
+    "Street": "",
+    "Stats": [
+        "$1,255+/mo",
+        "1-3 bed",
+        "1-2 bath",
+        "754-1,243 sq ft",
+        "Grand Station Apartment Homes",
+        " | 16016 Bratton Ln, Austin, TX 78728",
+        "3 units available \u2022 Pets welcome \u2022 Laundry hookups",
+        "Request a tour",
+        "(512) 518-2861"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_68",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.33_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.34_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.35_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.36_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.37_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bae90ed9-f823-4788-9359-0a1721e78390/islphoto/genIsl.38_1.jpg"
+    ]
+}

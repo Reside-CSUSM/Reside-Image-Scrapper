@@ -1,0 +1,59 @@
+{
+    "Address": "2137 Barton Hills Dr",
+    "Price": "$1,475,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$1,475,000",
+        "4 beds",
+        "3 baths",
+        "2,568 sq ft",
+        "0.28 acre (lot)",
+        "2137 Barton Hills Dr, Austin, TX 78704"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_10",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/452/genIslnoResize.3935452_14_0.jpg"
+    ]
+}

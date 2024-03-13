@@ -1,0 +1,73 @@
+{
+    "Address": "9910 Quercia Dr",
+    "Price": "$2,695/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78717",
+    "Street": "",
+    "Stats": [
+        "$2,695/mo",
+        "4 beds",
+        "3 baths",
+        "2,700 sq ft",
+        "9910 Quercia Dr, Austin, TX 78717",
+        " House",
+        "Request a tour",
+        "(844) 497-3169"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_185",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/8a8e322c-617a-4762-91aa-4999406bb9da/islphoto/genIsl.26_1.jpg"
+    ]
+}

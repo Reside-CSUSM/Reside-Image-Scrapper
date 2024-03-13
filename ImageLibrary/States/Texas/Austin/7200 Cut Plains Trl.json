@@ -1,0 +1,56 @@
+{
+    "Address": "7200 Cut Plains Trl",
+    "Price": "$3,699/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78726",
+    "Street": "",
+    "Stats": [
+        "$3,699/mo",
+        "4 beds",
+        "3 baths",
+        "2,890 sq ft",
+        "7200 Cut Plains Trl, Austin, TX 78726",
+        "Available 05/01 \u2022 Pets welcome \u2022 Car-dependent",
+        "Request a tour",
+        "(888) 626-0845"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_165",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/da312d19-31a3-43f8-af4b-6bc9987f4d17/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da312d19-31a3-43f8-af4b-6bc9987f4d17/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da312d19-31a3-43f8-af4b-6bc9987f4d17/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da312d19-31a3-43f8-af4b-6bc9987f4d17/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da312d19-31a3-43f8-af4b-6bc9987f4d17/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da312d19-31a3-43f8-af4b-6bc9987f4d17/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da312d19-31a3-43f8-af4b-6bc9987f4d17/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da312d19-31a3-43f8-af4b-6bc9987f4d17/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da312d19-31a3-43f8-af4b-6bc9987f4d17/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/da312d19-31a3-43f8-af4b-6bc9987f4d17/islphoto/genIsl.9_1.jpg"
+    ]
+}

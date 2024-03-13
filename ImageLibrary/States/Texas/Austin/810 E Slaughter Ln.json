@@ -1,0 +1,66 @@
+{
+    "Address": " | 810 E Slaughter Ln",
+    "Price": "$1,218+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78744",
+    "Street": "",
+    "Stats": [
+        "$1,218+/mo",
+        "1-4 bed",
+        "1-2 bath",
+        "842-1,480 sq ft",
+        "River Valley",
+        " | 810 E Slaughter Ln, Austin, TX 78744",
+        "36 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(737) 637-2696"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_96",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/abc81d03-e11d-43dc-adf9-84ae14f93f0e/islphoto/genIsl.18_1.jpg"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Address": "6200 Stiles Cv",
+    "Price": "$355,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78721",
+    "Street": "",
+    "Stats": [
+        "$355,000",
+        "0 beds",
+        "\u2014 baths",
+        "\u2014 sq ft",
+        "9,465 sq ft (lot)",
+        "6200 Stiles Cv, Austin, TX 78721"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_150",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/893/genIslnoResize.8132893_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/893/genIslnoResize.8132893_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/893/genIslnoResize.8132893_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/893/genIslnoResize.8132893_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/893/genIslnoResize.8132893_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/893/genIslnoResize.8132893_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/893/genIslnoResize.8132893_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/893/genIslnoResize.8132893_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/893/genIslnoResize.8132893_8_0.jpg"
+    ]
+}

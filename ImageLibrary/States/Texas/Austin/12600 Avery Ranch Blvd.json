@@ -1,0 +1,76 @@
+{
+    "Address": "12600 Avery Ranch Blvd",
+    "Price": "$1,375+/mo",
+    "State": "TX",
+    "City": "Cedar Park",
+    "ZipCode": "78613",
+    "Street": "",
+    "Stats": [
+        "$1,375+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "654-1,700 sq ft",
+        "12600 Avery Ranch Blvd, Cedar Park, TX 78613",
+        "Pets welcome \u2022 Car-dependent",
+        "Request a tour",
+        "(737) 615-1390"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_220",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.11_78.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.12_91.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.13_106.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.14_110.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.15_113.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.16_115.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.17_119.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.18_120.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.19_124.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.20_123.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.21_126.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.22_131.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.23_140.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.24_142.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.25_139.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.26_136.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.27_130.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.28_126.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.29_127.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.30_128.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.31_124.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.32_121.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.33_121.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.34_119.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.35_112.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.36_108.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.37_103.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.38_95.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.39_91.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1c636d8f-6c87-41c5-b98b-d30fef3ad3d5/islphoto/genIsl.40_90.jpg"
+    ]
+}

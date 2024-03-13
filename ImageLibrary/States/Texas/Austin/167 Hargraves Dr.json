@@ -1,0 +1,53 @@
+{
+    "Address": " | 167 Hargraves Dr",
+    "Price": "$1,975+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78737",
+    "Street": "",
+    "Stats": [
+        "$1,975+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "689-1,342 sq ft",
+        "Jovie Belterra",
+        " | 167 Hargraves Dr, Austin, TX 78737",
+        "136 units available \u2022 Pets welcome \u2022 Parking",
+        "Request a tour",
+        "(737) 358-9574"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_24",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/4bbe9227-f3a4-409b-a0b6-af7dd72285d6/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4bbe9227-f3a4-409b-a0b6-af7dd72285d6/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4bbe9227-f3a4-409b-a0b6-af7dd72285d6/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4bbe9227-f3a4-409b-a0b6-af7dd72285d6/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4bbe9227-f3a4-409b-a0b6-af7dd72285d6/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/4bbe9227-f3a4-409b-a0b6-af7dd72285d6/islphoto/genIsl.5_1.jpg"
+    ]
+}

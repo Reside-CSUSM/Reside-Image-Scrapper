@@ -1,0 +1,61 @@
+{
+    "Address": "48 East Ave #1207",
+    "Price": "$599,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78701",
+    "Street": "",
+    "Stats": [
+        "$599,000",
+        "1 bed",
+        "1 bath",
+        "699 sq ft",
+        "48 East Ave #1207, Austin, TX 78701"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_23",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/428/genIslnoResize.1655428_17_0.jpg"
+    ]
+}

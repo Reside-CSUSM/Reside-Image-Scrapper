@@ -1,0 +1,62 @@
+{
+    "Address": "711 W 26th St #504",
+    "Price": "$2,295/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$2,295/mo",
+        "2 beds",
+        "2 baths",
+        "1,057 sq ft",
+        "711 W 26th St #504, Austin, TX 78705",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(512) 963-9700"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_252",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb4eeb13-fc12-4ba2-80b0-06927bdf129b/islphoto/genIsl.15_1.jpg"
+    ]
+}

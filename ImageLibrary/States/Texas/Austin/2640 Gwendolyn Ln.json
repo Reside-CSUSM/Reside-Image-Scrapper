@@ -1,0 +1,58 @@
+{
+    "Address": "2640 Gwendolyn Ln",
+    "Price": "$538,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78748",
+    "Street": "",
+    "Stats": [
+        "$538,000",
+        "4 beds",
+        "5 baths",
+        "2,320 sq ft",
+        "9,286 sq ft (lot)",
+        "2640 Gwendolyn Ln, Austin, TX 78748"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_129",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/393/genIslnoResize.8644393_13_0.jpg"
+    ]
+}

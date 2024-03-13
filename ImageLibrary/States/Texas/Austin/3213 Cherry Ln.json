@@ -1,0 +1,69 @@
+{
+    "Address": "3213 Cherry Ln",
+    "Price": "$1,900,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78703",
+    "Street": "",
+    "Stats": [
+        "$1,900,000",
+        "4 beds",
+        "3 baths",
+        "2,995 sq ft",
+        "9,670 sq ft (lot)",
+        "3213 Cherry Ln, Austin, TX 78703"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_160",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6801939_24_1.jpg"
+    ]
+}

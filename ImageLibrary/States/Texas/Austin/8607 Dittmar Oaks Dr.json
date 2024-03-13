@@ -1,0 +1,72 @@
+{
+    "Address": "8607 Dittmar Oaks Dr",
+    "Price": "$399,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78748",
+    "Street": "",
+    "Stats": [
+        "$399,000",
+        "3 beds",
+        "2.5 baths",
+        "1,700 sq ft",
+        "3,615 sq ft (lot)",
+        "8607 Dittmar Oaks Dr, Austin, TX 78748"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_69",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/573/genIslnoResize.1624573_27_0.jpg"
+    ]
+}

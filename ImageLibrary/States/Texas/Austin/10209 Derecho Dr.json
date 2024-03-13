@@ -1,0 +1,60 @@
+{
+    "Address": "10209 Derecho Dr",
+    "Price": "$500,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78737",
+    "Street": "",
+    "Stats": [
+        "$500,000",
+        "0 beds",
+        "\u2014 baths",
+        "1.78 acres (lot)",
+        "10209 Derecho Dr, Austin, TX 78737"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_332",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/367/genIslnoResize.9706367_16_0.jpg"
+    ]
+}

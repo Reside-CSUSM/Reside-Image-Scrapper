@@ -1,0 +1,43 @@
+{
+    "Address": "104 W Walnut Dr",
+    "Price": "$75,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$75,000",
+        "0 beds",
+        "\u2014 baths",
+        "720 sq ft",
+        "6,499 sq ft (lot)",
+        "104 W Walnut Dr, Austin, TX 78753"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_306",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": []
+}

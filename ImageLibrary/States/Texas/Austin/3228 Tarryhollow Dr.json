@@ -1,0 +1,61 @@
+{
+    "Address": "3228 Tarryhollow Dr",
+    "Price": "$1,690,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78703",
+    "Street": "",
+    "Stats": [
+        "$1,690,000",
+        "3 beds",
+        "3 baths",
+        "2,859 sq ft",
+        "5,100 sq ft (lot)",
+        "3228 Tarryhollow Dr, Austin, TX 78703"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_213",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_13_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_14_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_15_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/530/genIslnoResize.6811530_16_4.jpg"
+    ]
+}

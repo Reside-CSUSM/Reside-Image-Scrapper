@@ -1,0 +1,52 @@
+{
+    "Address": "TBD Geronimo Trl",
+    "Price": "$260,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78734",
+    "Street": "",
+    "Stats": [
+        "$260,000",
+        "0 beds",
+        "\u2014 baths",
+        "0.38 acre (lot)",
+        "TBD Geronimo Trl, Austin, TX 78734"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_342",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/701/genIslnoResize.5755701_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/701/genIslnoResize.5755701_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/701/genIslnoResize.5755701_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/701/genIslnoResize.5755701_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/701/genIslnoResize.5755701_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/701/genIslnoResize.5755701_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/701/genIslnoResize.5755701_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/701/genIslnoResize.5755701_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/701/genIslnoResize.5755701_8_0.jpg"
+    ]
+}

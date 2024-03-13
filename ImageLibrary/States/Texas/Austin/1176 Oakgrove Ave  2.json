@@ -1,0 +1,67 @@
+{
+    "Address": "1176 Oakgrove Ave #2",
+    "Price": "$680,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78702",
+    "Street": "",
+    "Stats": [
+        "$680,000",
+        "2 beds",
+        "2.5 baths",
+        "1,100 sq ft",
+        "8,376 sq ft (lot)",
+        "1176 Oakgrove Ave #2, Austin, TX 78702"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_205",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/343/genIslnoResize.9038343_22_0.jpg"
+    ]
+}

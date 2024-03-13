@@ -1,0 +1,64 @@
+{
+    "Address": "2406 Burleson Ct",
+    "Price": "$619,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$619,900",
+        "4 beds",
+        "2 baths",
+        "1,768 sq ft",
+        "7,108 sq ft (lot)",
+        "2406 Burleson Ct, Austin, TX 78741"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_258",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/516/genIslnoResize.5183516_19_1.jpg"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Address": "4611 Ledesma Rd",
+    "Price": "$3,500/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78721",
+    "Street": "",
+    "Stats": [
+        "$3,500/mo",
+        "3 beds",
+        "2 baths",
+        "1,576 sq ft",
+        "4611 Ledesma Rd, Austin, TX 78721",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour",
+        "(512) 921-8640"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_349",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/70a7ebff-f4d4-4fac-b33d-352d5d952f5f/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70a7ebff-f4d4-4fac-b33d-352d5d952f5f/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70a7ebff-f4d4-4fac-b33d-352d5d952f5f/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70a7ebff-f4d4-4fac-b33d-352d5d952f5f/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70a7ebff-f4d4-4fac-b33d-352d5d952f5f/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70a7ebff-f4d4-4fac-b33d-352d5d952f5f/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70a7ebff-f4d4-4fac-b33d-352d5d952f5f/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/70a7ebff-f4d4-4fac-b33d-352d5d952f5f/islphoto/genIsl.7_2.jpg"
+    ]
+}

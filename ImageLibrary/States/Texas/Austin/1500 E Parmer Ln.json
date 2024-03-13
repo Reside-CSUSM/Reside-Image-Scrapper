@@ -1,0 +1,75 @@
+{
+    "Address": " | 1500 E Parmer Ln",
+    "Price": "$1,255+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$1,255+/mo",
+        "1-3 bed",
+        "1-2 bath",
+        "723-1,231 sq ft",
+        "Heights on Parmer Apartment Homes",
+        " | 1500 E Parmer Ln, Austin, TX 78753",
+        "39 units available \u2022 Laundry hookups \u2022 A/C",
+        "Request a tour",
+        "(737) 358-9043"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_52",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.6_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.10_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.11_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.12_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.13_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.14_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.23_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.26_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/81d2ac46-f771-47ca-b47e-5ca36913ba2c/islphoto/genIsl.27_3.jpg"
+    ]
+}

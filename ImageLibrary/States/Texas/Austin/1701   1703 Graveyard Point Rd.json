@@ -1,0 +1,54 @@
+{
+    "Address": "1701 & 1703 Graveyard Point Rd",
+    "Price": "$849,995",
+    "State": "TX",
+    "City": "Lakeway",
+    "ZipCode": "78734",
+    "Street": "",
+    "Stats": [
+        "$849,995",
+        "1 bed",
+        "1 bath",
+        "400 sq ft",
+        "2.30 acres (lot)",
+        "1701 & 1703 Graveyard Point Rd, Lakeway, TX 78734"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_9",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/938/genIslnoResize.1210938_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/938/genIslnoResize.1210938_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/938/genIslnoResize.1210938_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/938/genIslnoResize.1210938_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/938/genIslnoResize.1210938_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/938/genIslnoResize.1210938_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/938/genIslnoResize.1210938_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/938/genIslnoResize.1210938_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/938/genIslnoResize.1210938_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/938/genIslnoResize.1210938_9_0.jpg"
+    ]
+}

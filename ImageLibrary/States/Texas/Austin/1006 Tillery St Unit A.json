@@ -1,0 +1,73 @@
+{
+    "Address": "1006 Tillery St Unit A",
+    "Price": "$1,249,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78702",
+    "Street": "",
+    "Stats": [
+        "$1,249,000",
+        "4 beds",
+        "3.5 baths",
+        "2,414 sq ft",
+        "1006 Tillery St Unit A, Austin, TX 78702"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_253",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/722/genIslnoResize.4953722_29_1.jpg"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "Address": "4361 S Congress Ave #531",
+    "Price": "$520,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$520,000",
+        "2 beds",
+        "2 baths",
+        "1,663 sq ft",
+        "4361 S Congress Ave #531, Austin, TX 78745"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_202",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.8973533_20_0.jpg"
+    ]
+}

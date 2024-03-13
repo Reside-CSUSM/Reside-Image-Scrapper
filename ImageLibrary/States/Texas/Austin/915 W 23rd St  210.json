@@ -1,0 +1,70 @@
+{
+    "Address": "915 W 23rd St #210",
+    "Price": "$400,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$400,000",
+        "2 beds",
+        "2 baths",
+        "1,017 sq ft",
+        "915 W 23rd St #210, Austin, TX 78705"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_2",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_52.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_53.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_36.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_50.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_42.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_41.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_19.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_23.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_20.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_43.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_25.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_28.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_32.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_26.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_29.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_30.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_24.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_22.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_9.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_7.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_33.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_34.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_35.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_5.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_37.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_38.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/898758_JPG/genDesktopMapHomeCardUrl/item_39.jpg"
+    ]
+}

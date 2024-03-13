@@ -1,0 +1,76 @@
+{
+    "Address": "12212 Brigadoon Ln #127",
+    "Price": "$374,500",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78727",
+    "Street": "",
+    "Stats": [
+        "$374,500",
+        "2 beds",
+        "2.5 baths",
+        "1,281 sq ft",
+        "12212 Brigadoon Ln #127, Austin, TX 78727"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_324",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_40.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_38.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_46.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_47.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_90.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_48.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_49.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_54.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_89.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_57.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_58.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_62.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_63.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_65.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_60.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_66.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_73.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_87.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_75.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_76.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_77.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_67.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_88.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_68.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_72.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_70.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_78.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_79.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_81.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_86.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_85.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_83.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/877538_JPG/genDesktopMapHomeCardUrl/item_84.jpg"
+    ]
+}

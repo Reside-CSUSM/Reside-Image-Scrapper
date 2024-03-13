@@ -1,0 +1,74 @@
+{
+    "Address": "2412 Bahama Rd",
+    "Price": "$750,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78733",
+    "Street": "",
+    "Stats": [
+        "$750,000",
+        "3 beds",
+        "2 baths",
+        "1,645 sq ft",
+        "0.39 acre (lot)",
+        "2412 Bahama Rd, Austin, TX 78733"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_300",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/764/genIslnoResize.1755764_29_1.jpg"
+    ]
+}

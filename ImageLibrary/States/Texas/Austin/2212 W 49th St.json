@@ -1,0 +1,56 @@
+{
+    "Address": "2212 W 49th St",
+    "Price": "$750,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78756",
+    "Street": "",
+    "Stats": [
+        "$750,000",
+        "0 beds",
+        "\u2014 baths",
+        "7,784 sq ft (lot)",
+        "2212 W 49th St, Austin, TX 78756"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_345",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/157/genIslnoResize.3476157_12_0.jpg"
+    ]
+}

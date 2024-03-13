@@ -1,0 +1,74 @@
+{
+    "Address": "1804 & 1806 Alta Vista Ave",
+    "Price": "$1,795,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$1,795,000",
+        "2 beds",
+        "1.5 baths",
+        "1,982 sq ft",
+        "0.32 acre (lot)",
+        "1804 & 1806 Alta Vista Ave, Austin, TX 78704"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_47",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/178/genIslnoResize.2119178_29_0.jpg"
+    ]
+}

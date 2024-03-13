@@ -1,0 +1,57 @@
+{
+    "Address": "2320 Gracy Farms Ln #413",
+    "Price": "$1,700/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78758",
+    "Street": "",
+    "Stats": [
+        "$1,700/mo",
+        "2 beds",
+        "2 baths",
+        "1,091 sq ft",
+        "2320 Gracy Farms Ln #413, Austin, TX 78758",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(512) 844-1003"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_281",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/96f76bab-deda-4766-ada7-0c108df5bdfd/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96f76bab-deda-4766-ada7-0c108df5bdfd/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96f76bab-deda-4766-ada7-0c108df5bdfd/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96f76bab-deda-4766-ada7-0c108df5bdfd/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96f76bab-deda-4766-ada7-0c108df5bdfd/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96f76bab-deda-4766-ada7-0c108df5bdfd/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96f76bab-deda-4766-ada7-0c108df5bdfd/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96f76bab-deda-4766-ada7-0c108df5bdfd/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96f76bab-deda-4766-ada7-0c108df5bdfd/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96f76bab-deda-4766-ada7-0c108df5bdfd/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/96f76bab-deda-4766-ada7-0c108df5bdfd/islphoto/genIsl.10_2.jpg"
+    ]
+}

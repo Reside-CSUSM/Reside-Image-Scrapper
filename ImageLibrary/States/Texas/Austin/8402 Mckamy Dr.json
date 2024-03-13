@@ -1,0 +1,52 @@
+{
+    "Address": "8402 Mckamy Dr",
+    "Price": "$471,737",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78744",
+    "Street": "",
+    "Stats": [
+        "$471,737",
+        "3 beds",
+        "2.5 baths",
+        "1,774 sq ft",
+        "4,991 sq ft (lot)",
+        "8402 Mckamy Dr, Austin, TX 78744"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_11",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/851/genIslnoResize.2827851_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/851/genIslnoResize.2827851_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/851/genIslnoResize.2827851_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/851/genIslnoResize.2827851_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/851/genIslnoResize.2827851_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/851/genIslnoResize.2827851_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/851/genIslnoResize.2827851_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/851/genIslnoResize.2827851_7_0.jpg"
+    ]
+}

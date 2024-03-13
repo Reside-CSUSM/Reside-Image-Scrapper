@@ -1,0 +1,52 @@
+{
+    "Address": "4004 Banister #214 Ln",
+    "Price": "$475,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$475,000",
+        "2 beds",
+        "1.5 baths",
+        "989 sq ft",
+        "4004 Banister #214 Ln, Austin, TX 78704"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_163",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/943/genIslnoResize.6848943_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/943/genIslnoResize.6848943_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/943/genIslnoResize.6848943_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/943/genIslnoResize.6848943_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/943/genIslnoResize.6848943_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/943/genIslnoResize.6848943_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/943/genIslnoResize.6848943_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/943/genIslnoResize.6848943_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/943/genIslnoResize.6848943_8_0.jpg"
+    ]
+}

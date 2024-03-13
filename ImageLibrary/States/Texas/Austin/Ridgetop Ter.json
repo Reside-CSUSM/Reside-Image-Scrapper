@@ -1,0 +1,55 @@
+{
+    "Address": "000 Ridgetop Ter",
+    "Price": "$495,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78732",
+    "Street": "",
+    "Stats": [
+        "$495,000",
+        "0 beds",
+        "\u2014 baths",
+        "0.65 acre (lot)",
+        "000 Ridgetop Ter, Austin, TX 78732"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_344",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/118/genIslnoResize.7793118_11_1.jpg"
+    ]
+}

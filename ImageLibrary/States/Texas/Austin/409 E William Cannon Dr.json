@@ -1,0 +1,88 @@
+{
+    "Address": " | 409 E William Cannon Dr",
+    "Price": "$1,129+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$1,129+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "481-917 sq ft",
+        "V at SoCo",
+        " | 409 E William Cannon Dr, Austin, TX 78745",
+        "12 units available \u2022 Pets welcome \u2022 Laundry hookups",
+        "Request a tour",
+        "(512) 710-5127"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_217",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.33_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.34_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.35_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.36_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.37_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.38_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.39_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/66825f85-8dcb-4025-bfc9-431275a7642c/islphoto/genIsl.40_1.jpg"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Address": " | 2121 Dickson Dr",
+    "Price": "$1,115+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$1,115+/mo",
+        "1-2 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "Barton's Mill",
+        " | 2121 Dickson Dr, Austin, TX 78704",
+        "10 units available \u2022 Laundry hookups \u2022 A/C",
+        "Request a tour",
+        "(737) 637-1990"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_46",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/a01bcdf0-b77d-4831-9872-ee3c4f629e70/islphoto/genIsl.12_3.jpg"
+    ]
+}

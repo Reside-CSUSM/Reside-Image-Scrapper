@@ -1,0 +1,59 @@
+{
+    "Address": "2105 Rabb Rd Unit LL",
+    "Price": "$1,495/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$1,495/mo",
+        "0 beds",
+        "1 bath",
+        "400 sq ft",
+        "2105 Rabb Rd Unit LL, Austin, TX 78704",
+        "Parking",
+        "Request a tour",
+        "(512) 695-2176"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_51",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/6c88bfb2-a39c-4056-88b8-0acc8c32f7a4/islphoto/genIsl.12_1.jpg"
+    ]
+}

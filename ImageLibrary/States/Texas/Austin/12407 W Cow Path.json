@@ -1,0 +1,76 @@
+{
+    "Address": "12407 W Cow Path",
+    "Price": "$950,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78727",
+    "Street": "",
+    "Stats": [
+        "$950,000",
+        "3 beds",
+        "3 baths",
+        "2,929 sq ft",
+        "8,742 sq ft (lot)",
+        "12407 W Cow Path, Austin, TX 78727"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_145",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/464/genIslnoResize.1184464_31_0.jpg"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "Address": "13612 Bullick Hollow Rd",
+    "Price": "$3,750/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78726",
+    "Street": "",
+    "Stats": [
+        "$3,750/mo",
+        "3 beds",
+        "2.5 baths",
+        "2,517 sq ft",
+        "13612 Bullick Hollow Rd, Austin, TX 78726",
+        "Laundry in unit \u2022 Car-dependent \u2022 Minimal transit",
+        "Request a tour",
+        "(844) 230-9881"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_145",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3aacd847-931c-492a-8811-9d72dff16e4e/islphoto/genIsl.25_1.jpg"
+    ]
+}

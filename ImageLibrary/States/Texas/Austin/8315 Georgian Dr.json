@@ -1,0 +1,43 @@
+{
+    "Address": "8315 Georgian Dr",
+    "Price": "$337,500",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$337,500",
+        "0 beds",
+        "\u2014 baths",
+        "1,250 sq ft",
+        "0.46 acre (lot)",
+        "8315 Georgian Dr, Austin, TX 78753"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_307",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": []
+}

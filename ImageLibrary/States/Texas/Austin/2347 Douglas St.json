@@ -1,0 +1,63 @@
+{
+    "Address": " | 2347 Douglas St",
+    "Price": "$1,700/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$1,700/mo",
+        "3 beds",
+        "2 baths",
+        "1,202 sq ft",
+        "Douglas Landing",
+        " | 2347 Douglas St, Austin, TX 78741",
+        "4 units available \u2022 Pets welcome \u2022 Parking",
+        "Request a tour",
+        "(737) 313-8791"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_133",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/425c892f-a3f2-4b76-af07-54fd90d11773/islphoto/genIsl.15_1.jpg"
+    ]
+}

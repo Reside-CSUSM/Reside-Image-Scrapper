@@ -1,0 +1,69 @@
+{
+    "Address": "2212 Tom Miller St",
+    "Price": "$5,000/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78723",
+    "Street": "",
+    "Stats": [
+        "$5,000/mo",
+        "4 beds",
+        "3 baths",
+        "2,795 sq ft",
+        "2212 Tom Miller St, Austin, TX 78723",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour",
+        "(310) 795-0427"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_341",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/070f87f3-28f5-4cba-9bac-6f9960357064/islphoto/genIsl.22_2.jpg"
+    ]
+}

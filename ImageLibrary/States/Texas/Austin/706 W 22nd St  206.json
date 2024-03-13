@@ -1,0 +1,57 @@
+{
+    "Address": "706 W 22nd St #206",
+    "Price": "$1,500/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$1,500/mo",
+        "1 bed",
+        "1 bath",
+        "607 sq ft",
+        "706 W 22nd St #206, Austin, TX 78705",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour",
+        "(512) 921-8640"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_265",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/31d3d30a-5021-492b-90e4-8cf4ad7852ae/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/31d3d30a-5021-492b-90e4-8cf4ad7852ae/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/31d3d30a-5021-492b-90e4-8cf4ad7852ae/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/31d3d30a-5021-492b-90e4-8cf4ad7852ae/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/31d3d30a-5021-492b-90e4-8cf4ad7852ae/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/31d3d30a-5021-492b-90e4-8cf4ad7852ae/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/31d3d30a-5021-492b-90e4-8cf4ad7852ae/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/31d3d30a-5021-492b-90e4-8cf4ad7852ae/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/31d3d30a-5021-492b-90e4-8cf4ad7852ae/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/31d3d30a-5021-492b-90e4-8cf4ad7852ae/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/31d3d30a-5021-492b-90e4-8cf4ad7852ae/islphoto/genIsl.10_1.jpg"
+    ]
+}

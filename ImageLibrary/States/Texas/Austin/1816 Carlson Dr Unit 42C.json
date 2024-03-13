@@ -1,0 +1,68 @@
+{
+    "Address": "1816 Carlson Dr Unit 42C",
+    "Price": "$439,950",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$439,950",
+        "3 beds",
+        "2.5 baths",
+        "1,437 sq ft",
+        "1816 Carlson Dr Unit 42C, Austin, TX 78741"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_325",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_2.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_14.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_12.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_17.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_21.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_22.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_27.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_7.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_24.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_31.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_30.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_34.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_36.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_37.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_40.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_41.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_43.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_44.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_45.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_46.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_48.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_49.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_50.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_51.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/873966_JPG/genDesktopMapHomeCardUrl/item_1.jpg"
+    ]
+}

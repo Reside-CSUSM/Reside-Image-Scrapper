@@ -1,0 +1,73 @@
+{
+    "Address": "2044 Nestlewood Dr",
+    "Price": "$449,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78754",
+    "Street": "",
+    "Stats": [
+        "$449,000",
+        "3 beds",
+        "2.5 baths",
+        "1,590 sq ft",
+        "5,401 sq ft (lot)",
+        "2044 Nestlewood Dr, Austin, TX 78754"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_161",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/677/genIslnoResize.6621677_28_0.jpg"
+    ]
+}

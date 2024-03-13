@@ -1,0 +1,57 @@
+{
+    "Address": " | 2207 Lawnmont Ave",
+    "Price": "$1,175+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78756",
+    "Street": "",
+    "Stats": [
+        "$1,175+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "700-960 sq ft",
+        "Kensington Terrace",
+        " | 2207 Lawnmont Ave, Austin, TX 78756",
+        "Pets welcome \u2022 Very walkable \u2022 Good transit",
+        "Request a tour",
+        "(737) 610-1937"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_143",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/1ab5a10a-8aa3-4ab7-bd99-afbb1230217a/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1ab5a10a-8aa3-4ab7-bd99-afbb1230217a/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1ab5a10a-8aa3-4ab7-bd99-afbb1230217a/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1ab5a10a-8aa3-4ab7-bd99-afbb1230217a/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1ab5a10a-8aa3-4ab7-bd99-afbb1230217a/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1ab5a10a-8aa3-4ab7-bd99-afbb1230217a/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1ab5a10a-8aa3-4ab7-bd99-afbb1230217a/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1ab5a10a-8aa3-4ab7-bd99-afbb1230217a/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1ab5a10a-8aa3-4ab7-bd99-afbb1230217a/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/1ab5a10a-8aa3-4ab7-bd99-afbb1230217a/islphoto/genIsl.9_1.jpg"
+    ]
+}

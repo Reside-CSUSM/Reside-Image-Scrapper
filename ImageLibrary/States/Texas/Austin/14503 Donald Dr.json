@@ -1,0 +1,66 @@
+{
+    "Address": "14503 Donald Dr",
+    "Price": "$399,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78728",
+    "Street": "",
+    "Stats": [
+        "$399,900",
+        "3 beds",
+        "2 baths",
+        "1,156 sq ft",
+        "4,181 sq ft (lot)",
+        "14503 Donald Dr, Austin, TX 78728"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_143",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/189/genIslnoResize.2963189_21_0.jpg"
+    ]
+}

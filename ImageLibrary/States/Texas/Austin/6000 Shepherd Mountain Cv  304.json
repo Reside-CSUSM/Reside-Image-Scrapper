@@ -1,0 +1,78 @@
+{
+    "Address": "6000 Shepherd Mountain Cv #304",
+    "Price": "$374,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78730",
+    "Street": "",
+    "Stats": [
+        "$374,000",
+        "2 beds",
+        "2 baths",
+        "918 sq ft",
+        "6000 Shepherd Mountain Cv #304, Austin, TX 78730"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_210",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_33_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/483/genIslnoResize.8991483_34_2.jpg"
+    ]
+}

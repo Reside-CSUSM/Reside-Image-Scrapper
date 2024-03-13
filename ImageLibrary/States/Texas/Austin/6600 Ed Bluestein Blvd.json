@@ -1,0 +1,72 @@
+{
+    "Address": " | 6600 Ed Bluestein Blvd",
+    "Price": "$998+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78723",
+    "Street": "",
+    "Stats": [
+        "$998+/mo",
+        "0-2 beds",
+        "1-2 bath",
+        "500-1,150 sq ft",
+        "MAA East Austin",
+        " | 6600 Ed Bluestein Blvd, Austin, TX 78723",
+        "47 units available \u2022 Pets welcome \u2022 Parking",
+        "Request a tour",
+        "(737) 313-8259"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_12",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.0_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.1_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.2_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.3_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.4_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.5_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.6_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/e6f5585e-2f49-4e68-a9d7-15cd48d016d3/islphoto/genIsl.24_1.jpg"
+    ]
+}

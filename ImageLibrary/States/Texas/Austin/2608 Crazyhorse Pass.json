@@ -1,0 +1,61 @@
+{
+    "Address": "2608 Crazyhorse Pass",
+    "Price": "$260,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78734",
+    "Street": "",
+    "Stats": [
+        "$260,000",
+        "0 beds",
+        "\u2014 baths",
+        "0.35 acre (lot)",
+        "2608 Crazyhorse Pass, Austin, TX 78734"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_338",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/245/genIslnoResize.5866245_17_0.jpg"
+    ]
+}

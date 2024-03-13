@@ -1,0 +1,62 @@
+{
+    "Address": "3003 Larson Cv",
+    "Price": "$565,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78748",
+    "Street": "",
+    "Stats": [
+        "$565,000",
+        "3 beds",
+        "2 baths",
+        "1,846 sq ft",
+        "8,006 sq ft (lot)",
+        "3003 Larson Cv, Austin, TX 78748"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_172",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/610/genIslnoResize.9378610_17_0.jpg"
+    ]
+}

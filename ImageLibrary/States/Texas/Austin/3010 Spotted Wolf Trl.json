@@ -1,0 +1,72 @@
+{
+    "Address": "3010 Spotted Wolf Trl",
+    "Price": "$639,500",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78734",
+    "Street": "",
+    "Stats": [
+        "$639,500",
+        "3 beds",
+        "2.5 baths",
+        "2,020 sq ft",
+        "0.35 acre (lot)",
+        "3010 Spotted Wolf Trl, Austin, TX 78734"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_147",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/048/genIslnoResize.2045048_27_0.jpg"
+    ]
+}

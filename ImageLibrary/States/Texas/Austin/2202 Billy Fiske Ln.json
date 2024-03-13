@@ -1,0 +1,72 @@
+{
+    "Address": "2202 Billy Fiske Ln",
+    "Price": "$449,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78748",
+    "Street": "",
+    "Stats": [
+        "$449,900",
+        "3 beds",
+        "2.5 baths",
+        "2,073 sq ft",
+        "5,148 sq ft (lot)",
+        "2202 Billy Fiske Ln, Austin, TX 78748"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_55",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/248/genIslnoResize.7679248_27_0.jpg"
+    ]
+}

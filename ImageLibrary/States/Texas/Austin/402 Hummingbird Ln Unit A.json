@@ -1,0 +1,60 @@
+{
+    "Address": "402 Hummingbird Ln Unit A",
+    "Price": "$495,000",
+    "State": "TX",
+    "City": "Lakeway",
+    "ZipCode": "78734",
+    "Street": "",
+    "Stats": [
+        "$495,000",
+        "3 beds",
+        "2.5 baths",
+        "1,931 sq ft",
+        "402 Hummingbird Ln Unit A, Lakeway, TX 78734"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_81",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/656/genIslnoResize.7288656_16_0.jpg"
+    ]
+}

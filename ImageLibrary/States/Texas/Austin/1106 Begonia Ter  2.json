@@ -1,0 +1,76 @@
+{
+    "Address": "1106 Begonia Ter #2",
+    "Price": "$570,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$570,000",
+        "2 beds",
+        "3 baths",
+        "1,106 sq ft",
+        "2,178 sq ft (lot)",
+        "1106 Begonia Ter #2, Austin, TX 78741"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_66",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/537/genIslnoResize.1212537_31_2.jpg"
+    ]
+}

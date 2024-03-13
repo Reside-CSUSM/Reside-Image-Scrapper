@@ -1,0 +1,61 @@
+{
+    "Address": "1400 Yorkshire Dr",
+    "Price": "$700,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78723",
+    "Street": "",
+    "Stats": [
+        "$700,000",
+        "4 beds",
+        "3 baths",
+        "1,931 sq ft",
+        "9,888 sq ft (lot)",
+        "1400 Yorkshire Dr, Austin, TX 78723"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_18",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/304/genIslnoResize.1807304_16_0.jpg"
+    ]
+}

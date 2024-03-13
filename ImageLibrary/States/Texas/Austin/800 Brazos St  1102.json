@@ -1,0 +1,61 @@
+{
+    "Address": "800 Brazos St #1102",
+    "Price": "$2,550/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78701",
+    "Street": "",
+    "Stats": [
+        "$2,550/mo",
+        "1 bed",
+        "1 bath",
+        "802 sq ft",
+        "800 Brazos St #1102, Austin, TX 78701",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(512) 636-3116"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_342",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fbf7461a-ed9a-4202-8ea2-b3ec1db0c6d9/islphoto/genIsl.14_1.jpg"
+    ]
+}

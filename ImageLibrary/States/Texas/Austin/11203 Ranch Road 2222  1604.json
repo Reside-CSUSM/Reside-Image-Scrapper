@@ -1,0 +1,76 @@
+{
+    "Address": "11203 Ranch Road 2222 #1604",
+    "Price": "$331,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78730",
+    "Street": "",
+    "Stats": [
+        "$331,000",
+        "2 beds",
+        "2.5 baths",
+        "1,325 sq ft",
+        "5,179 sq ft (lot)",
+        "11203 Ranch Road 2222 #1604, Austin, TX 78730"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_322",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_4.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_64.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_13.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_25.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_16.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_59.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_23.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_21.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_20.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_19.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_26.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_27.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_50.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_51.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_29.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_32.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_43.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_33.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_34.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_52.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_36.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_40.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_61.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_62.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_63.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_58.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_44.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_10.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_49.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_48.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_47.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/883219_JPG/genDesktopMapHomeCardUrl/item_3.jpg"
+    ]
+}

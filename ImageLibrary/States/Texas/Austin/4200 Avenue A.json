@@ -1,0 +1,60 @@
+{
+    "Address": " | 4200 Avenue A",
+    "Price": "$1,160/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78751",
+    "Street": "",
+    "Stats": [
+        "$1,160/mo",
+        "1 bed",
+        "1 bath",
+        "\u2014 sq ft",
+        "The Preserve Hyde Park - Fiesta Place",
+        " | 4200 Avenue A, Austin, TX 78751",
+        "1 unit available \u2022 Pets welcome \u2022 Laundry facility",
+        "Request a tour",
+        "(737) 263-3817"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_72",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.0_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.1_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.2_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.3_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/f503f9cd-89c9-4794-b32f-fc2314a4eb25/islphoto/genIsl.12_1.jpg"
+    ]
+}

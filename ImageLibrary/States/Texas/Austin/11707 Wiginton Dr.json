@@ -1,0 +1,73 @@
+{
+    "Address": "11707 Wiginton Dr",
+    "Price": "$699,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78758",
+    "Street": "",
+    "Stats": [
+        "$699,000",
+        "4 beds",
+        "2 baths",
+        "1,767 sq ft",
+        "7,522 sq ft (lot)",
+        "11707 Wiginton Dr, Austin, TX 78758"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_188",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/311/genIslnoResize.1608311_28_0.jpg"
+    ]
+}

@@ -58,7 +58,7 @@ class AreaUpdate(ResideImageryAdapter):
         print("Update Finished.....\n\n\n")
 
 class CacheUpdates():
-    
+
     def __init__(self):
         self.list = []
 
@@ -75,7 +75,7 @@ def console():
     cache_updates = CacheUpdates()
     while(True):
         os.system('cls')
-        print("Select Options: [add, set host, run search, exit, show areas, delete, update area]")
+        print("Select Options: [add, set host, run search, exit, show areas, delete, update areas]")
         val = input()
 
         if(val == "update areas"):

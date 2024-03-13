@@ -1,0 +1,62 @@
+{
+    "Address": "1912 Fairlawn Ln",
+    "Price": "$795,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$795,000",
+        "4 beds",
+        "2 baths",
+        "1,665 sq ft",
+        "6,926 sq ft (lot)",
+        "1912 Fairlawn Ln, Austin, TX 78704"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_12",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/630/genIslnoResize.2975630_17_0.jpg"
+    ]
+}

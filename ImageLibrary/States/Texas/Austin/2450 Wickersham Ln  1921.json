@@ -1,0 +1,52 @@
+{
+    "Address": "2450 Wickersham Ln #1921",
+    "Price": "$399,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$399,000",
+        "1 bed",
+        "1 bath",
+        "749 sq ft",
+        "2450 Wickersham Ln #1921, Austin, TX 78741"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_27",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/129/genIslnoResize.4767129_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/129/genIslnoResize.4767129_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/129/genIslnoResize.4767129_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/129/genIslnoResize.4767129_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/129/genIslnoResize.4767129_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/129/genIslnoResize.4767129_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/129/genIslnoResize.4767129_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/129/genIslnoResize.4767129_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/129/genIslnoResize.4767129_8_0.jpg"
+    ]
+}

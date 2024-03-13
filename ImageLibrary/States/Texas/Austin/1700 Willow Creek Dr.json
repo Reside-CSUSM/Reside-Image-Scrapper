@@ -1,0 +1,66 @@
+{
+    "Address": " | 1700 Willow Creek Dr",
+    "Price": "$1,347+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78741",
+    "Street": "",
+    "Stats": [
+        "$1,347+/mo",
+        "0-3 beds",
+        "1-2 bath",
+        "480-1,245 sq ft",
+        "The Sondery",
+        " | 1700 Willow Creek Dr, Austin, TX 78741",
+        "48 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(737) 708-6373"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_124",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cde8f35c-b6ab-4b03-b39f-c4d975e3fb57/islphoto/genIsl.18_2.jpg"
+    ]
+}

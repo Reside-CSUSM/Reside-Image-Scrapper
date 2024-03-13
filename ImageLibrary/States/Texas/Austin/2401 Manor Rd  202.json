@@ -1,0 +1,70 @@
+{
+    "Address": "2401 Manor Rd #202",
+    "Price": "$239,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78722",
+    "Street": "",
+    "Stats": [
+        "$239,000",
+        "2 beds",
+        "1 bath",
+        "820 sq ft",
+        "2401 Manor Rd #202, Austin, TX 78722"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_175",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/667/genIslnoResize.2785667_26_0.jpg"
+    ]
+}

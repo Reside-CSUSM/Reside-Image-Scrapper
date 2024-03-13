@@ -1,0 +1,70 @@
+{
+    "Address": " | 7001 S Congress Ave",
+    "Price": "$955+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$955+/mo",
+        "0-2 beds",
+        "1-2 bath",
+        "\u2014 sq ft",
+        "Centennial Place",
+        " | 7001 S Congress Ave, Austin, TX 78745",
+        "8 units available \u2022 Laundry in unit \u2022 A/C",
+        "Request a tour",
+        "(737) 359-0201"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_45",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/99adc27b-b210-4bf1-931a-32860b9a10cb/islphoto/genIsl.22_1.jpg"
+    ]
+}

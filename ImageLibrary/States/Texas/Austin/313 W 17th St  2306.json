@@ -1,0 +1,57 @@
+{
+    "Address": "313 W 17th St #2306",
+    "Price": "$950,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78701",
+    "Street": "",
+    "Stats": [
+        "$950,000",
+        "1 bed",
+        "1 bath",
+        "942 sq ft",
+        "313 W 17th St #2306, Austin, TX 78701"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_126",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/057/genIslnoResize.9078057_13_1.jpg"
+    ]
+}

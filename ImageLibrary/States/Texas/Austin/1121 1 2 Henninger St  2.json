@@ -1,0 +1,80 @@
+{
+    "Address": "1121 1/2 Henninger St #2",
+    "Price": "$925,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78702",
+    "Street": "",
+    "Stats": [
+        "$925,000",
+        "3 beds",
+        "3.5 baths",
+        "1,410 sq ft",
+        "1121 1/2 Henninger St #2, Austin, TX 78702"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_301",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_35_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/152/genIslnoResize.2779152_36_0.jpg"
+    ]
+}

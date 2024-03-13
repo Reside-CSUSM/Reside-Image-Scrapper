@@ -1,0 +1,66 @@
+{
+    "Address": "16722 Village Oak Loop",
+    "Price": "$330,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78717",
+    "Street": "",
+    "Stats": [
+        "$330,000",
+        "2 beds",
+        "1 bath",
+        "924 sq ft",
+        "4,512 sq ft (lot)",
+        "16722 Village Oak Loop, Austin, TX 78717"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_90",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/533/genIslnoResize.1380533_21_0.jpg"
+    ]
+}

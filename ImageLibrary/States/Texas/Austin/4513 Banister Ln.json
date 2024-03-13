@@ -1,0 +1,65 @@
+{
+    "Address": "4513 Banister Ln",
+    "Price": "$899,999",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$899,999",
+        "3 beds",
+        "2 baths",
+        "1,785 sq ft",
+        "9,108 sq ft (lot)",
+        "4513 Banister Ln, Austin, TX 78745"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_109",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/394/genIslnoResize.6350394_20_0.jpg"
+    ]
+}

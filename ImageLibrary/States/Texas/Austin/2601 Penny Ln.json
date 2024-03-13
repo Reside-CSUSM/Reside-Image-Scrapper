@@ -1,0 +1,51 @@
+{
+    "Address": " | 2601 Penny Ln",
+    "Price": "$1,050+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78757",
+    "Street": "",
+    "Stats": [
+        "$1,050+/mo",
+        "0-3 beds",
+        "1-2 bath",
+        "400-1,287 sq ft",
+        "Abbey Road Leasing NOW!",
+        " | 2601 Penny Ln, Austin, TX 78757",
+        "Pets welcome \u2022 Very walkable \u2022 Good transit",
+        "Request a tour",
+        "(737) 277-4472"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_225",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/57ce5502-cb69-4aa6-bf8d-89be7a256da5/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/57ce5502-cb69-4aa6-bf8d-89be7a256da5/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/57ce5502-cb69-4aa6-bf8d-89be7a256da5/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/57ce5502-cb69-4aa6-bf8d-89be7a256da5/islphoto/genIsl.3_1.jpg"
+    ]
+}

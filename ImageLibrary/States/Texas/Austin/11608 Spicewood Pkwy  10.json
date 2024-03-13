@@ -1,0 +1,68 @@
+{
+    "Address": "11608 Spicewood Pkwy #10",
+    "Price": "$749,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78750",
+    "Street": "",
+    "Stats": [
+        "$749,000",
+        "3 beds",
+        "2.5 baths",
+        "2,699 sq ft",
+        "11608 Spicewood Pkwy #10, Austin, TX 78750"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_273",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/566/genIslnoResize.7873566_24_0.jpg"
+    ]
+}

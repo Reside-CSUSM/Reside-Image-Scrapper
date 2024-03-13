@@ -1,0 +1,80 @@
+{
+    "Address": "6121 Los Cielos Blvd",
+    "Price": "$459,000",
+    "State": "TX",
+    "City": "Del Valle",
+    "ZipCode": "78617",
+    "Street": "",
+    "Stats": [
+        "$459,000",
+        "4 beds",
+        "2.5 baths",
+        "2,573 sq ft",
+        "6,490 sq ft (lot)",
+        "6121 Los Cielos Blvd, Del Valle, TX 78617"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_57",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/945/genIslnoResize.8087945_35_0.jpg"
+    ]
+}

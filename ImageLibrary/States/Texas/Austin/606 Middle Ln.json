@@ -1,0 +1,50 @@
+{
+    "Address": "606 Middle Ln",
+    "Price": "$150,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$150,000",
+        "0 beds",
+        "\u2014 baths",
+        "9,029 sq ft (lot)",
+        "606 Middle Ln, Austin, TX 78753"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_336",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/844/genIslnoResize.5850844_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/844/genIslnoResize.5850844_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/844/genIslnoResize.5850844_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/844/genIslnoResize.5850844_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/844/genIslnoResize.5850844_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/844/genIslnoResize.5850844_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/844/genIslnoResize.5850844_6_0.jpg"
+    ]
+}

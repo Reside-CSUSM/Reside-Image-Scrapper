@@ -1,0 +1,77 @@
+{
+    "Address": "2404 Castledale Dr",
+    "Price": "$750,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78748",
+    "Street": "",
+    "Stats": [
+        "$750,000",
+        "4 beds",
+        "2.5 baths",
+        "2,230 sq ft",
+        "0.34 acre (lot)",
+        "2404 Castledale Dr, Austin, TX 78748"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_148",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/780/genIslnoResize.5356780_32_0.jpg"
+    ]
+}

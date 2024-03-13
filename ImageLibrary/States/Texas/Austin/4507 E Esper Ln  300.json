@@ -1,0 +1,71 @@
+{
+    "Address": "4507 E Esper Ln #300",
+    "Price": "$344,990",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78725",
+    "Street": "",
+    "Stats": [
+        "$344,990",
+        "3 beds",
+        "2 baths",
+        "1,346 sq ft",
+        "4507 E Esper Ln #300, Austin, TX 78725"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_138",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/939/genIslnoResize.6893939_27_0.jpg"
+    ]
+}

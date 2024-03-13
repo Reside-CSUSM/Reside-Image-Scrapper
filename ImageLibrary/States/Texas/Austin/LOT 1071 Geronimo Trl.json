@@ -1,0 +1,45 @@
+{
+    "Address": "LOT 1071 Geronimo Trl",
+    "Price": "$200,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78734",
+    "Street": "",
+    "Stats": [
+        "$200,000",
+        "0 beds",
+        "\u2014 baths",
+        "0.27 acre (lot)",
+        "LOT 1071 Geronimo Trl, Austin, TX 78734"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_341",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/909/genIslnoResize.3874909_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/909/genIslnoResize.3874909_1_0.jpg"
+    ]
+}

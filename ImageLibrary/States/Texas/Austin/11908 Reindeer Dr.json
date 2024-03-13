@@ -1,0 +1,74 @@
+{
+    "Address": "11908 Reindeer Dr",
+    "Price": "$385,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78754",
+    "Street": "",
+    "Stats": [
+        "$385,000",
+        "3 beds",
+        "2 baths",
+        "1,670 sq ft",
+        "6,551 sq ft (lot)",
+        "11908 Reindeer Dr, Austin, TX 78754"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_167",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/482/genIslnoResize.7661482_29_0.jpg"
+    ]
+}

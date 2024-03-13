@@ -1,0 +1,69 @@
+{
+    "Address": "4701 Philco Dr",
+    "Price": "$450,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$450,000",
+        "3 beds",
+        "1 bath",
+        "1,045 sq ft",
+        "7,265 sq ft (lot)",
+        "4701 Philco Dr, Austin, TX 78745"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_56",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/616/genIslnoResize.9947616_24_0.jpg"
+    ]
+}

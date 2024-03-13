@@ -1,0 +1,78 @@
+{
+    "Address": "4361 S Congress Ave #209",
+    "Price": "$412,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$412,000",
+        "2 beds",
+        "2 baths",
+        "1,081 sq ft",
+        "4361 S Congress Ave #209, Austin, TX 78745"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_17",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/639/genIslnoResize.4088639_34_0.jpg"
+    ]
+}

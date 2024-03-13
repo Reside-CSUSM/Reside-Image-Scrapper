@@ -1,0 +1,68 @@
+{
+    "Address": "5200 Grover Ave",
+    "Price": "$646,800",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78759",
+    "Street": "",
+    "Stats": [
+        "$646,800",
+        "2 beds",
+        "2.5 baths",
+        "1,014 sq ft",
+        "5200 Grover Ave, Austin, TX 78759"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_296",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/050/genIslnoResize.3285050_24_0.jpg"
+    ]
+}

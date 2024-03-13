@@ -1,0 +1,54 @@
+{
+    "Address": "2801 Hemphill Park #304",
+    "Price": "$234,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$234,900",
+        "1 bed",
+        "1 bath",
+        "450 sq ft",
+        "2801 Hemphill Park #304, Austin, TX 78705"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_15",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/766/genIslnoResize.8848766_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/766/genIslnoResize.8848766_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/766/genIslnoResize.8848766_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/766/genIslnoResize.8848766_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/766/genIslnoResize.8848766_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/766/genIslnoResize.8848766_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/766/genIslnoResize.8848766_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/766/genIslnoResize.8848766_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/766/genIslnoResize.8848766_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/766/genIslnoResize.8848766_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/766/genIslnoResize.8848766_10_0.jpg"
+    ]
+}

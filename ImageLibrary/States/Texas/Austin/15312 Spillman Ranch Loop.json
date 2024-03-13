@@ -1,0 +1,64 @@
+{
+    "Address": "15312 Spillman Ranch Loop",
+    "Price": "$3,995/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78738",
+    "Street": "",
+    "Stats": [
+        "$3,995/mo",
+        "5 beds",
+        "3.5 baths",
+        "3,724 sq ft",
+        "15312 Spillman Ranch Loop, Austin, TX 78738",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour",
+        "(408) 533-5574"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_340",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/304cda8d-f5eb-4098-8c57-71b0304941da/islphoto/genIsl.17_1.jpg"
+    ]
+}

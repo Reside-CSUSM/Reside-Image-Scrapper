@@ -1,0 +1,64 @@
+{
+    "Address": "8307 Adirondack Trl",
+    "Price": "$1,349,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78759",
+    "Street": "",
+    "Stats": [
+        "$1,349,000",
+        "4 beds",
+        "4 baths",
+        "4,367 sq ft",
+        "0.33 acre (lot)",
+        "8307 Adirondack Trl, Austin, TX 78759"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_297",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/686/genIslnoResize.1791686_19_0.jpg"
+    ]
+}

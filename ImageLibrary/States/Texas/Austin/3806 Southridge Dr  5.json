@@ -1,0 +1,65 @@
+{
+    "Address": "3806 Southridge Dr #5",
+    "Price": "$2,350/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$2,350/mo",
+        "2 beds",
+        "1.5 baths",
+        "814 sq ft",
+        "3806 Southridge Dr #5, Austin, TX 78704",
+        "Parking \u2022 A/C \u2022 Dishwasher",
+        "Request a tour",
+        "(512) 700-5460"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_203",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb74111c-5d2b-4816-a1e1-4d52aff69ef5/islphoto/genIsl.18_1.jpg"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "Address": "9000 Norwich Castle Dr",
+    "Price": "$400,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78747",
+    "Street": "",
+    "Stats": [
+        "$400,000",
+        "4 beds",
+        "2.5 baths",
+        "2,068 sq ft",
+        "4,861 sq ft (lot)",
+        "9000 Norwich Castle Dr, Austin, TX 78747"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_240",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_28_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_29_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_30_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_31_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_32_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_33_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_34_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_35_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_36_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_37_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_38_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/480/genIslnoResize.9906480_39_0.jpg"
+    ]
+}

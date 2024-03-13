@@ -1,0 +1,63 @@
+{
+    "Address": "800 Rosedale Ter Unit B",
+    "Price": "$975,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$975,000",
+        "3 beds",
+        "3 baths",
+        "1,590 sq ft",
+        "800 Rosedale Ter Unit B, Austin, TX 78704"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_26",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/532/genIslnoResize.8811532_19_0.jpg"
+    ]
+}

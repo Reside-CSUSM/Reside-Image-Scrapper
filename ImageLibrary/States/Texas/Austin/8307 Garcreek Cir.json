@@ -1,0 +1,70 @@
+{
+    "Address": "8307 Garcreek Cir",
+    "Price": "$799,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78724",
+    "Street": "",
+    "Stats": [
+        "$799,900",
+        "12 beds",
+        "8 baths",
+        "4,066 sq ft",
+        "0.25 acre (lot)",
+        "8307 Garcreek Cir, Austin, TX 78724"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_50",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/128/genIslnoResize.3402128_25_0.jpg"
+    ]
+}

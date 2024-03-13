@@ -1,0 +1,64 @@
+{
+    "Address": "7105 Bending Oak Rd",
+    "Price": "$700,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78749",
+    "Street": "",
+    "Stats": [
+        "$700,000",
+        "5 beds",
+        "3 baths",
+        "2,826 sq ft",
+        "7,148 sq ft (lot)",
+        "7105 Bending Oak Rd, Austin, TX 78749"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_91",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/758/genIslnoResize.9787758_19_2.jpg"
+    ]
+}

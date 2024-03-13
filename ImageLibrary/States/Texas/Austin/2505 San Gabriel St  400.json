@@ -1,0 +1,57 @@
+{
+    "Address": "2505 San Gabriel St #400",
+    "Price": "$445,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$445,000",
+        "3 beds",
+        "2 baths",
+        "1,374 sq ft",
+        "2505 San Gabriel St #400, Austin, TX 78705"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_223",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/761/genIslnoResize.1179761_13_0.jpg"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "Address": " | 8700 West Gate Blvd",
+    "Price": "$1,275+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$1,275+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "674-1,129 sq ft",
+        "West Gate Ridge Apartment Homes",
+        " | 8700 West Gate Blvd, Austin, TX 78745",
+        "5 units available \u2022 Laundry hookups \u2022 A/C",
+        "Request a tour",
+        "(737) 249-6037"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_90",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.0_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.1_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.2_6.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.3_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.4_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.5_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.6_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.7_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.8_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.9_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.10_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.11_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.12_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.13_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.14_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.15_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.16_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.17_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.18_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.19_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.20_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.21_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.22_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.23_5.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.26_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.27_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.28_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.29_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.30_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/b87d936c-8777-421b-bf55-47b2dc74b83d/islphoto/genIsl.31_3.jpg"
+    ]
+}

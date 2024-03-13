@@ -1,0 +1,57 @@
+{
+    "Address": "9909 Oak Hollow Dr",
+    "Price": "$2,395/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78758",
+    "Street": "",
+    "Stats": [
+        "$2,395/mo",
+        "4 beds",
+        "2 baths",
+        "1,527 sq ft",
+        "9909 Oak Hollow Dr, Austin, TX 78758",
+        "Pets welcome \u2022 Dishwasher \u2022 Somewhat walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_263",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/c0d2d60c-e3fe-4850-9efa-d86557fd2a6b/islphoto/genIsl.11_1.jpg"
+    ]
+}

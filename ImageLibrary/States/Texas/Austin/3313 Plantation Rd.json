@@ -1,0 +1,69 @@
+{
+    "Address": "3313 Plantation Rd",
+    "Price": "$619,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78745",
+    "Street": "",
+    "Stats": [
+        "$619,900",
+        "3 beds",
+        "2 baths",
+        "1,924 sq ft",
+        "8,145 sq ft (lot)",
+        "3313 Plantation Rd, Austin, TX 78745"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_193",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/470/genIslnoResize.2877470_24_0.jpg"
+    ]
+}

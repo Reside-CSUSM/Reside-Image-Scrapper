@@ -1,0 +1,84 @@
+{
+    "Address": "11624 Yeadon Way",
+    "Price": "$579,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78717",
+    "Street": "",
+    "Stats": [
+        "$579,000",
+        "4 beds",
+        "3 baths",
+        "2,286 sq ft",
+        "6,795 sq ft (lot)",
+        "11624 Yeadon Way, Austin, TX 78717"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_178",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_18_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_19_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_20_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_21_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_22_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_24_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_25_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_26_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_27_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_28_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_29_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_30_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_33_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_34_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_35_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_36_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_37_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_38_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/838/genIslnoResize.7588838_39_1.jpg"
+    ]
+}

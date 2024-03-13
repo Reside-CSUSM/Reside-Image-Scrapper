@@ -1,0 +1,55 @@
+{
+    "Address": "4411 Bennett Ave #2",
+    "Price": "$500,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78751",
+    "Street": "",
+    "Stats": [
+        "$500,000",
+        "1 bed",
+        "1.5 baths",
+        "656 sq ft",
+        "4411 Bennett Ave #2, Austin, TX 78751"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_304",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/352/genIslnoResize.8580352_11_0.jpg"
+    ]
+}

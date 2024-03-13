@@ -1,0 +1,62 @@
+{
+    "Address": "12505 Lamplight Village Ave",
+    "Price": "$1,700/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78727",
+    "Street": "",
+    "Stats": [
+        "$1,700/mo",
+        "3 beds",
+        "2.5 baths",
+        "1,350 sq ft",
+        "12505 Lamplight Village Ave, Austin, TX 78727",
+        "Cats welcome \u2022 Laundry hookups \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_177",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.4_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.5_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.7_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.8_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.9_4.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3e700961-906c-48e2-8ee6-62cea70f3eff/islphoto/genIsl.16_1.jpg"
+    ]
+}

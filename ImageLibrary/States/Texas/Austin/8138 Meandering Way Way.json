@@ -1,0 +1,80 @@
+{
+    "Address": "8138 Meandering Way Way",
+    "Price": "$550,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78759",
+    "Street": "",
+    "Stats": [
+        "$550,000",
+        "2 beds",
+        "2 baths",
+        "1,210 sq ft",
+        "3,484 sq ft (lot)",
+        "8138 Meandering Way Way, Austin, TX 78759"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_174",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_25_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_26_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_27_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_29_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_30_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_31_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_32_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_33_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_34_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/342/genIslnoResize.4843342_35_0.jpg"
+    ]
+}

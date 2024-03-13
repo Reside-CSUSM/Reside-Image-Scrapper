@@ -1,0 +1,74 @@
+{
+    "Address": "2609 Sol Wilson Ave",
+    "Price": "$1,200,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78702",
+    "Street": "",
+    "Stats": [
+        "$1,200,000",
+        "4 beds",
+        "2 baths",
+        "1,220 sq ft",
+        "6,538 sq ft (lot)",
+        "2609 Sol Wilson Ave, Austin, TX 78702"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_285",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_22_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_23_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_24_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_25_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_26_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_27_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_28_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/636/genIslnoResize.7496636_29_0.jpg"
+    ]
+}

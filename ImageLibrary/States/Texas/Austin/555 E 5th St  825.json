@@ -1,0 +1,56 @@
+{
+    "Address": "555 E 5th St #825",
+    "Price": "$2,900/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78701",
+    "Street": "",
+    "Stats": [
+        "$2,900/mo",
+        "1 bed",
+        "1.5 baths",
+        "982 sq ft",
+        "555 E 5th St #825, Austin, TX 78701",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_325",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/94e67fe0-ea38-4f71-93aa-c4f48eedf7bc/islphoto/genIsl.0_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/94e67fe0-ea38-4f71-93aa-c4f48eedf7bc/islphoto/genIsl.1_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/94e67fe0-ea38-4f71-93aa-c4f48eedf7bc/islphoto/genIsl.2_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/94e67fe0-ea38-4f71-93aa-c4f48eedf7bc/islphoto/genIsl.3_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/94e67fe0-ea38-4f71-93aa-c4f48eedf7bc/islphoto/genIsl.4_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/94e67fe0-ea38-4f71-93aa-c4f48eedf7bc/islphoto/genIsl.5_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/94e67fe0-ea38-4f71-93aa-c4f48eedf7bc/islphoto/genIsl.6_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/94e67fe0-ea38-4f71-93aa-c4f48eedf7bc/islphoto/genIsl.7_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/94e67fe0-ea38-4f71-93aa-c4f48eedf7bc/islphoto/genIsl.8_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/94e67fe0-ea38-4f71-93aa-c4f48eedf7bc/islphoto/genIsl.9_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/94e67fe0-ea38-4f71-93aa-c4f48eedf7bc/islphoto/genIsl.10_7.jpg"
+    ]
+}

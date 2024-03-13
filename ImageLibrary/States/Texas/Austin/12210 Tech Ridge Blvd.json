@@ -1,0 +1,56 @@
+{
+    "Address": " | 12210 Tech Ridge Blvd",
+    "Price": "$1,475+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$1,475+/mo",
+        "0-2 beds",
+        "1-2 bath",
+        "576-1,106 sq ft",
+        "Presidium Tech Ridge",
+        " | 12210 Tech Ridge Blvd, Austin, TX 78753",
+        "336 units available \u2022 Pets welcome \u2022 Laundry in unit",
+        "Request a tour",
+        "(512) 299-9147"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_53",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/551e3dda-af5a-4333-9917-e006b0b2132b/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/551e3dda-af5a-4333-9917-e006b0b2132b/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/551e3dda-af5a-4333-9917-e006b0b2132b/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/551e3dda-af5a-4333-9917-e006b0b2132b/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/551e3dda-af5a-4333-9917-e006b0b2132b/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/551e3dda-af5a-4333-9917-e006b0b2132b/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/551e3dda-af5a-4333-9917-e006b0b2132b/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/551e3dda-af5a-4333-9917-e006b0b2132b/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/551e3dda-af5a-4333-9917-e006b0b2132b/islphoto/genIsl.8_2.jpg"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Address": "11311 Walnut Ridge Dr",
+    "Price": "$499,900",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$499,900",
+        "4 beds",
+        "2 baths",
+        "1,680 sq ft",
+        "7,697 sq ft (lot)",
+        "11311 Walnut Ridge Dr, Austin, TX 78753"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_254",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/154/genIslnoResize.7624154_16_0.jpg"
+    ]
+}

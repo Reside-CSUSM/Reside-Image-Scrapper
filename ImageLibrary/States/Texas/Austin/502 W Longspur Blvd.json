@@ -1,0 +1,55 @@
+{
+    "Address": " | 502 W Longspur Blvd",
+    "Price": "$1,275+/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78753",
+    "Street": "",
+    "Stats": [
+        "$1,275+/mo",
+        "1-2 bed",
+        "1-2 bath",
+        "500-951 sq ft",
+        "502 North Apartments",
+        " | 502 W Longspur Blvd, Austin, TX 78753",
+        "Pets welcome \u2022 Very walkable \u2022 Some transit",
+        "Request a tour",
+        "(512) 299-9773"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_224",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/3d2b2bc6-7fd7-4d93-9575-1d3e306cb114/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d2b2bc6-7fd7-4d93-9575-1d3e306cb114/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d2b2bc6-7fd7-4d93-9575-1d3e306cb114/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d2b2bc6-7fd7-4d93-9575-1d3e306cb114/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d2b2bc6-7fd7-4d93-9575-1d3e306cb114/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d2b2bc6-7fd7-4d93-9575-1d3e306cb114/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d2b2bc6-7fd7-4d93-9575-1d3e306cb114/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/3d2b2bc6-7fd7-4d93-9575-1d3e306cb114/islphoto/genIsl.7_2.jpg"
+    ]
+}

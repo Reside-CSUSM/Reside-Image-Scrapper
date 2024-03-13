@@ -1,0 +1,69 @@
+{
+    "Address": "1704 Kinney Ave Unit A",
+    "Price": "$1,499,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78704",
+    "Street": "",
+    "Stats": [
+        "$1,499,000",
+        "3 beds",
+        "3 baths",
+        "2,068 sq ft",
+        "1704 Kinney Ave Unit A, Austin, TX 78704"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_31",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_24_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/92/islphoto/402/genIslnoResize.3182402_25_0.jpg"
+    ]
+}

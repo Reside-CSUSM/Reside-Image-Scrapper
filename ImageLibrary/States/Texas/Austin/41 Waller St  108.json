@@ -1,0 +1,57 @@
+{
+    "Address": "41 Waller St #108",
+    "Price": "$2,700/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78702",
+    "Street": "",
+    "Stats": [
+        "$2,700/mo",
+        "2 beds",
+        "1 bath",
+        "936 sq ft",
+        "41 Waller St #108, Austin, TX 78702",
+        "Pets welcome \u2022 Laundry in unit \u2022 Very walkable",
+        "Request a tour",
+        "(818) 292-6036"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_255",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d78c4dda-7862-46cf-a4d6-abfd5c0626e4/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d78c4dda-7862-46cf-a4d6-abfd5c0626e4/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d78c4dda-7862-46cf-a4d6-abfd5c0626e4/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d78c4dda-7862-46cf-a4d6-abfd5c0626e4/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d78c4dda-7862-46cf-a4d6-abfd5c0626e4/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d78c4dda-7862-46cf-a4d6-abfd5c0626e4/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d78c4dda-7862-46cf-a4d6-abfd5c0626e4/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d78c4dda-7862-46cf-a4d6-abfd5c0626e4/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d78c4dda-7862-46cf-a4d6-abfd5c0626e4/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d78c4dda-7862-46cf-a4d6-abfd5c0626e4/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d78c4dda-7862-46cf-a4d6-abfd5c0626e4/islphoto/genIsl.10_1.jpg"
+    ]
+}

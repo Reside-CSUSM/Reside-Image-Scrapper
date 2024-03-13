@@ -1,0 +1,75 @@
+{
+    "Address": "2500 Longview St #515",
+    "Price": "$399,000",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78705",
+    "Street": "",
+    "Stats": [
+        "$399,000",
+        "1 bed",
+        "1 bath",
+        "710 sq ft",
+        "2500 Longview St #515, Austin, TX 78705"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_311",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_6.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_56.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_9.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_8.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_12.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_13.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_17.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_15.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_54.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_36.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_53.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_22.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_23.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_24.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_29.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_30.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_28.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_21.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_18.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_19.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_20.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_3.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_27.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_49.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_51.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_38.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_52.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_33.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_35.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_40.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_44.jpg",
+        "https://ssl.cdn-redfin.com/system_files/media/801123_JPG/genDesktopMapHomeCardUrl/item_55.jpg"
+    ]
+}

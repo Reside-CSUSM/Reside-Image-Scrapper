@@ -1,0 +1,61 @@
+{
+    "Address": "8701 Escarpment Blvd #82",
+    "Price": "$2,900/mo",
+    "State": "TX",
+    "City": "Austin",
+    "ZipCode": "78749",
+    "Street": "",
+    "Stats": [
+        "$2,900/mo",
+        "3 beds",
+        "2.5 baths",
+        "2,077 sq ft",
+        "8701 Escarpment Blvd #82, Austin, TX 78749",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour",
+        "(512) 965-1932"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_298",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/cf227b28-645f-41c7-9aaf-4099eaf3e6f1/islphoto/genIsl.14_2.jpg"
+    ]
+}
