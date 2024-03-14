@@ -1,0 +1,65 @@
+{
+    "Address": "Deadwood",
+    "Price": "$749,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$749,000",
+        "0 beds",
+        "\u2014 baths",
+        "1.26 acres (lot)",
+        "Deadwood, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_111",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/565/genIslnoResize.240002565_21_0.jpg"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "Address": "Tamara Ln",
+    "Price": "$399,900",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$399,900",
+        "0 beds",
+        "\u2014 baths",
+        "8.10 acres (lot)",
+        "Tamara Ln, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_113",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_20_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_21_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/413/genIslnoResize.240002413_22_1.jpg"
+    ]
+}

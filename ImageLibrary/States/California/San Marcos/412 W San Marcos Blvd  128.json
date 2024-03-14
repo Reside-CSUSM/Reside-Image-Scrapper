@@ -1,19 +1,19 @@
 {
     "Address": "412 W San Marcos Blvd #128",
-    "Price": "$710,000",
+    "Price": "$699,000",
     "State": "CA",
     "City": "San Marcos",
     "ZipCode": "92069",
     "Street": "",
     "Stats": [
-        "$710,000",
+        "$699,000",
         "3 beds",
         "2 baths",
         "1,482 sq ft",
         "412 W San Marcos Blvd #128, San Marcos, CA 92069"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_2",
+    "WebElementID": "MapHomeCard_6",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",
@@ -31,7 +31,7 @@
                 }
             },
             "Payment Type": {
-                "Payment Type": "For sale"
+                "Payment Type": "None"
             },
             "Home type": {
                 "Home Type": "None"

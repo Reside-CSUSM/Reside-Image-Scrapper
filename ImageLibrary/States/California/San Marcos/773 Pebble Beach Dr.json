@@ -1,0 +1,53 @@
+{
+    "Address": "773 Pebble Beach Dr",
+    "Price": "$4,200/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$4,200/mo",
+        "4 beds",
+        "2 baths",
+        "1,658 sq ft",
+        "773 Pebble Beach Dr, San Marcos, CA 92069",
+        "Laundry in unit \u2022 Parking \u2022 A/C",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_56",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/d19bcedf-1cab-44f2-80cc-f636c7ca86da/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d19bcedf-1cab-44f2-80cc-f636c7ca86da/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d19bcedf-1cab-44f2-80cc-f636c7ca86da/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d19bcedf-1cab-44f2-80cc-f636c7ca86da/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d19bcedf-1cab-44f2-80cc-f636c7ca86da/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d19bcedf-1cab-44f2-80cc-f636c7ca86da/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d19bcedf-1cab-44f2-80cc-f636c7ca86da/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/d19bcedf-1cab-44f2-80cc-f636c7ca86da/islphoto/genIsl.7_2.jpg"
+    ]
+}

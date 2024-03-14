@@ -28,14 +28,25 @@ class ListingService():
 
         if(len(first_list) >= 3):
             address_line = first_list[0]
+            if("Unit" in first_list[1]):
+                print("orginal address (" + address_line + ")")
+                address_line += " " + string_filter(first_list[1])
+                print("new address", address_line)
             city = string_filter(first_list[-2])
             #print("STATE ABR0", first_list[-1])
             state_abbreviation = copy.copy(first_list)[-1].split(" ")[1]
             print("STATE ABR", state_abbreviation)
             list = first_list
 
+
         elif(len(second_list) >= 3):
             address_line = second_list[0]
+            if("Unit" in second_list[1]):
+                address_line = string_filter(address_line)
+                print("orginal address (" + address_line + ")")
+                address_line += " " + string_filter(second_list[1])
+                print("new address", address_line)
+            
             city = string_filter(second_list[-2])
             print("STATE ABBR prev:", second_list[-1])
             #state_abbreviation =  string_filter(copy.copy(second_list[-1].split(" ")[0]))
@@ -60,7 +71,7 @@ class ListingService():
             print("State Abbr   = (" + state_abbreviation, "     len = " + str(len(state_abbreviation)))
             print("State        = (" + state, "     len = " + str(len(state)))
             print("City         = (" + city, "     len = " + str(len(city)))
-            print("Address      = (", address_line, "     len = " + str(len(address_line)))
+            print("Address      = (" + address_line, "     len = " + str(len(address_line)))
         except Exception as error:
             print("THERE'S NO SUCH STATE", state_abbreviation)
 

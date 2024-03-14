@@ -1,12 +1,12 @@
 {
     "Address": "1830 Fairway Circle Dr Unit 1830",
-    "Price": "$3,699/mo",
+    "Price": "$3,900/mo",
     "State": "CA",
     "City": "San Marcos",
     "ZipCode": "92078",
     "Street": "",
     "Stats": [
-        "$3,699/mo",
+        "$3,900/mo",
         "2 beds",
         "2 baths",
         "1,325 sq ft",
@@ -16,7 +16,7 @@
         "(760) 744-9229"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_47",
+    "WebElementID": "MapHomeCard_50",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

@@ -1,0 +1,56 @@
+{
+    "Address": "7418 Sitio Montilla",
+    "Price": "$6,995/mo",
+    "State": "CA",
+    "City": "Carlsbad",
+    "ZipCode": "92009",
+    "Street": "",
+    "Stats": [
+        "$6,995/mo",
+        "4 beds",
+        "3 baths",
+        "2,118 sq ft",
+        "7418 Sitio Montilla, Carlsbad, CA 92009",
+        "Car-dependent \u2022 Minimal transit",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_27",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/19957b70-8c29-426a-91d0-88df3720cd1f/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19957b70-8c29-426a-91d0-88df3720cd1f/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19957b70-8c29-426a-91d0-88df3720cd1f/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19957b70-8c29-426a-91d0-88df3720cd1f/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19957b70-8c29-426a-91d0-88df3720cd1f/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19957b70-8c29-426a-91d0-88df3720cd1f/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19957b70-8c29-426a-91d0-88df3720cd1f/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19957b70-8c29-426a-91d0-88df3720cd1f/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19957b70-8c29-426a-91d0-88df3720cd1f/islphoto/genIsl.8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19957b70-8c29-426a-91d0-88df3720cd1f/islphoto/genIsl.9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/19957b70-8c29-426a-91d0-88df3720cd1f/islphoto/genIsl.10_1.jpg"
+    ]
+}

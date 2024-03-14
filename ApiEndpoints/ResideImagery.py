@@ -188,9 +188,9 @@ print(">>")
 api.area().add_area("La Mesa, CA").delete_all().print_area()
 val = api.housing().add_housing("5210 Rain Creek Pkwy, Austin, TX").add_housing(" 4210 Spring St, La Mesa, CA").add_housing("105 Via de la Valle, Del Mar, CA").send_calls()
 """
-api = ResideImageryAPI()
+"""api = ResideImageryAPI()
 hostname = socket.gethostname()
 IPAddr = socket.gethostbyname(hostname)
 api.set_host("38.56.138.77", 6666)
 val = api.housing().add_housing("3834 La Rosa Dr, Unit B, San Marcos, CA 92078").send_calls()
-print(val)
+print(val)"""

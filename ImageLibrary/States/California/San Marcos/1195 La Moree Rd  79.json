@@ -1,0 +1,53 @@
+{
+    "Address": "1195 La Moree Rd #79",
+    "Price": "$470,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$470,000",
+        "2 beds",
+        "2 baths",
+        "1,535 sq ft",
+        "3,000 sq ft (lot)",
+        "1195 La Moree Rd #79, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_2",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "None"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/097/genIslnoResize.NDP2402097_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/097/genIslnoResize.NDP2402097_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/097/genIslnoResize.NDP2402097_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/097/genIslnoResize.NDP2402097_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/097/genIslnoResize.NDP2402097_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/097/genIslnoResize.NDP2402097_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/097/genIslnoResize.NDP2402097_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/097/genIslnoResize.NDP2402097_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/097/genIslnoResize.NDP2402097_8_0.jpg"
+    ]
+}

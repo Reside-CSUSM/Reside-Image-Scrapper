@@ -1,0 +1,54 @@
+{
+    "Address": "3421 Polley Dr",
+    "Price": "$2,295/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$2,295/mo",
+        "2 beds",
+        "2 baths",
+        "850 sq ft",
+        "3421 Polley Dr, San Marcos, CA 92069",
+        "Pets welcome \u2022 Somewhat walkable",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_20",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/bb2c6a97-f679-40c8-af8c-def2ce3f09f7/islphoto/genIsl.0_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb2c6a97-f679-40c8-af8c-def2ce3f09f7/islphoto/genIsl.1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb2c6a97-f679-40c8-af8c-def2ce3f09f7/islphoto/genIsl.2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb2c6a97-f679-40c8-af8c-def2ce3f09f7/islphoto/genIsl.3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb2c6a97-f679-40c8-af8c-def2ce3f09f7/islphoto/genIsl.4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb2c6a97-f679-40c8-af8c-def2ce3f09f7/islphoto/genIsl.5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb2c6a97-f679-40c8-af8c-def2ce3f09f7/islphoto/genIsl.6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb2c6a97-f679-40c8-af8c-def2ce3f09f7/islphoto/genIsl.7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/bb2c6a97-f679-40c8-af8c-def2ce3f09f7/islphoto/genIsl.8_1.jpg"
+    ]
+}

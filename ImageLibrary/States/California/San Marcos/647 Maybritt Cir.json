@@ -14,7 +14,7 @@
         "647 Maybritt Cir, San Marcos, CA 92069"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_1",
+    "WebElementID": "MapHomeCard_8",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",
@@ -32,7 +32,7 @@
                 }
             },
             "Payment Type": {
-                "Payment Type": "For sale"
+                "Payment Type": "None"
             },
             "Home type": {
                 "Home Type": "None"

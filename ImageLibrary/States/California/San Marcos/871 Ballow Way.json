@@ -1,0 +1,64 @@
+{
+    "Address": "871 Ballow Way",
+    "Price": "$2,935/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$2,935/mo",
+        "2 beds",
+        "2 baths",
+        "1,027 sq ft",
+        "871 Ballow Way, San Marcos, CA 92078",
+        "Car-dependent",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_3",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.0_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.1_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.4_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.5_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.7_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.8_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.10_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.12_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.14_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.16_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/21ad4822-48e8-438a-89b3-485e7fd8b630/islphoto/genIsl.18_3.jpg"
+    ]
+}

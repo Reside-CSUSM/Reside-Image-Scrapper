@@ -1,12 +1,12 @@
 {
     "Address": "1624 Via La Plz",
-    "Price": "$2,349,900",
+    "Price": "$2,229,900",
     "State": "CA",
     "City": "San Marcos",
     "ZipCode": "92078",
     "Street": "",
     "Stats": [
-        "$2,349,900",
+        "$2,229,900",
         "3 beds",
         "3 baths",
         "2,145 sq ft",
@@ -14,7 +14,7 @@
         "1624 Via La Plz, San Marcos, CA 92078"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_15",
+    "WebElementID": "MapHomeCard_19",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

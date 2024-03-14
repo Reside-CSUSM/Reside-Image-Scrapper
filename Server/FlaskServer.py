@@ -4,7 +4,7 @@ sys.path.insert(0, r"C:\Users\kulsh001\AppData\Local\Programs\Python\Python311\L
 from flask import Flask, redirect, url_for, render_template, request, Response
 from AutomationService import *
 from ListingsService import *
-
+import socket
 
 app = Flask(__name__)
 
@@ -70,7 +70,7 @@ class FlaskServer():
         #print("response==",response)
        
         return str(response)
-        #return d
+    
 
 
     @app.route("/ResideLibrary/Images", methods=["POST", "GET"])
@@ -134,9 +134,13 @@ class FlaskServer():
         PORT = FlaskServer._PORT
         app.run(IP, port=PORT, debug=False)
 
-server = FlaskServer()
-server.host_with("192.168.1.222", 9999)
-server.run()
+
+"""server = FlaskServer()
+hostname = socket.gethostname()
+IPAddr = socket.gethostbyname(hostname)
+server.host_with("172.25.177.82", 9999)
+server.run()"""
+
 
 #Need to fix error checking from API
 #Use good address parsing and searching techniques  almost done

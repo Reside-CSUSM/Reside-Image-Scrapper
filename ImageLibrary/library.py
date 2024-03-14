@@ -3,8 +3,8 @@ import os
 import copy
 
 project_root = os.getcwd() 
-project_root = r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper"
-#project_root = r"C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper"
+#project_root = r"C:\Users\yasha\Visual Studio Workspaces\SystemX\ResideImageScrapper"
+project_root = r"C:\Visual Studio Code Workspaces\SystemX\ResideImageScrapper"
 CACHE_ROOT_DIRECTORY = project_root + r"\ImageLibrary\States"
 
 STATE_ABBREVIATION = {
@@ -101,6 +101,7 @@ class CharGradient():
 
             #It kinda works for the first gradient but when number is set to 2 or higher it doesn't work
             #Need to fix it
+        
     def set_length(self, amount):
         newstr = ""
         for i in range(0, amount):
@@ -250,7 +251,7 @@ class ListingHandler():
             #if house number is empty produce False
             #if street address is empty produce False 
             #Parse out the "Unit" if mentinoed in address
-            address = copy.copy(self.current_listing)
+            """address = copy.copy(self.current_listing)
             list = address.split(" ") #0 is number, 1...n is street to etc
             house_num = list[0]
             Street = ""
@@ -267,7 +268,7 @@ class ListingHandler():
             
             print("house_num = " + house_num)
             print("street = " + Street)
-            if(Street == "" or (house_num < "0" and house_num > "99999999")): return False
+            if(Street == "" or (house_num < "0" and house_num > "99999999")): return False"""
             #___________________________________________________________________________________
 
             #Check if something exists with a match
@@ -275,7 +276,9 @@ class ListingHandler():
                 if(self.current_listing in dir or dir in self.current_listing):
                     self.current_listing = copy.copy(dir).replace(".json", "")
                     pass
+            #____________________________________________________________________________________
             
+
             city_path = self.listing_path[0:index] + "\\" + self.current_listing + ".json"
             print("CITY PATH: ", city_path)
             try:

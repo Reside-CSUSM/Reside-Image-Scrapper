@@ -1,0 +1,69 @@
+{
+    "Address": "2168 Cosmo Way",
+    "Price": "$3,500/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$3,500/mo",
+        "3 beds",
+        "3 baths",
+        "1,253 sq ft",
+        "2168 Cosmo Way, San Marcos, CA 92078",
+        "Pets welcome \u2022 Car-dependent",
+        "Request a tour"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_31",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/fb6c4912-3306-456e-8f86-3f50369c9adb/islphoto/genIsl.23_2.jpg"
+    ]
+}

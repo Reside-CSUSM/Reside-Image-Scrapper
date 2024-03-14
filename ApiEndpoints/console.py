@@ -3,11 +3,12 @@ import os, sys
 dir_path = os.path.dirname(os.path.realpath(__file__))
 parent_dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
 sys.path.insert(0, parent_dir_path)
+import time
 #from imagery import *
 from ImageryAdapter import ResideImageryAdapter
 image_api = ResideImageryAdapter()
 #image_api = ImagingAPI()
-image_api.initialize('38.56.138.77', 8888)
+image_api.initialize('192.168.1.129', 9999)
 #image_api.add_areas("Otay Mesa, CA").add_areas("Poway, CA").add_areas("San Diego, CA").add_areas("La Mesa, CA").search_area()
 #image_api.add_housings("13604 Caldwell Dr #36, Austin, TX").search_housings()
 
@@ -31,6 +32,8 @@ class AreaUpdate(ResideImageryAdapter):
         self._state = state
         self.filter1 = 'For rent'
         self.filter2 = 'For sale'
+        ResideImageryAdapter.__init__(self)
+        self.initialize('192.168.1.129', 9999)
 
     def run(self):
         print("["+self._city+", " + self._state +"]", "\x1b[32mUPDATING.....\x1b[0m")
@@ -44,9 +47,10 @@ class AreaUpdate(ResideImageryAdapter):
             #print(error)
             #print("\x1b[31mConnection closed or host in correct,  use 'set host' to set ip and port\x1b[0m")
 
+        time.sleep(1)
         self.add_general_search_filter(self.filter1)
         self.add_areas(self._city + ", " + self._state)
-
+        
         try:
             val = self.search_area()
             print(val)
@@ -54,8 +58,8 @@ class AreaUpdate(ResideImageryAdapter):
             print("\x1b[31m Update 'For rent' Failed!\x1b[0m")
             #print(error)
             #print("\x1b[31mConnection closed or host in correct,  use 'set host' to set ip and port\x1b[0m")
-        
         print("Update Finished.....\n\n\n")
+
 
 class CacheUpdates():
 
@@ -70,7 +74,7 @@ class CacheUpdates():
         if(isinstance(update, AreaUpdate) == False):
             return False
         self.list.append(update)
-    
+
 def console():
     cache_updates = CacheUpdates()
     while(True):

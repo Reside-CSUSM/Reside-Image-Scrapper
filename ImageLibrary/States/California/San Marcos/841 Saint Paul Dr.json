@@ -1,0 +1,66 @@
+{
+    "Address": "841 Saint Paul Dr",
+    "Price": "$1,400,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$1,400,000",
+        "0 beds",
+        "\u2014 baths",
+        "1.29 acres (lot)",
+        "841 Saint Paul Dr, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_112",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/420/genIslnoResize.240002420_22_0.jpg"
+    ]
+}
