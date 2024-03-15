@@ -33,8 +33,10 @@ class ListingService():
                 address_line += " " + string_filter(first_list[1])
                 print("new address", address_line)
             city = string_filter(first_list[-2])
-            #print("STATE ABR0", first_list[-1])
-            state_abbreviation = copy.copy(first_list)[-1].split(" ")[1]
+            print("STATE ABR recieved Original: (" + first_list[-1] + ")")
+
+            #If Zipcode isn't given then just the abbr will be in the array for eg ['CA'] instead of ['CA', '91912']
+            state_abbreviation = string_filter(copy.copy(first_list)[-1]).split(" ")[0]
             print("STATE ABR", state_abbreviation)
             list = first_list
 

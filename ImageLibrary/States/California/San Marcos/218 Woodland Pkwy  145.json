@@ -1,0 +1,61 @@
+{
+    "Address": "218 Woodland Pkwy #145",
+    "Price": "$550,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$550,000",
+        "2 beds",
+        "2 baths",
+        "908 sq ft",
+        "218 Woodland Pkwy #145, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_4",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_10_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_11_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_12_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_13_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_14_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_15_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/578/genIslnoResize.240005578_17_1.jpg"
+    ]
+}

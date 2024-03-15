@@ -1,0 +1,77 @@
+{
+    "Address": "962 Via Hacienda Ct",
+    "Price": "$969,999",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$969,999",
+        "3 beds",
+        "2.5 baths",
+        "2,479 sq ft",
+        "4,317 sq ft (lot)",
+        "962 Via Hacienda Ct, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_83",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_17_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_23_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_27_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_28_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_29_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/596/genIslnoResize.PTP2400596_32_2.jpg"
+    ]
+}

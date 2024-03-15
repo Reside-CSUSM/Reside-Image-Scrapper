@@ -1,0 +1,51 @@
+{
+    "Address": "S Santa Fe Ave",
+    "Price": "$149,900",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$149,900",
+        "0 beds",
+        "\u2014 baths",
+        "8,582 sq ft (lot)",
+        "S Santa Fe Ave, San Marcos, CA 92069"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_122",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/998/genIslnoResize.240001998_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/998/genIslnoResize.240001998_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/998/genIslnoResize.240001998_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/998/genIslnoResize.240001998_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/998/genIslnoResize.240001998_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/998/genIslnoResize.240001998_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/998/genIslnoResize.240001998_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/48/islphoto/998/genIslnoResize.240001998_7_0.jpg"
+    ]
+}

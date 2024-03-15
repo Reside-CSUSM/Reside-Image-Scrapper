@@ -11,6 +11,9 @@ TARGET_IP = ''
 TARGET_PORT = ''
 
 
+class Host():
+    TARGET_IP = ''
+    TARGET_PORT = ''
 
 class AreaUpdate(ResideImageryAdapter):
 
@@ -20,7 +23,7 @@ class AreaUpdate(ResideImageryAdapter):
         self.filter1 = 'For rent'
         self.filter2 = 'For sale'
         ResideImageryAdapter.__init__(self)
-        self.initialize('38.56.138.77', 9999)
+        self.initialize(Host.TARGET_IP, Host.TARGET_PORT)
 
     def run(self):
         print("["+self._city+", " + self._state +"]", "\x1b[32mUPDATING.....\x1b[0m")
@@ -68,7 +71,7 @@ def console():
     cache_updates = CacheUpdates()
     while(True):
         os.system('cls')
-        print("Select Options: [add, set host, run search, exit, show areas, delete, update areas]")
+        print("Select Options: [add areas, set host, run search, exit, show areas, delete, update areas, search housing]")
         val = input()
 
         if(val == "update areas"):
@@ -86,10 +89,28 @@ def console():
                 elif(city == "none"):continue
                 cache_updates.append(AreaUpdate(city, state))
 
-        if(val == "start updates"):
-            cache_updates.run()
 
-        if(val == "add"):
+        elif(val == "start updates"):
+            cache_updates.run()
+            val = input()
+
+        elif(val == "search housing"):
+
+            while(True):
+                print("\n/search housing> ", end="")
+                print("Enter the full address(Street Addr, City, State, ZipCode) ", end="")
+                value = input()
+
+                if(value == "exit"):
+                    break
+                response = image_api.housing().add_housing(value).send_calls()
+                image_api.housing().delete_all()
+
+                print("\x1b[32m___API Response___\x1b[0m")
+                print(response)
+                
+            
+        elif(val == "add areas"):
 
             while(True):
                 print("\n/add> ", end="")
@@ -151,23 +172,27 @@ def console():
 
 def ConsoleStartUp():
     while(True):
-        print("Enter the target/host IP: ", end = "")
+        print("\n\nEnter the target/host IP: ", end = "")
         IP = input()
 
         print("Enter the target/host PORT: ", end="")
         PORT = input()
 
-        print("\n\x1b[34m Your Server IP: " + IP)
-        print("\n\x1b[34m Your Server PORT: " + str(PORT))
+        print("\n\n")
+        print("\x1b[34mYour Server IP\x1b[0m: " + IP)
+        print("\x1b[34mYour Server PORT\x1b[0m: " + str(PORT))
         print("Enter Y/N: ")
         value = input()
 
         if(value == "y" or value == "Y"):
+            Host.TARGET_IP = IP
+            Host.TARGET_PORT = PORT
             console()
             break
 
         elif(value == "N" or value == "n"):
             print("\x1b[31mConsole Exited\x1b[0m")
+            break
 
 
 ConsoleStartUp()

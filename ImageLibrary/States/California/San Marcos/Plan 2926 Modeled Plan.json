@@ -1,0 +1,60 @@
+{
+    "Address": "Plan 2926 Modeled Plan",
+    "Price": "$1,994,990",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$1,994,990",
+        "5 beds",
+        "3.5 baths",
+        "2,926 sq ft",
+        "Plan 2926 Modeled Plan, San Marcos, CA 92069",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_44",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/920/genIslnoResize.425CC85D1920_15_0.jpg"
+    ]
+}

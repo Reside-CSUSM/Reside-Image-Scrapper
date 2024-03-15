@@ -1,0 +1,69 @@
+{
+    "Address": "3535 Linda Vista Dr #238",
+    "Price": "$339,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$339,000",
+        "2 beds",
+        "2 baths",
+        "1,440 sq ft",
+        "26.72 acres (lot)",
+        "3535 Linda Vista Dr #238, San Marcos, CA 92078"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_42",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_1_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_2_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_3_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_4_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_5_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_6_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_7_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_8_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_9_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_10_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_11_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_12_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_13_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_14_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_15_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_16_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_17_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_18_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_19_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_20_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_21_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_22_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_23_0.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/704/genIslnoResize.NDP2401704_24_1.jpg"
+    ]
+}

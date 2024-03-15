@@ -1,5 +1,4 @@
 import sys
-print(sys.path)
 sys.path.insert(0, r"C:\Users\kulsh001\AppData\Local\Programs\Python\Python311\Lib\site-packages")
 from flask import Flask, redirect, url_for, render_template, request, Response
 from AutomationService import *
@@ -83,6 +82,7 @@ class FlaskServer():
         if(request.is_json == True):
             try:
                 array = request.get_json()["Listings"]
+                print("array here",array)
                 if(len(array) == 0):
                     response.set_error(True)
                     response.put_error_log('No Images when listings are not given')
@@ -96,10 +96,12 @@ class FlaskServer():
                 return response.get()
                 #return "'Listing' key not found in recieved array"
             
-            print(len(array), " length")
+            #print(len(array), " length")
             for element in array:
                 print("element array")
                 responses.append(FlaskServer.listing_images_service.fetch(element))
+                break
+            
             response.set_error(False)
             response.put_payload(responses)
     

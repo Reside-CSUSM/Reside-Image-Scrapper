@@ -115,6 +115,8 @@ class CharGradient():
         return self.gradient
 
 def string_filter(name_org):
+        
+        print("\x1b[31mstring_filter()->Recieved String:\x1b[0m "+ name_org)
         name = copy.copy(name_org)
         unwanted_characters = ["#", "|", "*", "(", ")", "&", "^", "%", "$", "@", "!", "[", "]", "{", "}", ";", ">", "<", "?", "/", "\\", "'", "~", "-", "+", "."]
         for character in unwanted_characters:
@@ -167,6 +169,7 @@ def string_filter(name_org):
             #print("Gradient: '" +  gradient.get() + "'")
             #print(" Modified string", name)
 
+        print("\x1b[31m_________end of filter_____\x1b[0m\n\n")
         return name
 
 
@@ -244,7 +247,7 @@ class ListingHandler():
 
     
             dirs = os.listdir(self.listing_path[0:index])
-            print("available dirs:", dirs)
+            #print("available dirs:", dirs)
 
             #_________________________________________________________________________________
             #Search for correct street name and address number first  

@@ -1,5 +1,4 @@
 import sys
-print(sys.path)
 sys.path.insert(0, r"C:\Users\kulsh001\AppData\Local\Programs\Python\Python311\Lib\site-packages")
 import requests
 import copy
@@ -59,10 +58,10 @@ class SpecificSearchPayload():
             headers =  {'Content-Type': 'application/json'}
             response = requests.get(self.endpoint_url, json=self.payload, headers=headers)
             #var = json.loads(response.text)
-            print(" json?", response.json())
+            #print(" json?", response.json())
             return response.text
         except Exception as error:
-            print("Error:", error, response.status_code)
+            #print("Error:", error, response.status_code)
             return response.status_code
         
         #headers =  {'Content-Type': 'application/json'}
@@ -149,7 +148,7 @@ class GeneralSearchPayload():
         headers = {'Content-Type': 'application/json'}
         try:
             response = requests.post(self.endpoint_url, json=self.payload, headers=headers)
-            print(response.text, ' text body recieved')
+            #print(response.text, ' text body recieved')
             return response.text
         except Exception as error:
             print("Error:", error)
