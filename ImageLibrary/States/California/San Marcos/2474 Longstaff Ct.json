@@ -14,7 +14,7 @@
         "Berkshire Hathaway HomeService"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_4",
+    "WebElementID": "MapHomeCard_8",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",
@@ -32,7 +32,7 @@
                 }
             },
             "Payment Type": {
-                "Payment Type": "None"
+                "Payment Type": "For sale"
             },
             "Home type": {
                 "Home Type": "None"

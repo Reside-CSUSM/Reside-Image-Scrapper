@@ -15,7 +15,7 @@
         "Keller Williams Realty"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_3",
+    "WebElementID": "MapHomeCard_7",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",
@@ -33,7 +33,7 @@
                 }
             },
             "Payment Type": {
-                "Payment Type": "None"
+                "Payment Type": "For sale"
             },
             "Home type": {
                 "Home Type": "None"

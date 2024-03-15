@@ -1,27 +1,14 @@
-
 import os, sys
 dir_path = os.path.dirname(os.path.realpath(__file__))
 parent_dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
 sys.path.insert(0, parent_dir_path)
 import time
-#from imagery import *
 from ImageryAdapter import ResideImageryAdapter
 image_api = ResideImageryAdapter()
-#image_api = ImagingAPI()
-image_api.initialize('192.168.1.129', 9999)
-#image_api.add_areas("Otay Mesa, CA").add_areas("Poway, CA").add_areas("San Diego, CA").add_areas("La Mesa, CA").search_area()
-#image_api.add_housings("13604 Caldwell Dr #36, Austin, TX").search_housings()
 
-image_api.add_general_search_filter('For rent')
-image_api.add_general_search_filter('For rent')
 
-def search_area(area, webfilters):
-    filters = webfilters
-    for filter in filters:
-        image_api.add_general_search_filter(filter)
-    print("\n\nArea =", area, " Filters =", filters, "\x1b[32m processing....\x1b[0m")
-    image_api.add_areas(area).search_area()
-    print("\x1b[33mAdded area:\x1b[0m", area, "filters =", filters)
+TARGET_IP = ''
+TARGET_PORT = ''
 
 
 
@@ -33,7 +20,7 @@ class AreaUpdate(ResideImageryAdapter):
         self.filter1 = 'For rent'
         self.filter2 = 'For sale'
         ResideImageryAdapter.__init__(self)
-        self.initialize('192.168.1.129', 9999)
+        self.initialize('38.56.138.77', 9999)
 
     def run(self):
         print("["+self._city+", " + self._state +"]", "\x1b[32mUPDATING.....\x1b[0m")
@@ -75,7 +62,9 @@ class CacheUpdates():
             return False
         self.list.append(update)
 
+
 def console():
+    image_api.initialize('38.56.138.77', 8888)
     cache_updates = CacheUpdates()
     while(True):
         os.system('cls')
@@ -160,11 +149,25 @@ def console():
     print("\n\n Program exited....")
 
 
+def ConsoleStartUp():
+    while(True):
+        print("Enter the target/host IP: ", end = "")
+        IP = input()
 
-console()
+        print("Enter the target/host PORT: ", end="")
+        PORT = input()
 
-#Carlsbad
-#San Marcos
-#Escondido
-#Poway
-#San Diego
+        print("\n\x1b[34m Your Server IP: " + IP)
+        print("\n\x1b[34m Your Server PORT: " + str(PORT))
+        print("Enter Y/N: ")
+        value = input()
+
+        if(value == "y" or value == "Y"):
+            console()
+            break
+
+        elif(value == "N" or value == "n"):
+            print("\x1b[31mConsole Exited\x1b[0m")
+
+
+ConsoleStartUp()

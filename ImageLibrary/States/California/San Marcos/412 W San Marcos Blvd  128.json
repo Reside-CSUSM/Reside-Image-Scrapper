@@ -13,7 +13,7 @@
         "412 W San Marcos Blvd #128, San Marcos, CA 92069"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_6",
+    "WebElementID": "MapHomeCard_10",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",
@@ -31,7 +31,7 @@
                 }
             },
             "Payment Type": {
-                "Payment Type": "None"
+                "Payment Type": "For sale"
             },
             "Home type": {
                 "Home Type": "None"

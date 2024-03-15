@@ -1,12 +1,12 @@
 {
     "Address": "649 Beverly Pl",
-    "Price": "$558,000",
+    "Price": "$548,888",
     "State": "CA",
     "City": "San Marcos",
     "ZipCode": "92078",
     "Street": "",
     "Stats": [
-        "$558,000",
+        "$548,888",
         "2 beds",
         "1.5 baths",
         "1,068 sq ft",
@@ -14,7 +14,7 @@
         "649 Beverly Pl, San Marcos, CA 92078"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_24",
+    "WebElementID": "MapHomeCard_26",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

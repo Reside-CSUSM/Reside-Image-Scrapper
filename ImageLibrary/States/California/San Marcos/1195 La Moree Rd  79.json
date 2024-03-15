@@ -14,7 +14,7 @@
         "1195 La Moree Rd #79, San Marcos, CA 92078"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_2",
+    "WebElementID": "MapHomeCard_6",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",
@@ -32,7 +32,7 @@
                 }
             },
             "Payment Type": {
-                "Payment Type": "None"
+                "Payment Type": "For sale"
             },
             "Home type": {
                 "Home Type": "None"

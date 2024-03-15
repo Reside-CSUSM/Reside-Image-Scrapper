@@ -1,0 +1,61 @@
+{
+    "Address": "1576 Archer Rd",
+    "Price": "$1,699,000",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92078",
+    "Street": "",
+    "Stats": [
+        "$1,699,000",
+        "5 beds",
+        "3.5 baths",
+        "3,140 sq ft",
+        "7,623 sq ft (lot)",
+        "1576 Archer Rd, San Marcos, CA 92078",
+        "Keller Williams Realty"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_13",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_7.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_1_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_2_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_3_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_4_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_5_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_6_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_7_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_8_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_9_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_10_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_11_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_12_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_13_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_14_9.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/033/genIslnoResize.NDP2402033_15_9.jpg"
+    ]
+}

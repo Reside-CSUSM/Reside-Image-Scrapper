@@ -1,0 +1,55 @@
+{
+    "Address": "990 Woodhaven Rd Unit NCW7YN",
+    "Price": "$1,539,990",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$1,539,990",
+        "4 beds",
+        "2.5 baths",
+        "2,527 sq ft",
+        "990 Woodhaven Rd Unit NCW7YN, San Marcos, CA 92069",
+        "Listing provided by Zillow"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_40",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/F45/genIslnoResize.E772FE39CF45_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/F45/genIslnoResize.E772FE39CF45_1_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/F45/genIslnoResize.E772FE39CF45_2_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/F45/genIslnoResize.E772FE39CF45_3_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/F45/genIslnoResize.E772FE39CF45_4_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/F45/genIslnoResize.E772FE39CF45_5_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/F45/genIslnoResize.E772FE39CF45_6_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/F45/genIslnoResize.E772FE39CF45_7_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/F45/genIslnoResize.E772FE39CF45_8_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/F45/genIslnoResize.E772FE39CF45_9_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/595/islphoto/F45/genIslnoResize.E772FE39CF45_10_1.jpg"
+    ]
+}

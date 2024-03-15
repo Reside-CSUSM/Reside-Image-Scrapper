@@ -14,7 +14,7 @@
         "126 Unity Ln, San Marcos, CA 92078"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_0",
+    "WebElementID": "MapHomeCard_4",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",
@@ -32,7 +32,7 @@
                 }
             },
             "Payment Type": {
-                "Payment Type": "None"
+                "Payment Type": "For sale"
             },
             "Home type": {
                 "Home Type": "None"

@@ -1,0 +1,78 @@
+{
+    "Address": "2464 Solara Ln",
+    "Price": "$795,000",
+    "State": "CA",
+    "City": "Vista",
+    "ZipCode": "92081",
+    "Street": "",
+    "Stats": [
+        "$795,000",
+        "3 beds",
+        "2.5 baths",
+        "1,538 sq ft",
+        "2464 Solara Ln, Vista, CA 92081"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_42",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For sale"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_2_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_3_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_6_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_9_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_11_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_13_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_15_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_16_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_17_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_18_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_19_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_20_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_21_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_22_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_23_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_24_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_25_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_26_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_27_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_28_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_29_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_30_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_31_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_32_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_33_3.jpg",
+        "https://ssl.cdn-redfin.com/photo/45/islphoto/598/genIslnoResize.NDP2401598_34_2.jpg"
+    ]
+}
