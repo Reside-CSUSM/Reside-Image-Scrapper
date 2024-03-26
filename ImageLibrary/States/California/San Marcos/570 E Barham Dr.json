@@ -1,23 +1,23 @@
 {
     "Address": " | 570 E Barham Dr",
-    "Price": "$2,348+/mo",
+    "Price": "$2,251+/mo",
     "State": "CA",
     "City": "San Marcos",
     "ZipCode": "92078",
     "Street": "",
     "Stats": [
-        "$2,348+/mo",
+        "$2,251+/mo",
         "1-3 bed",
         "1-2 bath",
         "660-1,020 sq ft",
         "Barham Villas",
         " | 570 E Barham Dr, San Marcos, CA 92078",
-        "5 units available \u2022 Pets welcome \u2022 Parking",
+        "5 units available \u2022 Pets welcome \u2022 Laundry in unit",
         "Request a tour",
         "(760) 968-0133"
     ],
     "ListingNumber": "",
-    "WebElementID": "MapHomeCard_3",
+    "WebElementID": "MapHomeCard_4",
     "Filters": {
         "Filter Settings": {
             "Payement Type": "None",

@@ -10,10 +10,10 @@ image_api = ResideImageryAdapter()
 TARGET_IP = ''
 TARGET_PORT = ''
 
-
 class Host():
     TARGET_IP = ''
     TARGET_PORT = ''
+
 
 class AreaUpdate(ResideImageryAdapter):
 
@@ -71,7 +71,7 @@ def console():
     cache_updates = CacheUpdates()
     while(True):
         os.system('cls')
-        print("Select Options: [add areas, set host, run search, exit, show areas, delete, update areas, search housing]")
+        print("Select Options: [add areas, set host, run search, exit, show areas, delete, update areas, start updates, search housing]")
         val = input()
 
         if(val == "update areas"):

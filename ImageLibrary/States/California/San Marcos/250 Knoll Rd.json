@@ -1,0 +1,68 @@
+{
+    "Address": " | 250 Knoll Rd",
+    "Price": "$1,925/mo",
+    "State": "CA",
+    "City": "San Marcos",
+    "ZipCode": "92069",
+    "Street": "",
+    "Stats": [
+        "$1,925/mo",
+        "1 bed",
+        "1 bath",
+        "700 sq ft",
+        "Windsor Manor",
+        " | 250 Knoll Rd, San Marcos, CA 92069",
+        "1 unit available \u2022 Laundry facility \u2022 A/C",
+        "Request a tour",
+        "(760) 656-6591"
+    ],
+    "ListingNumber": "",
+    "WebElementID": "MapHomeCard_47",
+    "Filters": {
+        "Filter Settings": {
+            "Payement Type": "None",
+            "Price Range": {
+                "Price Range": {
+                    "Minimum": "None",
+                    "Maximum": "None"
+                }
+            },
+            "Home Type": "None",
+            "BedsAndBath": {
+                "BedsAndBath": {
+                    "Beds": "None",
+                    "Baths": "None"
+                }
+            },
+            "Payment Type": {
+                "Payment Type": "For rent"
+            },
+            "Home type": {
+                "Home Type": "None"
+            }
+        }
+    },
+    "Images": [
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.0_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.1_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.2_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.3_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.4_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.5_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.6_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.7_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.8_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.9_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.10_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.11_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.12_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.13_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.14_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.15_2.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.16_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.17_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.18_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.19_1.jpg",
+        "https://ssl.cdn-redfin.com/photo/rent/312e9cd8-39bd-4ff9-9b15-4ed076657365/islphoto/genIsl.20_1.jpg"
+    ]
+}

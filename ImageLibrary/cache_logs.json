@@ -1,0 +1,15 @@
+{
+    "states:":{
+            "CA":{
+            "last_updated":"",
+            "created":"",
+
+            "cities":{
+                "San Diego":{
+                    "created":"",
+                    "last_updated":""
+                }
+            }
+        }
+    }
+}
